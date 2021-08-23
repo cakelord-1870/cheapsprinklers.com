@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/home-automation.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2020-03-26T15:35:40-04:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4689718181990</id>
+    <published>2020-03-26T15:35:40-04:00</published>
+    <updated>2020-03-26T15:35:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/unique-light-logic-programming-module-lpro"/>
+    <title>Unique - Light Logic Programming Module - LPRO</title>
+    <s:type>Home Automation</s:type>
+    <s:vendor>Unique Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/LPRO-2_509x509_f6a985dc-a822-4614-a367-6eb5176562b3.jpg?v=1592940467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unique Lighting<br>
+        <strong>Type: </strong>Home Automation<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>***Product has been discontinued. Only 7 left in stock!***</span></p>
+<p>Unique - LPRO - Light Logic Programming Module<br></p>
+<ul>
+<li>Uses event-based scheduling</li>
+<li>Astronomical timing auto adjusts dusk and dawn times by your location and seasonal changes</li>
+<li>Easy zip code entry for location</li>
+<li>Daylight Savings Time "safe"</li>
+<li>Firmware upgradable</li>
+<li>Power outage safe you won't lose your programming</li>
+</ul>
+<p>Light Logic™ PLUS builds on the original Light Logic™ Wireless Control System with the addition of an Internet gateway and app. Now you have lighting system control from a mobile device, tablet, web browser or computer virtually anywhere, anytime, regardless of how those devices are connected to the internet (Wi-Fi, Ethernet or Cellular). Light Logic™ PLUS uses a secure Internet Gateway, a dedicated website and an app on your smart device to create an integrated lighting control system. This innovative approach provides complete control of one or more lighting systems from any web browser, computer, iOS® or Android™ device without the need to be “on site.” Using the Light Logic™ PLUS app (FREE from iTunes® and Google Play™) you can control outdoor lighting scenes, easily perform maintenance, set the mood for special occasions, operate security and seasonal lighting, operate ponds, fountains and more! Now Light Logic™ PLUS has the ability to control irrigation when used with popular irrigation controllers from both Toro® and Irritrol ®.</p>
+<p><strong>Downloads:</strong></p>
+<ul>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/LPLUS_Setup_Guide.pdf?471" title="LPRO SETUP GUIDE" target="_blank">Setup Guide</a></li>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/LPLUS_Brochure.pdf?471" title="LPRO PRODUCT BROCHURE" target="_blank">Product Brochure</a></li>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/Smart_Devices.pdf?471" title="LPRO AMAZON GOOGLE SETUP" target="_blank">Amazon/Google Setup</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Unique Lighting</s:tag>
+    <s:tag>CATEGORY_Lighting Tools</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Lighting Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4689718181990</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>LPRO</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/3058909773924</id>
+    <published>2019-03-14T09:37:22-04:00</published>
+    <updated>2019-03-14T09:37:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/unique-internet-gateway-lplus"/>
+    <title>Unique - Internet Gateway - LPLUS</title>
+    <s:type>Home Automation</s:type>
+    <s:vendor>Unique Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/lplus_gateway.png?v=1572032725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unique Lighting<br>
+        <strong>Type: </strong>Home Automation<br>
+        <strong>Price: </strong>
+            87.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Light Logic PLUS  builds on the original Light Logic Wireless Control System with the addition of an Internet gateway and app. Now you have lighting system control from a mobile device, tablet, web browser or computer virtually anywhere, anytime, regardless of how those devices are connected to the internet (Wi-Fi, Ethernet or Cellular). Light Logic PLUS  uses a secure Internet Gateway, a dedicated website and an app on your smart device to create an integrated lighting control system. This innovative approach provides complete control of one or more lighting systems from any web browser, computer, iOS®  or Android device without the need to be on site. Using the Light Logic PLUS  app (FREE from iTunes®  and Google Play) you can control outdoor lighting scenes, easily perform maintenance, set the mood for special occasions, operate security and seasonal lighting, operate ponds, fountains and more! Now Light Logic PLUS  has the ability to control irrigation when used with popular irrigation controllers from both Toro®  and Irritrol® .</span></p>
+<p><span>Introducing Light Logic <em>Plus,</em> an affordable Internet-Based Outdoor Lighting Control System from Unique Lighting.  Light Logic <em>Plus</em> builds on the original Light Logic Wireless Control System with the addition of an Internet Gateway and Mobile App.</span></p>
+<ul>
+<li><span>Control From Your Computer or Mobile Device</span></li>
+<li><span>Secure Internet Gateway - No Wi-Fi Limitations</span></li>
+<li><span>FREE iOS or Android App (App Store and Google Play)</span></li>
+<li><span>Control Multiple Lighting Systems from More Than One Device</span></li>
+<li><span>Compatible with Existing Light Logic Installations</span></li>
+<li><span>Use with Lighting, Ponds, Fountains, Gates &amp; More...</span></li>
+<li><span>Robust, Reliable and Upgradable</span></li>
+</ul>
+<h2><span>EASY TO SETUP, EASY TO USE:</span></h2>
+<ol>
+<li><span>Connect the LPLUS Internet Gateway (Ethernet)</span></li>
+<li><span>Register at www.lightlogicplus.com</span></li>
+<li><span>Configure Locations, Scenes and Schedules</span></li>
+</ol>
+<h4 class="panel-heading">Specifications<span class="caret pull-right"></span>
+</h4>
+<div aria-expanded="true" class="panel-collapse collapse in" id="product-specifications">
+<div class="panel-body">
+<div class="row">
+<div class="col-xs-12 col-md-12">
+<table class="table table-striped">
+<tbody>
+<tr>
+<td>
+<strong></strong>
+<table class="table table-striped">
+<tbody>
+<tr>
+<td><strong>Astronomical Timing</strong></td>
+<td>
+<p>Auto adjusts dusk and dawn times by your location and seasonal changes.</p>
+</td>
+</tr>
+<tr>
+<td><strong>Location</strong></td>
+<td>
+<p>Easy zip code entry for location.</p>
+</td>
+</tr>
+<tr>
+<td><strong>Daylight Savings</strong></td>
+<td>
+<p>Automatically adjusts for Daylight Savings Time.</p>
+</td>
+</tr>
+<tr>
+<td><strong>Firmware</strong></td>
+<td>Fully upgradable.</td>
+</tr>
+<tr>
+<td><strong>Power</strong></td>
+<td>
+<p>Power outage safe “ you wont lose your programming.</p>
+</td>
+</tr>
+<tr>
+<td><strong>Security</strong></td>
+<td>
+<p>Secure Internet Gateway - No Wi-Fi Limitations.</p>
+</td>
+</tr>
+<tr>
+<td><strong>Communication</strong></td>
+<td>
+<p>Communicates with LPCU-A via proven and dependable RF signal.</p>
+</td>
+</tr>
+<tr>
+<td><strong>Warranty</strong></td>
+<td>Five year warranty</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<h4><span></span></h4>
+<h4><span>Downloads &amp; Resources</span></h4>
+<p><a href="https://cdn2.toro.com/en/-/media/Files/Unique/install-instructions/LPLUS_Setup_Guide.ashx" target="_blank"><span style="text-decoration: underline;">Setup Guide</span></a></p>
+<p><a href="https://cdn2.toro.com/en/-/media/Files/Unique/product-flyers/LPLUS_Brochure.ashx" target="_blank"><span style="text-decoration: underline;">Product Brochure</span></a></p>
+<p><span style="text-decoration: underline;"><a href="https://cdn2.toro.com/en/-/media/Files/Unique/install-instructions/Smart_Devices.ashx" target="_blank">Amazon/Google Setup</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Unique Lighting</s:tag>
+    <s:tag>CATEGORY_Lighting Tools</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Lighting Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/3058909773924</id>
+      <title>Default Title</title>
+      <s:price currency="USD">87.40</s:price>
+      <s:sku>LPLUS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/3058878447716</id>
+    <published>2019-03-14T09:18:29-04:00</published>
+    <updated>2019-03-14T09:18:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/unique-power-control-unit-plug-in-w-antenna-lpcu-a"/>
+    <title>Unique - Power Control Unit Plug-In w/Antenna - LPCU-A</title>
+    <s:type>Home Automation</s:type>
+    <s:vendor>Unique Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/lpcu_a.png?v=1592940463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unique Lighting<br>
+        <strong>Type: </strong>Home Automation<br>
+        <strong>Price: </strong>
+            100.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Each LPCU-A also functions as a repeater, assisting with long-range installations. The LPCU-A comes equipped with an antenna, for added distance or an extra boost for your wireless signal.</span></p>
+<h4 class="panel-heading">Specifications<span class="caret pull-right"></span>
+</h4>
+<div id="product-specifications" class="panel-collapse collapse in" aria-expanded="true">
+<div class="panel-body">
+<div class="row">
+<div class="col-xs-12 col-md-12">
+<table class="table table-striped">
+<tbody>
+<tr>
+<td><strong>Compatibility</strong></td>
+<td>
+<p>Compatible with any 120V device</p>
+</td>
+</tr>
+<tr>
+<td><strong>Range</strong></td>
+<td>
+<p>Up to 1000 foot line of sight range.</p>
+</td>
+</tr>
+<tr>
+<td>
+<strong></strong><strong>Functionality</strong>
+</td>
+<td>
+<p>Each LPCU-A also functions as a repeater, assisting with long-range installations.</p>
+</td>
+</tr>
+<tr>
+<td><strong>Firmware</strong></td>
+<td>Fully upgradable.</td>
+</tr>
+<tr>
+<td><strong>Power</strong></td>
+<td>
+<p>Power outage safe “ you wont lose your programming.</p>
+</td>
+</tr>
+<tr>
+<td><strong>Antenna</strong></td>
+<td>
+<p>The LPCU-A comes equipped with an antenna, for added distance or an extra boost for<br>your wireless signal.</p>
+</td>
+</tr>
+<tr>
+<td><strong>Communication</strong></td>
+<td>
+<p>Repeater feature creates a mesh network on larger installs.</p>
+</td>
+</tr>
+<tr>
+<td><strong>Warranty</strong></td>
+<td>Five year warranty</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<h4></h4>
+<h4>Downloads</h4>
+<p><a href="https://cdn2.toro.com/en/-/media/Files/Unique/product-flyers/LPLUS_Brochure.ashx" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Product Brochure</span></a></p>
+<div id="product-specifications" class="panel-collapse collapse in" aria-expanded="true">
+<div class="panel-body">
+<div class="row"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Unique Lighting</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Lighting Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/3058878447716</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.99</s:price>
+      <s:sku>LPCU-A</s:sku>
+      <s:grams>431</s:grams>
+    </s:variant>
+  </entry>
+</feed>

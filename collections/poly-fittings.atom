@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/poly-fittings.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2019-01-19T00:31:36-05:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452430618724</id>
+    <published>2019-01-19T00:31:36-05:00</published>
+    <updated>2019-01-19T00:31:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/lasco-1449-015-1-1-2-insert-plug"/>
+    <title>Dura - 1449-015 - 1 1/2&apos;&apos; Insert Plug</title>
+    <s:type>Poly Fittings</s:type>
+    <s:vendor>Dura</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IMG_4209__27051.1519238352.1280.1280_c1ebf31e-be89-4361-b705-d12c3fbdbcbb.jpg?v=1584808962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dura<br>
+        <strong>Type: </strong>Poly Fittings<br>
+        <strong>Price: </strong>
+            1.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; box-sizing: border-box; color: #000000; font-family: arial,verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; margin-bottom: 7.5px; margin-top: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<li style="box-sizing: border-box;">Insert Plug</li>
+<li style="box-sizing: border-box;">Poly</li>
+<li style="box-sizing: border-box;">1 1/2"</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Lasco</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452430618724</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.45</s:price>
+      <s:sku>1449-015</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452238532708</id>
+    <published>2019-01-19T00:20:18-05:00</published>
+    <updated>2019-01-19T00:20:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dura-1-insert-male-adapter-1436-010"/>
+    <title>Dura - 1436-010 - 1&apos;&apos; Insert Male Adapter</title>
+    <s:type>Poly Fittings</s:type>
+    <s:vendor>Dura</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IMA_5__55551.1519226418.1280.1280.jpg?v=1584808569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dura<br>
+        <strong>Type: </strong>Poly Fittings<br>
+        <strong>Price: </strong>
+            0.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; box-sizing: border-box; color: #000000; font-family: arial,verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; margin-bottom: 7.5px; margin-top: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<li style="box-sizing: border-box;">Adapter</li>
+<li style="box-sizing: border-box;">1 in.</li>
+<li style="box-sizing: border-box;">Insert x MIPT</li>
+<li style="box-sizing: border-box;">Poly</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Dura</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452238532708</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.73</s:price>
+      <s:sku>1436-010</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452238073956</id>
+    <published>2019-01-19T00:20:16-05:00</published>
+    <updated>2019-01-19T00:20:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dura-1449-010-1-insert-plug"/>
+    <title>Dura - 1449-010 - 1&apos;&apos; Insert Plug</title>
+    <s:type>Poly Fittings</s:type>
+    <s:vendor>Dura</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IMG_4207__11059.1519238334.1280.1280.jpg?v=1584808572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dura<br>
+        <strong>Type: </strong>Poly Fittings<br>
+        <strong>Price: </strong>
+            1.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; box-sizing: border-box; color: #000000; font-family: arial,verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; margin-bottom: 7.5px; margin-top: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<li style="box-sizing: border-box;">Insert Plug</li>
+<li style="box-sizing: border-box;">Poly</li>
+<li style="box-sizing: border-box;">1"</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Dura</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452238073956</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.14</s:price>
+      <s:sku>1449-010</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452237647972</id>
+    <published>2019-01-19T00:20:14-05:00</published>
+    <updated>2019-01-19T00:20:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dura-1449-007-3-4-insert-plug"/>
+    <title>Dura - 1449-007 - 3/4&apos;&apos; Insert Plug</title>
+    <s:type>Poly Fittings</s:type>
+    <s:vendor>Dura</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-pACE3-959802enh-z6__07642.1519237063.1280.1280.jpg?v=1584808572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dura<br>
+        <strong>Type: </strong>Poly Fittings<br>
+        <strong>Price: </strong>
+            0.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; box-sizing: border-box; color: #000000; font-family: arial,verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; margin-bottom: 7.5px; margin-top: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<li style="box-sizing: border-box;">Insert Plug</li>
+<li style="box-sizing: border-box;">Poly</li>
+<li style="box-sizing: border-box;">3/4"</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Dura</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452237647972</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>1449-007</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452237320292</id>
+    <published>2019-01-19T00:20:12-05:00</published>
+    <updated>2019-01-19T00:20:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dura-1436-020-2-insert-male-adapter"/>
+    <title>Dura - 1436-020 - 2&apos;&apos; Insert Male Adapter</title>
+    <s:type>Poly Fittings</s:type>
+    <s:vendor>Dura</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IMG_4150__25085.1519226181.1280.1280.jpg?v=1584808571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dura<br>
+        <strong>Type: </strong>Poly Fittings<br>
+        <strong>Price: </strong>
+            1.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; box-sizing: border-box; color: #000000; font-family: arial,verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; margin-bottom: 7.5px; margin-top: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<li style="box-sizing: border-box;">Adapter</li>
+<li style="box-sizing: border-box;">2 in.</li>
+<li style="box-sizing: border-box;">Insert x MIPT</li>
+<li style="box-sizing: border-box;">Poly</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Dura</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452237320292</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.84</s:price>
+      <s:sku>1436-020</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452236730468</id>
+    <published>2019-01-19T00:20:09-05:00</published>
+    <updated>2019-01-19T00:20:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dura-1436-015-1-1-2-insert-male-adapter"/>
+    <title>Dura - 1436-015 - 1 1/2&apos;&apos; Insert Male Adapter</title>
+    <s:type>Poly Fittings</s:type>
+    <s:vendor>Dura</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IMG_4__80745.1518791798.1280.1280_9965edd6-bb1f-45ad-9418-f8616399135f.jpg?v=1584808570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dura<br>
+        <strong>Type: </strong>Poly Fittings<br>
+        <strong>Price: </strong>
+            0.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; box-sizing: border-box; color: #000000; font-family: arial,verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; margin-bottom: 7.5px; margin-top: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<li style="box-sizing: border-box;">Adapter</li>
+<li style="box-sizing: border-box;">1 1/2 in.</li>
+<li style="box-sizing: border-box;">Insert x MIPT</li>
+<li style="box-sizing: border-box;">Poly</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Dura</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452236730468</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.98</s:price>
+      <s:sku>1436-015</s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452235616356</id>
+    <published>2019-01-19T00:20:04-05:00</published>
+    <updated>2019-01-19T00:20:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dura-1436-007-3-4-insert-male-adapter"/>
+    <title>Dura - 1436-007 - 3/4&apos;&apos; Insert Male Adapter</title>
+    <s:type>Poly Fittings</s:type>
+    <s:vendor>Dura</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IMA__05388.1518791047.1280.1280.jpg?v=1584808567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dura<br>
+        <strong>Type: </strong>Poly Fittings<br>
+        <strong>Price: </strong>
+            0.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; box-sizing: border-box; color: #000000; font-family: arial,verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; margin-bottom: 7.5px; margin-top: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<li style="box-sizing: border-box;">Adapter</li>
+<li style="box-sizing: border-box;">3/4 in.</li>
+<li style="box-sizing: border-box;">Insert x MIPT</li>
+<li style="box-sizing: border-box;">Poly</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Dura</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452235616356</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku>1436-007</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452235026532</id>
+    <published>2019-01-19T00:20:03-05:00</published>
+    <updated>2019-01-19T00:20:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dura-1429-005-insert-coupling-1-2"/>
+    <title>Dura - 1429-005 - 1/2&apos;&apos; Insert Coupling</title>
+    <s:type>Poly Fittings</s:type>
+    <s:vendor>Dura</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1988__55794.1516302945.1280.1280.jpg?v=1571715614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dura<br>
+        <strong>Type: </strong>Poly Fittings<br>
+        <strong>Price: </strong>
+            0.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<ul style="box-sizing: border-box; margin-bottom: 7.5px; margin-top: 0px;">
+<li style="box-sizing: border-box;">Coupling</li>
+<li style="box-sizing: border-box;">1/2"</li>
+<li style="box-sizing: border-box;">Insert x Insert</li>
+<li style="box-sizing: border-box;">Poly</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Dura</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452235026532</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.57</s:price>
+      <s:sku>1429-005</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452234829924</id>
+    <published>2019-01-19T00:20:01-05:00</published>
+    <updated>2019-01-19T00:20:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dura-1402-007-combo-tee-3-4-x-3-4-x-3-4-in"/>
+    <title>Dura - 1402-007 - 3/4&apos;&apos; X 3/4&apos;&apos; X 3/4&apos;&apos; Combo Tee</title>
+    <s:type>Poly Fittings</s:type>
+    <s:vendor>Dura</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IMG_4154__09073.1519226235.1280.1280.jpg?v=1571715614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dura<br>
+        <strong>Type: </strong>Poly Fittings<br>
+        <strong>Price: </strong>
+            1.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; box-sizing: border-box; color: #000000; font-family: arial,verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; margin-bottom: 7.5px; margin-top: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<li style="box-sizing: border-box;">Pipe Combo Tee</li>
+<li style="box-sizing: border-box;">3/4 in. x  3/4 in. x 3/4 in.</li>
+<li style="box-sizing: border-box;">Insert x Insert x FIPT</li>
+<li style="box-sizing: border-box;">Poly</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Dura</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452234829924</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.36</s:price>
+      <s:sku>1402-007</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452234633316</id>
+    <published>2019-01-19T00:19:59-05:00</published>
+    <updated>2019-01-19T00:19:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dura-1401-010-1-insert-tee"/>
+    <title>Dura - 1401-010 - 1&apos;&apos; Insert Tee</title>
+    <s:type>Poly Fittings</s:type>
+    <s:vendor>Dura</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IT_2__46278.1519226368.1280.1280.jpg?v=1584808565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dura<br>
+        <strong>Type: </strong>Poly Fittings<br>
+        <strong>Price: </strong>
+            1.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<ul style="box-sizing: border-box; margin-bottom: 7.5px; margin-top: 0px;">
+<li style="box-sizing: border-box;">Pipe Tee</li>
+<li style="box-sizing: border-box;">1 in.</li>
+<li style="box-sizing: border-box;">Insert  x Insert x Insert</li>
+<li style="box-sizing: border-box;">Poly</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Dura</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452234633316</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.18</s:price>
+      <s:sku>1401-010</s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452233519204</id>
+    <published>2019-01-19T00:19:57-05:00</published>
+    <updated>2019-01-19T00:19:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dura-1401-007-3-4-insert-tee"/>
+    <title>Dura - 1401-007 - 3/4&apos;&apos; Insert Tee</title>
+    <s:type>Poly Fittings</s:type>
+    <s:vendor>Dura</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IT_5__06111.1518790045.1280.1280.jpg?v=1584808565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dura<br>
+        <strong>Type: </strong>Poly Fittings<br>
+        <strong>Price: </strong>
+            1.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent;color: #000000;font-family: arial,verdana,sans-serif;font-size: 12px;font-style: normal;font-variant: normal;font-weight: 400;letter-spacing: normal;margin-bottom: 7.5px;margin-top: 0px;text-align: left;text-decoration: none;text-indent: 0px">
+<li>Pipe Tee</li>
+<li>3/4 in.</li>
+<li>Insert  x Insert x Insert</li>
+<li>Poly</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Dura</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452233519204</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.24</s:price>
+      <s:sku>1401-007</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452230701156</id>
+    <published>2019-01-19T00:19:43-05:00</published>
+    <updated>2019-01-19T00:19:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dura-1-2-male-adapter-mipt-x-insert-1436-005"/>
+    <title>Dura - 1436-005 - 1/2&apos;&apos; Male Adapter MIPT x Insert</title>
+    <s:type>Poly Fittings</s:type>
+    <s:vendor>Dura</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IMA_5__90734.1519221276.1280.1280.jpg?v=1584808567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dura<br>
+        <strong>Type: </strong>Poly Fittings<br>
+        <strong>Price: </strong>
+            0.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1/2 M ADPT INSERT, 1436-005</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Dura</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452230701156</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>1436-005</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+</feed>

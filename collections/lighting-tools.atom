@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/lighting-tools.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2020-12-16T11:31:38-05:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4989076078694</id>
+    <published>2020-12-16T11:31:38-05:00</published>
+    <updated>2020-12-16T11:31:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-123200-nozzle-insertion-collar-hold-up-tool"/>
+    <title>Hunter - 123200 - Nozzle Insertion Collar, Hold-Up Tool</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/123200-1_710x709_ff9bcb7c-201c-4fab-ac2e-07f6285e9de7.jpg?v=1608136266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            2.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 1.4em;">Rotor Insertion Collar; Hold-Up Tool</span></p>
+<ul>
+<li>For All Hunter Rotor Models</li>
+<li>
+<b>EXCEPT:</b><span> </span>I-90, I-60, and PGJ</li>
+<li>CANNOT BE USED WITH MP ROTATOR NOZZLES OR PROS-04 SPRAY HEADS!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Sprinkler Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4989076078694</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.14</s:price>
+      <s:sku>123200</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4989068410982</id>
+    <published>2020-12-16T11:27:53-05:00</published>
+    <updated>2020-12-16T11:27:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-172000-rotor-adjustment-tool"/>
+    <title>Hunter - 172000 - Rotor Adjustment Tool</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/172000.jpg?v=1608136009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            1.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-size: 1.4em;">Rotor Adjustment Wrench</span>
+<ul>
+<li>Fits ALL Hunter Rotors</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Sprinkler Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4989068410982</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.04</s:price>
+      <s:sku>172000</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4989048553574</id>
+    <published>2020-12-16T10:04:25-05:00</published>
+    <updated>2020-12-16T10:04:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/k-rain-p59995-k-key-for-minipro-proplus-rotors"/>
+    <title>K-Rain - P59995 - K-Key (For MiniPro &amp; ProPlus Rotors)</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>K-Rain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/P59995_1.jpg?v=1608130968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K-Rain<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            0.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>K-Key, Replacement for MiniPro and Pro Plus Rotor Sprinklers.</span></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_K-Rain</s:tag>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Sprinkler Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4989048553574</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.98</s:price>
+      <s:sku>P59995</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4989046227046</id>
+    <published>2020-12-16T09:58:06-05:00</published>
+    <updated>2020-12-16T09:58:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/k-rain-p54065-nozzle-changer-clip"/>
+    <title>K-Rain - P54065 - Nozzle Changer Clip</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>K-Rain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/P54065_1.jpg?v=1608130688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K-Rain<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            1.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Keep your fingers from getting pinched with our nozzle riser clip. Accessory for K-Rain rotor sprinklers.</span></p>
+<ul>
+<li><span data-mce-fragment="1">Use this clip to hold the riser in the 'up' position making changing nozzles much easier.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_K-Rain</s:tag>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Sprinkler Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4989046227046</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.57</s:price>
+      <s:sku>P54065</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452320485476</id>
+    <published>2020-08-11T14:38:09-04:00</published>
+    <updated>2020-08-11T14:38:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/keyfit-khw001-keyfit-head-wrench"/>
+    <title>Keyfit - KHW001 - Keyfit Head Wrench</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>Keyfit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-Keyfit-Wrench-2__22870.1519058222.1280.1280.jpg?v=1571715619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Keyfit<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            79.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Head Wrench made by Keyfit is a specialty tool for irrigation professionals. The Head Wrench perfectly fits all brands of spray heads, all rotor heads and Jar-Top valves up to 4 in diameter. The Head Wrench is drop forged, precision machined and made in the USA. <img style="text-align: center; width: 100%;" src="http://www.cheapsprinklers.com.php72-36.phx1-2.websitetestlink.com/wp-content/uploads/2018/11/keyfit-head-wrench-usage.jpg" alt=""></p>
+<ul>
+<li>The Head Wrench has inner teeth that are directional making it grip better with less pressure and less jaw slip!</li>
+<li>The 45 degree angled jaw makes for easy access to sprinkler bodies.The Head Wrench is also drop forged and precision CNC machined in the USA. Its a very high quality specialty tool.</li>
+<li>The Head Wrench has jaws that are designed exactly for all spray and rotor heads up to 4 in diameter and with jar top style valves.</li>
+<li>The Head Wrench has bottom drop down teeth that fit perfectly into the cap fins making it easy to just replace the guts or remove the entire sprinkler head with little or no digging.</li>
+<li>The Head Wrench has outer easy-out teeth that are CNC machined into the outside of the jaw for extracting broken fittings and sprinkler bodies. You can simply insert the Head Wrench inside the sprinkler body and extract without even digging around the head.</li>
+<li>The <strong>LOCK-UP SYSTEM</strong> holds the jaws of the wrench tight, freeing up your hands to work. Simply latch the Up-Lock band around both handles and let the Keyfit wrench do the hard work for you!</li>
+</ul>
+<p><img style="width: 781px;" src="http://www.cheapsprinklers.com.php72-36.phx1-2.websitetestlink.com/wp-content/uploads/2018/11/keyfit-features-4.jpg" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Keyfit</s:tag>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:tag>PRODUCT TYPE_Adjustment Tools</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452320485476</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.98</s:price>
+      <s:sku>2031-01</s:sku>
+      <s:grams>615</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/3348876394596</id>
+    <published>2019-04-19T09:25:11-04:00</published>
+    <updated>2019-04-19T09:25:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-spray-head-pull-up-tool-ptc-1"/>
+    <title>Rain Bird - PTC-1 - Spray Head Pull-Up Tool</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/ptc-1.jpg?v=1592938473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Ever noticed how difficult it is to change or install nozzles? This easy to use tool allows you to pull the stem upwards and keep it from retracting. Once the spray head is installed in your system you can easily replace or install nozzles by using the Pull Up Tool.</span></p>
+<ul>
+<li>Use for repairing and installing plastic pop-up sprinklers.</li>
+<li>Flat tipped handle used to lift case cap and to unscrew cap to cases female threaded vertical and horizontal inlet.</li>
+<li>Removes sprinkler head from base for cleaning or replacement.</li>
+<li>Corrosion-resistant</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRODUCT TYPE_Sprinkler Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/3348876394596</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.95</s:price>
+      <s:sku>PTC1</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/3043771809892</id>
+    <published>2019-03-12T16:22:24-04:00</published>
+    <updated>2019-03-12T16:22:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-wrench-for-maxi-paw-rotors-42064"/>
+    <title>Rain Bird - 42064 - Wrench for Maxi-Paw Rotors</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/42064_1.jpg?v=1592941422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Used for routine maintenance of Rain Bird pop-up impact sprinkler models LG-3 Mini-Paw, AG-5 and 2045A Maxi-Paw, this tool makes quick work of servicing the sprinklers internal assembly. No need to dig or remove the entire sprinkler head. Use the top of the wrench to pry up the top of the sprinkler. Then unscrew the sprinklers internal mechanism using the extended hex portion of the wrench. Clean or replace the mechanism using the reverse procedure. This handy wrench will help you keep your irrigation system working efficiently for a lush, green lawn with uniform watering and minimal overspray.</span></p>
+<h3><span>Features &amp; Benefits</span></h3>
+<ul>
+<li>Easily clean or replace Rain Bird impact sprinkler head internal assemblies without digging</li>
+<li>Chrome finished tool is designed for use with LG-3/Mini-Paw, AG-5/Maxi-Paw and 2045A Maxi-Paw sprinklers</li>
+<li>Lift the cap using the flat tipped handle</li>
+<li>Unscrew and lift the sprinkler mechanism using the lower hex wrench</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Adjustment Tools</s:tag>
+    <s:tag>PRODUCT TYPE_Impacts</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/3043771809892</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>42064</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452757577828</id>
+    <published>2019-01-19T00:51:43-05:00</published>
+    <updated>2019-01-19T00:51:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/seymour-z-606-marking-wand-33"/>
+    <title>Seymour - Z-606 Marking Wand 33</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>Seymour</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-Z-606-320x1024__24370.1519074098.1280.1280.jpg?v=1584809305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seymour<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            46.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For use with a variety of Stripe inverted tip marking paints (those with a straight tip). This lightweight tool is ideal for a wide range of precise marking applications.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Seymour</s:tag>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$40-60</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452757577828</id>
+      <title>Default Title</title>
+      <s:price currency="USD">46.31</s:price>
+      <s:sku>Marking Paint Wand</s:sku>
+      <s:grams>964</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452755349604</id>
+    <published>2019-01-19T00:51:35-05:00</published>
+    <updated>2019-01-19T00:51:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/seymour-midwest-kenyon-s550-compact-clean-out-shovel-89095"/>
+    <title>Seymour Midwest - Kenyon S550 5&apos;&apos; Compact Clean Out Shovel - 89095</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>Seymour</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1879__73345.1519072532.1280.1280.jpg?v=1571715655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seymour<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            54.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #002d62;"><strong>KEY FEATURES:</strong></span></span></p>
+<div class="short-description" style="padding-left: 35px; margin-bottom: .1em;">
+<ul>
+<li>14 Gauge</li>
+<li>5" / Forward Turned Step</li>
+<li>Fiberglass Insert &amp; PermaGrip</li>
+<li>12" Professional Grade Fiberglass</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/0167/3543/6900/files/89095brandinfo_2048x2048.jpg?v=1571329333" alt=""></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Seymour</s:tag>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$40-60</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452755349604</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.98</s:price>
+      <s:sku>89095</s:sku>
+      <s:grams>2410</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452754137188</id>
+    <published>2019-01-19T00:51:30-05:00</published>
+    <updated>2019-01-19T00:51:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/seymour-midwest-kenyon-s550-14-drain-spade-shovel-49667"/>
+    <title>Seymour Midwest - Kenyon S550 14&apos;&apos; Drain Spade Shovel - 49667</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>Seymour</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1878__23411.1519070673.1280.1280.jpg?v=1584809308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seymour<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            64.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kenyon 14" Closed Back Drain Spade, 28" Polymer D-Grip Handle. <span>The drain spade has a 4130 aircraft alloy blade with a deeper "V" in the neck and back for increased strength and more flat in the front for easier trench clean out and digging. The handle features a tubular fiberglass core in the upper handle, all encased in polyethylene plastic to prevent any fiberglass splinters.</span></p>
+<p><span><span style="color: #002d62;"><strong>KEY FEATURES:</strong></span></span></p>
+<div class="short-description" style="padding-left: 35px; margin-bottom: .1em;">
+<ul>
+<li>14 Gauge Sharpshooter</li>
+<li>14" / Forward Turned Step with Closed Back</li>
+<li>Solid Steel Rivet</li>
+<li>28" Polymer with Fiberglass Core</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Seymour</s:tag>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452754137188</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.98</s:price>
+      <s:sku>49667</s:sku>
+      <s:grams>1871</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452753547364</id>
+    <published>2019-01-19T00:51:28-05:00</published>
+    <updated>2019-01-19T00:51:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/seymour-midwest-kenyon-4-way-water-valve-key-85481"/>
+    <title>Seymour Midwest - Kenyon 4-Way Water Valve Key - 85481</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>Seymour</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1880__54809.1519072437.1280.1280.jpg?v=1571715654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seymour<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            7.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #002d62;"><strong>KEY FEATURES:</strong></span></span></p>
+<div class="short-description" style="padding-left: 35px; margin-bottom: .1em;">
+<ul>
+<li>Security Key</li>
+<li>4-Way Water Valve Key</li>
+<li>Fittings for 1/4" 9/32" 5/16" &amp; 11/32</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Seymour</s:tag>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452753547364</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.98</s:price>
+      <s:sku>85481</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452752629860</id>
+    <published>2019-01-19T00:51:23-05:00</published>
+    <updated>2019-01-19T00:51:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/seymour-marking-paint-red-white-blue"/>
+    <title>Seymour - Marking Paint (Red,White,Blue)</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>Seymour</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1227_57630_p1__64421.1519074643.1280.1280.jpg?v=1571715654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seymour<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            4.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="description" class="tab-pane active">
+<h3>Description</h3>
+<p>A heavy-duty industrial marker available in water and solvent-based formulations. The no-clog, fast-drying formula is available in a full range of construction and APWA colors. The Seymour Converta-Cap has a specially-designed protective cover that does not need to be removed before using. This provides the user with a convenient marking tool without the worry of accidentally spraying.</p>
+<h3>Features</h3>
+<div class="prod-info-section">
+<ul>
+<li>A heavy-duty industrial marker available in water and solvent-based formulations</li>
+<li>fast-drying formula is available in a full range of construction and APWA colors</li>
+<li>The no-clog</li>
+<li>The Seymour Converta-Cap has a specially-designed protective cover that does not need to be removed before using</li>
+<li>This provides the user with a convenient marking tool without the worry of accidentally spraying</li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Seymour</s:tag>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452752629860</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.45</s:price>
+      <s:sku>Marking Paint</s:sku>
+      <s:grams>624</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452710981732</id>
+    <published>2019-01-19T00:48:43-05:00</published>
+    <updated>2019-01-19T00:48:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-rotortool-rotor-screwdriver-amp-pull-up-tool"/>
+    <title>Rain Bird - ROTORTOOL - Rotor Screwdriver &amp; Pull-up Tool</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-805__44107.1516141898.1280.1280.jpg?v=1571715652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            1.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The universal Rain Bird rotor tool</p>
+<ul>
+<li>Flat blade screwdriver and pull-up tool all in one</li>
+</ul>
+<div class="clearer">Use to adjust and lift Rain Bird rotors including 3500, 5000, 5000 Plus, 5500, Falcon 6504, 7005, 8005, EAGLE 351B, 32SA, 42SA and 52SA series.   </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Adjustment Tools</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452710981732</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.54</s:price>
+      <s:sku>ROTORTOOL</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452464992356</id>
+    <published>2019-01-19T00:33:33-05:00</published>
+    <updated>2019-01-19T00:33:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/lenox-18-pvc-saw-blade-20981-hsb18"/>
+    <title>Lenox - 18&apos;&apos; PVC Saw Blade - 20981-HSB18</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>Lenox</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-s-l1600__63074.1519062569.1280.1280_61b8b606-b783-4f9b-b3aa-cf94743d6b0f.jpg?v=1584808979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lenox<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            13.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>18" Replacement Blade</span></div>
+<div><span></span></div>
+<div>
+<p><strong>CUTS PLASTIC PIPE EASILY<br></strong>Teeth cut on the pull stroke and not on the push stroke for safety</p>
+<p><strong>COMFORTABLE GRIP<br></strong>Rubberized handles allow for confident handling even in cold, hot, wet or dirty environments</p>
+<p><strong>FLUSH CUTTING OPTION<br></strong>Easily mount the blade on the bottom of handle for flush cutting applications</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Lenox</s:tag>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452464992356</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.64</s:price>
+      <s:sku>20981-HSB18</s:sku>
+      <s:grams>224</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452464730212</id>
+    <published>2019-01-19T00:33:28-05:00</published>
+    <updated>2019-01-19T00:33:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/lenox-18-pvc-hand-saw-20980-hsf18"/>
+    <title>Lenox - 18&apos;&apos; PVC Hand Saw - 20980HSF18</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>Lenox</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-71OLzEg3LXL._SL1500___96320.1519062868.1280.1280_24998098-4a2a-4898-b2b7-706b91537bd1.jpg?v=1584808978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lenox<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            25.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>18" Blade &amp; Handle</span></div>
+<div><span></span></div>
+<div>
+<p><strong>CUTS PLASTIC PIPE EASILY<br></strong>Teeth cut on the pull stroke and not on the push stroke for safety</p>
+<p><strong>COMFORTABLE GRIP<br></strong>Rubberized handles allow for confident handling even in cold, hot, wet or dirty environments</p>
+<p><strong>FLUSH CUTTING OPTION<br></strong>Easily mount the blade on the bottom of handle for flush cutting applications</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Lenox</s:tag>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452464730212</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.88</s:price>
+      <s:sku>20980HSF18</s:sku>
+      <s:grams>507</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452463419492</id>
+    <published>2019-01-19T00:33:27-05:00</published>
+    <updated>2019-01-19T00:33:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/lenox-12-pvc-saw-blade-20982-hsb12"/>
+    <title>Lenox - 12&apos;&apos; PVC Saw Blade - 20982-HSB-12</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>Lenox</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-31sjTgs5fKL._SY355___06058.1519063235.1280.1280_a24dab83-34ff-4e06-af64-f4376e27c217.jpg?v=1584808977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lenox<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            12.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>12" Replacement Blade</span></div>
+<div><span></span></div>
+<div>
+<p><strong>CUTS PLASTIC PIPE EASILY<br></strong>Teeth cut on the pull stroke and not on the push stroke for safety</p>
+<p><strong>COMFORTABLE GRIP<br></strong>Rubberized handles allow for confident handling even in cold, hot, wet or dirty environments</p>
+<p><strong>FLUSH CUTTING OPTION<br></strong>Easily mount the blade on the bottom of handle for flush cutting applications</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Lenox</s:tag>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452463419492</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.28</s:price>
+      <s:sku>20982-HSB-12</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452463059044</id>
+    <published>2019-01-19T00:33:24-05:00</published>
+    <updated>2019-01-19T00:33:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/lenox-12-pvc-hand-saw-20985-hsf12"/>
+    <title>Lenox - 12&apos;&apos; PVC Hand Saw - 20985HSF12</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>Lenox</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-7175er0TVLL._SL1500___96621.1519063072.1280.1280_35840c43-e28b-414a-b60f-2aa2e00f999a.jpg?v=1584808977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lenox<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>12" Blade &amp; Handle</span><br></p>
+<strong>Comfortable Grip</strong>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">Teeth cut on the pull stroke and not on the push stroke for safety </span></li>
+</ul>
+<span style="font-size: 1.4em;"><strong>Comfortable Grip</strong></span><br>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> Rubberized handles allow for confident handling even in cold, hot, wet or dirty environments </span></li>
+</ul>
+<span style="font-size: 1.4em;"><strong>Flush Cutting Option</strong></span><br>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"> Easily mount the blade on the bottom of handle for flush cutting applications </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Lenox</s:tag>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452463059044</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>20985HSF12</s:sku>
+      <s:grams>434</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452358922340</id>
+    <published>2019-01-19T00:27:00-05:00</published>
+    <updated>2019-01-19T00:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/king-innovation-wire-stripper-cutter-w-handle-lock-46515"/>
+    <title>King Innovation - Wire Stripper/Cutter w/ Handle Lock - 46515</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/46515.jpg?v=1582304453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            15.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="tab-list-title">Wire stripper/cutters plier nose - handle lock lgth 6 inches Plier nose for pulling and looping wire. Scissor-type cutting blade. Handle lock for added safety. Air pocket cushioned grip. Wire sizes embossed in metal. Dimensions 6 inches /152 mm, minimum/maximum strip AWG 20-10, 0.8-2.6 mm.<br></p>
+<p><strong>Gorilla Wire Stripper/Cutter with Handle Lock (46515)</strong><br></p>
+<ul>
+<li><span>  Min/Max Strip AWG: 20 - 10</span></li>
+<li><span>  Min/Max Strip mm: 0.8 - 2.6</span></li>
+<li><span>  Weight: 6oz/170G</span></li>
+<li><span>  Dimensions: 6"/152mm</span></li>
+</ul>
+<h3>Key Features</h3>
+<ul>
+<li>Air pocket cushioned grip</li>
+<li>Handle lock for added safety</li>
+<li>Pliers nose for pulling and looping wire</li>
+<li>Precision ground stripping nest</li>
+<li>Scissor-type cutting blade</li>
+<li>Wire sizes embossed in metal</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="http://www.kinginnovation.com/pics/db/docs/132-5010019AWKingToolsREVG%5B1%5D.pdf" target="_blank" rel="noopener noreferrer">Gorilla Wire Stripper Specification Sheet</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>CATEGORY_Lighting Tools</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452358922340</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.47</s:price>
+      <s:sku>46515</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452358266980</id>
+    <published>2019-01-19T00:26:59-05:00</published>
+    <updated>2019-01-19T00:26:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/king-innovation-sapling-soaker-ring-1pc-bag-44010"/>
+    <title>King Innovation - Sapling Soaker Ring, 1pc. Bag - 44010</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1854__11456.1516302942.1280.1280.jpg?v=1571715623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FEATURES &amp; BENEFITS: </strong></p>
+<ul style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 20px; list-style-image: none; list-style-position: outside; list-style-type: disc; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-shadow: none; text-transform: none; vertical-align: baseline; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; padding: 0px; margin: 0px 0px 18px 18px; border: 0px none #555555;">
+<li style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-shadow: none; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px none #555555;"><span class="style5" style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-shadow: none; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px none #555555;">Heavy duty polyethylene</span></li>
+<li style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-shadow: none; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px none #555555;"><span class="style5" style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-shadow: none; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px none #555555;">UV stabilized to withstand exposure to sunlight</span></li>
+<li style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-shadow: none; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px none #555555;"><span class="style5" style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-shadow: none; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px none #555555;">Max Gallons: 20</span></li>
+<li style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-shadow: none; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px none #555555;"><span class="style5" style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-shadow: none; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px none #555555;">Max Tree Size: 6" diameter</span></li>
+<li style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-shadow: none; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px none #555555;"><span class="style5" style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-shadow: none; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px none #555555;">Heavy duty Velcro strap secures Sapling Soaker in high winds preventing blow away</span></li>
+<li style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-shadow: none; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px none #555555;"><span class="style5" style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-shadow: none; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px none #555555;">Low profile allows Sapling Soaker Ring to fit underneath shrubs and bushes</span></li>
+<li style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-shadow: none; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px none #555555;"><span class="style5" style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-shadow: none; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px none #555555;">5-8 hours of drip time for continuous watering at the tree root</span></li>
+<li style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-shadow: none; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px none #555555;"><span class="style5" style="background-attachment: scroll; background-clip: border-box; background-color: transparent; background-image: none; background-origin: padding-box; background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; border-image-outset: 0; border-image-repeat: stretch; border-image-slice: 100%; border-image-source: none; border-image-width: 1; color: #555555; font-family: &amp;quot; open sans&amp;quot;,arial,helvetica,sans-serif; font-size: 12px; font-size-adjust: none; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; text-shadow: none; vertical-align: baseline; padding: 0px; margin: 0px; border: 0px none #555555;">3 Year Warranty </span></li>
+</ul>
+<p> <strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="http://www.kinginnovation.com/pics/db/docs/40-5010099AWSaplingSoakerRingREVB.pdf" target="_blank" rel="noopener noreferrer">Sapling Soaker Ring Specification Sheet</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452358266980</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>44010</s:sku>
+      <s:grams>916</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452357546084</id>
+    <published>2019-01-19T00:26:56-05:00</published>
+    <updated>2019-01-19T00:26:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/king-innovation-i-tool-irrigation-multi-tool-46600"/>
+    <title>King Innovation - I-Tool 2.0 Irrigation Multi-Tool - 46600</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/i_tool_2.0.jpg?v=1582303846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="product-description" class="full-line product-content">
+<h3>FEATURES &amp; BENEFITS:</h3>
+<p><span class="style5">¢<span> </span>16 tools, includes 6 Irrigation Tools<br>¢ Compatible with all major brands<br>¢ Punch precise holes in poly<br>¢ Quickly remove sediment<br>¢ Effortlessly adjust arc<br>¢ Pull up any brand sprinkler head<br>¢ Lightweight compact style<br>¢ Precise construction<br>¢ Withstands extended use<br>¢ Carrying case included</span></p>
+<h3>TOOLS INCLUDED:</h3>
+<h4><strong>Standard Tools</strong></h4>
+<p>1. Needle-nose Pliers<br>2. Regular Pliers<br>3. Wire Cutters<br>4. Hard-wire Cutters<br>5. Wire Stripper<br>6. Large Blade Screwdriver<br>7. CR7 Knife Blade<br>8. Saw<br>9. Ruler (2 inch/5 cm)10. #2 Cross Screwdriver</p>
+<h4><strong>Irrigation Specific Tools</strong></h4>
+<p>11. Nozzle Tool/Radius Adjustment Tool<br>12. Small Blade Screwdriver<br>      (Nozzle/Radius/Arc)<br>13. Debris Cleanout Tool<span> </span><br>      (Drip/Nozzle/Solenoid)<br>14. Rotor Pull-Up/Arc Adjustment Key<br>15. Sprinkler Pull-Up Tool  <br>16. 1/8� &amp; 3/16� Drip Punch</p>
+<h3><strong>Downloads</strong></h3>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://www.kinginnovation.com/pics/db/docs/38-5010090AWItool2.0REVD.pdf" target="_blank" rel="noopener noreferrer">Specification Sheet</a></span></li>
+</ul>
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452357546084</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>46600</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452357382244</id>
+    <published>2019-01-19T00:26:55-05:00</published>
+    <updated>2019-01-19T00:26:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/king-innovation-gorilla-wire-stripper-w-handle-lock-20-10-awg-46005"/>
+    <title>King Innovation - Gorilla Wire Stripper w/ Handle Lock 20-10 AWG - 46005</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/46005.jpg?v=1582303544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            12.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Gorilla Wire Stripper w/Handle Lock (46005)</strong><br>
+<ul>
+<li>
+<span>    </span><span>Min/Max Strip AWG: 20 - 10<br></span>
+</li>
+<li><span>    Weight: 4.1oz/116G</span></li>
+<li><span>    Dimensions: 8.25"/210mm</span></li>
+</ul>
+<h3>FEATURES &amp; BENEFITS:</h3>
+<ul>
+<li><span class="style5">Ergonomic comfort squeeze handle eases hand fatigue and provides non-slip grip</span></li>
+<li><span class="style5">Features handle lock closure for added safety</span></li>
+<li><span class="style5">AWG and metric wire sizes</span></li>
+<li><span class="style5">Heat treated steel pivot bushings</span></li>
+</ul>
+<p><strong><span class="style5">Downloads</span></strong></p>
+<ul>
+<li><strong><span class="style5"><a href="http://www.kinginnovation.com/pics/db/docs/132-5010019AWKingToolsREVG%5B1%5D.pdf" target="_blank" rel="noopener noreferrer">Gorilla Wire Stripper Specification Sheet</a></span></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>CATEGORY_Lighting Tools</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452357382244</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.62</s:price>
+      <s:sku>46005</s:sku>
+      <s:grams>116</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452357021796</id>
+    <published>2019-01-19T00:26:54-05:00</published>
+    <updated>2019-01-19T00:26:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/king-innovation-gorilla-uf-cable-stripper-46200"/>
+    <title>King Innovation - Gorilla UF Cable Stripper - 46200</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1451__54550.1516302978.1280.1280.jpg?v=1571715623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            12.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>FEATURES &amp; BENEFITS:</h3>
+<ul>
+<li><span class="style5">For use in home installations and outdoor wiring</span></li>
+<li><span class="style5">Small enough to reach inside boxes and enclosures</span></li>
+<li><span class="style5">Ergonomic comfort grip handle eases soreness in hands and fingers</span></li>
+<li><span class="style5">Strips outer jacket in one motion</span></li>
+<li><span class="style5">Wont nick copper wire</span></li>
+<li><span class="style5">Made of heat treated carbon steel</span></li>
+<li><span class="style5">Min/Max Strip: #14 - #10 AWG</span></li>
+</ul>
+<p><strong><span class="style5">Downloads</span></strong></p>
+<ul>
+<li><strong><span class="style5"><a href="http://www.kinginnovation.com/pics/db/docs/104-5010019AWGorillaStrippersREVH.pdf" target="_blank" rel="noopener noreferrer">Gorilla UF Cable Stripper Specification Sheet</a></span></strong></li>
+</ul>
+<iframe width="432" height="300" src="https://www.youtube.com/embed/CjYgpeoZdYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>CATEGORY_Lighting Tools</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452357021796</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.05</s:price>
+      <s:sku>46200</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452356661348</id>
+    <published>2019-01-19T00:26:53-05:00</published>
+    <updated>2019-01-19T00:26:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/king-innovation-comfort-squeeze-wire-stripper-crimper-cutter-46501"/>
+    <title>King Innovation - Comfort Squeeze Wire Stripper/Crimper/Cutter - 46501</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1452__07286.1516302978.1280.1280.jpg?v=1571715623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            17.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="product-description" class="full-line product-content">
+<h2>King Innovation 46501 Wire Stripper/Cutter/Crimper</h2>
+<p>This <strong>wire stripper</strong> features an ergonomic air-cushioned handle for comfort while you work. Strip, cut, and crimp wires with one tool. Scissor-style blade with a stripping nst in the nose, and permanently etched wire sizes in the metal. Also capable of cutting bolts.</p>
+<ul>
+<li>Min/Max Strip AWG: 22-10</li>
+<li>Crimps AWG INS/Non-INS:22-18/16-10</li>
+<li>Bolt Cutter Sizes: 4-40/5-40/6-32/8-32/10-32/10-24</li>
+<li>Weight: 8 ounces</li>
+<li>Dimensions: 8.25 inches</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="http://www.kinginnovation.com/pics/db/docs/132-5010019AWKingToolsREVG%5B1%5D.pdf" target="_blank" rel="noopener noreferrer">Gorilla Wire Stripper Specification Sheet</a></strong></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>CATEGORY_Lighting Tools</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452356661348</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.63</s:price>
+      <s:sku>46501</s:sku>
+      <s:grams>215</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452355645540</id>
+    <published>2019-01-19T00:26:50-05:00</published>
+    <updated>2019-01-19T00:26:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/king-innovation-2-x-100-pipe-wrap-tape-86080"/>
+    <title>King Innovation - 2&apos;&apos; x 100&apos; Pipe Wrap Tape - 86080</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1482__93577.1516302988.1280.1280.jpg?v=1584808815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            6.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>FEATURES &amp; BENEFITS:</h3>
+<ul>
+<li><span class="style5">Provides UV and weather protection</span></li>
+<li><span class="style5">Stretchable, strong adhesive</span></li>
+<li><span class="style5">Great for cast and ductile iron, galvanized steel, electrical conduit types of pipes and fittings</span></li>
+<li><span class="style5">Waterproof and non-corrosive</span></li>
+<li><span class="style5">2" x 100 x 10 mil</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Sprinkler Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452355645540</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.98</s:price>
+      <s:sku>86080</s:sku>
+      <s:grams>473</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452355448932</id>
+    <published>2019-01-19T00:26:49-05:00</published>
+    <updated>2019-01-19T00:26:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/king-innovation-2-replacement-blade-for-ratchet-poly-pvc-pipe-cutter-46351"/>
+    <title>King Innovation - 2&apos;&apos; Replacement Blade for Ratchet Poly/PVC Pipe Cutter - 46351</title>
+    <s:type>Sprinkler Tools</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12770__15008.1516302985.1280.1280.jpg?v=1584808815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Sprinkler Tools<br>
+        <strong>Price: </strong>
+            12.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>King Innovation replacement pipe cutter blades</h2>
+<p>King Innovation replacement pipe cutter blades fit the King Innovation <a href="https://cheapsprinklers.com/products/king-innovation-2-ratchet-poly-pvc-pipe-cutter-46350?_pos=1&amp;_sid=1f8a83e2d&amp;_ss=r">46350 Pipe Cutters</a>. No need to buy a new tool should the old blade wear out.</p>
+<p>King Innovation ratcheting pipe cutters make PVC pipe repairs and installations a snap. No sawing or deburring required; simply cut the desired pipe length with these durable, easy to use pipe cutters.The King Innovation Ratcheting Pipe Cutters feature a pointed heat-treated steel blade for precision cuts and a durable cast aluminum body for reliable, long-lasting performance.</p>
+<ul>
+<li>Heat treated steel blade</li>
+<li>Replacement blade for 46350</li>
+<li>Use only to cut plastics or rubber</li>
+<li>Not intended to cut metal</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="http://www.kinginnovation.com/pics/db/docs/354-50100135SwitchBladeandCuttersREVA.pdf" target="_blank" rel="noopener noreferrer">SwitchBlade and Cutters Specification Sheet</a></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>CATEGORY_Irrigation Tools</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452355448932</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.52</s:price>
+      <s:sku>46351</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/fittings.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2021-02-05T16:44:21-05:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5019872624742</id>
+    <published>2021-02-05T16:44:21-05:00</published>
+    <updated>2021-02-05T16:44:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/nds-3-4-pvc-compression-coupling-cpc-0750"/>
+    <title>NDS - 3/4&apos;&apos; PVC Compression Coupling - CPC-0750</title>
+    <s:type>PVC Repair Fittings</s:type>
+    <s:vendor>NDS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2017-03-01_17.51.42__31336.1520027700.1280.1280_46a29f4e-f21c-4686-ad9f-1f81070ada07.jpg?v=1612561411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NDS<br>
+        <strong>Type: </strong>PVC Repair Fittings<br>
+        <strong>Price: </strong>
+            5.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This compression coupler is excellent for use in repairing broken pipe or in applications where a permanent connection is not desired. PVC material for general irrigation and plumbing applications when connecting to Iron Pipe Size (IPS) pipe.</p>
+<p><strong>Features &amp; Benefits</strong></p>
+<ul>
+<li>Approved for hot and cold applications @ 100 psi @ 180 degree F.</li>
+<li>Meets/Exceed all applicable ASTM and ANSI standards.</li>
+<li>Made with PolyOne PVC material.</li>
+<li>Molded in the USA by KBI.</li>
+<li>NSF Standard 61 listed.</li>
+<li>Hi-strength Santoprene gaskets.</li>
+</ul>
+<p><a href="http://sprinklertalk.com/product_manuals/manuals/King%20Brothers/PVC-Compression-Coupling-CPC-Series-CPCxx.pdf" target="_blank">SPEC SHEET</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_NDS</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5019872624742</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.41</s:price>
+      <s:sku>CPC0750</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5019869544550</id>
+    <published>2021-02-05T16:42:26-05:00</published>
+    <updated>2021-02-05T16:42:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/nds-4-pvc-compression-coupling-cpc-4000"/>
+    <title>NDS - 4&apos;&apos; PVC Compression Coupling - CPC-4000</title>
+    <s:type>PVC Repair Fittings</s:type>
+    <s:vendor>NDS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2017-03-01_17.57.46__92796.1520028149.1280.1280_bc30867c-a3e2-4485-8873-0dc7a2abd7fd.jpg?v=1612561285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NDS<br>
+        <strong>Type: </strong>PVC Repair Fittings<br>
+        <strong>Price: </strong>
+            49.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This compression coupler is excellent for use in repairing broken pipe or in applications where a permanent connection is not desired. PVC material for general irrigation and plumbing applications when connecting to Iron Pipe Size (IPS) pipe.</p>
+<p><strong>Features &amp; Benefits</strong></p>
+<ul>
+<li>Approved for hot and cold applications @ 100 psi @ 180 degree F.</li>
+<li>Meets/Exceed all applicable ASTM and ANSI standards.</li>
+<li>Made with PolyOne PVC material.</li>
+<li>Molded in the USA by KBI.</li>
+<li>NSF Standard 61 listed.</li>
+<li>Hi-strength Santoprene gaskets.</li>
+</ul>
+<p><a href="http://sprinklertalk.com/product_manuals/manuals/King%20Brothers/PVC-Compression-Coupling-CPC-Series-CPCxx.pdf" target="_blank">SPEC SHEET</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_NDS</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$40-60</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5019869544550</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.91</s:price>
+      <s:sku>CPC4000</s:sku>
+      <s:grams>1928</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5019818033254</id>
+    <published>2021-02-05T15:54:47-05:00</published>
+    <updated>2021-02-05T15:54:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/spears-1-1-4-short-slip-fix-pvc-repair-coupling-sh118-12"/>
+    <title>Spears - 1 1/4&apos;&apos; Short Slip Fix PVC Repair Coupling - SH118-12</title>
+    <s:type>PVC Repair Fittings</s:type>
+    <s:vendor>Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/SH118-12.jpg?v=1612558588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spears<br>
+        <strong>Type: </strong>PVC Repair Fittings<br>
+        <strong>Price: </strong>
+            10.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p align="left" data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">SHORT REPAIR COUPLINGS</strong></span></p>
+<span data-mce-fragment="1"><strong data-mce-fragment="1"></strong></span><span data-mce-fragment="1"></span><span data-mce-fragment="1"></span>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Compact Telescoping Design</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Spigot x Socket Configuration for Replacing Damaged Fittings</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Both Configurations can be Easily Modified for Opposite Use</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Available in PVC White, Sizes 1/2" - 2"</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">EPDM Double O-ring Seal</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Pressure Rated to 235 PSI @ 73°F (23°C)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">NSF® Certified for Potable Water Use</span></li>
+<li data-mce-fragment="1">Coupling for replacing damaged fittings</li>
+<li data-mce-fragment="1">PVC for corrosion resistance, high strength, and less weight than fittings made from metal</li>
+<li data-mce-fragment="1">EPDM seal for resistance to weathering, ozone, UV light, electricity, oils, water, steam, and some solvents</li>
+<li data-mce-fragment="1">Meets ASTM D2467 for quality assurance and NSF/ANSI Standard 61, Annex G for potable water</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Spears</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5019818033254</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.47</s:price>
+      <s:sku>SH118-12</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4911764144230</id>
+    <published>2020-08-25T13:24:55-04:00</published>
+    <updated>2020-08-25T13:24:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dura-3-4-mpt-x-fpt-pvc-street-elbow-412-007"/>
+    <title>Dura - 3/4&quot; MPT x FPT PVC Street Elbow - 412-007</title>
+    <s:type>PVC Fittings</s:type>
+    <s:vendor>Dura</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/412-007.jpg?v=1598376295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dura<br>
+        <strong>Type: </strong>PVC Fittings<br>
+        <strong>Price: </strong>
+            0.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>3/4 in.</li>
+<li>MPT x FPT</li>
+<li>Schedule 40</li>
+<li>White</li>
+<li>Street Elbow</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Dura</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4911764144230</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.85</s:price>
+      <s:sku>412-007</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4668897132646</id>
+    <published>2020-03-03T11:52:44-05:00</published>
+    <updated>2020-03-03T11:52:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dawn-industries-3-pvc-kwik-repair-coupler-krc429-030"/>
+    <title>Dawn Industries - 3&apos;&apos; PVC Kwik Repair Coupler - KRC429-030</title>
+    <s:type>PVC Repair Fittings</s:type>
+    <s:vendor>Dawn Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/krc429-030.jpg?v=1583254455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dawn Industries<br>
+        <strong>Type: </strong>PVC Repair Fittings<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-size: 1.4em;">Model: KRC429-030</span><br>
+<ul>
+<li>PVC Kwik Repair Coupler</li>
+<li>3" x 3"</li>
+</ul>
+<p><img src="https://cdn.shopify.com/s/files/1/0167/3543/6900/files/KwikRepair-Pressure_480x480.png?v=1582297458" alt=""></p>
+<p><iframe width="350" height="197" src="https://www.youtube.com/embed/S8nni5v4hi0?list=UUS8f1shWaxgfiCWeeLnLbjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Dawn Industries</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4668897132646</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>KRC429-030</s:sku>
+      <s:grams>394</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/3135381438564</id>
+    <published>2019-03-21T15:14:48-04:00</published>
+    <updated>2019-03-21T15:14:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/christys-red-hot-purple-primer-rh-purp"/>
+    <title>Christys - RH-PURP-PT-12 - Red Hot Purple Primer (Pint)</title>
+    <s:type>Glue &amp; Primers</s:type>
+    <s:vendor>Christys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/Purple-Primer_Pint-510x600_2f5559eb-3e9f-4da9-ba5f-6ac39bd5dd32.jpg?v=1592939064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christys<br>
+        <strong>Type: </strong>Glue &amp; Primers<br>
+        <strong>Price: </strong>
+            12.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 itemprop="name" class="entry-title">Purple Primer</h4>
+<div itemprop="description" class="short-description">
+<ul>
+<li>Professional grade, aggressive primer for use on PVC and CPVC pipe and fittings</li>
+<li>Aggressive formulation softens pipe &amp; fittings prior to application of solvent cement</li>
+<li>Purple color enables visual confirmation that primer has been applied.</li>
+<li>For use with any Christys Solvent Cement, excluding ABS.</li>
+<li>Not for use on ABS pipe and fittings</li>
+</ul>
+<table class="tbl_fixed_details" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="252">Color:</td>
+<td width="446">Purple</td>
+</tr>
+<tr>
+<td>Body:</td>
+<td>Water Thin</td>
+</tr>
+<tr>
+<td>Maximum Pipe Diameter:</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Relative Set Time:</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Industry Performance Specifications:</td>
+<td>ASTM F-656<br>NSF/ANSI 14, NSF/ANSI 61</td>
+</tr>
+<tr>
+<td>SDS:</td>
+<td><span style="text-decoration: underline;"><a href="http://tchristy.com/wp-content/pdf/msds/RH%20CPRIM%20PURP%20SDS%2005-19-2016.pdf" target="_blank" rel="noopener noreferrer">View PDF</a></span></td>
+</tr>
+<tr>
+<td>Product Specification Sheet:</td>
+<td><span style="text-decoration: underline;"><a href="http://tchristy.com/wp-content/uploads/2017/05/Purple-Primer-PSS.pdf" target="_blank" rel="noopener noreferrer">View PDF</a></span></td>
+</tr>
+<tr>
+<td>Compare To:</td>
+<td>IPS P-70, Oatey Purple Primer</td>
+</tr>
+</tbody>
+</table>
+<p><strong><br>DIRECTIONS: The function of Christys® Purple Primer is to penetrate and soften the mating surfaces of plastic pipe and fittings to be solvent cemented. This may be considered an optional aid for small diameter piping up through 2� and recommended for sizes 2 1/2� and larger and for Schedule 80 and CPVC or where local codes specify a primer. Use within 3 years of date stamped on bottom of can. Do not use primer on ABS pipe or fittings.</strong></p>
+<p>1. To check penetration “ while still wet, scrape, scratch or abrade away a few thousandths of the primed surfaces to be bonded.<br>2. Use proper size applicator (dauber, brush, roller, swab) at least 1/2 the diameter of the pipe. Work into pipe in a scrubbing motion. Do not simply paint-on or wipe on/off with a rag. 3. Avoid puddling primer in joints and excess primer in bell end of pipe. Apply primer to female end first until totally wet and soft.<br>4. Apply to male end of pipe area equal to female end socket depth.<br>5. Reapply to female end.<br>6. Immediately and while surfaces are wet, apply appropriate Christy PVC/CPVC Cement following the instructions on cement can.<br>7. DO NOT TEST FINISHED JOINT WITH AIR. STORE BETWEEN 40ºF (4ºC) AND 110ºF (43ºC).</p>
+<p><strong>PRECAUTIONS: Do not handle until all safety precautions have been read and understood</strong><br>¢ Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking ¢ Obtain special instructions before use ¢ Do not eat, drink, or smoke when using this product ¢ Wear protective gloves/eye protection/face protection ¢ Wash hands thoroughly after handling ¢ Avoid breathing fumes/gas/vapours ¢ Use only outdoors or in a well-ventilated area ¢ Store in a well-ventilated place. Keep container tightly closed ¢ Store Locked up ¢ IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing ¢ IF EXPOSED or concerned: Get medical advice/ attention ¢ IF INHALED: Remove person to fresh air and keep comfortable for breathing ¢ IF SWALLOWED: Call a POISON CENTER/doctor if you feel unwell ¢ Do not induce vomiting. Rinse Mouth ¢ Dispose of contents/container in accordance with local regulations</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Christys</s:tag>
+    <s:tag>CATEGORY_Glue &amp; Primers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/3135381438564</id>
+      <title>RH-PURP-PT-12 | Pint Red Hot Purple Primer</title>
+      <s:price currency="USD">12.98</s:price>
+      <s:sku>RH.PURP.PT</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/3053246447716</id>
+    <published>2019-03-13T15:54:03-04:00</published>
+    <updated>2019-03-13T15:54:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/arrow-purple-primer-911"/>
+    <title>Arrow - 911-PP - Purple Primer (Pint)</title>
+    <s:type>Glue &amp; Primers</s:type>
+    <s:vendor>Arrow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/911a.jpg?v=1592939584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arrow<br>
+        <strong>Type: </strong>Glue &amp; Primers<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>911 is a Low-VOC, very aggressive and fast acting Primer for use on all classes and schedules of PVC and CPVC pipe and fittings.  The Primer will deeply penetrate and soften the joining surfaces of the pipe and fittings.</p>
+<ul>
+<li>Meets Low-VOC emission limit as outlined by South Coast Air Quality Management District (SCAQMD) 1168/316A and BAAQMD Method 40.</li>
+<li>Compliant with LEED® (Leadership in Energy and Environmental Design).  When using this Low-VOC product<b><span> </span></b>, can be claimed for LEED Green Building Rating System “ Indoor Environmental Quality.</li>
+<li>Listed by NSF International for compliance with ASTM F 656, the Uniform Plumbing Code (Purple only), NSF/ANSI Standard 14,  NSF/ANSI Standard 61 for use on potable water, drain, waste, vent and sewer applications (pw-G-dwv-sw) and NSF/ANSI Standard 372 ˜lead free.</li>
+<li>Premium formulation for use in all PVC and CPVC piping systems, specifically recommended for Schedule 80 and large diameter applications.  Ideal for use in cold weather applications.  Use of the purple color provides for easy identification that primer has been used on joining surfaces.</li>
+</ul>
+<h4>Documents</h4>
+<p><a href="https://arrowadhesives.com/wp-content/uploads/2014/04/911.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Product Data Sheet</span></a></p>
+<p><a href="https://arrowadhesives.com/wp-content/uploads/2014/04/911.SDS_.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Safety Data Sheet</span></a></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Arrow</s:tag>
+    <s:tag>CATEGORY_Glue &amp; Primers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/3053246447716</id>
+      <title>911-PP | Pint Purple Primer</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>911-PP</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/3053087260772</id>
+    <published>2019-03-13T15:07:32-04:00</published>
+    <updated>2019-03-13T15:07:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/arrow-pvc-cleaner-clear-901"/>
+    <title>Arrow - 901-P - PVC Cleaner, Clear (Pint)</title>
+    <s:type>Glue &amp; Primers</s:type>
+    <s:vendor>Arrow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/901a.jpg?v=1592939020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arrow<br>
+        <strong>Type: </strong>Glue &amp; Primers<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>901 is a Low-VOC, fast acting solvent cleaner  that cleans all classes and schedules of PVC, CPVC and ABS pipe and fittings.</p>
+<ul>
+<li>Meets Low-VOC emission limit as outlined by South Coast Air Quality Management District (SCAQMD) 1168/316A and BAAQMD Method 40.</li>
+<li>Compliant with LEED® (Leadership in Energy and Environmental Design).  When using this Low-VOC product<b><span> </span></b>, can be claimed for LEED Green Building Rating System “ Indoor Environmental Quality.</li>
+<li>Formulated to clean and remove the surface dirt, grease and oil from the pipe and fitting joining surfaces.</li>
+</ul>
+<h4>Documents</h4>
+<p><a href="https://arrowadhesives.com/wp-content/uploads/2014/04/901.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Product Data Sheet</span></a></p>
+<p><a href="https://arrowadhesives.com/wp-content/uploads/2014/04/901.SDS_.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Safety Data Sheet</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Arrow</s:tag>
+    <s:tag>CATEGORY_Glue &amp; Primers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/3053087260772</id>
+      <title>901-P | Pint Clear Cleaner</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>901-P</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/3052815908964</id>
+    <published>2019-03-13T14:26:29-04:00</published>
+    <updated>2019-03-13T14:26:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/arrow-medium-bodied-pvc-cement-1104mb"/>
+    <title>Arrow - 1104MB-P - Medium Bodied PVC Cement (Pint)</title>
+    <s:type>Glue &amp; Primers</s:type>
+    <s:vendor>Arrow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/1104MBa.jpg?v=1592939466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arrow<br>
+        <strong>Type: </strong>Glue &amp; Primers<br>
+        <strong>Price: </strong>
+            9.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1104MB is a medium bodied, fast setting PVC cement for use on all schedules and classes of PVC pipe and fittings up to 6'' diameter with interference fit;  Schedule 80 through 4'' diameter.</p>
+<ul>
+<li>Meets Low-VOC emission limit as outlined by South Coast Air Quality Management District (SCAQMD) 1168/316A and BAAQMD Method 40.</li>
+<li>Compliant with LEED® (Leadership in Energy and Environmental Design).  When using this Low-VOC product<b><span> </span></b>, can be claimed for LEED Green Building Rating System “ Indoor Environmental Quality.</li>
+<li>Listed by NSF International for compliance with ASTM D 2564, the Uniform Plumbing Code, NSF/ANSI Standard 14,  NSF/ANSI Standard 61 for use on potable water, drain, waste, vent and sewer applications (pw-G-dwv-sw) and NSF/ANSI Standard 372 ˜lead free.</li>
+<li>High-strength formulation for plumbing, irrigation, pool &amp; spa, conduit, sewer, drain, waste and vent piping systems.</li>
+</ul>
+<h4>Documents</h4>
+<p><a href="https://arrowadhesives.com/wp-content/uploads/2014/04/1104MB.pdf" target="_blank"><span style="text-decoration: underline;">Product Data Sheet</span></a></p>
+<p><a href="https://arrowadhesives.com/wp-content/uploads/2014/04/1104MB.SDS_.pdf" target="_blank"><span style="text-decoration: underline;">Safety Data Sheet</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Arrow</s:tag>
+    <s:tag>CATEGORY_Glue &amp; Primers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/3052815908964</id>
+      <title>1104MB-P | Pints Clear Medium Bodied</title>
+      <s:price currency="USD">9.53</s:price>
+      <s:sku>1104MB-P</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/3052652101732</id>
+    <published>2019-03-13T13:50:48-04:00</published>
+    <updated>2019-03-13T13:50:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/arrow-1-4-pt-pool-turf-blue-glue-1132-4"/>
+    <title>Arrow - 1132-P - Pool &amp; Turf Blue Glue (Pint)</title>
+    <s:type>Glue &amp; Primers</s:type>
+    <s:vendor>Arrow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/1132a.jpg?v=1592939206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arrow<br>
+        <strong>Type: </strong>Glue &amp; Primers<br>
+        <strong>Price: </strong>
+            11.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1132 Pool &amp; Turf is a medium bodied, EXTREMELY fast setting PVC cement for use on all schedules and classes of PVC pipe and fittings up to 6'' diameter with interference fit; Schedule 80 through 4'' diameter.</p>
+<ul>
+<li>Meets Low-VOC emission limit as outlined by South Coast Air Quality Management District (SCAQMD) 1168/316A and BAAQMD Method 40.</li>
+<li>Compliant with LEED® (Leadership in Energy and Environmental Design). When using this Low-VOC product<b><span> </span></b>, can be claimed for LEED Green Building Rating System “ Indoor Environmental Quality.</li>
+<li>Listed by NSF International for compliance with ASTM D 2564, the Uniform Plumbing Code, NSF/ANSI Standard 14, NSF/ANSI Standard 61 for use on potable water, drain, waste, vent and sewer applications (pw-G-dwv-sw) and NSF/ANSI Standard 372 ˜lead free.</li>
+<li>Premium PVC cement specifically formulated to cure extremely fast in wet conditions and/or where quick pressurization of piping system is required. Suitable for use on rigid and flex PVC piping systems.</li>
+</ul>
+<h4>Downloads</h4>
+<p><a href="https://arrowadhesives.com/wp-content/uploads/2014/04/1132.pdf" target="_blank"><span style="text-decoration: underline;">Product Data Sheet</span></a></p>
+<p><a href="https://arrowadhesives.com/wp-content/uploads/2014/04/1132.SDS_.pdf" target="_blank"><span style="text-decoration: underline;">Safety Data Sheet</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Arrow</s:tag>
+    <s:tag>CATEGORY_Glue &amp; Primers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/3052652101732</id>
+      <title>1132 | 1 Pt. Blue Glue</title>
+      <s:price currency="USD">11.89</s:price>
+      <s:sku>1132-P</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452773896292</id>
+    <published>2019-01-19T00:52:40-05:00</published>
+    <updated>2019-01-19T00:52:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/spears-m-66-p-3-4-mht-x-3-4-slip-adapter"/>
+    <title>Spears - M-66-P 3/4&apos;&apos; MHT x 3/4&apos;&apos; Slip Adapter</title>
+    <s:type>PVC Fittings</s:type>
+    <s:vendor>Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-680-2__89223.1519656869.1280.1280.jpg?v=1584809337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spears<br>
+        <strong>Type: </strong>PVC Fittings<br>
+        <strong>Price: </strong>
+            3.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Male Hose Thread x Slip</li>
+<li>This fitting has two connections in a straight line</li>
+<li>A schedule 40 fitting with male garden hose thread reducing to female solvent weld socket</li>
+<li>Smooth interior walls result in lower pressure loss and higher volume than conventional metal fittings</li>
+</ul>
+<dl id="collateral-tabs" class="collateral-tabs tab-list">
+<dd class="tab-container">
+<div class="tab-content">
+<div class="std">
+<p>This PVC coupling connects two pipes in consecutive order. It has male threads changing to female solvent weld socket. Pipe dimensions are represented as "connection one" x "connection two" displaying either the same or reducing sizes.</p>
+<p>Schedule 40 PVC pipes and fittings are suitable for cold-water pressure distribution systems including irrigation, pool and spa, and potable water systems. PVC can be connected to other materials such as steel, copper, or cast iron using transition fittings. All PVC schedule 40 fittings service temperatures up to 140°F (60°C) allowing a wide range of process applications. All PVC fittings meeting ASTM International D1784 and D2466 standards for quality assurance, and is certified by National Sanitation Foundation International (NSF) for potable water service.</p>
+<p>Unlike metal, PVC fittings never rust, scale, or pit and will provide many years of maintenance-free service and extended system life. PVC fittings are used for connecting, terminating, controlling flow, and changing the direction of piping in irrigation and drainage. PVC is generally inert to most mineral acids, bases, salts and parafinic hydrocarbon solutions. When purchasing pipe fittings, consider the application, as this will affect material type, shape, size and required durability. Fittings are available threaded or unthreaded, in many shapes, styles, and sizes</p>
+</div>
+</div>
+</dd>
+</dl>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Spears</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452773896292</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.23</s:price>
+      <s:sku>M-66-P</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452773437540</id>
+    <published>2019-01-19T00:52:39-05:00</published>
+    <updated>2019-01-19T00:52:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/spears-m-64-p-3-4-mht-x-1-2-slip-adapter"/>
+    <title>Spears - M-64-P 3/4&apos;&apos; MHT x 1/2&apos;&apos; Slip Adapter</title>
+    <s:type>PVC Fittings</s:type>
+    <s:vendor>Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-spears_m-64-p__10776.1536755487.1280.1280.jpg?v=1584809336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spears<br>
+        <strong>Type: </strong>PVC Fittings<br>
+        <strong>Price: </strong>
+            2.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Male Hose Thread x Slip</li>
+<li>This fitting has two connections in a straight line</li>
+<li>A schedule 40 fitting with male garden hose thread reducing to female solvent weld socket</li>
+<li>Smooth interior walls result in lower pressure loss and higher volume than conventional metal ï¬�ttings</li>
+</ul>
+<dl id="collateral-tabs" class="collateral-tabs tab-list">
+<dd class="tab-container">
+<div class="tab-content">
+<div class="std">
+<p>This PVC coupling connects two pipes in consecutive order. It has male threads changing to female solvent weld socket. Pipe dimensions are represented as "connection one" x "connection two" displaying either the same or reducing sizes.</p>
+<p>Schedule 40 PVC pipes and fittings are suitable for cold-water pressure distribution systems including irrigation, pool and spa, and potable water systems. PVC can be connected to other materials such as steel, copper, or cast iron using transition fittings. All PVC schedule 40 fittings service temperatures up to 140°F (60°C) allowing a wide range of process applications. All PVC fittings meeting ASTM International D1784 and D2466 standards for quality assurance, and is certified by National Sanitation Foundation International (NSF) for potable water service.</p>
+<p>Unlike metal, PVC fittings never rust, scale, or pit and will provide many years of maintenance-free service and extended system life. PVC fittings are used for connecting, terminating, controlling flow, and changing the direction of piping in irrigation and drainage. PVC is generally inert to most mineral acids, bases, salts and parafinic hydrocarbon solutions. When purchasing pipe fittings, consider the application, as this will affect material type, shape, size and required durability. Fittings are available threaded or unthreaded, in many shapes, styles, and sizes</p>
+</div>
+</div>
+</dd>
+</dl>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Spears</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452773437540</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.48</s:price>
+      <s:sku>M-64-P</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452773011556</id>
+    <published>2019-01-19T00:52:38-05:00</published>
+    <updated>2019-01-19T00:52:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/spears-8-sch80-pvc-van-stone-flange-socket-854-080"/>
+    <title>Spears - 8&apos;&apos; Sch80 PVC Van Stone Flange Socket - 854-080</title>
+    <s:type>PVC Fittings</s:type>
+    <s:vendor>Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12367__17644.1519759675.1280.1280.jpg?v=1584809336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spears<br>
+        <strong>Type: </strong>PVC Fittings<br>
+        <strong>Price: </strong>
+            114.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8  FLANGE SLIP, 854-080FT</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Spears</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452773011556</id>
+      <title>Default Title</title>
+      <s:price currency="USD">114.66</s:price>
+      <s:sku>854-080</s:sku>
+      <s:grams>3070</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452772749412</id>
+    <published>2019-01-19T00:52:36-05:00</published>
+    <updated>2019-01-19T00:52:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/spears-6-sch80-pvc-van-stone-flange-socket-854-060"/>
+    <title>Spears - 6&apos;&apos; Sch80 PVC Van Stone Flange Socket - 854-060</title>
+    <s:type>PVC Fittings</s:type>
+    <s:vendor>Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-671__01754.1520025143.1280.1280.jpg?v=1584809335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spears<br>
+        <strong>Type: </strong>PVC Fittings<br>
+        <strong>Price: </strong>
+            42.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 VANSTONE FLANGE S, 854-060</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Spears</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452772749412</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.67</s:price>
+      <s:sku>854-060</s:sku>
+      <s:grams>2115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452772356196</id>
+    <published>2019-01-19T00:52:35-05:00</published>
+    <updated>2019-01-19T00:52:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/spears-4-slip-fix-pvc-telescopic-repair-coupling-s118-40"/>
+    <title>Spears - 4&apos;&apos; Slip Fix PVC Telescopic Repair Coupling - S118-40</title>
+    <s:type>PVC Repair Fittings</s:type>
+    <s:vendor>Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-589__25179.1520284520.1280.1280.jpg?v=1584809335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spears<br>
+        <strong>Type: </strong>PVC Repair Fittings<br>
+        <strong>Price: </strong>
+            48.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p align="left" data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">REPAIR COUPLINGS </strong></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Multi-function Telescoping Design</span></li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1">Spigot x Socket Configuration for Replacing </span><span data-mce-fragment="1">Damaged Fittings</span>
+</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1">Both Configurations can be Easily Modified for </span><span data-mce-fragment="1">Opposite Use</span>
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Available in PVC White</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Double O-ring Seal in EPDM or high-grade FKM</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">1/2" - 2" Pressure Rated to 235 PSI @ 73°F (23°C)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">2-1/2" - 4” Pressure Rated to 200 PSI @ 73°F (23°C)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">6" Pressure Rated to 150 PSI @ 73°F (23°C)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">NSF® Certified for Potable Water Use</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Spears</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$40-60</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452772356196</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.98</s:price>
+      <s:sku>118-40</s:sku>
+      <s:grams>3022</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452772028516</id>
+    <published>2019-01-19T00:52:34-05:00</published>
+    <updated>2019-01-19T00:52:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/spears-4-sch80-pvc-van-stone-flange-socket-854-040"/>
+    <title>Spears - 4&apos;&apos; Sch80 PVC Van Stone Flange Socket - 854-040</title>
+    <s:type>PVC Fittings</s:type>
+    <s:vendor>Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-670__97044.1520025090.1280.1280.jpg?v=1584809334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spears<br>
+        <strong>Type: </strong>PVC Fittings<br>
+        <strong>Price: </strong>
+            21.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 VANSTONE FLANGE S, 854-040</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Spears</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452772028516</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>854-040</s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452771242084</id>
+    <published>2019-01-19T00:52:30-05:00</published>
+    <updated>2019-01-19T00:52:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/spears-3-slip-fix-pvc-telescopic-repair-coupling-s118-30"/>
+    <title>Spears - 3&apos;&apos; Slip Fix PVC Telescopic Repair Coupling - S118-30</title>
+    <s:type>PVC Repair Fittings</s:type>
+    <s:vendor>Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2017-03-01_17.46.46__97532.1520027860.1280.1280.jpg?v=1584809332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spears<br>
+        <strong>Type: </strong>PVC Repair Fittings<br>
+        <strong>Price: </strong>
+            29.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p align="left" data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">REPAIR COUPLINGS </strong></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Multi-function Telescoping Design</span></li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1">Spigot x Socket Configuration for Replacing </span><span data-mce-fragment="1">Damaged Fittings</span>
+</li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1">Both Configurations can be Easily Modified for </span><span data-mce-fragment="1">Opposite Use</span>
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Available in PVC White</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Double O-ring Seal in EPDM or high-grade FKM</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">1/2" - 2" Pressure Rated to 235 PSI @ 73°F (23°C)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">2-1/2" - 4” Pressure Rated to 200 PSI @ 73°F (23°C)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">6" Pressure Rated to 150 PSI @ 73°F (23°C)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">NSF® Certified for Potable Water Use</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Spears</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452771242084</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.98</s:price>
+      <s:sku>118-30</s:sku>
+      <s:grams>1894</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452770357348</id>
+    <published>2019-01-19T00:52:30-05:00</published>
+    <updated>2019-01-19T00:52:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/spears-3-sch80-pvc-van-stone-flange-socket-854-030"/>
+    <title>Spears - 3&apos;&apos; Sch80 PVC Van Stone Flange Socket - 854-030</title>
+    <s:type>PVC Fittings</s:type>
+    <s:vendor>Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/854-030-3.jpg?v=1622127082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spears<br>
+        <strong>Type: </strong>PVC Fittings<br>
+        <strong>Price: </strong>
+            17.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 VANSTONE FLANGE S, 854-030</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Spears</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452770357348</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>854-030</s:sku>
+      <s:grams>819</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452770127972</id>
+    <published>2019-01-19T00:52:28-05:00</published>
+    <updated>2019-01-19T00:52:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/spears-3-pvc-compression-coupling-cpc-3000"/>
+    <title>NDS - 3&apos;&apos; PVC Compression Coupling - CPC-3000</title>
+    <s:type>PVC Repair Fittings</s:type>
+    <s:vendor>NDS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2017-03-01_17.57.46__92796.1520028149.1280.1280.jpg?v=1584809331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NDS<br>
+        <strong>Type: </strong>PVC Repair Fittings<br>
+        <strong>Price: </strong>
+            30.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This compression coupler is excellent for use in repairing broken pipe or in applications where a permanent connection is not desired. PVC material for general irrigation and plumbing applications when connecting to Iron Pipe Size (IPS) pipe.</p>
+<p><strong>Features &amp; Benefits</strong></p>
+<ul>
+<li>Approved for hot and cold applications @ 100 psi @ 180 degree F.</li>
+<li>Meets/Exceed all applicable ASTM and ANSI standards.</li>
+<li>Made with PolyOne PVC material.</li>
+<li>Molded in the USA by KBI.</li>
+<li>NSF Standard 61 listed.</li>
+<li>Hi-strength Santoprene gaskets.</li>
+</ul>
+<p><a href="http://sprinklertalk.com/product_manuals/manuals/King%20Brothers/PVC-Compression-Coupling-CPC-Series-CPCxx.pdf" target="_blank">SPEC SHEET</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_NDS</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452770127972</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.64</s:price>
+      <s:sku>CPC3000</s:sku>
+      <s:grams>1383</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452769177700</id>
+    <published>2019-01-19T00:52:21-05:00</published>
+    <updated>2019-01-19T00:52:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/spears-3-4-short-slip-fix-pvc-repair-coupling-sh118-07"/>
+    <title>Spears - 3/4&apos;&apos; Short Slip Fix PVC Repair Coupling - SH118-07</title>
+    <s:type>PVC Repair Fittings</s:type>
+    <s:vendor>Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2017-03-01_16.52.24__02561.1520023892.1280.1280.jpg?v=1584809333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spears<br>
+        <strong>Type: </strong>PVC Repair Fittings<br>
+        <strong>Price: </strong>
+            4.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p align="left" data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">SHORT REPAIR COUPLINGS</strong></span></p>
+<span data-mce-fragment="1"><strong data-mce-fragment="1"></strong></span><span data-mce-fragment="1"></span><span data-mce-fragment="1"></span>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Compact Telescoping Design</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Spigot x Socket Configuration for Replacing Damaged Fittings</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Both Configurations can be Easily Modified for Opposite Use</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Available in PVC White, Sizes 1/2" - 2"</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">EPDM Double O-ring Seal</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Pressure Rated to 235 PSI @ 73°F (23°C)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">NSF® Certified for Potable Water Use</span></li>
+<li data-mce-fragment="1">Coupling for replacing damaged fittings</li>
+<li data-mce-fragment="1">PVC for corrosion resistance, high strength, and less weight than fittings made from metal</li>
+<li data-mce-fragment="1">EPDM seal for resistance to weathering, ozone, UV light, electricity, oils, water, steam, and some solvents</li>
+<li data-mce-fragment="1">Meets ASTM D2467 for quality assurance and NSF/ANSI Standard 61, Annex G for potable water</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Spears</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452769177700</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.79</s:price>
+      <s:sku>SH118-07</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452767375460</id>
+    <published>2019-01-19T00:52:16-05:00</published>
+    <updated>2019-01-19T00:52:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/spears-2-short-slip-fix-pvc-repair-coupling-sh118-20"/>
+    <title>Spears - 2&apos;&apos; Short Slip Fix PVC Repair Coupling - SH118-20</title>
+    <s:type>PVC Repair Fittings</s:type>
+    <s:vendor>Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2017-03-01_16.59.59__34094.1520024212.1280.1280.jpg?v=1584809327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spears<br>
+        <strong>Type: </strong>PVC Repair Fittings<br>
+        <strong>Price: </strong>
+            14.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p align="left" data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">SHORT REPAIR COUPLINGS</strong></span></p>
+<span data-mce-fragment="1"><strong data-mce-fragment="1"></strong></span><span data-mce-fragment="1"></span><span data-mce-fragment="1"></span>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Compact Telescoping Design</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Spigot x Socket Configuration for Replacing Damaged Fittings</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Both Configurations can be Easily Modified for Opposite Use</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Available in PVC White, Sizes 1/2" - 2"</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">EPDM Double O-ring Seal</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Pressure Rated to 235 PSI @ 73°F (23°C)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">NSF® Certified for Potable Water Use</span></li>
+<li data-mce-fragment="1">Coupling for replacing damaged fittings</li>
+<li data-mce-fragment="1">PVC for corrosion resistance, high strength, and less weight than fittings made from metal</li>
+<li data-mce-fragment="1">EPDM seal for resistance to weathering, ozone, UV light, electricity, oils, water, steam, and some solvents</li>
+<li data-mce-fragment="1">Meets ASTM D2467 for quality assurance and NSF/ANSI Standard 61, Annex G for potable water</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Spears</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452767375460</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.24</s:price>
+      <s:sku>SH118-20</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452766195812</id>
+    <published>2019-01-19T00:52:14-05:00</published>
+    <updated>2019-01-19T00:52:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/spears-2-sch80-pvc-van-stone-flange-socket-854-020"/>
+    <title>Spears - 2&apos;&apos; Sch80 PVC Van Stone Flange Socket - 854-020</title>
+    <s:type>PVC Fittings</s:type>
+    <s:vendor>Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-456__83336.1520025040.1280.1280.jpg?v=1584809326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spears<br>
+        <strong>Type: </strong>PVC Fittings<br>
+        <strong>Price: </strong>
+            12.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 VANSTONE FLANGE S, 854-020</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Spears</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452766195812</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.30</s:price>
+      <s:sku>854-020</s:sku>
+      <s:grams>153</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452765540452</id>
+    <published>2019-01-19T00:52:13-05:00</published>
+    <updated>2019-01-19T00:52:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/spears-2-sch80-pvc-solid-flange-threaded-852-020"/>
+    <title>Spears - 2&apos;&apos; Sch80 PVC Solid Flange Threaded - 852-020</title>
+    <s:type>PVC Fittings</s:type>
+    <s:vendor>Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-455__84008.1520024951.1280.1280.jpg?v=1584809326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spears<br>
+        <strong>Type: </strong>PVC Fittings<br>
+        <strong>Price: </strong>
+            19.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 COMP FLANGE T, 852-020</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Spears</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452765540452</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.33</s:price>
+      <s:sku>852-020</s:sku>
+      <s:grams>431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452765147236</id>
+    <published>2019-01-19T00:52:10-05:00</published>
+    <updated>2019-01-19T00:52:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/spears-2-sch80-pvc-male-adapter-mpt-x-socket-836-020"/>
+    <title>Spears - 2&apos;&apos; Sch80 PVC Male Adapter MPT x Socket - 836-020</title>
+    <s:type>PVC Fittings</s:type>
+    <s:vendor>Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IMG_4062__87675.1519221614.1280.1280.jpg?v=1584809325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spears<br>
+        <strong>Type: </strong>PVC Fittings<br>
+        <strong>Price: </strong>
+            14.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 MALE ADAPTER, 836-020</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Spears</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452765147236</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.88</s:price>
+      <s:sku>836-020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452764098660</id>
+    <published>2019-01-19T00:52:08-05:00</published>
+    <updated>2019-01-19T00:52:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/spears-2-pvc-sch40-insert-adapter-insert-x-ips-spigot-460-020"/>
+    <title>Spears - 2&apos;&apos; PVC Sch40 Insert Adapter Insert x IPS Spigot - 460-020</title>
+    <s:type>PVC Fittings</s:type>
+    <s:vendor>Spears</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1229__00495.1520024826.1280.1280.jpg?v=1584809325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spears<br>
+        <strong>Type: </strong>PVC Fittings<br>
+        <strong>Price: </strong>
+            3.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>460-020 - 2" PVC Schedule 40 Insert Adaptor Insert x IPS Spigot</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Spears</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452764098660</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.98</s:price>
+      <s:sku>460-020</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+</feed>

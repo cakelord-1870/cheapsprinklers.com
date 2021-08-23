@@ -1,0 +1,1686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/drip-irrigation.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2021-08-13T11:08:32-04:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/6621828284518</id>
+    <published>2021-08-13T11:08:32-04:00</published>
+    <updated>2021-08-13T11:08:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-adapter-3-4-fht-x-700-compression-15-005"/>
+    <title>DIG - Adapter 3/4&quot; FHT x .700&quot; Compression - 15-005</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/24-029_72c7d7f5-d69e-40dd-8e17-34b7ad9a60e4.jpg?v=1628867315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            1.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Features and Benefits</strong><span></span>
+<ul>
+<li>UV-resistant</li>
+<li>Color coded</li>
+<li>High impact plastic</li>
+<li>Secure and easy installation without glue or clamps</li>
+<li>Fits tubing with .700 OD</li>
+<li>3/4" FHT (Female Hose Thread) Compression Swivel Adapter</li>
+<li>15-005: .700 OD x 3/4 in. FHT</li>
+</ul>
+<strong>Specifications</strong><span></span>
+<ul>
+<li>Operating Pressure: Up to 60 PSI (5.5 BAR)</li>
+</ul>
+<strong>Materials</strong><span></span>
+<ul>
+<li>Body: ABS</li>
+<li>Inserts: Polycarbonate</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/6621828284518</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.24</s:price>
+      <s:sku>15-005</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/6576232104038</id>
+    <published>2021-05-13T14:22:37-04:00</published>
+    <updated>2021-05-13T14:22:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-3-4-mpt-male-adapter-x-17mm-barb-15-049"/>
+    <title>DIG - 3/4&apos;&apos; MPT Male Adapter x 17mm Barb - 15-049</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><span style="font-size: 1.4em;">Connects / Adapts 17mm drip tubing to 3/4" FNPT Thread Pipe</span></h5>
+<p>DIG's one-piece barbed fittings are constructed of corrosion-resistant, UV-protected poly acetal and can withstand the harsh environment, direct sun and the use of common chemicals in commercial landscape installations. Available in a wide range of configurations, the barbed fittings offer an economical approach to connecting Excel PC 16 and 17 mm dripline without tools, clamps or glues.</p>
+<h3>Features</h3>
+<ul>
+<li>High-impact plastic<br>
+</li>
+<li>Extra sharp barbed design for secure and easy installation of 16 mm and 17 mm drip tubing, emitter tubing and brown PC drip line</li>
+<li>Fits 16 mm and 17 mm dripline and 1/2" polyethylene drip tubing</li>
+<li>Available with a wide range of connections</li>
+<li>Made of high impact, high strength, durable and UV resistant plastic for long-life operation even in harsh conditions</li>
+<li>One-piece construction</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/6576232104038</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.42</s:price>
+      <s:sku>15-049</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4716046418022</id>
+    <published>2021-03-23T17:45:40-04:00</published>
+    <updated>2021-03-23T17:45:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-low-pressure-anti-leak-52-530-05"/>
+    <title>DIG - Low Pressure Anti-leak Device - 52-530-05</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/52-530-anti-leak-device-630px_af919b05-3b9c-4911-9b1c-cd0af3162a90.jpg?v=1614368583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            1.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's anti-leak device is a water pressure valve which opens and closes instantly when<br>pressure builds up. This action prevents the micro sprinklers or misters from dripping as a<br>result of the gradual increase or decrease in water pressure when opening and closing the<br>system. The anti-leak device can be used with all DIG products.</p>
+<p><strong>Applications</strong><br>"¢ Greenhouse irrigation and<br>misting systems<br>"¢ Seedling and rooting systems<br>"¢ Pulse irrigation to avoid air formation<br>in the pipe and the time required for<br>pressure to rise after each pulse<br>"¢ Slope irrigation to prevent the overflow of<br>water emptying the line when the water<br>is shut off</p>
+<p><br><strong>Features</strong><br>"¢ Designed with a stainless steel spring for<br>long-lasting, uniform operation<br>"¢ Can be connected to micro sprinkler,<br>mister or fogger from either side<br>"¢ Wide water passage for low maintenance<br>"¢ Prevents damage to sensitive plants<br>caused by dripping at the beginning and<br>end of each irrigation cycle<br>"¢ Pulse irrigation system to avoid air<br>formation in the pipe and in each pressure<br>rise in the system<br>"¢ Prevents overflow drain from the lateral<br>when water is shut off</p>
+<p><strong>Performance and </strong><strong>Technical Data</strong><br>"¢ Material: polyacetal body, silicon<br>diaphragm and stainless steel spring<br>"¢ Operating pressure: up to 65 PSI (4.5 BAR)<br>"¢ Local head loss against arrow direction:<br>18 GPH, 0.7 PSI (70 l/h, 0.05 BAR)<br>"¢ Local head loss against arrow direction:<br>28 GPH, 1.4 PSI (105 l/h, 0.10 BAR)<br>"¢ Press fit connection from male or<br>female side</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4716046418022</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.45</s:price>
+      <s:sku>52-530-05</s:sku>
+      <s:grams>430</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4775663534182</id>
+    <published>2021-03-23T17:40:38-04:00</published>
+    <updated>2021-03-23T17:40:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-labyrinth-arrow-stake-for-1-8-tubing-16-027"/>
+    <title>DIG - Labyrinth Arrow Stake for 1/8&quot; Tubing - 16-027</title>
+    <s:type>Drip Stakes</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16-027_200.jpg?v=1592939155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Stakes<br>
+        <strong>Price: </strong>
+            0.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Features</h3>
+<ul>
+<li>High-impact plastic<br>
+</li>
+<li>UV-resistant<br>
+</li>
+<li>Stake with flow adjustment available with 10/32" thread<br>
+</li>
+<li>Flow rate on stake is adjustable to off<br>
+</li>
+<li>For secure and easy installation of 1/2" polyethylene and 1/4" distribution tubing</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4775663534182</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.17</s:price>
+      <s:sku>16-027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4715991269478</id>
+    <published>2021-03-23T17:40:37-04:00</published>
+    <updated>2021-03-23T17:40:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-exl-fogger-series-500-single-fogger-assembly-on-1-2-fnpt-base-50-501-xx-0"/>
+    <title>DIG - EXL Fogger Series 500 - Single fogger assembly on 1/2&apos;&apos; FNPT base - 50-501-xx-0</title>
+    <s:type>Drip Emitters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/Capture4.png?v=1592938479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Emitters<br>
+        <strong>Price: </strong>
+            1.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The EXL 500 series low flow fogger heads used for cooling and humidifying<br>produce micro-sized droplets. Design flexibility is achieved with<br>interchangeable nozzles to maximize the cooling and humidifying options.<br>DIG'S EXL 50-500-xx fogger can significantly reduce the temperature inside<br>greenhouses to maintain ideal temperature and humidity.</p>
+<p><strong>Applications</strong><br>"¢ Mist cooling and humidifying<br>"¢ Root development</p>
+<p><br><strong>Features</strong><br>"¢ Incorporates a vortex mechanism, breaking<br>the water into micro-sized droplets<br>"¢ Used for overhead cooling and humidifying<br>in a closed structure<br>"¢ Interchangeable color coded nozzles<br>"¢ Can be used on an anti-leak device with<br>one, four fogging head assemblies<br>"¢ Designed without a bridge to prevent<br>dripping<br>"¢ Three part construction with O-ring for<br>a tight seal<br>"¢ Manufactured from superior durable plastics<br>for extended life operation<br>"¢ Available on 1„2" or 3„8" threaded base or<br>completely assembled with 24" (60 cm)<br>with 160 ID x .270 OD micro tubing, weight<br>and anti-leak device</p>
+<p><strong>Performance and Technical Data</strong><br>"¢ Material male and female body: polybutylene<br>(PB); O-ring: Buna N; nozzle: acetal<br>"¢ Operating pressure: 35 to 80 psi<br>(2.4 -5.5 BAR)<br>"¢ Nominal flow rate at 50 PSI (3.5 BAR)<br>"¢ Pattern: 360°<br>"¢ Trajectory angle: approximately 30-35°<br>"¢ Average droplet size is 50-100 microns<br>"¢ Filter requirements: flow up<br>to 1.5 GPH (6 l/h) minimum of 200 mesh<br>(80 microns), 2 GPH (8 l/h) and 155 mesh<br>(100 micron)<br>"¢ Used only with anti-leak<br>model 52-530-x</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4715991269478</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.18</s:price>
+      <s:sku>50-501-xx-0</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4716044976230</id>
+    <published>2021-03-23T17:40:36-04:00</published>
+    <updated>2021-03-23T17:40:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-high-pressure-anti-leak-52-530-10"/>
+    <title>DIG - High Pressure Anti-leak Device - 52-530-10</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/52-530-anti-leak-device-630px.jpg?v=1614368571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            1.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's anti-leak device is a water pressure valve which opens and closes instantly when<br>pressure builds up. This action prevents the micro sprinklers or misters from dripping as a<br>result of the gradual increase or decrease in water pressure when opening and closing the<br>system. The anti-leak device can be used with all DIG products.</p>
+<p><strong>Applications</strong><br>"¢ Greenhouse irrigation and<br>misting systems<br>"¢ Seedling and rooting systems<br>"¢ Pulse irrigation to avoid air formation<br>in the pipe and the time required for<br>pressure to rise after each pulse<br>"¢ Slope irrigation to prevent the overflow of<br>water emptying the line when the water<br>is shut off</p>
+<p><br><strong>Features</strong><br>"¢ Designed with a stainless steel spring for<br>long-lasting, uniform operation<br>"¢ Can be connected to micro sprinkler,<br>mister or fogger from either side<br>"¢ Wide water passage for low maintenance<br>"¢ Prevents damage to sensitive plants<br>caused by dripping at the beginning and<br>end of each irrigation cycle<br>"¢ Pulse irrigation system to avoid air<br>formation in the pipe and in each pressure<br>rise in the system<br>"¢ Prevents overflow drain from the lateral<br>when water is shut off</p>
+<p><strong>Performance and </strong><strong>Technical Data</strong><br>"¢ Material: polyacetal body, silicon<br>diaphragm and stainless steel spring<br>"¢ Operating pressure: up to 65 PSI (4.5 BAR)<br>"¢ Local head loss against arrow direction:<br>18 GPH, 0.7 PSI (70 l/h, 0.05 BAR)<br>"¢ Local head loss against arrow direction:<br>28 GPH, 1.4 PSI (105 l/h, 0.10 BAR)<br>"¢ Press fit connection from male or<br>female side</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4716044976230</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.45</s:price>
+      <s:sku>52-530-10</s:sku>
+      <s:grams>430</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4715999330406</id>
+    <published>2021-03-23T17:40:35-04:00</published>
+    <updated>2021-03-23T17:40:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-exl-fogger-series-500-4-way-fogger-assembly-with-36-micro-tubing-270-od-barb-and-weight-50-504-xx-36"/>
+    <title>DIG - EXL Fogger Series 500 - 4-way fogger assembly with 36&apos;&apos; micro tubing, .270 OD barb and weight - 50-504-xx-36</title>
+    <s:type>Drip Emitters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/Capture4_198ba026-91a6-455a-88ae-0713b3d6adc9.png?v=1592938972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Emitters<br>
+        <strong>Price: </strong>
+            5.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The EXL 500 series low flow fogger heads used for cooling and humidifying<br>produce micro-sized droplets. Design flexibility is achieved with<br>interchangeable nozzles to maximize the cooling and humidifying options.<br>DIG'S EXL 50-500-xx fogger can significantly reduce the temperature inside<br>greenhouses to maintain ideal temperature and humidity.</p>
+<p><strong>Applications</strong><br>"¢ Mist cooling and humidifying<br>"¢ Root development</p>
+<p><br><strong>Features</strong><br>"¢ Incorporates a vortex mechanism, breaking<br>the water into micro-sized droplets<br>"¢ Used for overhead cooling and humidifying<br>in a closed structure<br>"¢ Interchangeable color coded nozzles<br>"¢ Can be used on an anti-leak device with<br>one, four fogging head assemblies<br>"¢ Designed without a bridge to prevent<br>dripping<br>"¢ Three part construction with O-ring for<br>a tight seal<br>"¢ Manufactured from superior durable plastics<br>for extended life operation<br>"¢ Available on 1„2" or 3„8" threaded base or<br>completely assembled with 24" (60 cm)<br>with 160 ID x .270 OD micro tubing, weight<br>and anti-leak device</p>
+<p><strong>Performance and Technical Data</strong><br>"¢ Material male and female body: polybutylene<br>(PB); O-ring: Buna N; nozzle: acetal<br>"¢ Operating pressure: 35 to 80 psi<br>(2.4 -5.5 BAR)<br>"¢ Nominal flow rate at 50 PSI (3.5 BAR)<br>"¢ Pattern: 360°<br>"¢ Trajectory angle: approximately 30-35°<br>"¢ Average droplet size is 50-100 microns<br>"¢ Filter requirements: flow up<br>to 1.5 GPH (6 l/h) minimum of 200 mesh<br>(80 microns), 2 GPH (8 l/h) and 155 mesh<br>(100 micron)<br>"¢ Used only with anti-leak<br>model 52-530-x</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4715999330406</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.51</s:price>
+      <s:sku>50-504-xx-36</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4715998019686</id>
+    <published>2021-03-23T17:40:35-04:00</published>
+    <updated>2021-03-23T17:40:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-exl-fogger-series-500-4-way-fogger-assembly-with-24-micro-tubing-270-od-barb-and-weight-50-504-xx-24"/>
+    <title>DIG - EXL Fogger Series 500 - 4-way fogger assembly with 24&apos;&apos; micro tubing, .270 OD barb and weight - 50-504-xx-24</title>
+    <s:type>Drip Emitters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/Capture4_69d477df-9f06-4d9e-876f-322924caef17.png?v=1592938477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Emitters<br>
+        <strong>Price: </strong>
+            5.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The EXL 500 series low flow fogger heads used for cooling and humidifying<br>produce micro-sized droplets. Design flexibility is achieved with<br>interchangeable nozzles to maximize the cooling and humidifying options.<br>DIG'S EXL 50-500-xx fogger can significantly reduce the temperature inside<br>greenhouses to maintain ideal temperature and humidity.</p>
+<p><strong>Applications</strong><br>"¢ Mist cooling and humidifying<br>"¢ Root development</p>
+<p><br><strong>Features</strong><br>"¢ Incorporates a vortex mechanism, breaking<br>the water into micro-sized droplets<br>"¢ Used for overhead cooling and humidifying<br>in a closed structure<br>"¢ Interchangeable color coded nozzles<br>"¢ Can be used on an anti-leak device with<br>one, four fogging head assemblies<br>"¢ Designed without a bridge to prevent<br>dripping<br>"¢ Three part construction with O-ring for<br>a tight seal<br>"¢ Manufactured from superior durable plastics<br>for extended life operation<br>"¢ Available on 1„2" or 3„8" threaded base or<br>completely assembled with 24" (60 cm)<br>with 160 ID x .270 OD micro tubing, weight<br>and anti-leak device</p>
+<p><strong>Performance and Technical Data</strong><br>"¢ Material male and female body: polybutylene<br>(PB); O-ring: Buna N; nozzle: acetal<br>"¢ Operating pressure: 35 to 80 psi<br>(2.4 -5.5 BAR)<br>"¢ Nominal flow rate at 50 PSI (3.5 BAR)<br>"¢ Pattern: 360°<br>"¢ Trajectory angle: approximately 30-35°<br>"¢ Average droplet size is 50-100 microns<br>"¢ Filter requirements: flow up<br>to 1.5 GPH (6 l/h) minimum of 200 mesh<br>(80 microns), 2 GPH (8 l/h) and 155 mesh<br>(100 micron)<br>"¢ Used only with anti-leak<br>model 52-530-x</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4715998019686</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.24</s:price>
+      <s:sku>50-504-xx-24</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4715995922534</id>
+    <published>2021-03-23T17:40:34-04:00</published>
+    <updated>2021-03-23T17:40:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-exl-fogger-series-500-4-way-fogger-assembly-with-12-micro-tubing-270-od-barb-and-weight-50-504-xx-12"/>
+    <title>DIG - EXL Fogger Series 500 - 4-way fogger assembly with 12&apos;&apos; micro tubing, .270 OD barb and weight - 50-504-xx-12</title>
+    <s:type>Drip Emitters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/Capture4_9e46795d-bf74-43c4-9fd4-c86668e68e3b.png?v=1592938476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Emitters<br>
+        <strong>Price: </strong>
+            5.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The EXL 500 series low flow fogger heads used for cooling and humidifying<br>produce micro-sized droplets. Design flexibility is achieved with<br>interchangeable nozzles to maximize the cooling and humidifying options.<br>DIG'S EXL 50-500-xx fogger can significantly reduce the temperature inside<br>greenhouses to maintain ideal temperature and humidity.</p>
+<p><strong>Applications</strong><br>"¢ Mist cooling and humidifying<br>"¢ Root development</p>
+<p><br><strong>Features</strong><br>"¢ Incorporates a vortex mechanism, breaking<br>the water into micro-sized droplets<br>"¢ Used for overhead cooling and humidifying<br>in a closed structure<br>"¢ Interchangeable color coded nozzles<br>"¢ Can be used on an anti-leak device with<br>one, four fogging head assemblies<br>"¢ Designed without a bridge to prevent<br>dripping<br>"¢ Three part construction with O-ring for<br>a tight seal<br>"¢ Manufactured from superior durable plastics<br>for extended life operation<br>"¢ Available on 1„2" or 3„8" threaded base or<br>completely assembled with 24" (60 cm)<br>with 160 ID x .270 OD micro tubing, weight<br>and anti-leak device</p>
+<p><strong>Performance and Technical Data</strong><br>"¢ Material male and female body: polybutylene<br>(PB); O-ring: Buna N; nozzle: acetal<br>"¢ Operating pressure: 35 to 80 psi<br>(2.4 -5.5 BAR)<br>"¢ Nominal flow rate at 50 PSI (3.5 BAR)<br>"¢ Pattern: 360°<br>"¢ Trajectory angle: approximately 30-35°<br>"¢ Average droplet size is 50-100 microns<br>"¢ Filter requirements: flow up<br>to 1.5 GPH (6 l/h) minimum of 200 mesh<br>(80 microns), 2 GPH (8 l/h) and 155 mesh<br>(100 micron)<br>"¢ Used only with anti-leak<br>model 52-530-x</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4715995922534</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.22</s:price>
+      <s:sku>50-504-xx-12</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4775617757286</id>
+    <published>2021-03-23T17:40:31-04:00</published>
+    <updated>2021-03-23T17:40:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-adjustable-stake-w-10-32-thread-16-043"/>
+    <title>DIG - Adjustable Stake w/ 10/32 thread - 16-043</title>
+    <s:type>Drip Emitters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16-043_200.jpg?v=1592939366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Emitters<br>
+        <strong>Price: </strong>
+            0.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Features</h3>
+<ul>
+<li>High-impact plastic<br>
+</li>
+<li>UV-resistant<br>
+</li>
+<li>Stake with flow adjustment available with 10/32" thread<br>
+</li>
+<li>Flow rate on stake is adjustable to off<br>
+</li>
+<li>For secure and easy installation of 1/2" polyethylene and 1/4" distribution tubing</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4775617757286</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.75</s:price>
+      <s:sku>16-043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4749238435942</id>
+    <published>2021-03-23T17:40:30-04:00</published>
+    <updated>2021-03-23T17:40:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-90-jet-sprayer-on-10-32-thread-07-001"/>
+    <title>DIG - 90° Jet Sprayer on 10/32 thread - 07-001</title>
+    <s:type>Drip Emitters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/Jet-Sprayers_277.png?v=1592938478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Emitters<br>
+        <strong>Price: </strong>
+            0.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's Micro Sprayers are available in 90°, 180° and 360° spray patterns with a flow rate of up to 14.7 gallons per hour at 30 PSI. Producing a fine spray in a range of patterns, the micro sprayers can cover areas from a 5.9' radius to 19.8' in full diameter, depending on spray pattern. The low-precipitation-rate micro sprayers can be used for low-flow overhead irrigation or for an area where drip emitters or conventional sprinkler systems are not practical.</p>
+<h3>Features</h3>
+<ul>
+<li>Available in 90°, 180° and 360° spray patterns</li>
+<li>Available on 10/3 thread and assembled on a 13" press fit stake with 24" (.160 ID x .270 OD) micro tubing and a 1/4" barb</li>
+<li>Two-piece construction, consisting of a color coded spray cap and threaded base</li>
+<li>Low flow with fine spray pattern</li>
+<li>Color-coded spray caps signify various spray patterns for easy identification</li>
+<li>Removable cap for easy cleaning</li>
+<li>Use with 1/4" distribution tubing (.150"-.160" ID)</li>
+<li>Constructed of UV-resistant, durable plastic material</li>
+</ul>
+<h3>Specifications</h3>
+<ul>
+<li>Operating pressure range: 15 to 30 PSI (1-2 BAR)</li>
+<li>Flow rate: 10.5 - 14.7 GPH (L/H)</li>
+<li>Coverage: up to 19.8' (m)</li>
+<li>Pattern: 360°, 180° and 90°</li>
+<li>Base: 10/32 thread</li>
+<li>Orifice size: .031"</li>
+<li>Filter requirement: minimum of 120 mesh</li>
+<li>Recommended micro sprayer spacing: 4' to 8' apart</li>
+<li>Material: high-impact plastic</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4749238435942</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.27</s:price>
+      <s:sku>07-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4749145636966</id>
+    <published>2021-03-23T17:40:30-04:00</published>
+    <updated>2021-03-23T17:40:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-90-head-1-4-barbed-inlet-8-pop-up-micro-sprayer-mp-804"/>
+    <title>DIG - 8&apos;&apos; Pop-Up 90° Micro Sprayer w/ 1/4&apos;&apos; Barbed Inlet - MP-804</title>
+    <s:type>Drip Emitters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/micro-sprayer_340_7a63ed66-c205-477e-abbc-95b82d2c48d6.png?v=1592938810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Emitters<br>
+        <strong>Price: </strong>
+            3.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's versatile MP series 8" and 12" Pop-Up Micro Sprayers are available with 360°, 180° and 90° spray heads for a wide range of landscape applications where low pressure and low application rate are preferred. The MP series pop up micro sprayers can extend above the ground when the system is turned on and pressurized and retracts when not in use, providing a clean, aesthetic look. The MP series pop-up micro sprayers are an excellent choice to irrigate densely planted areas such as flower beds and groundcover and are frequently installed adjacent to pathways or other high traffic areas. The unique design features a pressure activated, low-friction upper stem seal, combined with a second stage piston seal to ensure leak- proof positive sealing for reliable operation and long-term performance.</p>
+<h3>Features</h3>
+<ul>
+<li>8" and 12" pop-up lengths with 1/4" (4 mm) barbed elbow or 1/2" MNPT</li>
+<li>Available with 360°, 180° and 90° threaded spray heads</li>
+<li>Unique design incorporates a pressure-activated, low-friction, upper-stem seal and second stage piston seal, ensuring positive sealing</li>
+<li>Can be used with all sizes of polyethylene tubing using the 1/4" barbed elbow with micro tubing with .150 to .170 ID.</li>
+<li>Three color-coded spray nozzles for easy identification</li>
+<li>Constructed of UV-resistant, durable plastic material to withstand the most adverse conditions</li>
+<li>Filter requirement: minimum of 80 mesh</li>
+</ul>
+<h3>Specifications</h3>
+<ul>
+<li>Flow rate: .15-.63 GPM (34-143 L/H)<br>
+</li>
+<li>Operating pressure: 15-30 PSI (1-2.1 BAR)<br>
+</li>
+<li>Nominal operating pressure: 30 PSI (2.1 BAR)<br>
+</li>
+<li>Wetting diameter: up to 11.2' (3.4 m)</li>
+<li>Orifices sizes: .30-.80"</li>
+<li>Filter requirement: minimum of 80 mesh</li>
+<li>Inlet size: 1/2" MNPT thread or 1/4" barbed side outlet<br>
+</li>
+<li>Materials:<br>
+<ul>
+<li>Body and piston: semi-rigid polypropylene<br>
+</li>
+<li>Seals: EPDM and vinyl<br>
+</li>
+<li>Base: high-impact plastic<br>
+</li>
+<li>Spring: stainless steel 304</li>
+</ul>
+</li>
+</ul>
+<h3>Dimensions</h3>
+<ul>
+<li>Pop-up height:<br>
+<ul>
+<li>8" (20.3 cm) or when up 13" (33 cm)<br>
+</li>
+<li>12" (30.5 cm) or when up 21" (53.34 cm)</li>
+</ul>
+</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4749145636966</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.25</s:price>
+      <s:sku>MP-804</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4995530752102</id>
+    <published>2021-03-23T17:40:29-04:00</published>
+    <updated>2021-03-23T17:40:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-excel-pcd-cv-17-mm-dripline-w-check-valve-18-spacing-6-gph-670-od-500-a5-518p-cv"/>
+    <title>Dig - 17mm Excel PCD Dripline w/ Check Valve; 18&quot; Spacing x 500&apos; (Brown) .6 GPH - A5-518P-CV</title>
+    <s:type>Drip Tubing</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/DIG-excel-pc-dripline-white-stripe_79c11e2a-a957-4cf9-b213-040844d0bb2f.jpg?v=1609357349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tubing<br>
+        <strong>Price: </strong>
+            204.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">DIG's Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve for subsurface irrigation is a reliable, durable and precise pressure compensating dripline used for narrow or dense plantings. The dripline's cylindrical drip emitters have built in check valves to prevent siphoning when water pressure drops below 2.5 PSI. This feature protects the inline emitters from sediment, soil particles and debris entering the dripline. Each cylindrical drip emitter's floating diaphragm regulates and maintains a consistent flow rate at variable inlet pressures ranging from 12 to 50 PSI in a wide range of demanding conditions. Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve provides a colored stripe for each flow rate and unlike other dripline with only a single outlet, Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve has two outlets per emitter. If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance. The Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve is made of premium low-density polyethylene resins with UV protection and large, tough cylindrical drip emitters, offering a combination of outstanding environmental stress-cracking resistance and burst strength with anti-siphoning capability for subsurface irrigation applications.</span></p>
+<p><span style="text-decoration: underline;"><strong>Features</strong></span></p>
+<lh>Features</lh>
+<ul>
+<li>Can be installed above or below grade</li>
+<li>Inline emitter check valves prevent drainage from the dripline when water pressure drops below 2.5 PSI, protecting the emitters against the siphoning of small sediment and soil particles into the drip emitter</li>
+<li>Two outlets per emitter; If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance</li>
+<li>Available in two flow rates, a wide range of emitters spacing and a wide range of drip tubing lengths to provide maximum design flexibility in a variety of applications</li>
+<li>Available with double stripes colored codes, representing the drip line flow rates</li>
+<li>Pressure compensating feature provides flow uniformity regardless of operating pressure and variation along the line</li>
+<li>Drip emitter and diaphragm are self-contained units molded to the interior wall of the tubing</li>
+<li>Flow path design supports superior clogging resistance</li>
+<li>Turbulent flow through large labyrinth water passages leads water into the flow control chamber where a sensitive floating silicon diaphragm regulates and maintains a constant flow rate at variable inlet pressures. The self-flushing silicon diaphragm allows pressure to build up within the chamber and flush any debris not captured by the inlet filter.</li>
+<li>Dripline includes one inlet and two outlets per each emitter</li>
+<li>Intake inlet has a number of raised grooves that act as a secondary filter. The filter intake area is continuously flushed by water flow throughout the operation of the system, preventing particles from entering the labyrinth and giving the drip emitter its resistance to clogging.</li>
+<li>Check valve and dual, oppositely oriented directional outlets act as a physical barrier to root and debris intrusion</li>
+<li>Resistant to chemicals and fertilizers commonly used in landscaping</li>
+<li>Protected against UV degradation</li>
+<li>Flexible tubing for easy installation</li>
+<li>Dripline is printed with the flow rate and size for easy identification</li>
+<li>Use with DIG's 17 mm barb fittings, .670" OD compression fittings and universal Nut Lock fittings</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Specifications</strong></span></p>
+<lh>Specifications</lh>
+<ul>
+<li>Flow rates:
+<ul>
+<li>.6 GPH (2.3 L/H) drip emitter color code - orange</li>
+<li>Drip line double stripe code - beige</li>
+<li>1 GPH (3.8 L/H) drip emitter color code - gray</li>
+<li>Drip line double stripe code - gray</li>
+</ul>
+</li>
+<li>Operating pressure: 12-50 PSI (.8-3.5 BAR)</li>
+<li>Check valve sealing pressure: 2.5 PSI (.17 BAR)</li>
+<li>Check valve opening pressure: 4.3 PSI (.3 BAR)</li>
+<li>Materials: Dow FINGERPRINT DFDA-7510 NT linear low-density polyethylene resin with a minimum of 2% carbon black</li>
+<li>Dripline color: brown</li>
+<li>Size: 1/2" (.570" ID x .670" OD)(14.5 mm ID x 17 mm OD)</li>
+<li>Available in 100', 250', 500' and 1000' coils (30 m, 75 m,150 m and 300 m)</li>
+<li>Minimum bending radius: 1' (.3 m)</li>
+<li>Filter requirement: minimum of 150 mesh</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/37/41-021_REVD-EXCELPCCV-112917-W.pdf" target="_blank" rel="noopener noreferrer"><strong>Cut Sheet</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Tubing &amp; Dripline</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Dripline</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4995530752102</id>
+      <title>Default Title</title>
+      <s:price currency="USD">204.66</s:price>
+      <s:sku>A5-518P-CV</s:sku>
+      <s:grams>9666</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4995529867366</id>
+    <published>2021-03-23T17:40:29-04:00</published>
+    <updated>2021-03-23T17:40:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-excel-pcd-cv-17-mm-dripline-w-check-valve-18-spacing-1-gph-670-od-500-a1-518p-cv"/>
+    <title>Dig - 17mm Excel PCD Dripline w/ Check Valve; 18&quot; Spacing x 500&apos; (Brown) 1 GPH - A1-518P-CV</title>
+    <s:type>Drip Tubing</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/DIG-excel-pc-dripline-white-stripe_7ed86df3-1ab9-462d-bc21-cc293ef3a9f9.jpg?v=1609357208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tubing<br>
+        <strong>Price: </strong>
+            204.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">DIG's Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve for subsurface irrigation is a reliable, durable and precise pressure compensating dripline used for narrow or dense plantings. The dripline's cylindrical drip emitters have built in check valves to prevent siphoning when water pressure drops below 2.5 PSI. This feature protects the inline emitters from sediment, soil particles and debris entering the dripline. Each cylindrical drip emitter's floating diaphragm regulates and maintains a consistent flow rate at variable inlet pressures ranging from 12 to 50 PSI in a wide range of demanding conditions. Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve provides a colored stripe for each flow rate and unlike other dripline with only a single outlet, Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve has two outlets per emitter. If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance. The Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve is made of premium low-density polyethylene resins with UV protection and large, tough cylindrical drip emitters, offering a combination of outstanding environmental stress-cracking resistance and burst strength with anti-siphoning capability for subsurface irrigation applications.</span></p>
+<p><span style="text-decoration: underline;"><strong>Features</strong></span></p>
+<lh>Features</lh>
+<ul>
+<li>Can be installed above or below grade</li>
+<li>Inline emitter check valves prevent drainage from the dripline when water pressure drops below 2.5 PSI, protecting the emitters against the siphoning of small sediment and soil particles into the drip emitter</li>
+<li>Two outlets per emitter; If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance</li>
+<li>Available in two flow rates, a wide range of emitters spacing and a wide range of drip tubing lengths to provide maximum design flexibility in a variety of applications</li>
+<li>Available with double stripes colored codes, representing the drip line flow rates</li>
+<li>Pressure compensating feature provides flow uniformity regardless of operating pressure and variation along the line</li>
+<li>Drip emitter and diaphragm are self-contained units molded to the interior wall of the tubing</li>
+<li>Flow path design supports superior clogging resistance</li>
+<li>Turbulent flow through large labyrinth water passages leads water into the flow control chamber where a sensitive floating silicon diaphragm regulates and maintains a constant flow rate at variable inlet pressures. The self-flushing silicon diaphragm allows pressure to build up within the chamber and flush any debris not captured by the inlet filter.</li>
+<li>Dripline includes one inlet and two outlets per each emitter</li>
+<li>Intake inlet has a number of raised grooves that act as a secondary filter. The filter intake area is continuously flushed by water flow throughout the operation of the system, preventing particles from entering the labyrinth and giving the drip emitter its resistance to clogging.</li>
+<li>Check valve and dual, oppositely oriented directional outlets act as a physical barrier to root and debris intrusion</li>
+<li>Resistant to chemicals and fertilizers commonly used in landscaping</li>
+<li>Protected against UV degradation</li>
+<li>Flexible tubing for easy installation</li>
+<li>Dripline is printed with the flow rate and size for easy identification</li>
+<li>Use with DIG's 17 mm barb fittings, .670" OD compression fittings and universal Nut Lock fittings</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Specifications</strong></span></p>
+<lh>Specifications</lh>
+<ul>
+<li>Flow rates:
+<ul>
+<li>.6 GPH (2.3 L/H) drip emitter color code - orange</li>
+<li>Drip line double stripe code - beige</li>
+<li>1 GPH (3.8 L/H) drip emitter color code - gray</li>
+<li>Drip line double stripe code - gray</li>
+</ul>
+</li>
+<li>Operating pressure: 12-50 PSI (.8-3.5 BAR)</li>
+<li>Check valve sealing pressure: 2.5 PSI (.17 BAR)</li>
+<li>Check valve opening pressure: 4.3 PSI (.3 BAR)</li>
+<li>Materials: Dow FINGERPRINT DFDA-7510 NT linear low-density polyethylene resin with a minimum of 2% carbon black</li>
+<li>Dripline color: brown</li>
+<li>Size: 1/2" (.570" ID x .670" OD)(14.5 mm ID x 17 mm OD)</li>
+<li>Available in 100', 250', 500' and 1000' coils (30 m, 75 m,150 m and 300 m)</li>
+<li>Minimum bending radius: 1' (.3 m)</li>
+<li>Filter requirement: minimum of 150 mesh</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/37/41-021_REVD-EXCELPCCV-112917-W.pdf" target="_blank" rel="noopener noreferrer"><strong>Cut Sheet</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Tubing &amp; Dripline</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Dripline</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4995529867366</id>
+      <title>Default Title</title>
+      <s:price currency="USD">204.66</s:price>
+      <s:sku>A1-518P-CV</s:sku>
+      <s:grams>9666</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4995527966822</id>
+    <published>2021-03-23T17:40:29-04:00</published>
+    <updated>2021-03-23T17:40:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-excel-pcd-cv-17-mm-dripline-w-check-valve-18-spacing-1-gph-670-od-250-a1-218p-cv"/>
+    <title>Dig - 17mm Excel PCD Dripline w/ Check Valve; 18&quot; Spacing x 250&apos; (Brown) 1 GPH - A1-218P-CV</title>
+    <s:type>Drip Tubing</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/DIG-excel-pc-dripline-white-stripe_2f5d2231-157b-4e94-9598-73beac604f8e.jpg?v=1609356996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tubing<br>
+        <strong>Price: </strong>
+            103.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">DIG's Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve for subsurface irrigation is a reliable, durable and precise pressure compensating dripline used for narrow or dense plantings. The dripline's cylindrical drip emitters have built in check valves to prevent siphoning when water pressure drops below 2.5 PSI. This feature protects the inline emitters from sediment, soil particles and debris entering the dripline. Each cylindrical drip emitter's floating diaphragm regulates and maintains a consistent flow rate at variable inlet pressures ranging from 12 to 50 PSI in a wide range of demanding conditions. Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve provides a colored stripe for each flow rate and unlike other dripline with only a single outlet, Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve has two outlets per emitter. If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance. The Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve is made of premium low-density polyethylene resins with UV protection and large, tough cylindrical drip emitters, offering a combination of outstanding environmental stress-cracking resistance and burst strength with anti-siphoning capability for subsurface irrigation applications.</span></p>
+<p><span style="text-decoration: underline;"><strong>Features</strong></span></p>
+<lh>Features</lh>
+<ul>
+<li>Can be installed above or below grade</li>
+<li>Inline emitter check valves prevent drainage from the dripline when water pressure drops below 2.5 PSI, protecting the emitters against the siphoning of small sediment and soil particles into the drip emitter</li>
+<li>Two outlets per emitter; If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance</li>
+<li>Available in two flow rates, a wide range of emitters spacing and a wide range of drip tubing lengths to provide maximum design flexibility in a variety of applications</li>
+<li>Available with double stripes colored codes, representing the drip line flow rates</li>
+<li>Pressure compensating feature provides flow uniformity regardless of operating pressure and variation along the line</li>
+<li>Drip emitter and diaphragm are self-contained units molded to the interior wall of the tubing</li>
+<li>Flow path design supports superior clogging resistance</li>
+<li>Turbulent flow through large labyrinth water passages leads water into the flow control chamber where a sensitive floating silicon diaphragm regulates and maintains a constant flow rate at variable inlet pressures. The self-flushing silicon diaphragm allows pressure to build up within the chamber and flush any debris not captured by the inlet filter.</li>
+<li>Dripline includes one inlet and two outlets per each emitter</li>
+<li>Intake inlet has a number of raised grooves that act as a secondary filter. The filter intake area is continuously flushed by water flow throughout the operation of the system, preventing particles from entering the labyrinth and giving the drip emitter its resistance to clogging.</li>
+<li>Check valve and dual, oppositely oriented directional outlets act as a physical barrier to root and debris intrusion</li>
+<li>Resistant to chemicals and fertilizers commonly used in landscaping</li>
+<li>Protected against UV degradation</li>
+<li>Flexible tubing for easy installation</li>
+<li>Dripline is printed with the flow rate and size for easy identification</li>
+<li>Use with DIG's 17 mm barb fittings, .670" OD compression fittings and universal Nut Lock fittings</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Specifications</strong></span></p>
+<lh>Specifications</lh>
+<ul>
+<li>Flow rates:
+<ul>
+<li>.6 GPH (2.3 L/H) drip emitter color code - orange</li>
+<li>Drip line double stripe code - beige</li>
+<li>1 GPH (3.8 L/H) drip emitter color code - gray</li>
+<li>Drip line double stripe code - gray</li>
+</ul>
+</li>
+<li>Operating pressure: 12-50 PSI (.8-3.5 BAR)</li>
+<li>Check valve sealing pressure: 2.5 PSI (.17 BAR)</li>
+<li>Check valve opening pressure: 4.3 PSI (.3 BAR)</li>
+<li>Materials: Dow FINGERPRINT DFDA-7510 NT linear low-density polyethylene resin with a minimum of 2% carbon black</li>
+<li>Dripline color: brown</li>
+<li>Size: 1/2" (.570" ID x .670" OD)(14.5 mm ID x 17 mm OD)</li>
+<li>Available in 100', 250', 500' and 1000' coils (30 m, 75 m,150 m and 300 m)</li>
+<li>Minimum bending radius: 1' (.3 m)</li>
+<li>Filter requirement: minimum of 150 mesh</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/37/41-021_REVD-EXCELPCCV-112917-W.pdf" target="_blank" rel="noopener noreferrer"><strong>Cut Sheet</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Tubing &amp; Dripline</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Dripline</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4995527966822</id>
+      <title>Default Title</title>
+      <s:price currency="USD">103.33</s:price>
+      <s:sku>A1-218P-CV</s:sku>
+      <s:grams>4835</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4995532652646</id>
+    <published>2021-03-23T17:40:28-04:00</published>
+    <updated>2021-03-23T17:40:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-excel-pcd-cv-17-mm-dripline-w-check-valve-18-spacing-1-gph-670-od-1000-a1-18p-cv"/>
+    <title>Dig - 17mm Excel PCD Dripline w/ Check Valve; 18&quot; Spacing x 1000&apos; (Brown) 1 GPH - A1-18P-CV</title>
+    <s:type>Drip Tubing</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/DIG-excel-pc-dripline-white-stripe_f8e0cbfa-7532-428e-bea9-270bc32f182f.jpg?v=1609357588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tubing<br>
+        <strong>Price: </strong>
+            397.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">DIG's Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve for subsurface irrigation is a reliable, durable and precise pressure compensating dripline used for narrow or dense plantings. The dripline's cylindrical drip emitters have built in check valves to prevent siphoning when water pressure drops below 2.5 PSI. This feature protects the inline emitters from sediment, soil particles and debris entering the dripline. Each cylindrical drip emitter's floating diaphragm regulates and maintains a consistent flow rate at variable inlet pressures ranging from 12 to 50 PSI in a wide range of demanding conditions. Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve provides a colored stripe for each flow rate and unlike other dripline with only a single outlet, Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve has two outlets per emitter. If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance. The Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve is made of premium low-density polyethylene resins with UV protection and large, tough cylindrical drip emitters, offering a combination of outstanding environmental stress-cracking resistance and burst strength with anti-siphoning capability for subsurface irrigation applications.</span></p>
+<p><span style="text-decoration: underline;"><strong>Features</strong></span></p>
+<lh>Features</lh>
+<ul>
+<li>Can be installed above or below grade</li>
+<li>Inline emitter check valves prevent drainage from the dripline when water pressure drops below 2.5 PSI, protecting the emitters against the siphoning of small sediment and soil particles into the drip emitter</li>
+<li>Two outlets per emitter; If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance</li>
+<li>Available in two flow rates, a wide range of emitters spacing and a wide range of drip tubing lengths to provide maximum design flexibility in a variety of applications</li>
+<li>Available with double stripes colored codes, representing the drip line flow rates</li>
+<li>Pressure compensating feature provides flow uniformity regardless of operating pressure and variation along the line</li>
+<li>Drip emitter and diaphragm are self-contained units molded to the interior wall of the tubing</li>
+<li>Flow path design supports superior clogging resistance</li>
+<li>Turbulent flow through large labyrinth water passages leads water into the flow control chamber where a sensitive floating silicon diaphragm regulates and maintains a constant flow rate at variable inlet pressures. The self-flushing silicon diaphragm allows pressure to build up within the chamber and flush any debris not captured by the inlet filter.</li>
+<li>Dripline includes one inlet and two outlets per each emitter</li>
+<li>Intake inlet has a number of raised grooves that act as a secondary filter. The filter intake area is continuously flushed by water flow throughout the operation of the system, preventing particles from entering the labyrinth and giving the drip emitter its resistance to clogging.</li>
+<li>Check valve and dual, oppositely oriented directional outlets act as a physical barrier to root and debris intrusion</li>
+<li>Resistant to chemicals and fertilizers commonly used in landscaping</li>
+<li>Protected against UV degradation</li>
+<li>Flexible tubing for easy installation</li>
+<li>Dripline is printed with the flow rate and size for easy identification</li>
+<li>Use with DIG's 17 mm barb fittings, .670" OD compression fittings and universal Nut Lock fittings</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Specifications</strong></span></p>
+<lh>Specifications</lh>
+<ul>
+<li>Flow rates:
+<ul>
+<li>.6 GPH (2.3 L/H) drip emitter color code - orange</li>
+<li>Drip line double stripe code - beige</li>
+<li>1 GPH (3.8 L/H) drip emitter color code - gray</li>
+<li>Drip line double stripe code - gray</li>
+</ul>
+</li>
+<li>Operating pressure: 12-50 PSI (.8-3.5 BAR)</li>
+<li>Check valve sealing pressure: 2.5 PSI (.17 BAR)</li>
+<li>Check valve opening pressure: 4.3 PSI (.3 BAR)</li>
+<li>Materials: Dow FINGERPRINT DFDA-7510 NT linear low-density polyethylene resin with a minimum of 2% carbon black</li>
+<li>Dripline color: brown</li>
+<li>Size: 1/2" (.570" ID x .670" OD)(14.5 mm ID x 17 mm OD)</li>
+<li>Available in 100', 250', 500' and 1000' coils (30 m, 75 m,150 m and 300 m)</li>
+<li>Minimum bending radius: 1' (.3 m)</li>
+<li>Filter requirement: minimum of 150 mesh</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/37/41-021_REVD-EXCELPCCV-112917-W.pdf" target="_blank" rel="noopener noreferrer"><strong>Cut Sheet</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Tubing &amp; Dripline</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Dripline</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4995532652646</id>
+      <title>Default Title</title>
+      <s:price currency="USD">397.90</s:price>
+      <s:sku>A1-18P-CV</s:sku>
+      <s:grams>19332</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4995525967974</id>
+    <published>2021-03-23T17:40:28-04:00</published>
+    <updated>2021-03-23T17:40:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-excel-pcd-cv-17-mm-dripline-w-check-valve-18-spacing-6-gph-670-od-250-a5-218p-cv"/>
+    <title>Dig - 17mm Excel PCD Dripline w/ Check Valve; 18&quot; Spacing x 250&apos; (Brown) .6 GPH - A5-218P-CV</title>
+    <s:type>Drip Tubing</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/DIG-excel-pc-dripline-white-stripe_6046744d-0b5a-4622-a6d9-14189aaa7ec9.jpg?v=1609356768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tubing<br>
+        <strong>Price: </strong>
+            103.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">DIG's Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve for subsurface irrigation is a reliable, durable and precise pressure compensating dripline used for narrow or dense plantings. The dripline's cylindrical drip emitters have built in check valves to prevent siphoning when water pressure drops below 2.5 PSI. This feature protects the inline emitters from sediment, soil particles and debris entering the dripline. Each cylindrical drip emitter's floating diaphragm regulates and maintains a consistent flow rate at variable inlet pressures ranging from 12 to 50 PSI in a wide range of demanding conditions. Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve provides a colored stripe for each flow rate and unlike other dripline with only a single outlet, Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve has two outlets per emitter. If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance. The Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve is made of premium low-density polyethylene resins with UV protection and large, tough cylindrical drip emitters, offering a combination of outstanding environmental stress-cracking resistance and burst strength with anti-siphoning capability for subsurface irrigation applications.</span></p>
+<p><span style="text-decoration: underline;"><strong>Features</strong></span></p>
+<lh>Features</lh>
+<ul>
+<li>Can be installed above or below grade</li>
+<li>Inline emitter check valves prevent drainage from the dripline when water pressure drops below 2.5 PSI, protecting the emitters against the siphoning of small sediment and soil particles into the drip emitter</li>
+<li>Two outlets per emitter; If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance</li>
+<li>Available in two flow rates, a wide range of emitters spacing and a wide range of drip tubing lengths to provide maximum design flexibility in a variety of applications</li>
+<li>Available with double stripes colored codes, representing the drip line flow rates</li>
+<li>Pressure compensating feature provides flow uniformity regardless of operating pressure and variation along the line</li>
+<li>Drip emitter and diaphragm are self-contained units molded to the interior wall of the tubing</li>
+<li>Flow path design supports superior clogging resistance</li>
+<li>Turbulent flow through large labyrinth water passages leads water into the flow control chamber where a sensitive floating silicon diaphragm regulates and maintains a constant flow rate at variable inlet pressures. The self-flushing silicon diaphragm allows pressure to build up within the chamber and flush any debris not captured by the inlet filter.</li>
+<li>Dripline includes one inlet and two outlets per each emitter</li>
+<li>Intake inlet has a number of raised grooves that act as a secondary filter. The filter intake area is continuously flushed by water flow throughout the operation of the system, preventing particles from entering the labyrinth and giving the drip emitter its resistance to clogging.</li>
+<li>Check valve and dual, oppositely oriented directional outlets act as a physical barrier to root and debris intrusion</li>
+<li>Resistant to chemicals and fertilizers commonly used in landscaping</li>
+<li>Protected against UV degradation</li>
+<li>Flexible tubing for easy installation</li>
+<li>Dripline is printed with the flow rate and size for easy identification</li>
+<li>Use with DIG's 17 mm barb fittings, .670" OD compression fittings and universal Nut Lock fittings</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Specifications</strong></span></p>
+<lh>Specifications</lh>
+<ul>
+<li>Flow rates:
+<ul>
+<li>.6 GPH (2.3 L/H) drip emitter color code - orange</li>
+<li>Drip line double stripe code - beige</li>
+<li>1 GPH (3.8 L/H) drip emitter color code - gray</li>
+<li>Drip line double stripe code - gray</li>
+</ul>
+</li>
+<li>Operating pressure: 12-50 PSI (.8-3.5 BAR)</li>
+<li>Check valve sealing pressure: 2.5 PSI (.17 BAR)</li>
+<li>Check valve opening pressure: 4.3 PSI (.3 BAR)</li>
+<li>Materials: Dow FINGERPRINT DFDA-7510 NT linear low-density polyethylene resin with a minimum of 2% carbon black</li>
+<li>Dripline color: brown</li>
+<li>Size: 1/2" (.570" ID x .670" OD)(14.5 mm ID x 17 mm OD)</li>
+<li>Available in 100', 250', 500' and 1000' coils (30 m, 75 m,150 m and 300 m)</li>
+<li>Minimum bending radius: 1' (.3 m)</li>
+<li>Filter requirement: minimum of 150 mesh</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/37/41-021_REVD-EXCELPCCV-112917-W.pdf" target="_blank" rel="noopener noreferrer"><strong>Cut Sheet</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Tubing &amp; Dripline</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Dripline</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4995525967974</id>
+      <title>Default Title</title>
+      <s:price currency="USD">103.33</s:price>
+      <s:sku>A5-218P-CV</s:sku>
+      <s:grams>4835</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4995533078630</id>
+    <published>2021-03-23T17:40:27-04:00</published>
+    <updated>2021-03-23T17:40:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-excel-pcd-cv-17-mm-dripline-w-check-valve-18-spacing-6-gph-670-od-1000-a5-18p-cv"/>
+    <title>Dig - 17mm Excel PCD Dripline w/ Check Valve; 18&quot; Spacing x 1000&apos; (Brown) .6 GPH - A5-18P-CV</title>
+    <s:type>Drip Tubing</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/DIG-excel-pc-dripline-white-stripe_6ecc570d-d0e1-4b30-ada7-77db7bb5c3d6.jpg?v=1609357654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tubing<br>
+        <strong>Price: </strong>
+            397.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">DIG's Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve for subsurface irrigation is a reliable, durable and precise pressure compensating dripline used for narrow or dense plantings. The dripline's cylindrical drip emitters have built in check valves to prevent siphoning when water pressure drops below 2.5 PSI. This feature protects the inline emitters from sediment, soil particles and debris entering the dripline. Each cylindrical drip emitter's floating diaphragm regulates and maintains a consistent flow rate at variable inlet pressures ranging from 12 to 50 PSI in a wide range of demanding conditions. Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve provides a colored stripe for each flow rate and unlike other dripline with only a single outlet, Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve has two outlets per emitter. If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance. The Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve is made of premium low-density polyethylene resins with UV protection and large, tough cylindrical drip emitters, offering a combination of outstanding environmental stress-cracking resistance and burst strength with anti-siphoning capability for subsurface irrigation applications.</span></p>
+<p><span style="text-decoration: underline;"><strong>Features</strong></span></p>
+<lh>Features</lh>
+<ul>
+<li>Can be installed above or below grade</li>
+<li>Inline emitter check valves prevent drainage from the dripline when water pressure drops below 2.5 PSI, protecting the emitters against the siphoning of small sediment and soil particles into the drip emitter</li>
+<li>Two outlets per emitter; If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance</li>
+<li>Available in two flow rates, a wide range of emitters spacing and a wide range of drip tubing lengths to provide maximum design flexibility in a variety of applications</li>
+<li>Available with double stripes colored codes, representing the drip line flow rates</li>
+<li>Pressure compensating feature provides flow uniformity regardless of operating pressure and variation along the line</li>
+<li>Drip emitter and diaphragm are self-contained units molded to the interior wall of the tubing</li>
+<li>Flow path design supports superior clogging resistance</li>
+<li>Turbulent flow through large labyrinth water passages leads water into the flow control chamber where a sensitive floating silicon diaphragm regulates and maintains a constant flow rate at variable inlet pressures. The self-flushing silicon diaphragm allows pressure to build up within the chamber and flush any debris not captured by the inlet filter.</li>
+<li>Dripline includes one inlet and two outlets per each emitter</li>
+<li>Intake inlet has a number of raised grooves that act as a secondary filter. The filter intake area is continuously flushed by water flow throughout the operation of the system, preventing particles from entering the labyrinth and giving the drip emitter its resistance to clogging.</li>
+<li>Check valve and dual, oppositely oriented directional outlets act as a physical barrier to root and debris intrusion</li>
+<li>Resistant to chemicals and fertilizers commonly used in landscaping</li>
+<li>Protected against UV degradation</li>
+<li>Flexible tubing for easy installation</li>
+<li>Dripline is printed with the flow rate and size for easy identification</li>
+<li>Use with DIG's 17 mm barb fittings, .670" OD compression fittings and universal Nut Lock fittings</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Specifications</strong></span></p>
+<lh>Specifications</lh>
+<ul>
+<li>Flow rates:
+<ul>
+<li>.6 GPH (2.3 L/H) drip emitter color code - orange</li>
+<li>Drip line double stripe code - beige</li>
+<li>1 GPH (3.8 L/H) drip emitter color code - gray</li>
+<li>Drip line double stripe code - gray</li>
+</ul>
+</li>
+<li>Operating pressure: 12-50 PSI (.8-3.5 BAR)</li>
+<li>Check valve sealing pressure: 2.5 PSI (.17 BAR)</li>
+<li>Check valve opening pressure: 4.3 PSI (.3 BAR)</li>
+<li>Materials: Dow FINGERPRINT DFDA-7510 NT linear low-density polyethylene resin with a minimum of 2% carbon black</li>
+<li>Dripline color: brown</li>
+<li>Size: 1/2" (.570" ID x .670" OD)(14.5 mm ID x 17 mm OD)</li>
+<li>Available in 100', 250', 500' and 1000' coils (30 m, 75 m,150 m and 300 m)</li>
+<li>Minimum bending radius: 1' (.3 m)</li>
+<li>Filter requirement: minimum of 150 mesh</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/37/41-021_REVD-EXCELPCCV-112917-W.pdf" target="_blank" rel="noopener noreferrer"><strong>Cut Sheet</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Tubing &amp; Dripline</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Dripline</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4995533078630</id>
+      <title>Default Title</title>
+      <s:price currency="USD">397.90</s:price>
+      <s:sku>A5-18P-CV</s:sku>
+      <s:grams>19332</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4995523543142</id>
+    <published>2021-03-23T17:40:27-04:00</published>
+    <updated>2021-03-23T17:40:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-excel-pcd-cv-17-mm-dripline-w-check-valve-18-spacing-1-gph-670-od-100-a1-118p-cv"/>
+    <title>Dig - 17mm Excel PCD Dripline w/ Check Valve; 18&quot; Spacing x 100&apos; (Brown) 1 GPH - A1-118P-CV</title>
+    <s:type>Drip Tubing</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/DIG-excel-pc-dripline-white-stripe_1456a806-61e0-493f-91e8-951b54cfc959.jpg?v=1609356518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tubing<br>
+        <strong>Price: </strong>
+            43.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">DIG's Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve for subsurface irrigation is a reliable, durable and precise pressure compensating dripline used for narrow or dense plantings. The dripline's cylindrical drip emitters have built in check valves to prevent siphoning when water pressure drops below 2.5 PSI. This feature protects the inline emitters from sediment, soil particles and debris entering the dripline. Each cylindrical drip emitter's floating diaphragm regulates and maintains a consistent flow rate at variable inlet pressures ranging from 12 to 50 PSI in a wide range of demanding conditions. Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve provides a colored stripe for each flow rate and unlike other dripline with only a single outlet, Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve has two outlets per emitter. If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance. The Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve is made of premium low-density polyethylene resins with UV protection and large, tough cylindrical drip emitters, offering a combination of outstanding environmental stress-cracking resistance and burst strength with anti-siphoning capability for subsurface irrigation applications.</span></p>
+<p><span style="text-decoration: underline;"><strong>Features</strong></span></p>
+<lh>Features</lh>
+<ul>
+<li>Can be installed above or below grade</li>
+<li>Inline emitter check valves prevent drainage from the dripline when water pressure drops below 2.5 PSI, protecting the emitters against the siphoning of small sediment and soil particles into the drip emitter</li>
+<li>Two outlets per emitter; If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance</li>
+<li>Available in two flow rates, a wide range of emitters spacing and a wide range of drip tubing lengths to provide maximum design flexibility in a variety of applications</li>
+<li>Available with double stripes colored codes, representing the drip line flow rates</li>
+<li>Pressure compensating feature provides flow uniformity regardless of operating pressure and variation along the line</li>
+<li>Drip emitter and diaphragm are self-contained units molded to the interior wall of the tubing</li>
+<li>Flow path design supports superior clogging resistance</li>
+<li>Turbulent flow through large labyrinth water passages leads water into the flow control chamber where a sensitive floating silicon diaphragm regulates and maintains a constant flow rate at variable inlet pressures. The self-flushing silicon diaphragm allows pressure to build up within the chamber and flush any debris not captured by the inlet filter.</li>
+<li>Dripline includes one inlet and two outlets per each emitter</li>
+<li>Intake inlet has a number of raised grooves that act as a secondary filter. The filter intake area is continuously flushed by water flow throughout the operation of the system, preventing particles from entering the labyrinth and giving the drip emitter its resistance to clogging.</li>
+<li>Check valve and dual, oppositely oriented directional outlets act as a physical barrier to root and debris intrusion</li>
+<li>Resistant to chemicals and fertilizers commonly used in landscaping</li>
+<li>Protected against UV degradation</li>
+<li>Flexible tubing for easy installation</li>
+<li>Dripline is printed with the flow rate and size for easy identification</li>
+<li>Use with DIG's 17 mm barb fittings, .670" OD compression fittings and universal Nut Lock fittings</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Specifications</strong></span></p>
+<lh>Specifications</lh>
+<ul>
+<li>Flow rates:
+<ul>
+<li>.6 GPH (2.3 L/H) drip emitter color code - orange</li>
+<li>Drip line double stripe code - beige</li>
+<li>1 GPH (3.8 L/H) drip emitter color code - gray</li>
+<li>Drip line double stripe code - gray</li>
+</ul>
+</li>
+<li>Operating pressure: 12-50 PSI (.8-3.5 BAR)</li>
+<li>Check valve sealing pressure: 2.5 PSI (.17 BAR)</li>
+<li>Check valve opening pressure: 4.3 PSI (.3 BAR)</li>
+<li>Materials: Dow FINGERPRINT DFDA-7510 NT linear low-density polyethylene resin with a minimum of 2% carbon black</li>
+<li>Dripline color: brown</li>
+<li>Size: 1/2" (.570" ID x .670" OD)(14.5 mm ID x 17 mm OD)</li>
+<li>Available in 100', 250', 500' and 1000' coils (30 m, 75 m,150 m and 300 m)</li>
+<li>Minimum bending radius: 1' (.3 m)</li>
+<li>Filter requirement: minimum of 150 mesh</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/37/41-021_REVD-EXCELPCCV-112917-W.pdf" target="_blank" rel="noopener noreferrer"><strong>Cut Sheet</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Tubing &amp; Dripline</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Dripline</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4995523543142</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.50</s:price>
+      <s:sku>A1-118P-CV</s:sku>
+      <s:grams>1932</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4995519283302</id>
+    <published>2021-03-23T17:40:27-04:00</published>
+    <updated>2021-03-23T17:40:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/copy-of-dig-excel-pcd-cv-17-mm-dripline-w-check-valve-12-spacing-6-gph-670-od-100-a5-112p-cv"/>
+    <title>Dig - 17mm Excel PCD Dripline w/ Check Valve; 18&quot; Spacing x 100&apos; (Brown) .6 GPH - A5-118P-CV</title>
+    <s:type>Drip Tubing</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/DIG-excel-pc-dripline-white-stripe_0267f2e3-71f9-4eb7-953f-3b0a0f7681c1.jpg?v=1609356194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tubing<br>
+        <strong>Price: </strong>
+            43.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">DIG's Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve for subsurface irrigation is a reliable, durable and precise pressure compensating dripline used for narrow or dense plantings. The dripline's cylindrical drip emitters have built in check valves to prevent siphoning when water pressure drops below 2.5 PSI. This feature protects the inline emitters from sediment, soil particles and debris entering the dripline. Each cylindrical drip emitter's floating diaphragm regulates and maintains a consistent flow rate at variable inlet pressures ranging from 12 to 50 PSI in a wide range of demanding conditions. Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve provides a colored stripe for each flow rate and unlike other dripline with only a single outlet, Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve has two outlets per emitter. If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance. The Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve is made of premium low-density polyethylene resins with UV protection and large, tough cylindrical drip emitters, offering a combination of outstanding environmental stress-cracking resistance and burst strength with anti-siphoning capability for subsurface irrigation applications.</span></p>
+<p><span style="text-decoration: underline;"><strong>Features</strong></span></p>
+<lh>Features</lh>
+<ul>
+<li>Can be installed above or below grade</li>
+<li>Inline emitter check valves prevent drainage from the dripline when water pressure drops below 2.5 PSI, protecting the emitters against the siphoning of small sediment and soil particles into the drip emitter</li>
+<li>Two outlets per emitter; If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance</li>
+<li>Available in two flow rates, a wide range of emitters spacing and a wide range of drip tubing lengths to provide maximum design flexibility in a variety of applications</li>
+<li>Available with double stripes colored codes, representing the drip line flow rates</li>
+<li>Pressure compensating feature provides flow uniformity regardless of operating pressure and variation along the line</li>
+<li>Drip emitter and diaphragm are self-contained units molded to the interior wall of the tubing</li>
+<li>Flow path design supports superior clogging resistance</li>
+<li>Turbulent flow through large labyrinth water passages leads water into the flow control chamber where a sensitive floating silicon diaphragm regulates and maintains a constant flow rate at variable inlet pressures. The self-flushing silicon diaphragm allows pressure to build up within the chamber and flush any debris not captured by the inlet filter.</li>
+<li>Dripline includes one inlet and two outlets per each emitter</li>
+<li>Intake inlet has a number of raised grooves that act as a secondary filter. The filter intake area is continuously flushed by water flow throughout the operation of the system, preventing particles from entering the labyrinth and giving the drip emitter its resistance to clogging.</li>
+<li>Check valve and dual, oppositely oriented directional outlets act as a physical barrier to root and debris intrusion</li>
+<li>Resistant to chemicals and fertilizers commonly used in landscaping</li>
+<li>Protected against UV degradation</li>
+<li>Flexible tubing for easy installation</li>
+<li>Dripline is printed with the flow rate and size for easy identification</li>
+<li>Use with DIG's 17 mm barb fittings, .670" OD compression fittings and universal Nut Lock fittings</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Specifications</strong></span></p>
+<lh>Specifications</lh>
+<ul>
+<li>Flow rates:
+<ul>
+<li>.6 GPH (2.3 L/H) drip emitter color code - orange</li>
+<li>Drip line double stripe code - beige</li>
+<li>1 GPH (3.8 L/H) drip emitter color code - gray</li>
+<li>Drip line double stripe code - gray</li>
+</ul>
+</li>
+<li>Operating pressure: 12-50 PSI (.8-3.5 BAR)</li>
+<li>Check valve sealing pressure: 2.5 PSI (.17 BAR)</li>
+<li>Check valve opening pressure: 4.3 PSI (.3 BAR)</li>
+<li>Materials: Dow FINGERPRINT DFDA-7510 NT linear low-density polyethylene resin with a minimum of 2% carbon black</li>
+<li>Dripline color: brown</li>
+<li>Size: 1/2" (.570" ID x .670" OD)(14.5 mm ID x 17 mm OD)</li>
+<li>Available in 100', 250', 500' and 1000' coils (30 m, 75 m,150 m and 300 m)</li>
+<li>Minimum bending radius: 1' (.3 m)</li>
+<li>Filter requirement: minimum of 150 mesh</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/37/41-021_REVD-EXCELPCCV-112917-W.pdf" target="_blank" rel="noopener noreferrer"><strong>Cut Sheet</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Tubing &amp; Dripline</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Dripline</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4995519283302</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.50</s:price>
+      <s:sku>A5-118P-CV</s:sku>
+      <s:grams>1932</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4995529375846</id>
+    <published>2021-03-23T17:40:26-04:00</published>
+    <updated>2021-03-23T17:40:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-excel-pcd-cv-17-mm-dripline-w-check-valve-12-spacing-1-gph-670-od-500-a1-512p-cv"/>
+    <title>Dig - 17mm Excel PCD Dripline w/ Check Valve; 12&quot; Spacing x 500&apos; (Brown) 1 GPH - A1-512P-CV</title>
+    <s:type>Drip Tubing</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/DIG-excel-pc-dripline-white-stripe_f98f5590-81fe-415a-9f06-5184174a2106.jpg?v=1609357146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tubing<br>
+        <strong>Price: </strong>
+            208.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">DIG's Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve for subsurface irrigation is a reliable, durable and precise pressure compensating dripline used for narrow or dense plantings. The dripline's cylindrical drip emitters have built in check valves to prevent siphoning when water pressure drops below 2.5 PSI. This feature protects the inline emitters from sediment, soil particles and debris entering the dripline. Each cylindrical drip emitter's floating diaphragm regulates and maintains a consistent flow rate at variable inlet pressures ranging from 12 to 50 PSI in a wide range of demanding conditions. Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve provides a colored stripe for each flow rate and unlike other dripline with only a single outlet, Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve has two outlets per emitter. If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance. The Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve is made of premium low-density polyethylene resins with UV protection and large, tough cylindrical drip emitters, offering a combination of outstanding environmental stress-cracking resistance and burst strength with anti-siphoning capability for subsurface irrigation applications.</span></p>
+<p><span style="text-decoration: underline;"><strong>Features</strong></span></p>
+<lh>Features</lh>
+<ul>
+<li>Can be installed above or below grade</li>
+<li>Inline emitter check valves prevent drainage from the dripline when water pressure drops below 2.5 PSI, protecting the emitters against the siphoning of small sediment and soil particles into the drip emitter</li>
+<li>Two outlets per emitter; If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance</li>
+<li>Available in two flow rates, a wide range of emitters spacing and a wide range of drip tubing lengths to provide maximum design flexibility in a variety of applications</li>
+<li>Available with double stripes colored codes, representing the drip line flow rates</li>
+<li>Pressure compensating feature provides flow uniformity regardless of operating pressure and variation along the line</li>
+<li>Drip emitter and diaphragm are self-contained units molded to the interior wall of the tubing</li>
+<li>Flow path design supports superior clogging resistance</li>
+<li>Turbulent flow through large labyrinth water passages leads water into the flow control chamber where a sensitive floating silicon diaphragm regulates and maintains a constant flow rate at variable inlet pressures. The self-flushing silicon diaphragm allows pressure to build up within the chamber and flush any debris not captured by the inlet filter.</li>
+<li>Dripline includes one inlet and two outlets per each emitter</li>
+<li>Intake inlet has a number of raised grooves that act as a secondary filter. The filter intake area is continuously flushed by water flow throughout the operation of the system, preventing particles from entering the labyrinth and giving the drip emitter its resistance to clogging.</li>
+<li>Check valve and dual, oppositely oriented directional outlets act as a physical barrier to root and debris intrusion</li>
+<li>Resistant to chemicals and fertilizers commonly used in landscaping</li>
+<li>Protected against UV degradation</li>
+<li>Flexible tubing for easy installation</li>
+<li>Dripline is printed with the flow rate and size for easy identification</li>
+<li>Use with DIG's 17 mm barb fittings, .670" OD compression fittings and universal Nut Lock fittings</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Specifications</strong></span></p>
+<lh>Specifications</lh>
+<ul>
+<li>Flow rates:
+<ul>
+<li>.6 GPH (2.3 L/H) drip emitter color code - orange</li>
+<li>Drip line double stripe code - beige</li>
+<li>1 GPH (3.8 L/H) drip emitter color code - gray</li>
+<li>Drip line double stripe code - gray</li>
+</ul>
+</li>
+<li>Operating pressure: 12-50 PSI (.8-3.5 BAR)</li>
+<li>Check valve sealing pressure: 2.5 PSI (.17 BAR)</li>
+<li>Check valve opening pressure: 4.3 PSI (.3 BAR)</li>
+<li>Materials: Dow FINGERPRINT DFDA-7510 NT linear low-density polyethylene resin with a minimum of 2% carbon black</li>
+<li>Dripline color: brown</li>
+<li>Size: 1/2" (.570" ID x .670" OD)(14.5 mm ID x 17 mm OD)</li>
+<li>Available in 100', 250', 500' and 1000' coils (30 m, 75 m,150 m and 300 m)</li>
+<li>Minimum bending radius: 1' (.3 m)</li>
+<li>Filter requirement: minimum of 150 mesh</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/37/41-021_REVD-EXCELPCCV-112917-W.pdf" target="_blank" rel="noopener noreferrer"><strong>Cut Sheet</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Tubing &amp; Dripline</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Dripline</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4995529375846</id>
+      <title>Default Title</title>
+      <s:price currency="USD">208.15</s:price>
+      <s:sku>A1-512P-CV</s:sku>
+      <s:grams>10102</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4995530522726</id>
+    <published>2021-03-23T17:40:25-04:00</published>
+    <updated>2021-03-23T17:40:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-excel-pcd-cv-17-mm-dripline-w-check-valve-12-spacing-6-gph-670-od-500-a5-512p-cv"/>
+    <title>Dig - 17mm Excel PCD Dripline w/ Check Valve; 12&quot; Spacing x 500&apos; (Brown) .6 GPH - A5-512P-CV</title>
+    <s:type>Drip Tubing</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/DIG-excel-pc-dripline-white-stripe_a9ba15cc-cd40-44ca-b101-664e8cc74637.jpg?v=1609357309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tubing<br>
+        <strong>Price: </strong>
+            208.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">DIG's Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve for subsurface irrigation is a reliable, durable and precise pressure compensating dripline used for narrow or dense plantings. The dripline's cylindrical drip emitters have built in check valves to prevent siphoning when water pressure drops below 2.5 PSI. This feature protects the inline emitters from sediment, soil particles and debris entering the dripline. Each cylindrical drip emitter's floating diaphragm regulates and maintains a consistent flow rate at variable inlet pressures ranging from 12 to 50 PSI in a wide range of demanding conditions. Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve provides a colored stripe for each flow rate and unlike other dripline with only a single outlet, Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve has two outlets per emitter. If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance. The Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve is made of premium low-density polyethylene resins with UV protection and large, tough cylindrical drip emitters, offering a combination of outstanding environmental stress-cracking resistance and burst strength with anti-siphoning capability for subsurface irrigation applications.</span></p>
+<p><span style="text-decoration: underline;"><strong>Features</strong></span></p>
+<lh>Features</lh>
+<ul>
+<li>Can be installed above or below grade</li>
+<li>Inline emitter check valves prevent drainage from the dripline when water pressure drops below 2.5 PSI, protecting the emitters against the siphoning of small sediment and soil particles into the drip emitter</li>
+<li>Two outlets per emitter; If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance</li>
+<li>Available in two flow rates, a wide range of emitters spacing and a wide range of drip tubing lengths to provide maximum design flexibility in a variety of applications</li>
+<li>Available with double stripes colored codes, representing the drip line flow rates</li>
+<li>Pressure compensating feature provides flow uniformity regardless of operating pressure and variation along the line</li>
+<li>Drip emitter and diaphragm are self-contained units molded to the interior wall of the tubing</li>
+<li>Flow path design supports superior clogging resistance</li>
+<li>Turbulent flow through large labyrinth water passages leads water into the flow control chamber where a sensitive floating silicon diaphragm regulates and maintains a constant flow rate at variable inlet pressures. The self-flushing silicon diaphragm allows pressure to build up within the chamber and flush any debris not captured by the inlet filter.</li>
+<li>Dripline includes one inlet and two outlets per each emitter</li>
+<li>Intake inlet has a number of raised grooves that act as a secondary filter. The filter intake area is continuously flushed by water flow throughout the operation of the system, preventing particles from entering the labyrinth and giving the drip emitter its resistance to clogging.</li>
+<li>Check valve and dual, oppositely oriented directional outlets act as a physical barrier to root and debris intrusion</li>
+<li>Resistant to chemicals and fertilizers commonly used in landscaping</li>
+<li>Protected against UV degradation</li>
+<li>Flexible tubing for easy installation</li>
+<li>Dripline is printed with the flow rate and size for easy identification</li>
+<li>Use with DIG's 17 mm barb fittings, .670" OD compression fittings and universal Nut Lock fittings</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Specifications</strong></span></p>
+<lh>Specifications</lh>
+<ul>
+<li>Flow rates:
+<ul>
+<li>.6 GPH (2.3 L/H) drip emitter color code - orange</li>
+<li>Drip line double stripe code - beige</li>
+<li>1 GPH (3.8 L/H) drip emitter color code - gray</li>
+<li>Drip line double stripe code - gray</li>
+</ul>
+</li>
+<li>Operating pressure: 12-50 PSI (.8-3.5 BAR)</li>
+<li>Check valve sealing pressure: 2.5 PSI (.17 BAR)</li>
+<li>Check valve opening pressure: 4.3 PSI (.3 BAR)</li>
+<li>Materials: Dow FINGERPRINT DFDA-7510 NT linear low-density polyethylene resin with a minimum of 2% carbon black</li>
+<li>Dripline color: brown</li>
+<li>Size: 1/2" (.570" ID x .670" OD)(14.5 mm ID x 17 mm OD)</li>
+<li>Available in 100', 250', 500' and 1000' coils (30 m, 75 m,150 m and 300 m)</li>
+<li>Minimum bending radius: 1' (.3 m)</li>
+<li>Filter requirement: minimum of 150 mesh</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/37/41-021_REVD-EXCELPCCV-112917-W.pdf" target="_blank" rel="noopener noreferrer"><strong>Cut Sheet</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Tubing &amp; Dripline</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Dripline</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4995530522726</id>
+      <title>Default Title</title>
+      <s:price currency="USD">208.15</s:price>
+      <s:sku>A5-512P-CV</s:sku>
+      <s:grams>10102</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4995527344230</id>
+    <published>2021-03-23T17:40:24-04:00</published>
+    <updated>2021-03-23T17:40:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-excel-pcd-cv-17-mm-dripline-w-check-valve-12-spacing-1-gph-670-od-250-a1-212p-cv"/>
+    <title>Dig - 17mm Excel PCD Dripline w/ Check Valve; 12&quot; Spacing x 250&apos; (Brown) 1 GPH - A1-212P-CV</title>
+    <s:type>Drip Tubing</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/DIG-excel-pc-dripline-white-stripe_62374e6b-cab6-40d8-8a59-57dfa1db4965.jpg?v=1609356917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tubing<br>
+        <strong>Price: </strong>
+            105.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">DIG's Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve for subsurface irrigation is a reliable, durable and precise pressure compensating dripline used for narrow or dense plantings. The dripline's cylindrical drip emitters have built in check valves to prevent siphoning when water pressure drops below 2.5 PSI. This feature protects the inline emitters from sediment, soil particles and debris entering the dripline. Each cylindrical drip emitter's floating diaphragm regulates and maintains a consistent flow rate at variable inlet pressures ranging from 12 to 50 PSI in a wide range of demanding conditions. Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve provides a colored stripe for each flow rate and unlike other dripline with only a single outlet, Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve has two outlets per emitter. If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance. The Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve is made of premium low-density polyethylene resins with UV protection and large, tough cylindrical drip emitters, offering a combination of outstanding environmental stress-cracking resistance and burst strength with anti-siphoning capability for subsurface irrigation applications.</span></p>
+<p><span style="text-decoration: underline;"><strong>Features</strong></span></p>
+<lh>Features</lh>
+<ul>
+<li>Can be installed above or below grade</li>
+<li>Inline emitter check valves prevent drainage from the dripline when water pressure drops below 2.5 PSI, protecting the emitters against the siphoning of small sediment and soil particles into the drip emitter</li>
+<li>Two outlets per emitter; If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance</li>
+<li>Available in two flow rates, a wide range of emitters spacing and a wide range of drip tubing lengths to provide maximum design flexibility in a variety of applications</li>
+<li>Available with double stripes colored codes, representing the drip line flow rates</li>
+<li>Pressure compensating feature provides flow uniformity regardless of operating pressure and variation along the line</li>
+<li>Drip emitter and diaphragm are self-contained units molded to the interior wall of the tubing</li>
+<li>Flow path design supports superior clogging resistance</li>
+<li>Turbulent flow through large labyrinth water passages leads water into the flow control chamber where a sensitive floating silicon diaphragm regulates and maintains a constant flow rate at variable inlet pressures. The self-flushing silicon diaphragm allows pressure to build up within the chamber and flush any debris not captured by the inlet filter.</li>
+<li>Dripline includes one inlet and two outlets per each emitter</li>
+<li>Intake inlet has a number of raised grooves that act as a secondary filter. The filter intake area is continuously flushed by water flow throughout the operation of the system, preventing particles from entering the labyrinth and giving the drip emitter its resistance to clogging.</li>
+<li>Check valve and dual, oppositely oriented directional outlets act as a physical barrier to root and debris intrusion</li>
+<li>Resistant to chemicals and fertilizers commonly used in landscaping</li>
+<li>Protected against UV degradation</li>
+<li>Flexible tubing for easy installation</li>
+<li>Dripline is printed with the flow rate and size for easy identification</li>
+<li>Use with DIG's 17 mm barb fittings, .670" OD compression fittings and universal Nut Lock fittings</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Specifications</strong></span></p>
+<lh>Specifications</lh>
+<ul>
+<li>Flow rates:
+<ul>
+<li>.6 GPH (2.3 L/H) drip emitter color code - orange</li>
+<li>Drip line double stripe code - beige</li>
+<li>1 GPH (3.8 L/H) drip emitter color code - gray</li>
+<li>Drip line double stripe code - gray</li>
+</ul>
+</li>
+<li>Operating pressure: 12-50 PSI (.8-3.5 BAR)</li>
+<li>Check valve sealing pressure: 2.5 PSI (.17 BAR)</li>
+<li>Check valve opening pressure: 4.3 PSI (.3 BAR)</li>
+<li>Materials: Dow FINGERPRINT DFDA-7510 NT linear low-density polyethylene resin with a minimum of 2% carbon black</li>
+<li>Dripline color: brown</li>
+<li>Size: 1/2" (.570" ID x .670" OD)(14.5 mm ID x 17 mm OD)</li>
+<li>Available in 100', 250', 500' and 1000' coils (30 m, 75 m,150 m and 300 m)</li>
+<li>Minimum bending radius: 1' (.3 m)</li>
+<li>Filter requirement: minimum of 150 mesh</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/37/41-021_REVD-EXCELPCCV-112917-W.pdf" target="_blank" rel="noopener noreferrer"><strong>Cut Sheet</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Tubing &amp; Dripline</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Dripline</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4995527344230</id>
+      <title>Default Title</title>
+      <s:price currency="USD">105.65</s:price>
+      <s:sku>A1-212P-CV</s:sku>
+      <s:grams>5048</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4995525083238</id>
+    <published>2021-03-23T17:40:24-04:00</published>
+    <updated>2021-03-23T17:40:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-excel-pcd-cv-17-mm-dripline-w-check-valve-12-spacing-6-gph-670-od-250-a5-212p-cv"/>
+    <title>Dig - 17mm Excel PCD Dripline w/ Check Valve; 12&quot; Spacing x 250&apos; (Brown) .6 GPH - A5-212P-CV</title>
+    <s:type>Drip Tubing</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/DIG-excel-pc-dripline-white-stripe_13622b13-121f-4a30-9616-5f54db96b3ee.jpg?v=1609356675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tubing<br>
+        <strong>Price: </strong>
+            105.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">DIG's Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve for subsurface irrigation is a reliable, durable and precise pressure compensating dripline used for narrow or dense plantings. The dripline's cylindrical drip emitters have built in check valves to prevent siphoning when water pressure drops below 2.5 PSI. This feature protects the inline emitters from sediment, soil particles and debris entering the dripline. Each cylindrical drip emitter's floating diaphragm regulates and maintains a consistent flow rate at variable inlet pressures ranging from 12 to 50 PSI in a wide range of demanding conditions. Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve provides a colored stripe for each flow rate and unlike other dripline with only a single outlet, Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve has two outlets per emitter. If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance. The Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve is made of premium low-density polyethylene resins with UV protection and large, tough cylindrical drip emitters, offering a combination of outstanding environmental stress-cracking resistance and burst strength with anti-siphoning capability for subsurface irrigation applications.</span></p>
+<p><span style="text-decoration: underline;"><strong>Features</strong></span></p>
+<lh>Features</lh>
+<ul>
+<li>Can be installed above or below grade</li>
+<li>Inline emitter check valves prevent drainage from the dripline when water pressure drops below 2.5 PSI, protecting the emitters against the siphoning of small sediment and soil particles into the drip emitter</li>
+<li>Two outlets per emitter; If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance</li>
+<li>Available in two flow rates, a wide range of emitters spacing and a wide range of drip tubing lengths to provide maximum design flexibility in a variety of applications</li>
+<li>Available with double stripes colored codes, representing the drip line flow rates</li>
+<li>Pressure compensating feature provides flow uniformity regardless of operating pressure and variation along the line</li>
+<li>Drip emitter and diaphragm are self-contained units molded to the interior wall of the tubing</li>
+<li>Flow path design supports superior clogging resistance</li>
+<li>Turbulent flow through large labyrinth water passages leads water into the flow control chamber where a sensitive floating silicon diaphragm regulates and maintains a constant flow rate at variable inlet pressures. The self-flushing silicon diaphragm allows pressure to build up within the chamber and flush any debris not captured by the inlet filter.</li>
+<li>Dripline includes one inlet and two outlets per each emitter</li>
+<li>Intake inlet has a number of raised grooves that act as a secondary filter. The filter intake area is continuously flushed by water flow throughout the operation of the system, preventing particles from entering the labyrinth and giving the drip emitter its resistance to clogging.</li>
+<li>Check valve and dual, oppositely oriented directional outlets act as a physical barrier to root and debris intrusion</li>
+<li>Resistant to chemicals and fertilizers commonly used in landscaping</li>
+<li>Protected against UV degradation</li>
+<li>Flexible tubing for easy installation</li>
+<li>Dripline is printed with the flow rate and size for easy identification</li>
+<li>Use with DIG's 17 mm barb fittings, .670" OD compression fittings and universal Nut Lock fittings</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Specifications</strong></span></p>
+<lh>Specifications</lh>
+<ul>
+<li>Flow rates:
+<ul>
+<li>.6 GPH (2.3 L/H) drip emitter color code - orange</li>
+<li>Drip line double stripe code - beige</li>
+<li>1 GPH (3.8 L/H) drip emitter color code - gray</li>
+<li>Drip line double stripe code - gray</li>
+</ul>
+</li>
+<li>Operating pressure: 12-50 PSI (.8-3.5 BAR)</li>
+<li>Check valve sealing pressure: 2.5 PSI (.17 BAR)</li>
+<li>Check valve opening pressure: 4.3 PSI (.3 BAR)</li>
+<li>Materials: Dow FINGERPRINT DFDA-7510 NT linear low-density polyethylene resin with a minimum of 2% carbon black</li>
+<li>Dripline color: brown</li>
+<li>Size: 1/2" (.570" ID x .670" OD)(14.5 mm ID x 17 mm OD)</li>
+<li>Available in 100', 250', 500' and 1000' coils (30 m, 75 m,150 m and 300 m)</li>
+<li>Minimum bending radius: 1' (.3 m)</li>
+<li>Filter requirement: minimum of 150 mesh</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/37/41-021_REVD-EXCELPCCV-112917-W.pdf" target="_blank" rel="noopener noreferrer"><strong>Cut Sheet</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Tubing &amp; Dripline</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Dripline</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4995525083238</id>
+      <title>Default Title</title>
+      <s:price currency="USD">105.65</s:price>
+      <s:sku>A5-212P-CV</s:sku>
+      <s:grams>5048</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4995532521574</id>
+    <published>2021-03-23T16:22:02-04:00</published>
+    <updated>2021-03-23T16:22:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-excel-pcd-cv-17-mm-dripline-w-check-valve-12-spacing-1-gph-670-od-1000-a1-12p-cv"/>
+    <title>Dig - 17mm Excel PCD Dripline w/ Check Valve; 12&quot; Spacing x 1000&apos; (Brown) 1 GPH - A1-12P-CV</title>
+    <s:type>Drip Tubing</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/DIG-excel-pc-dripline-white-stripe_dae4f561-57a1-4ca8-8ec6-9f0490e963b0.jpg?v=1609357559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tubing<br>
+        <strong>Price: </strong>
+            413.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">DIG's Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve for subsurface irrigation is a reliable, durable and precise pressure compensating dripline used for narrow or dense plantings. The dripline's cylindrical drip emitters have built in check valves to prevent siphoning when water pressure drops below 2.5 PSI. This feature protects the inline emitters from sediment, soil particles and debris entering the dripline. Each cylindrical drip emitter's floating diaphragm regulates and maintains a consistent flow rate at variable inlet pressures ranging from 12 to 50 PSI in a wide range of demanding conditions. Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve provides a colored stripe for each flow rate and unlike other dripline with only a single outlet, Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve has two outlets per emitter. If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance. The Excel PCD CV Pressure compensating, Dual Outlet Dripline with Check Valve is made of premium low-density polyethylene resins with UV protection and large, tough cylindrical drip emitters, offering a combination of outstanding environmental stress-cracking resistance and burst strength with anti-siphoning capability for subsurface irrigation applications.</span></p>
+<p><span style="text-decoration: underline;"><strong>Features</strong></span></p>
+<lh>Features</lh>
+<ul>
+<li>Can be installed above or below grade</li>
+<li>Inline emitter check valves prevent drainage from the dripline when water pressure drops below 2.5 PSI, protecting the emitters against the siphoning of small sediment and soil particles into the drip emitter</li>
+<li>Two outlets per emitter; If one outlet becomes blocked, a second outlet on the opposing side of the dripline provides redundancy to the dripline performance</li>
+<li>Available in two flow rates, a wide range of emitters spacing and a wide range of drip tubing lengths to provide maximum design flexibility in a variety of applications</li>
+<li>Available with double stripes colored codes, representing the drip line flow rates</li>
+<li>Pressure compensating feature provides flow uniformity regardless of operating pressure and variation along the line</li>
+<li>Drip emitter and diaphragm are self-contained units molded to the interior wall of the tubing</li>
+<li>Flow path design supports superior clogging resistance</li>
+<li>Turbulent flow through large labyrinth water passages leads water into the flow control chamber where a sensitive floating silicon diaphragm regulates and maintains a constant flow rate at variable inlet pressures. The self-flushing silicon diaphragm allows pressure to build up within the chamber and flush any debris not captured by the inlet filter.</li>
+<li>Dripline includes one inlet and two outlets per each emitter</li>
+<li>Intake inlet has a number of raised grooves that act as a secondary filter. The filter intake area is continuously flushed by water flow throughout the operation of the system, preventing particles from entering the labyrinth and giving the drip emitter its resistance to clogging.</li>
+<li>Check valve and dual, oppositely oriented directional outlets act as a physical barrier to root and debris intrusion</li>
+<li>Resistant to chemicals and fertilizers commonly used in landscaping</li>
+<li>Protected against UV degradation</li>
+<li>Flexible tubing for easy installation</li>
+<li>Dripline is printed with the flow rate and size for easy identification</li>
+<li>Use with DIG's 17 mm barb fittings, .670" OD compression fittings and universal Nut Lock fittings</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Specifications</strong></span></p>
+<lh>Specifications</lh>
+<ul>
+<li>Flow rates:
+<ul>
+<li>.6 GPH (2.3 L/H) drip emitter color code - orange</li>
+<li>Drip line double stripe code - beige</li>
+<li>1 GPH (3.8 L/H) drip emitter color code - gray</li>
+<li>Drip line double stripe code - gray</li>
+</ul>
+</li>
+<li>Operating pressure: 12-50 PSI (.8-3.5 BAR)</li>
+<li>Check valve sealing pressure: 2.5 PSI (.17 BAR)</li>
+<li>Check valve opening pressure: 4.3 PSI (.3 BAR)</li>
+<li>Materials: Dow FINGERPRINT DFDA-7510 NT linear low-density polyethylene resin with a minimum of 2% carbon black</li>
+<li>Dripline color: brown</li>
+<li>Size: 1/2" (.570" ID x .670" OD)(14.5 mm ID x 17 mm OD)</li>
+<li>Available in 100', 250', 500' and 1000' coils (30 m, 75 m,150 m and 300 m)</li>
+<li>Minimum bending radius: 1' (.3 m)</li>
+<li>Filter requirement: minimum of 150 mesh</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/37/41-021_REVD-EXCELPCCV-112917-W.pdf" target="_blank" rel="noopener noreferrer"><strong>Cut Sheet</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Tubing &amp; Dripline</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Dripline</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4995532521574</id>
+      <title>Default Title</title>
+      <s:price currency="USD">413.86</s:price>
+      <s:sku>A1-12P-CV</s:sku>
+      <s:grams>20198</s:grams>
+    </s:variant>
+  </entry>
+</feed>

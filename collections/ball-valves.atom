@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/ball-valves.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2020-12-14T17:26:03-05:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4988281651302</id>
+    <published>2020-12-14T17:26:03-05:00</published>
+    <updated>2020-12-14T17:26:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/american-granby-hmip300se-pvc-ball-valve-3-slip"/>
+    <title>American Granby - HMIP300SE - PVC Ball Valve 3&apos;&apos; Slip</title>
+    <s:type>Ball Valves</s:type>
+    <s:vendor>American Granby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/hmip_4fd49815-765b-49f6-9d2d-a01203afdf2c.jpg?v=1607984623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Granby<br>
+        <strong>Type: </strong>Ball Valves<br>
+        <strong>Price: </strong>
+            45.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SCH 80 Series PVC Molded-In-Place Ball Valve Features</strong>:</p>
+<ul>
+<li>3'' Slip x Slip PVC Ball Valve EPDM</li>
+<li>Heavy duty thermoplastic white PVC (Type 1, Grade 1) construction. Materials meet NSF standards.</li>
+<li>Meets ASTM 2467 Schedule 80.</li>
+<li>White body, red handle.</li>
+<li>Available with PTFE or EPDM seats providing excellent chemical resistance.</li>
+<li>EPDM “o” ring stem seal</li>
+<li>150 PSI working pressure at 73ºF water, non-shock.</li>
+<li>Maintenance free compact design.</li>
+<li>Severe shock loads and misalignment stress are absorbed by the valve body, not the ball &amp; seat, minimizing the chance of uneven wear &amp; leakage.</li>
+<li>Individually cartoned.</li>
+<li>Manufactured for AGI in an ISO9002 facility.</li>
+<li>Third party certified to NSF/ANSI 372.</li>
+<li>Imported.</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="http://americangranby.com/PDFs/S03P015.pdf" target="_blank">HMIP Ball Valves Catalog Page</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_American Granby</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRODUCT TYPE_Ball Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4988281651302</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.15</s:price>
+      <s:sku>HMIP300SE</s:sku>
+      <s:grams>1724</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4988280733798</id>
+    <published>2020-12-14T17:22:38-05:00</published>
+    <updated>2020-12-14T17:22:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/american-granby-hmip200se-pvc-ball-valve-2-fpt"/>
+    <title>American Granby - HMIP200TE - PVC Ball Valve 2&apos;&apos; FPT</title>
+    <s:type>Ball Valves</s:type>
+    <s:vendor>American Granby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/hmip_46bbd505-d3e1-4ba7-bbf4-05b4269d7ae7.jpg?v=1607984502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Granby<br>
+        <strong>Type: </strong>Ball Valves<br>
+        <strong>Price: </strong>
+            10.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SCH 80 Series PVC Molded-In-Place Ball Valve Features</strong>:</p>
+<ul>
+<li>2'' Female Pipe Thread PVC Ball Valve EPDM</li>
+<li>Heavy duty thermoplastic white PVC (Type 1, Grade 1) construction. Materials meet NSF standards.</li>
+<li>Meets ASTM 2467 Schedule 80.</li>
+<li>White body, red handle.</li>
+<li>Available with PTFE or EPDM seats providing excellent chemical resistance.</li>
+<li>EPDM “o” ring stem seal</li>
+<li>150 PSI working pressure at 73ºF water, non-shock.</li>
+<li>Maintenance free compact design.</li>
+<li>Severe shock loads and misalignment stress are absorbed by the valve body, not the ball &amp; seat, minimizing the chance of uneven wear &amp; leakage.</li>
+<li>Individually cartoned.</li>
+<li>Manufactured for AGI in an ISO9002 facility.</li>
+<li>Third party certified to NSF/ANSI 372.</li>
+<li>Imported.</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="http://americangranby.com/PDFs/S03P015.pdf" target="_blank">HMIP Ball Valves Catalog Page</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_American Granby</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRODUCT TYPE_Ball Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4988280733798</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.24</s:price>
+      <s:sku>HMIP200TE</s:sku>
+      <s:grams>737</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4988279685222</id>
+    <published>2020-12-14T17:20:57-05:00</published>
+    <updated>2020-12-14T17:20:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/american-granby-hmip200se-pvc-ball-valve-2-slip"/>
+    <title>American Granby - HMIP200SE - PVC Ball Valve 2&apos;&apos; Slip</title>
+    <s:type>Ball Valves</s:type>
+    <s:vendor>American Granby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/hmip_7b2cca1f-78cf-43e5-8550-b78888430ce5.jpg?v=1607984355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Granby<br>
+        <strong>Type: </strong>Ball Valves<br>
+        <strong>Price: </strong>
+            10.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SCH 80 Series PVC Molded-In-Place Ball Valve Features</strong>:</p>
+<ul>
+<li>2'' Slip x Slip PVC Ball Valve EPDM</li>
+<li>Heavy duty thermoplastic white PVC (Type 1, Grade 1) construction. Materials meet NSF standards.</li>
+<li>Meets ASTM 2467 Schedule 80.</li>
+<li>White body, red handle.</li>
+<li>Available with PTFE or EPDM seats providing excellent chemical resistance.</li>
+<li>EPDM “o” ring stem seal</li>
+<li>150 PSI working pressure at 73ºF water, non-shock.</li>
+<li>Maintenance free compact design.</li>
+<li>Severe shock loads and misalignment stress are absorbed by the valve body, not the ball &amp; seat, minimizing the chance of uneven wear &amp; leakage.</li>
+<li>Individually cartoned.</li>
+<li>Manufactured for AGI in an ISO9002 facility.</li>
+<li>Third party certified to NSF/ANSI 372.</li>
+<li>Imported.</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="http://americangranby.com/PDFs/S03P015.pdf" target="_blank">HMIP Ball Valves Catalog Page</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_American Granby</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRODUCT TYPE_Ball Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4988279685222</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.24</s:price>
+      <s:sku>HMIP200SE</s:sku>
+      <s:grams>737</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4988278440038</id>
+    <published>2020-12-14T17:16:42-05:00</published>
+    <updated>2020-12-14T17:16:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/american-granby-hmip150te-pvc-ball-valve-1-1-2-fpt"/>
+    <title>American Granby - HMIP150TE - PVC Ball Valve 1-1/2&apos;&apos; FPT</title>
+    <s:type>Ball Valves</s:type>
+    <s:vendor>American Granby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/hmip_21f906e6-2913-453c-9b4a-22e6e23b05ed.jpg?v=1607984130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Granby<br>
+        <strong>Type: </strong>Ball Valves<br>
+        <strong>Price: </strong>
+            8.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SCH 80 Series PVC Molded-In-Place Ball Valve Features</strong>:</p>
+<ul>
+<li>1-1/2'' Female Pipe Thread PVC Ball Valve EPDM</li>
+<li>Heavy duty thermoplastic white PVC (Type 1, Grade 1) construction. Materials meet NSF standards.</li>
+<li>Meets ASTM 2467 Schedule 80.</li>
+<li>White body, red handle.</li>
+<li>Available with PTFE or EPDM seats providing excellent chemical resistance.</li>
+<li>EPDM “o” ring stem seal</li>
+<li>150 PSI working pressure at 73ºF water, non-shock.</li>
+<li>Maintenance free compact design.</li>
+<li>Severe shock loads and misalignment stress are absorbed by the valve body, not the ball &amp; seat, minimizing the chance of uneven wear &amp; leakage.</li>
+<li>Individually cartoned.</li>
+<li>Manufactured for AGI in an ISO9002 facility.</li>
+<li>Third party certified to NSF/ANSI 372.</li>
+<li>Imported.</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="http://americangranby.com/PDFs/S03P015.pdf" target="_blank">HMIP Ball Valves Catalog Page</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_American Granby</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Ball Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4988278440038</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.22</s:price>
+      <s:sku>HMIP150TE</s:sku>
+      <s:grams>448</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4988277325926</id>
+    <published>2020-12-14T17:14:30-05:00</published>
+    <updated>2020-12-14T17:14:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/american-granby-hmip150se-pvc-ball-valve-1-1-2-slip"/>
+    <title>American Granby - HMIP150SE - PVC Ball Valve 1-1/2&apos;&apos; Slip</title>
+    <s:type>Ball Valves</s:type>
+    <s:vendor>American Granby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/hmip_89b14955-a9d9-42d2-bd0b-7a13a29c77ed.jpg?v=1607983930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Granby<br>
+        <strong>Type: </strong>Ball Valves<br>
+        <strong>Price: </strong>
+            8.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SCH 80 Series PVC Molded-In-Place Ball Valve Features</strong>:</p>
+<ul>
+<li>1-1/2'' Slip x Slip PVC Ball Valve EPDM</li>
+<li>Heavy duty thermoplastic white PVC (Type 1, Grade 1) construction. Materials meet NSF standards.</li>
+<li>Meets ASTM 2467 Schedule 80.</li>
+<li>White body, red handle.</li>
+<li>Available with PTFE or EPDM seats providing excellent chemical resistance.</li>
+<li>EPDM “o” ring stem seal</li>
+<li>150 PSI working pressure at 73ºF water, non-shock.</li>
+<li>Maintenance free compact design.</li>
+<li>Severe shock loads and misalignment stress are absorbed by the valve body, not the ball &amp; seat, minimizing the chance of uneven wear &amp; leakage.</li>
+<li>Individually cartoned.</li>
+<li>Manufactured for AGI in an ISO9002 facility.</li>
+<li>Third party certified to NSF/ANSI 372.</li>
+<li>Imported.</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="http://americangranby.com/PDFs/S03P015.pdf" target="_blank">HMIP Ball Valves Catalog Page</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_American Granby</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Ball Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4988277325926</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.22</s:price>
+      <s:sku>HMIP150SE</s:sku>
+      <s:grams>448</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4988276801638</id>
+    <published>2020-12-14T17:10:53-05:00</published>
+    <updated>2020-12-14T17:10:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/american-granby-hmip125te-pvc-ball-valve-1-1-4-fpt"/>
+    <title>American Granby - HMIP125TE - PVC Ball Valve 1-1/4&apos;&apos; FPT</title>
+    <s:type>Ball Valves</s:type>
+    <s:vendor>American Granby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/hmip_b30287b4-d167-4696-a80f-03b9c0e03566.jpg?v=1607983809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Granby<br>
+        <strong>Type: </strong>Ball Valves<br>
+        <strong>Price: </strong>
+            4.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SCH 80 Series PVC Molded-In-Place Ball Valve Features</strong>:</p>
+<ul>
+<li>1-1/4'' Female Pipe Thread PVC Ball Valve EPDM</li>
+<li>Heavy duty thermoplastic white PVC (Type 1, Grade 1) construction. Materials meet NSF standards.</li>
+<li>Meets ASTM 2467 Schedule 80.</li>
+<li>White body, red handle.</li>
+<li>Available with PTFE or EPDM seats providing excellent chemical resistance.</li>
+<li>EPDM “o” ring stem seal</li>
+<li>150 PSI working pressure at 73ºF water, non-shock.</li>
+<li>Maintenance free compact design.</li>
+<li>Severe shock loads and misalignment stress are absorbed by the valve body, not the ball &amp; seat, minimizing the chance of uneven wear &amp; leakage.</li>
+<li>Individually cartoned.</li>
+<li>Manufactured for AGI in an ISO9002 facility.</li>
+<li>Third party certified to NSF/ANSI 372.</li>
+<li>Imported.</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="http://americangranby.com/PDFs/S03P015.pdf" target="_blank">HMIP Ball Valves Catalog Page</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_American Granby</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Ball Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4988276801638</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.86</s:price>
+      <s:sku>HMIP125TE</s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4988275589222</id>
+    <published>2020-12-14T17:09:00-05:00</published>
+    <updated>2020-12-14T17:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/american-granby-hmip125se-pvc-ball-valve-1-1-4-slip"/>
+    <title>American Granby - HMIP125SE - PVC Ball Valve 1-1/4&apos;&apos; Slip</title>
+    <s:type>Ball Valves</s:type>
+    <s:vendor>American Granby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/hmip_886c22d4-5b4c-4570-9ba4-c8d76a89aeac.jpg?v=1607983661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Granby<br>
+        <strong>Type: </strong>Ball Valves<br>
+        <strong>Price: </strong>
+            4.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SCH 80 Series PVC Molded-In-Place Ball Valve Features</strong>:</p>
+<ul>
+<li>1-1/4'' Slip x Slip PVC Ball Valve EPDM</li>
+<li>Heavy duty thermoplastic white PVC (Type 1, Grade 1) construction. Materials meet NSF standards.</li>
+<li>Meets ASTM 2467 Schedule 80.</li>
+<li>White body, red handle.</li>
+<li>Available with PTFE or EPDM seats providing excellent chemical resistance.</li>
+<li>EPDM “o” ring stem seal</li>
+<li>150 PSI working pressure at 73ºF water, non-shock.</li>
+<li>Maintenance free compact design.</li>
+<li>Severe shock loads and misalignment stress are absorbed by the valve body, not the ball &amp; seat, minimizing the chance of uneven wear &amp; leakage.</li>
+<li>Individually cartoned.</li>
+<li>Manufactured for AGI in an ISO9002 facility.</li>
+<li>Third party certified to NSF/ANSI 372.</li>
+<li>Imported.</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="http://americangranby.com/PDFs/S03P015.pdf" target="_blank">HMIP Ball Valves Catalog Page</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_American Granby</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Ball Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4988275589222</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.86</s:price>
+      <s:sku>HMIP125SE</s:sku>
+      <s:grams>298</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4988272738406</id>
+    <published>2020-12-14T17:00:08-05:00</published>
+    <updated>2020-12-14T17:00:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/american-granby-hmip100te-pvc-ball-valve-1-fpt"/>
+    <title>American Granby - HMIP100TE - PVC Ball Valve 1&apos;&apos; FPT</title>
+    <s:type>Ball Valves</s:type>
+    <s:vendor>American Granby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/hmip_0153ee89-25b8-4c24-afa4-6db7121fee67.jpg?v=1607983234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Granby<br>
+        <strong>Type: </strong>Ball Valves<br>
+        <strong>Price: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SCH 80 Series PVC Molded-In-Place Ball Valve Features</strong>:</p>
+<ul>
+<li>1'' Female Pipe Thread PVC Ball Valve EPDM</li>
+<li>Heavy duty thermoplastic white PVC (Type 1, Grade 1) construction. Materials meet NSF standards.</li>
+<li>Meets ASTM 2467 Schedule 80.</li>
+<li>White body, red handle.</li>
+<li>Available with PTFE or EPDM seats providing excellent chemical resistance.</li>
+<li>EPDM “o” ring stem seal</li>
+<li>150 PSI working pressure at 73ºF water, non-shock.</li>
+<li>Maintenance free compact design.</li>
+<li>Severe shock loads and misalignment stress are absorbed by the valve body, not the ball &amp; seat, minimizing the chance of uneven wear &amp; leakage.</li>
+<li>Individually cartoned.</li>
+<li>Manufactured for AGI in an ISO9002 facility.</li>
+<li>Third party certified to NSF/ANSI 372.</li>
+<li>Imported.</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="http://americangranby.com/PDFs/S03P015.pdf" target="_blank">HMIP Ball Valves Catalog Page</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_American Granby</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Ball Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4988272738406</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.40</s:price>
+      <s:sku>HMIP100TE</s:sku>
+      <s:grams>244</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4988270542950</id>
+    <published>2020-12-14T16:55:39-05:00</published>
+    <updated>2020-12-14T16:55:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/american-granby-hmip100se-pvc-ball-valve-1-slip"/>
+    <title>American Granby - HMIP100SE - PVC Ball Valve 1&apos;&apos; Slip</title>
+    <s:type>Ball Valves</s:type>
+    <s:vendor>American Granby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/hmip_a716412a-f07c-4f9d-ad65-2bd63e75fb65.jpg?v=1607982925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Granby<br>
+        <strong>Type: </strong>Ball Valves<br>
+        <strong>Price: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SCH 80 Series PVC Molded-In-Place Ball Valve Features</strong>:</p>
+<ul>
+<li>1'' Slip x Slip PVC Ball Valve EPDM</li>
+<li>Heavy duty thermoplastic white PVC (Type 1, Grade 1) construction. Materials meet NSF standards.</li>
+<li>Meets ASTM 2467 Schedule 80.</li>
+<li>White body, red handle.</li>
+<li>Available with PTFE or EPDM seats providing excellent chemical resistance.</li>
+<li>EPDM “o” ring stem seal</li>
+<li>150 PSI working pressure at 73ºF water, non-shock.</li>
+<li>Maintenance free compact design.</li>
+<li>Severe shock loads and misalignment stress are absorbed by the valve body, not the ball &amp; seat, minimizing the chance of uneven wear &amp; leakage.</li>
+<li>Individually cartoned.</li>
+<li>Manufactured for AGI in an ISO9002 facility.</li>
+<li>Third party certified to NSF/ANSI 372.</li>
+<li>Imported.</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="http://americangranby.com/PDFs/S03P015.pdf" target="_blank">HMIP Ball Valves Catalog Page</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_American Granby</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Ball Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4988270542950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.40</s:price>
+      <s:sku>HMIP100SE</s:sku>
+      <s:grams>244</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4988266315878</id>
+    <published>2020-12-14T16:43:22-05:00</published>
+    <updated>2020-12-14T16:43:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/american-granby-hmip75te-pvc-ball-valve-3-4-fpt-1"/>
+    <title>American Granby - HMIP75TE - PVC Ball Valve 3/4&apos;&apos; FPT</title>
+    <s:type>Ball Valves</s:type>
+    <s:vendor>American Granby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/hmip_a38fdd20-405d-4eb2-964c-1ce62290cf94.jpg?v=1607982166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Granby<br>
+        <strong>Type: </strong>Ball Valves<br>
+        <strong>Price: </strong>
+            2.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SCH 80 Series PVC Molded-In-Place Ball Valve Features</strong>:</p>
+<ul>
+<li>3/4'' Female Pipe Thread PVC Ball Valve EPDM</li>
+<li>Heavy duty thermoplastic white PVC (Type 1, Grade 1) construction. Materials meet NSF standards.</li>
+<li>Meets ASTM 2467 Schedule 80.</li>
+<li>White body, red handle.</li>
+<li>Available with PTFE or EPDM seats providing excellent chemical resistance.</li>
+<li>EPDM “o” ring stem seal</li>
+<li>150 PSI working pressure at 73ºF water, non-shock.</li>
+<li>Maintenance free compact design.</li>
+<li>Severe shock loads and misalignment stress are absorbed by the valve body, not the ball &amp; seat, minimizing the chance of uneven wear &amp; leakage.</li>
+<li>Individually cartoned.</li>
+<li>Manufactured for AGI in an ISO9002 facility.</li>
+<li>Third party certified to NSF/ANSI 372.</li>
+<li>Imported.</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="http://americangranby.com/PDFs/S03P015.pdf" target="_blank">HMIP Ball Valves Catalog Page</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_American Granby</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Ball Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4988266315878</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.98</s:price>
+      <s:sku>HMIP75TE</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4988262383718</id>
+    <published>2020-12-14T16:34:16-05:00</published>
+    <updated>2020-12-14T16:34:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/american-granby-hmip75se-pvc-ball-valve-3-4-slip"/>
+    <title>American Granby - HMIP75SE - PVC Ball Valve 3/4&apos;&apos; Slip</title>
+    <s:type>Ball Valves</s:type>
+    <s:vendor>American Granby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/hmip_a4e33d6c-ded5-477a-a86b-59fcc98b33a6.jpg?v=1607981982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Granby<br>
+        <strong>Type: </strong>Ball Valves<br>
+        <strong>Price: </strong>
+            2.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SCH 80 Series PVC Molded-In-Place Ball Valve Features</strong>:</p>
+<ul>
+<li>3/4'' Slip x Slip PVC Ball Valve EPDM</li>
+<li>Heavy duty thermoplastic white PVC (Type 1, Grade 1) construction. Materials meet NSF standards.</li>
+<li>Meets ASTM 2467 Schedule 80.</li>
+<li>White body, red handle.</li>
+<li>Available with PTFE or EPDM seats providing excellent chemical resistance.</li>
+<li>EPDM “o” ring stem seal</li>
+<li>150 PSI working pressure at 73ºF water, non-shock.</li>
+<li>Maintenance free compact design.</li>
+<li>Severe shock loads and misalignment stress are absorbed by the valve body, not the ball &amp; seat, minimizing the chance of uneven wear &amp; leakage.</li>
+<li>Individually cartoned.</li>
+<li>Manufactured for AGI in an ISO9002 facility.</li>
+<li>Third party certified to NSF/ANSI 372.</li>
+<li>Imported.</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="http://americangranby.com/PDFs/S03P015.pdf" target="_blank">HMIP Ball Valves Catalog Page</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_American Granby</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Ball Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4988262383718</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.98</s:price>
+      <s:sku>HMIP75SE</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4988255928422</id>
+    <published>2020-12-14T16:21:01-05:00</published>
+    <updated>2020-12-14T16:21:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/american-granby-hmip50se-pvc-ball-valve-1-2-slip"/>
+    <title>American Granby - HMIP50SE - PVC Ball Valve 1/2&apos;&apos; Slip</title>
+    <s:type>Ball Valves</s:type>
+    <s:vendor>American Granby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/hmip_568475e5-6dbe-40b9-be67-8a263a7b8f37.jpg?v=1607980437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Granby<br>
+        <strong>Type: </strong>Ball Valves<br>
+        <strong>Price: </strong>
+            2.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SCH 80 Series PVC Molded-In-Place Ball Valve Features</strong>:</p>
+<ul>
+<li>1/2'' Slip x Slip PVC Ball Valve EPDM</li>
+<li>Heavy duty thermoplastic white PVC (Type 1, Grade 1) construction. Materials meet NSF standards.</li>
+<li>Meets ASTM 2467 Schedule 80.</li>
+<li>White body, red handle.</li>
+<li>Available with PTFE or EPDM seats providing excellent chemical resistance.</li>
+<li>EPDM “o” ring stem seal</li>
+<li>150 PSI working pressure at 73ºF water, non-shock.</li>
+<li>Maintenance free compact design.</li>
+<li>Severe shock loads and misalignment stress are absorbed by the valve body, not the ball &amp; seat, minimizing the chance of uneven wear &amp; leakage.</li>
+<li>Individually cartoned.</li>
+<li>Manufactured for AGI in an ISO9002 facility.</li>
+<li>Third party certified to NSF/ANSI 372.</li>
+<li>Imported.</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="http://americangranby.com/PDFs/S03P015.pdf" target="_blank">HMIP Ball Valves Catalog Page</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_American Granby</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Ball Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4988255928422</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.44</s:price>
+      <s:sku>HMIP50SE</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4988128919654</id>
+    <published>2020-12-14T16:01:49-05:00</published>
+    <updated>2020-12-14T16:01:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/american-granby-hmip50te-pvc-ball-valve-1-2-fpt"/>
+    <title>American Granby - HMIP50TE - PVC Ball Valve 1/2&apos;&apos; FPT</title>
+    <s:type>Ball Valves</s:type>
+    <s:vendor>American Granby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/hmip.jpg?v=1607959746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Granby<br>
+        <strong>Type: </strong>Ball Valves<br>
+        <strong>Price: </strong>
+            2.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SCH 80 Series PVC Molded-In-Place Ball Valve Features</strong>:</p>
+<ul>
+<li>1/2'' Female Pipe Threaded PVC Ball Valve EPDM</li>
+<li>Heavy duty thermoplastic white PVC (Type 1, Grade 1) construction. Materials meet NSF standards.</li>
+<li>Meets ASTM 2467 Schedule 80.</li>
+<li>White body, red handle.</li>
+<li>Available with PTFE or EPDM seats providing excellent chemical resistance.</li>
+<li>EPDM “o” ring stem seal</li>
+<li>150 PSI working pressure at 73ºF water, non-shock.</li>
+<li>Maintenance free compact design.</li>
+<li>Severe shock loads and misalignment stress are absorbed by the valve body, not the ball &amp; seat, minimizing the chance of uneven wear &amp; leakage.</li>
+<li>Individually cartoned.</li>
+<li>Manufactured for AGI in an ISO9002 facility.</li>
+<li>Third party certified to NSF/ANSI 372.</li>
+<li>Imported.</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="http://americangranby.com/PDFs/S03P015.pdf" target="_blank" rel="noopener noreferrer">HMIP Ball Valves Catalog Page</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_American Granby</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Ball Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4988128919654</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.44</s:price>
+      <s:sku>HMIP50TE</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+</feed>

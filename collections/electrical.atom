@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/electrical.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2021-01-19T12:37:55-05:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5006994767974</id>
+    <published>2021-01-19T12:37:55-05:00</published>
+    <updated>2021-01-19T12:37:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/12-1-x-500-12-awg-underground-sprinkler-wire-red"/>
+    <title>12/1 x 500&apos; - 12 AWG Underground Sprinkler Wire (Red)</title>
+    <s:type>Wire</s:type>
+    <s:vendor>Southwire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/12-1-red.jpg?v=1611077844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southwire<br>
+        <strong>Type: </strong>Wire<br>
+        <strong>Price: </strong>
+            129.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Features: </strong></div>
+<ul>
+<li><span style="font-size: 14px; background-color: initial;">600V solid bare copper</span></li>
+<li><span style="font-size: 14px; background-color: initial;">PVC insulated conductor</span></li>
+<li><span style="font-size: 14px; background-color: initial;">Sequential footage marking</span></li>
+<li><span style="font-size: 14px; background-color: initial;">Striped UF products available, contact factory</span></li>
+</ul>
+<div><strong><br>Applications: </strong></div>
+<ul>
+<li><span style="font-size: 14px; background-color: initial;">Underground feeder cable for direct burial applications</span></li>
+</ul>
+<div> </div>
+<div><strong>Industry Approvals: </strong></div>
+<ul>
+<li><span style="font-size: 14px; background-color: initial;">UL Listed Underground Feeder Cable 600 Volt</span></li>
+<li><span style="font-size: 14px; background-color: initial;">UL Standard 493</span></li>
+<li><span style="font-size: 14px; background-color: initial;">RoHS</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Southwire</s:tag>
+    <s:tag>CATEGORY_Wire</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Irrigation Wire</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5006994767974</id>
+      <title>Default Title</title>
+      <s:price currency="USD">129.16</s:price>
+      <s:sku>12gax500 Red</s:sku>
+      <s:grams>7938</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4620639469670</id>
+    <published>2020-02-21T10:34:32-05:00</published>
+    <updated>2020-02-21T10:34:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/14-2-x-1000-14-awg-2-conductor-maxi-wire-decoder-cable-red"/>
+    <title>14/2 x 1000&apos; - 14 AWG 2-Conductor Maxi Wire Decoder Cable (Red)</title>
+    <s:type>Wire</s:type>
+    <s:vendor>Southwire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/14-2_wire_fe78f890-8383-4e15-8acd-7b7949f03307.jpg?v=1582299273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southwire<br>
+        <strong>Type: </strong>Wire<br>
+        <strong>Price: </strong>
+            664.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This specification covers construction requirements for a 2-conductor control cable design consisting of tin coated copper conductors, insulated with PVC and having a high-density polyethylene direct burial jacket. Conductors are listed as Type UF by UL or ETL or CSA.</span></p>
+<h3><span>Downloads</span></h3>
+<ul>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/p7072d.pdf?4283" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Spec Sheet</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Southwire</s:tag>
+    <s:tag>CATEGORY_Wire</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_2 Wire Decoder Cable</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4620639469670</id>
+      <title>Default Title</title>
+      <s:price currency="USD">664.00</s:price>
+      <s:sku>14/2x1000 Maxi Cable</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4620626985062</id>
+    <published>2020-02-21T10:30:59-05:00</published>
+    <updated>2020-02-21T10:30:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/12-1-x-2500-12-awg-underground-sprinkler-wire-red"/>
+    <title>12/1 x 2500&apos; - 12 AWG Underground Sprinkler Wire (Red)</title>
+    <s:type>Wire</s:type>
+    <s:vendor>Southwire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-70__84047.1516302918.1280.1280_469x500_ebb579bd-39de-4cf0-9b84-fd52c2b929e3.jpg?v=1582299095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southwire<br>
+        <strong>Type: </strong>Wire<br>
+        <strong>Price: </strong>
+            471.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Features: </strong></div>
+<ul>
+<li class="list__item">#12 AWG commercial wiring for outlets, switches and other loads</li>
+<li class="list__item">12 Gauge THHN wire contains Copper (CU) Conductors</li>
+<li><span style="font-size: 14px; background-color: initial;">600V solid bare copper</span></li>
+<li><span style="font-size: 14px; background-color: initial;">PVC insulated conductor</span></li>
+<li><span style="font-size: 14px; background-color: initial;">Sequential footage marking</span></li>
+<li><span style="font-size: 14px; background-color: initial;">Striped UF products available, contact factory</span></li>
+</ul>
+<div><strong><br>Applications: </strong></div>
+<ul>
+<li><span style="font-size: 14px; background-color: initial;">Underground feeder cable for direct burial applications</span></li>
+</ul>
+<div> </div>
+<div><strong>Industry Approvals: </strong></div>
+<ul>
+<li><span style="font-size: 14px; background-color: initial;">UL Listed Underground Feeder Cable 600 Volt</span></li>
+<li><span style="font-size: 14px; background-color: initial;">UL Standard 493</span></li>
+<li><span style="font-size: 14px; background-color: initial;">RoHS</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Southwire</s:tag>
+    <s:tag>CATEGORY_Wire</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Irrigation Wire</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4620626985062</id>
+      <title>Default Title</title>
+      <s:price currency="USD">471.18</s:price>
+      <s:sku>12gax2500 Red</s:sku>
+      <s:grams>36287</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4620613550182</id>
+    <published>2020-02-21T10:27:55-05:00</published>
+    <updated>2020-02-21T10:27:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/14-1-x-2500-14-awg-underground-sprinkler-wire-black"/>
+    <title>14/1 x 2500&apos; - 14 AWG Underground Sprinkler Wire (Black)</title>
+    <s:type>Wire</s:type>
+    <s:vendor>Southwire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/southwire-building-wires-11579005-1d_1000.jpg?v=1582298954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southwire<br>
+        <strong>Type: </strong>Wire<br>
+        <strong>Price: </strong>
+            381.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>14 Gauge - Black</li>
+<li>2500 ft (spool)</li>
+<li>600V solid bare copper (PVC Insulated)</li>
+<li>Sequential footage marking</li>
+<li>Underground feeder cable for direct burial applications</li>
+<li>UL Listed Underground Feeder Cable 600 Volt; UL Standard 493; RoHS</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Southwire</s:tag>
+    <s:tag>CATEGORY_Wire</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Irrigation Wire</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4620613550182</id>
+      <title>Default Title</title>
+      <s:price currency="USD">381.20</s:price>
+      <s:sku>14gax2500 BLK</s:sku>
+      <s:grams>29484</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4295165673574</id>
+    <published>2019-10-22T16:20:13-04:00</published>
+    <updated>2019-10-22T16:20:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/14-2-x-2500-14-awg-2-conductor-maxi-wire-decoder-cable-red"/>
+    <title>14/2 x 2500&apos; - 14 AWG 2-Conductor Maxi Wire Decoder Cable (Red)</title>
+    <s:type>Wire</s:type>
+    <s:vendor>Southwire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/14-2_wire.jpg?v=1571775969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southwire<br>
+        <strong>Type: </strong>Wire<br>
+        <strong>Price: </strong>
+            1632.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This specification covers construction requirements for a 2-conductor control cable design consisting of tin coated copper conductors, insulated with PVC and having a high-density polyethylene direct burial jacket. Conductors are listed as Type UF by UL or ETL or CSA.</span></p>
+<h3><span>Downloads</span></h3>
+<ul>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/p7072d.pdf?4283" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Spec Sheet</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Southwire</s:tag>
+    <s:tag>CATEGORY_Wire</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_2 Wire Decoder Cable</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4295165673574</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1632.49</s:price>
+      <s:sku>14/2x2500 Maxi Cable</s:sku>
+      <s:grams>90718</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452671922276</id>
+    <published>2019-01-19T00:46:06-05:00</published>
+    <updated>2019-01-19T00:46:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-dbryul020-db-series-high-capacity-waterproof-wire-connectors"/>
+    <title>Dryconn - DBR/Y-600 Direct Bury Silicone Tube w/ Gorilla Nut (1 ct.) - 20235</title>
+    <s:type>Wire Connectors</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12260__21539.1516141907.1280.1280_17e481e5-9880-4c68-a850-0bc81a10b879.jpg?v=1571715650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Wire Connectors<br>
+        <strong>Price: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>FEATURES &amp; BENEFITS:</strong></h3>
+<ul>
+<li>UL Listed and 600V Rated</li>
+<li>Waterproof and corrosion proof</li>
+<li>Patented snap fit lid provides strain relief</li>
+<li>UV and impact resistant</li>
+<li>Excellent for above ground and direct bury applications</li>
+<li>Pre-filled with silicone that never hardens</li>
+<li>Two part system includes Gorilla Nuts; Red/Yellow Cushion Grip Wire Connector and silicone filled tube</li>
+<li>Perfect for low voltage lighting or two-wire decoder system applications</li>
+</ul>
+<p> </p>
+<h3><strong>PRODUCT SPECIFICATIONS &amp; MEASUREMENTS:</strong></h3>
+<p>Max. Voltage: 600V max. building wire (1000V max. signs or luminaries)<br>Connector Size: 3 11/16" x 1 1/2" x 1 3/16" <br>Wire Type: Copper/Copper<br>Wire Range: Min #22/Max #8<br>Temperature Rating: -105°C (221° F)<br>Silicone Sealant Temperature: -45°F to 400°F<br>UL Designation:GT2</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>CATEGORY_Valves</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Connectors</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452671922276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.49</s:price>
+      <s:sku>20235</s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452228243556</id>
+    <published>2019-01-19T00:19:36-05:00</published>
+    <updated>2019-01-19T00:19:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dryconn-tan-low-voltage-50pc-bag"/>
+    <title>Dryconn - Tan Low Voltage Wire Connectors (50 ct.) - 20122</title>
+    <s:type>Wire Connectors</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-dryconn-wire-connectors-wire-terminals-20136-64_1000__24892.1518469816.1280.1280.jpg?v=1571715614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Wire Connectors<br>
+        <strong>Price: </strong>
+            37.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><strong>FEATURES &amp; BENEFITS:</strong></h4>
+<p> </p>
+<ul>
+<li>
+<h5>30V/10 AMPS Max</h5>
+</li>
+<li>
+<h5>No junction box required</h5>
+</li>
+<li>
+<h5>Filled with petroleum based sealant</h5>
+</li>
+<li>
+<h5>Suitable for all low voltage applications</h5>
+</li>
+<li>
+<h5>For use in lighting, irrigation, and low voltage underground wiring</h5>
+</li>
+</ul>
+<p> </p>
+<h4><strong>PRODUCT SPECIFICATIONS &amp; MEASUREMENTS:</strong></h4>
+<p> </p>
+<blockquote>Max. Voltage: 30V/10 AMP<br> Connector Size: 13/16" x 1 9/16"<br> Wire Type: Copper/Copper<br> Wire Range: Min #22/Max #6<br> Temperature Rating: 75°C (167°F)<br>Petroleum Sealant: -29°F to 250°F</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>CATEGORY_Wire Connectors</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452228243556</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.45</s:price>
+      <s:sku>20122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452227620964</id>
+    <published>2019-01-19T00:19:34-05:00</published>
+    <updated>2019-01-19T00:19:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dryconn-tan-low-voltage-15pc-bag-20111"/>
+    <title>Dryconn - Tan Low Voltage Wire Connectors (15 ct.) - 20111</title>
+    <s:type>Wire Connectors</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IMG_0947__04361.1518469628.1280.1280.jpg?v=1571715614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Wire Connectors<br>
+        <strong>Price: </strong>
+            14.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><strong>FEATURES &amp; BENEFITS:</strong></h4>
+<p> </p>
+<ul>
+<li>
+<h5>30V/10 AMPS Max</h5>
+</li>
+<li>
+<h5>No junction box required</h5>
+</li>
+<li>
+<h5>Filled with petroleum based sealant</h5>
+</li>
+<li>
+<h5>Suitable for all low voltage applications</h5>
+</li>
+<li>
+<h5>For use in lighting, irrigation, and low voltage underground wiring</h5>
+</li>
+</ul>
+<p> </p>
+<h4><strong>PRODUCT SPECIFICATIONS &amp; MEASUREMENTS:</strong></h4>
+<p> </p>
+<h5>Max. Voltage: 30V/10 AMP<br> Connector Size: 13/16" x 1 9/16"<br> Wire Type: Copper/Copper<br> Wire Range: Min #22/Max #6<br> Temperature Rating: 75°C (167°F)<br>Petroleum Sealant: -29°F to 250°F</h5>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>CATEGORY_Wire Connectors</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452227620964</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.98</s:price>
+      <s:sku>20111</s:sku>
+      <s:grams>119</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452227194980</id>
+    <published>2019-01-19T00:19:33-05:00</published>
+    <updated>2019-01-19T00:19:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dryconn-led-black-green-20pc-bag-61435"/>
+    <title>Dryconn - Landscape Lighting Medium Wire Connectors (20 ct.) - 61435</title>
+    <s:type>Wire Connectors</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1443__93258.1516302941.1280.1280.jpg?v=1571715614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Wire Connectors<br>
+        <strong>Price: </strong>
+            12.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>FEATURES &amp; BENEFITS:</strong></h3>
+<p> </p>
+<ul>
+<li>UL 486D Listed and 600V </li>
+<li>Pre-filled with dielectric silicone sealant that never hardens</li>
+<li>Waterproof and corrosion proof</li>
+<li>One-Step® installation saves time and money</li>
+<li>No pre-twisting required</li>
+<li>For use with LED lights in landscape lightine systems</li>
+</ul>
+<p> </p>
+<h3><strong>PRODUCT SPECIFICATIONS &amp; MEASUREMENTS:</strong></h3>
+<p> </p>
+<p>Max. Voltage: 600V max. building wire (1000V max. signs or luminaries)<br> Connector Size: 1 19/64â‚¬� x 43/64â‚¬�<br> Wire Type: Copper/Copper<br> Wire Range: Min #22/Max #8<br> Temperature Rating: 105°C (221°F)<br> Silicone Sealant: -45°F to 400°F<br>UL Designation: MWP</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>CATEGORY_Wire Connectors</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452227194980</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.98</s:price>
+      <s:sku>61435</s:sku>
+      <s:grams>102</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452226932836</id>
+    <published>2019-01-19T00:19:30-05:00</published>
+    <updated>2019-01-19T00:19:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dryconn-led-black-green-100pc-canister-61441"/>
+    <title>Dryconn - Landscape Lighting Medium Wire Connectors (100 ct.) - 61241</title>
+    <s:type>Wire Connectors</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/image.jpg?v=1597936160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Wire Connectors<br>
+        <strong>Price: </strong>
+            49.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>FEATURES &amp; BENEFITS:</strong></h3>
+<p> </p>
+<ul>
+<li>UL 486D Listed and 600V </li>
+<li>Pre-filled with dielectric silicone sealant that never hardens</li>
+<li>Waterproof and corrosion proof</li>
+<li>One-Step® installation saves time and money</li>
+<li>No pre-twisting required</li>
+<li>For use with LED lights in landscape lightine systems</li>
+</ul>
+<p> </p>
+<h3><strong>PRODUCT SPECIFICATIONS &amp; MEASUREMENTS:</strong></h3>
+<p> </p>
+<p>Max. Voltage: 600V max. building wire (1000V max. signs or luminaries)<br> Connector Size: 1 19/64â‚¬� x 43/64â‚¬�<br> Wire Type: Copper/Copper<br> Wire Range: Min #22/Max #8<br> Temperature Rating: 105°C (221°F)<br> Silicone Sealant: -45°F to 400°F<br>UL Designation: MWP</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>CATEGORY_Wire Connectors</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$40-60</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452226932836</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.98</s:price>
+      <s:sku>61241</s:sku>
+      <s:grams>556</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452224704612</id>
+    <published>2019-01-19T00:19:23-05:00</published>
+    <updated>2019-01-19T00:19:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dryconn-dbr-y-600-100pc-box-20235"/>
+    <title>Dryconn - DBR/Y-600 Direct Bury Silicone Tube w/ Gorilla Nut (2 ct.) - 20230</title>
+    <s:type>Wire Connectors</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-waterproof-wire-connectors-500x500__33591.1518470009.1280.1280.jpg?v=1571715613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Wire Connectors<br>
+        <strong>Price: </strong>
+            2.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>FEATURES &amp; BENEFITS:</strong></h3>
+<ul>
+<li>UL Listed and 600V Rated</li>
+<li>Waterproof and corrosion proof</li>
+<li>Patented snap fit lid provides strain relief</li>
+<li>UV and impact resistant</li>
+<li>Excellent for above ground and direct bury applications</li>
+<li>Pre-filled with silicone that never hardens</li>
+<li>Two part system includes Gorilla Nutsâž¢ Red/Yellow Cushion Grip Wire Connector and silicone filled tube</li>
+<li>Perfect for low voltage lighting or two-wire decoder system applications</li>
+</ul>
+<p> </p>
+<h3><strong>PRODUCT SPECIFICATIONS &amp; MEASUREMENTS:</strong></h3>
+<p>Max. Voltage: 600V max. building wire (1000V max. signs or luminaries)<br>Connector Size: 3 11/16" x 1 1/2" x 1 3/16" <br>Wire Type: Copper/Copper<br>Wire Range: Min #22/Max #8<br>Temperature Rating: -105°C (221° F)<br>Silicone Sealant Temperature: -45°F to 400°F<br>UL Designation:GT2</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>CATEGORY_Wire Connectors</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452224704612</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.68</s:price>
+      <s:sku>20230</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452224344164</id>
+    <published>2019-01-19T00:19:21-05:00</published>
+    <updated>2019-01-19T00:19:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dryconn-dbo-b-600-100pc-box-20635"/>
+    <title>Dryconn - DBO/B-600 Direct Bury Silicone Tube w/ Gorilla Nut (100 ct.) - 20635</title>
+    <s:type>Wire Connectors</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IMG_0949__13960.1518470235.1280.1280.jpg?v=1571715613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Wire Connectors<br>
+        <strong>Price: </strong>
+            102.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>FEATURES &amp; BENEFITS:</strong></h3>
+<ul>
+<li>Perfect for use in two-wire decoder systems and low voltage lighting applications</li>
+<li>UL 486D Listed for waterproof and direct bury connections</li>
+<li>Pre-filled with dielectric silicone sealant that never hardens</li>
+<li>UV resistant for above ground applications</li>
+<li>Two part system includes Gorilla Nuts® Orange/Blue Cushion Grip Wire Connector and silicone filled tube</li>
+<li>Snap fit lid provides strain relief</li>
+</ul>
+<p> </p>
+<h3><strong>PRODUCT SPECIFICATIONS &amp; MEASUREMENTS:</strong></h3>
+<p>Max. Voltage: 600V max. building wire (1000V max. signs or luminaries)<br>Connector Size: 2 23/32" x 1 1/2" <br>Wire Type: Copper/Copper<br>Wire Range: Min #22/Max #8<br>Temperature Rating: -105°C (221° F)<br>Silicone Sealant Temperature: -45°F to 400°F<br>Tube Construction: Sunlight and Impact Resistant Blended Polypropylene<br>UL Designation:GTSR2</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>CATEGORY_Wire Connectors</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452224344164</id>
+      <title>Default Title</title>
+      <s:price currency="USD">102.98</s:price>
+      <s:sku>20635</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452223459428</id>
+    <published>2019-01-19T00:19:19-05:00</published>
+    <updated>2019-01-19T00:19:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dryconn-black-white-25pc-bag-61135"/>
+    <title>Dryconn - Waterproof Small Wire Connectors (25 ct.) - 61135</title>
+    <s:type>Wire Connectors</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IMG_0940__75865.1518469837.1280.1280.jpg?v=1571715613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Wire Connectors<br>
+        <strong>Price: </strong>
+            12.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>FEATURES &amp; BENEFITS:</h3>
+<ul>
+<li>UL 486D Listed</li>
+<li>One-Step® Installation</li>
+<li>Corrosion Proof</li>
+<li>For irrigation systems and landscape lighting applications</li>
+</ul>
+<p> </p>
+<h3>PRODUCT SPECIFICATIONS &amp; MEASUREMENTS:</h3>
+<p>Max. Voltage: 600V max. building wire (1000V max. signs or luminaries)<br> Connector Size: 27/32â‚¬� x 7/16â‚¬�<br> Wire Type: Copper/Copper<br> Wire Range: Min #22/Max #12<br> Temperature Rating: 105°C (221°F)<br> Silicone Sealant: -45°F to 400°F<br>UL Designation: SWP*</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>CATEGORY_Wire Connectors</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452223459428</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.98</s:price>
+      <s:sku>61135</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452222935140</id>
+    <published>2019-01-19T00:19:16-05:00</published>
+    <updated>2019-01-19T00:19:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dryconn-black-white-150pc-canister-61146"/>
+    <title>Dryconn - Waterproof Small Wire Connectors (150 ct.) - 61146</title>
+    <s:type>Wire Connectors</s:type>
+    <s:vendor>King Innovation</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IMG_0944__59859.1518469234.1280.1280.jpg?v=1571715613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Innovation<br>
+        <strong>Type: </strong>Wire Connectors<br>
+        <strong>Price: </strong>
+            54.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>FEATURES &amp; BENEFITS:</strong></h3>
+<ul>
+<li>UL 486D Listed</li>
+<li>One-Step® Installation</li>
+<li>Corrosion Proof</li>
+<li>For irrigation systems and landscape lighting applications</li>
+</ul>
+<p> </p>
+<h3><strong>PRODUCT SPECIFICATIONS &amp; MEASUREMENTS:</strong></h3>
+<p>Max. Voltage: 600V max. building wire (1000V max. signs or luminaries)<br> Connector Size: 27/32â‚¬� x 7/16â‚¬�<br> Wire Type: Copper/Copper<br> Wire Range: Min #22/Max #12<br> Temperature Rating: 105°C (221°F)<br> Silicone Sealant: -45°F to 400°F<br>UL Designation: SWP*</p>
+<h3> </h3>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_King Innovation</s:tag>
+    <s:tag>CATEGORY_Wire Connectors</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$40-60</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452222935140</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.98</s:price>
+      <s:sku>61146</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452197048420</id>
+    <published>2019-01-19T00:17:36-05:00</published>
+    <updated>2019-01-19T00:17:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/18-8x500-wire-18-8-x-500ft"/>
+    <title>18/8 x 500&apos; - 18 AWG 8 Conductor Underground Sprinkler Wire</title>
+    <s:type>Wire</s:type>
+    <s:vendor>Southwire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-64__66899.1516302916.1280.1280.jpg?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southwire<br>
+        <strong>Type: </strong>Wire<br>
+        <strong>Price: </strong>
+            242.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wire 18/8 X 500' Direct Burial Sprinkler Wire</p>
+<ul>
+<li><span>For connecting the 24 volt irrigation controller outputs to the solenoid valves. Also used in many other direct burial applications. Listed by UL or ETL or CSA.</span></li>
+<li><span>Multiple conductors of solid bare copper meeting ASTM B-3, insulated with .015" of 80 degree C color coded PVC insulation, are cabled with .025" of an extruded PE jacket with a nylon rip cord. This cable is suitable for direct burial, rated 30 volts. Outer Jacket is UV and sunlight resistant.</span></li>
+<li><span>Wire splices are the weak link of any electrical circuit. It is especially important to make proper joints in irrigation systems because the joints are exposed to wet and damp environments that can cause corrosion of the copper conductor and premature failure.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Southwire</s:tag>
+    <s:tag>CATEGORY_Wire</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Irrigation Wire</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452197048420</id>
+      <title>Default Title</title>
+      <s:price currency="USD">242.48</s:price>
+      <s:sku>18/8x500</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452196851812</id>
+    <published>2019-01-19T00:17:33-05:00</published>
+    <updated>2019-01-19T00:17:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/18-8x250-wire-18-8-x-250ft"/>
+    <title>18/8 x 250&apos; - 18 AWG 8 Conductor Underground Sprinkler Wire</title>
+    <s:type>Wire</s:type>
+    <s:vendor>Southwire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IMG_0931__47750.1518463424.1280.1280.jpg?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southwire<br>
+        <strong>Type: </strong>Wire<br>
+        <strong>Price: </strong>
+            121.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wire 18/8 X 250' Direct Burial Sprinkler Wire</p>
+<ul>
+<li><span>For connecting the 24 volt irrigation controller outputs to the solenoid valves. Also used in many other direct burial applications. Listed by UL or ETL or CSA.</span></li>
+<li><span>Multiple conductors of solid bare copper meeting ASTM B-3, insulated with .015" of 80 degree C color coded PVC insulation, are cabled with .025" of an extruded PE jacket with a nylon rip cord. This cable is suitable for direct burial, rated 30 volts. Outer Jacket is UV and sunlight resistant.</span></li>
+<li><span>Wire splices are the weak link of any electrical circuit. It is especially important to make proper joints in irrigation systems because the joints are exposed to wet and damp environments that can cause corrosion of the copper conductor and premature failure.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Southwire</s:tag>
+    <s:tag>CATEGORY_Wire</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Irrigation Wire</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452196851812</id>
+      <title>Default Title</title>
+      <s:price currency="USD">121.65</s:price>
+      <s:sku>18/8x250</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452196196452</id>
+    <published>2019-01-19T00:17:32-05:00</published>
+    <updated>2019-01-19T00:17:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/18-8x1000-wire-18-8-x-1000"/>
+    <title>18/8 x 1000&apos; - 18 AWG 8 Conductor Underground Sprinkler Wire</title>
+    <s:type>Wire</s:type>
+    <s:vendor>Southwire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-65__58471.1516302916.1280.1280.jpg?v=1584808505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southwire<br>
+        <strong>Type: </strong>Wire<br>
+        <strong>Price: </strong>
+            490.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wire 18/8 X 1000' Direct Burial Sprinkler Wire</p>
+<ul>
+<li><span>For connecting the 24 volt irrigation controller outputs to the solenoid valves. Also used in many other direct burial applications. Listed by UL or ETL or CSA.</span></li>
+<li><span>Multiple conductors of solid bare copper meeting ASTM B-3, insulated with .015" of 80 degree C color coded PVC insulation, are cabled with .025" of an extruded PE jacket with a nylon rip cord. This cable is suitable for direct burial, rated 30 volts. Outer Jacket is UV and sunlight resistant.</span></li>
+<li><span>Wire splices are the weak link of any electrical circuit. It is especially important to make proper joints in irrigation systems because the joints are exposed to wet and damp environments that can cause corrosion of the copper conductor and premature failure.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Southwire</s:tag>
+    <s:tag>CATEGORY_Wire</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Irrigation Wire</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452196196452</id>
+      <title>Default Title</title>
+      <s:price currency="USD">490.69</s:price>
+      <s:sku>18/8x1000</s:sku>
+      <s:grams>27216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452195934308</id>
+    <published>2019-01-19T00:17:31-05:00</published>
+    <updated>2019-01-19T00:17:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/18-5x500-wire-18-5-x-500ft"/>
+    <title>18/5 x 500&apos; - 18 AWG 5 Conductor Underground Sprinkler Wire</title>
+    <s:type>Wire</s:type>
+    <s:vendor>Southwire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-61__63813.1516302916.1280.1280.jpg?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southwire<br>
+        <strong>Type: </strong>Wire<br>
+        <strong>Price: </strong>
+            173.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wire 18/5 X 500' Direct Burial Sprinkler Wire</p>
+<ul>
+<li><span>For connecting the 24 volt irrigation controller outputs to the solenoid valves. Also used in many other direct burial applications. Listed by UL or ETL or CSA.</span></li>
+<li><span>Multiple conductors of solid bare copper meeting ASTM B-3, insulated with .015" of 80 degree C color coded PVC insulation, are cabled with .025" of an extruded PE jacket with a nylon rip cord. This cable is suitable for direct burial, rated 30 volts. Outer Jacket is UV and sunlight resistant.</span></li>
+<li><span>Wire splices are the weak link of any electrical circuit. It is especially important to make proper joints in irrigation systems because the joints are exposed to wet and damp environments that can cause corrosion of the copper conductor and premature failure.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Southwire</s:tag>
+    <s:tag>CATEGORY_Wire</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Irrigation Wire</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452195934308</id>
+      <title>Default Title</title>
+      <s:price currency="USD">173.49</s:price>
+      <s:sku>18/5x500</s:sku>
+      <s:grams>8845</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452195541092</id>
+    <published>2019-01-19T00:17:27-05:00</published>
+    <updated>2019-01-19T00:17:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/18-5x250-wire-18-5-x-250ft"/>
+    <title>18/5 x 250&apos; - 18 AWG 5 Conductor Underground Sprinkler Wire</title>
+    <s:type>Wire</s:type>
+    <s:vendor>Southwire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-IMG_0928__66099.1518463396.1280.1280.jpg?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southwire<br>
+        <strong>Type: </strong>Wire<br>
+        <strong>Price: </strong>
+            84.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wire 18/5 X 250' Direct Burial Sprinkler Wire</p>
+<ul>
+<li><span>For connecting the 24 volt irrigation controller outputs to the solenoid valves. Also used in many other direct burial applications. Listed by UL or ETL or CSA.</span></li>
+<li><span>Multiple conductors of solid bare copper meeting ASTM B-3, insulated with .015" of 80 degree C color coded PVC insulation, are cabled with .025" of an extruded PE jacket with a nylon rip cord. This cable is suitable for direct burial, rated 30 volts. Outer Jacket is UV and sunlight resistant.</span></li>
+<li><span>Wire splices are the weak link of any electrical circuit. It is especially important to make proper joints in irrigation systems because the joints are exposed to wet and damp environments that can cause corrosion of the copper conductor and premature failure.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Southwire</s:tag>
+    <s:tag>CATEGORY_Wire</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Irrigation Wire</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452195541092</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.65</s:price>
+      <s:sku>18/5x250</s:sku>
+      <s:grams>4423</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452194820196</id>
+    <published>2019-01-19T00:17:27-05:00</published>
+    <updated>2019-01-19T00:17:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/18-5x1000-wire-18-5-x-1000"/>
+    <title>18/5 x 1000&apos; - 18 AWG 5 Conductor Underground Sprinkler Wire</title>
+    <s:type>Wire</s:type>
+    <s:vendor>Southwire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-62__10883.1516302916.1280.1280.jpg?v=1584808503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southwire<br>
+        <strong>Type: </strong>Wire<br>
+        <strong>Price: </strong>
+            325.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wire 18/5 X 1000' Direct Burial Sprinkler Wire</p>
+<ul>
+<li><span>For connecting the 24 volt irrigation controller outputs to the solenoid valves. Also used in many other direct burial applications. Listed by UL or ETL or CSA.</span></li>
+<li><span>Multiple conductors of solid bare copper meeting ASTM B-3, insulated with .015" of 80 degree C color coded PVC insulation, are cabled with .025" of an extruded PE jacket with a nylon rip cord. This cable is suitable for direct burial, rated 30 volts. Outer Jacket is UV and sunlight resistant.</span></li>
+<li><span>Wire splices are the weak link of any electrical circuit. It is especially important to make proper joints in irrigation systems because the joints are exposed to wet and damp environments that can cause corrosion of the copper conductor and premature failure.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Southwire</s:tag>
+    <s:tag>CATEGORY_Wire</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Irrigation Wire</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452194820196</id>
+      <title>Default Title</title>
+      <s:price currency="USD">325.99</s:price>
+      <s:sku>18/5x1000</s:sku>
+      <s:grams>17690</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452194558052</id>
+    <published>2019-01-19T00:17:26-05:00</published>
+    <updated>2019-01-19T00:17:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/18-3x500-wire-18-3-x-500"/>
+    <title>18/3 x 500&apos; - 18 AWG 3 Conductor Underground Sprinkler Wire</title>
+    <s:type>Wire</s:type>
+    <s:vendor>Southwire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1818__82888.1516302920.1280.1280.jpg?v=1584808502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southwire<br>
+        <strong>Type: </strong>Wire<br>
+        <strong>Price: </strong>
+            116.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Wire 18/3 X 500' Direct Burial Sprinkler Wire</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">For connecting the 24 volt irrigation controller outputs to the solenoid valves. Also used in many other direct burial applications. Listed by UL or ETL or CSA.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Multiple conductors of solid bare copper meeting ASTM B-3, insulated with .015" of 80 degree C color coded PVC insulation, are cabled with .025" of an extruded PE jacket with a nylon rip cord. This cable is suitable for direct burial, rated 30 volts. Outer Jacket is UV and sunlight resistant.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Wire splices are the weak link of any electrical circuit. It is especially important to make proper joints in irrigation systems because the joints are exposed to wet and damp environments that can cause corrosion of the copper conductor and premature failure.</span></li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Southwire</s:tag>
+    <s:tag>CATEGORY_Wire</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Irrigation Wire</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452194558052</id>
+      <title>Default Title</title>
+      <s:price currency="USD">116.42</s:price>
+      <s:sku>18/3x500</s:sku>
+      <s:grams>5670</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452194394212</id>
+    <published>2019-01-19T00:17:24-05:00</published>
+    <updated>2019-01-19T00:17:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/18-3x250-wire-18-3-x-250ft"/>
+    <title>18/3 x 250&apos; - 18 AWG 3 Conductor Underground Sprinkler Wire</title>
+    <s:type>Wire</s:type>
+    <s:vendor>Southwire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1192__47641.1516302919.1280.1280.jpg?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southwire<br>
+        <strong>Type: </strong>Wire<br>
+        <strong>Price: </strong>
+            58.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wire 18/3 X 250' Direct Burial Sprinkler Wire</p>
+<ul>
+<li><span>For connecting the 24 volt irrigation controller outputs to the solenoid valves. Also used in many other direct burial applications. Listed by UL or ETL or CSA.</span></li>
+<li><span>Multiple conductors of solid bare copper meeting ASTM B-3, insulated with .015" of 80 degree C color coded PVC insulation, are cabled with .025" of an extruded PE jacket with a nylon rip cord. This cable is suitable for direct burial, rated 30 volts. Outer Jacket is UV and sunlight resistant.</span></li>
+<li><span>Wire splices are the weak link of any electrical circuit. It is especially important to make proper joints in irrigation systems because the joints are exposed to wet and damp environments that can cause corrosion of the copper conductor and premature failure.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Southwire</s:tag>
+    <s:tag>CATEGORY_Wire</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$40-60</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Irrigation Wire</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452194394212</id>
+      <title>Default Title</title>
+      <s:price currency="USD">58.21</s:price>
+      <s:sku>18/3x250</s:sku>
+      <s:grams>2835</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452194033764</id>
+    <published>2019-01-19T00:17:23-05:00</published>
+    <updated>2019-01-19T00:17:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/18-3-x-1000-multistrand-underground-low-energy-cable"/>
+    <title>18/3 x 1000&apos; - 18 AWG 3 Conductor Underground Sprinkler Wire</title>
+    <s:type>Wire</s:type>
+    <s:vendor>Southwire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-11847__81790.1516302989.1280.1280.jpg?v=1584808501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southwire<br>
+        <strong>Type: </strong>Wire<br>
+        <strong>Price: </strong>
+            232.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Wire 18/3 X 1000' Direct Burial Sprinkler Wire</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">For connecting the 24 volt irrigation controller outputs to the solenoid valves. Also used in many other direct burial applications. Listed by UL or ETL or CSA.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Multiple conductors of solid bare copper meeting ASTM B-3, insulated with .015" of 80 degree C color coded PVC insulation, are cabled with .025" of an extruded PE jacket with a nylon rip cord. This cable is suitable for direct burial, rated 30 volts. Outer Jacket is UV and sunlight resistant.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Wire splices are the weak link of any electrical circuit. It is especially important to make proper joints in irrigation systems because the joints are exposed to wet and damp environments that can cause corrosion of the copper conductor and premature failure.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Southwire</s:tag>
+    <s:tag>CATEGORY_Wire</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Irrigation Wire</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452194033764</id>
+      <title>Default Title</title>
+      <s:price currency="USD">232.84</s:price>
+      <s:sku>18/3x1000</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452193804388</id>
+    <published>2019-01-19T00:17:22-05:00</published>
+    <updated>2019-01-19T00:17:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/18-13x500-wire-18-13-x-500ft"/>
+    <title>18/13 x 500&apos; - 18 AWG 13 Conductor Underground Sprinkler Wire</title>
+    <s:type>Wire</s:type>
+    <s:vendor>Southwire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-67__31353.1516302917.1280.1280.jpg?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southwire<br>
+        <strong>Type: </strong>Wire<br>
+        <strong>Price: </strong>
+            373.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wire 18/13 X 500' Direct Burial Sprinkler Wire</p>
+<ul>
+<li><span>For connecting the 24 volt irrigation controller outputs to the solenoid valves. Also used in many other direct burial applications. Listed by UL or ETL or CSA.</span></li>
+<li><span>Multiple conductors of solid bare copper meeting ASTM B-3, insulated with .015" of 80 degree C color coded PVC insulation, are cabled with .025" of an extruded PE jacket with a nylon rip cord. This cable is suitable for direct burial, rated 30 volts. Outer Jacket is UV and sunlight resistant.</span></li>
+<li><span>Wire splices are the weak link of any electrical circuit. It is especially important to make proper joints in irrigation systems because the joints are exposed to wet and damp environments that can cause corrosion of the copper conductor and premature failure.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Southwire</s:tag>
+    <s:tag>CATEGORY_Wire</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Irrigation Wire</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452193804388</id>
+      <title>Default Title</title>
+      <s:price currency="USD">373.50</s:price>
+      <s:sku>18/13x500</s:sku>
+      <s:grams>21546</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452193247332</id>
+    <published>2019-01-19T00:17:21-05:00</published>
+    <updated>2019-01-19T00:17:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/18-13x250-wire-18-13-x-250ft"/>
+    <title>18/13 x 250&apos; - 18 AWG 13 Conductor Underground Sprinkler Wire</title>
+    <s:type>Wire</s:type>
+    <s:vendor>Southwire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-66__39212.1516302917.1280.1280.jpg?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Southwire<br>
+        <strong>Type: </strong>Wire<br>
+        <strong>Price: </strong>
+            186.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wire 18/13 X 250' Direct Burial Sprinkler Wire</p>
+<ul>
+<li><span>For connecting the 24 volt irrigation controller outputs to the solenoid valves. Also used in many other direct burial applications. Listed by UL or ETL or CSA.</span></li>
+<li><span>Multiple conductors of solid bare copper meeting ASTM B-3, insulated with .015" of 80 degree C color coded PVC insulation, are cabled with .025" of an extruded PE jacket with a nylon rip cord. This cable is suitable for direct burial, rated 30 volts. Outer Jacket is UV and sunlight resistant.</span></li>
+<li><span>Wire splices are the weak link of any electrical circuit. It is especially important to make proper joints in irrigation systems because the joints are exposed to wet and damp environments that can cause corrosion of the copper conductor and premature failure.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Southwire</s:tag>
+    <s:tag>CATEGORY_Wire</s:tag>
+    <s:tag>DEPARTMENTElectrical</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Irrigation Wire</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452193247332</id>
+      <title>Default Title</title>
+      <s:price currency="USD">186.75</s:price>
+      <s:sku>18/13x250</s:sku>
+      <s:grams>10773</s:grams>
+    </s:variant>
+  </entry>
+</feed>

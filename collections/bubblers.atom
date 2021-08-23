@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/bubblers.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2021-02-18T14:05:47-05:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5027015098470</id>
+    <published>2021-02-18T14:05:47-05:00</published>
+    <updated>2021-02-18T14:05:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/k-rain-tb-adj-adjustable-pressure-compensating-tree-bubbler"/>
+    <title>K-Rain - TB-ADJ - Adjustable Pressure Compensating Tree Bubbler</title>
+    <s:type>Bubblers</s:type>
+    <s:vendor>K-Rain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/TB-ADJ_1.jpg?v=1613675171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K-Rain<br>
+        <strong>Type: </strong>Bubblers<br>
+        <strong>Price: </strong>
+            1.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>K-Rain pressure compensating tree bubblers are ideal for tree and large shrub watering. Pressure compensation ensures consistent flow rates over lower pressure ranges. Designed for a rugged environment, the ½FPT threaded inlet makes these devices ideal for installations using a PVC pipe and schedule 80 risers.</p>
+<p>Durable - UV-resistant heavy-duty plastic construction with ½Female NPT threads screws onto PVC pipe or schedule 80 risers.</p>
+<p>Flexible - Pressure compensating design delivers uniform flow throughout a wide pressure range (15-50 psi). Ideal for a variety of applications including shrubs, trees, containers and large pots.</p>
+<h4><strong>SPECIFICATIONS:</strong></h4>
+<ul>
+<li>
+<strong>Flow Rate:</strong>
+<ul>
+<li>TB-ADJ: 1.36 - 5.9 GPM (0,31 - 1,34 m3/h; 5 - 22 l/m)</li>
+</ul>
+</li>
+<li>
+<strong>Operating Pressure: </strong>20 - 50 PSI (1,4 - 2,8 bar)</li>
+<li>
+<strong>Spacing: </strong>1 - 3 (0,3 m - 0,9 m)</li>
+<li>
+<strong>Inlet:</strong> 1/2" (1,3 cm) Female Thread</li>
+<li><strong>Umbrella Pattern</strong></li>
+</ul>
+<h4><strong>Manuals &amp; Literature</strong></h4>
+<ul>
+<li><a href="https://www.krain.com//content/files/images/LandingPages/Bubblers-Drip/Bubblers/Bubblers%20Product%20Brochure.pdf" target="_blank"><span style="text-decoration: underline;">Bubblers Product Brochure.pdf</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_K-Rain</s:tag>
+    <s:tag>CATEGORY_Sprinkler Nozzles</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Bubblers</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5027015098470</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.20</s:price>
+      <s:sku>TB-ADJ</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5027014574182</id>
+    <published>2021-02-18T14:04:42-05:00</published>
+    <updated>2021-02-18T14:04:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/k-rain-tb-20-2-0-gpm-pressure-compensating-tree-bubbler"/>
+    <title>K-Rain - TB-20 - 2.0 GPM Pressure Compensating Tree Bubbler</title>
+    <s:type>Bubblers</s:type>
+    <s:vendor>K-Rain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/TB-20_1.jpg?v=1613675111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K-Rain<br>
+        <strong>Type: </strong>Bubblers<br>
+        <strong>Price: </strong>
+            1.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>K-Rain pressure compensating tree bubblers are ideal for tree and large shrub watering. Pressure compensation ensures consistent flow rates over lower pressure ranges. Designed for a rugged environment, the ½FPT threaded inlet makes these devices ideal for installations using a PVC pipe and schedule 80 risers.</p>
+<p>Durable - UV-resistant heavy-duty plastic construction with ½Female NPT threads screws onto PVC pipe or schedule 80 risers.</p>
+<p>Flexible - Pressure compensating design delivers uniform flow throughout a wide pressure range (15-50 psi). Ideal for a variety of applications including shrubs, trees, containers and large pots.</p>
+<h4><strong>SPECIFICATIONS:</strong></h4>
+<ul>
+<li>
+<strong>Flow Rate:</strong>
+<ul>
+<li>TB-20: 2.0 GPM (0,454 m3/h; 7,6 l/m)</li>
+</ul>
+</li>
+<li>
+<strong>Operating Pressure: </strong>20 - 50 PSI (1,4 - 2,8 bar)</li>
+<li>
+<strong>Spacing: </strong>1 - 3 (0,3 m - 0,9 m)</li>
+<li>
+<strong>Inlet:</strong> 1/2" (1,3 cm) Female Thread</li>
+<li><strong>Umbrella Pattern</strong></li>
+</ul>
+<h4><strong>Manuals &amp; Literature</strong></h4>
+<ul>
+<li><a href="https://www.krain.com//content/files/images/LandingPages/Bubblers-Drip/Bubblers/Bubblers%20Product%20Brochure.pdf" target="_blank"><span style="text-decoration: underline;">Bubblers Product Brochure.pdf</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_K-Rain</s:tag>
+    <s:tag>CATEGORY_Sprinkler Nozzles</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Bubblers</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5027014574182</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.27</s:price>
+      <s:sku>TB-20</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5027013722214</id>
+    <published>2021-02-18T14:03:25-05:00</published>
+    <updated>2021-02-18T14:03:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/k-rain-tb-10-1-0-gpm-pressure-compensating-tree-bubbler"/>
+    <title>K-Rain - TB-10 - 1.0 GPM Pressure Compensating Tree Bubbler</title>
+    <s:type>Bubblers</s:type>
+    <s:vendor>K-Rain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/TB-10_1.jpg?v=1613675035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K-Rain<br>
+        <strong>Type: </strong>Bubblers<br>
+        <strong>Price: </strong>
+            1.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>K-Rain pressure compensating tree bubblers are ideal for tree and large shrub watering. Pressure compensation ensures consistent flow rates over lower pressure ranges. Designed for a rugged environment, the ½FPT threaded inlet makes these devices ideal for installations using a PVC pipe and schedule 80 risers.</p>
+<p>Durable - UV-resistant heavy-duty plastic construction with ½Female NPT threads screws onto PVC pipe or schedule 80 risers.</p>
+<p>Flexible - Pressure compensating design delivers uniform flow throughout a wide pressure range (15-50 psi). Ideal for a variety of applications including shrubs, trees, containers and large pots.</p>
+<h4><strong>SPECIFICATIONS:</strong></h4>
+<ul>
+<li>
+<strong>Flow Rate:</strong>
+<ul>
+<li>TB-10: 1.0 GPM (0,227 m3/h; 3,8 l/m)</li>
+</ul>
+</li>
+<li>
+<strong>Operating Pressure: </strong>20 - 50 PSI (1,4 - 2,8 bar)</li>
+<li>
+<strong>Spacing: </strong>1 - 3 (0,3 m - 0,9 m)</li>
+<li>
+<strong>Inlet:</strong> 1/2" (1,3 cm) Female Thread</li>
+<li><strong>Umbrella Pattern</strong></li>
+</ul>
+<h4><strong>Manuals &amp; Literature</strong></h4>
+<ul>
+<li><a href="https://www.krain.com//content/files/images/LandingPages/Bubblers-Drip/Bubblers/Bubblers%20Product%20Brochure.pdf" target="_blank"><span style="text-decoration: underline;">Bubblers Product Brochure.pdf</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_K-Rain</s:tag>
+    <s:tag>CATEGORY_Sprinkler Nozzles</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Bubblers</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5027013722214</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.27</s:price>
+      <s:sku>TB-10</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5027013197926</id>
+    <published>2021-02-18T14:02:01-05:00</published>
+    <updated>2021-02-18T14:02:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/k-rain-tb-05-0-5-gpm-pressure-compensating-tree-bubbler"/>
+    <title>K-Rain - TB-05 - 0.5 GPM Pressure Compensating Tree Bubbler</title>
+    <s:type>Bubblers</s:type>
+    <s:vendor>K-Rain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/TB-05_1.jpg?v=1613674956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K-Rain<br>
+        <strong>Type: </strong>Bubblers<br>
+        <strong>Price: </strong>
+            1.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>K-Rain pressure compensating tree bubblers are ideal for tree and large shrub watering. Pressure compensation ensures consistent flow rates over lower pressure ranges. Designed for a rugged environment, the ½FPT threaded inlet makes these devices ideal for installations using a PVC pipe and schedule 80 risers.</p>
+<p>Durable - UV-resistant heavy-duty plastic construction with ½Female NPT threads screws onto PVC pipe or schedule 80 risers.</p>
+<p>Flexible - Pressure compensating design delivers uniform flow throughout a wide pressure range (15-50 psi). Ideal for a variety of applications including shrubs, trees, containers and large pots.</p>
+<h4><strong>SPECIFICATIONS:</strong></h4>
+<ul>
+<li>
+<strong>Flow Rate:</strong>
+<ul>
+<li>TB-05: 0.5 GPM (0,114 m3/h; 1,9 l/m)</li>
+</ul>
+</li>
+<li>
+<strong>Operating Pressure: </strong>20 - 50 PSI (1,4 - 2,8 bar)</li>
+<li>
+<strong>Spacing: </strong>1 - 3 (0,3 m - 0,9 m)</li>
+<li>
+<strong>Inlet:</strong> 1/2" (1,3 cm) Female Thread</li>
+<li><strong>Umbrella Pattern</strong></li>
+</ul>
+<h4><strong>Manuals &amp; Literature</strong></h4>
+<ul>
+<li><a href="https://www.krain.com//content/files/images/LandingPages/Bubblers-Drip/Bubblers/Bubblers%20Product%20Brochure.pdf" target="_blank"><span style="text-decoration: underline;">Bubblers Product Brochure.pdf</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_K-Rain</s:tag>
+    <s:tag>CATEGORY_Sprinkler Nozzles</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Bubblers</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5027013197926</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.27</s:price>
+      <s:sku>TB-05</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452627882084</id>
+    <published>2019-01-19T00:43:14-05:00</published>
+    <updated>2019-01-19T00:43:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-1300af-adjustable-full-circle-bubbler-nozzle"/>
+    <title>Rain Bird - 1300AF - Adjustable Full Circle Bubbler Nozzle</title>
+    <s:type>Bubblers</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2170__09447.1516141914.1280.1280_f886ed2f-49c4-40a6-8d12-11ec3ff09443.jpg?v=1571715648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Bubblers<br>
+        <strong>Price: </strong>
+            1.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div id="tab_features">
+<h2>Features</h2>
+<div class="field field--name-field-features-full field--type-text-long field--label-hidden field__item">
+<ul>
+<li>Full circle pattern only.</li>
+<li>Stainless steel adjustment screw regulates flow and radius for spacing between from 1 to 3 feet (0.3 m to 0.9 m) apart.</li>
+<li>Non-corrosive plastic and stainless steel construction for long life.</li>
+<li>Shipped with SR-050 ½" (15/21) inlet filter screen for easy installation and resistance to debris</li>
+<li>Operates over a wide range of pressures</li>
+<li>Five-year trade warranty</li>
+</ul>
+</div>
+</div>
+<div id="tab_specs">
+<h2>Specs</h2>
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<h3>Operating Range</h3>
+<ul>
+<li>Flow: 1.0 to 2.3 gpm (3.6 to 8.4 l/m)</li>
+<li>Spacing: 1 to 3 feet (0.3 m to 0.9 m)¹</li>
+<li>Pressure: 10 to 60 psi (0.7 to 4.1 bar)²</li>
+</ul>
+<h3>Dimensions</h3>
+<ul>
+<li>Inlet: ½-inch female threaded</li>
+<li>Height: 1"</li>
+<li>Top diameter: 1"</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sku">Rain Bird 1300 Series Flower Bubblers provide a controlled, gentle umbrella of water for irrigating trees, flowers and shrub areas. Mount these bubblers on 1/2 in. male risers to effectively water areas from 1 to 3 ft.</div>
+<div class="sku"></div>
+<div class="sku"><strong>Downloads</strong></div>
+<div class="sku">
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/1883" target="_blank" rel="noopener noreferrer">Spray Nozzle Performance Chart</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4630" target="_blank" rel="noopener noreferrer">1300A-F and 1400 Series Bubblers Tech Spec</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4631" target="_blank" rel="noopener noreferrer">Bubbler Heads Tech Spec</a></strong></li>
+</ul>
+</div>
+<div class="sku"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sprinkler Nozzles</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Bubblers</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452627882084</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.02</s:price>
+      <s:sku>1300AF</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452402208868</id>
+    <published>2019-01-19T00:29:40-05:00</published>
+    <updated>2019-01-19T00:29:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/k-rain-pressure-compensating-tree-bubblers"/>
+    <title>K-Rain - TB-025 - 0.25 GPM Pressure Compensating Tree Bubbler</title>
+    <s:type>Bubblers</s:type>
+    <s:vendor>K-Rain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/tb-025_1.jpg?v=1613674836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K-Rain<br>
+        <strong>Type: </strong>Bubblers<br>
+        <strong>Price: </strong>
+            1.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>K-Rain pressure compensating tree bubblers are ideal for tree and large shrub watering. Pressure compensation ensures consistent flow rates over lower pressure ranges. Designed for a rugged environment, the ½FPT threaded inlet makes these devices ideal for installations using a PVC pipe and schedule 80 risers.</p>
+<p>Durable - UV-resistant heavy-duty plastic construction with ½Female NPT threads screws onto PVC pipe or schedule 80 risers.</p>
+<p>Flexible - Pressure compensating design delivers uniform flow throughout a wide pressure range (15-50 psi). Ideal for a variety of applications including shrubs, trees, containers and large pots.</p>
+<h4><strong>SPECIFICATIONS:</strong></h4>
+<ul>
+<li>
+<strong>Flow Rate:</strong>
+<ul>
+<li><span>TB-025: .25 GPM (0,057 m3/h; 0,95 l/m)</span></li>
+</ul>
+</li>
+<li>
+<strong>Operating Pressure: </strong>20 - 50 PSI (1,4 - 2,8 bar)</li>
+<li>
+<strong>Spacing: </strong>1 - 3 (0,3 m - 0,9 m)</li>
+<li>
+<strong>Inlet:</strong> 1/2" (1,3 cm) Female Thread</li>
+<li><strong>Umbrella Pattern</strong></li>
+</ul>
+<h4><strong>Manuals &amp; Literature</strong></h4>
+<ul>
+<li><a href="https://www.krain.com//content/files/images/LandingPages/Bubblers-Drip/Bubblers/Bubblers%20Product%20Brochure.pdf" target="_blank"><span style="text-decoration: underline;">Bubblers Product Brochure.pdf</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_K-Rain</s:tag>
+    <s:tag>CATEGORY_Sprinkler Nozzles</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Bubblers</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452402208868</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.27</s:price>
+      <s:sku>TB-025</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+</feed>

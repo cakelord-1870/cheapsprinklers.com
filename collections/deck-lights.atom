@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/deck-lights.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2020-04-02T16:27:42-04:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4711116406886</id>
+    <published>2020-04-02T16:27:42-04:00</published>
+    <updated>2020-04-02T16:27:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-12v-2-5w-4-corners-led-deck-light-2700k-textured-architectural-bronze-16112azt27"/>
+    <title>Kichler - 12V 2.5W 4 Corners LED Deck Light 2700K (Textured Architectural Bronze) - 16111AZT27</title>
+    <s:type>Deck &amp; Patio Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16111azt27.jpg?v=1585859380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Deck &amp; Patio Lights<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>2700K Warm White Four Corners LED deck light in Textured Architectural Bronze features 4 gently sloped cast aluminum corners.</span></p>
+<table class="table product-spec">
+<tbody>
+<tr>
+<th scope="rowgroup" colspan="2">Certifications/Qualifications</th>
+</tr>
+<tr>
+<th scope="row">Location Rating</th>
+<td>Wet</td>
+</tr>
+<tr>
+<th scope="rowgroup" colspan="2">Dimensions</th>
+</tr>
+<tr>
+<th scope="row">Height</th>
+<td>2.25"</td>
+</tr>
+<tr>
+<th scope="row">Width</th>
+<td>3.25"</td>
+</tr>
+<tr>
+<th scope="rowgroup" colspan="2">Electrical</th>
+</tr>
+<tr>
+<th scope="row">Operating Voltage Range</th>
+<td>9-15 VAC</td>
+</tr>
+<tr>
+<th scope="row">Voltage</th>
+<td>12V</td>
+</tr>
+<tr>
+<th scope="rowgroup" colspan="2">Photometrics</th>
+</tr>
+<tr>
+<th scope="row">Delivered Efficacy (Lumens/Watt)</th>
+<td>48</td>
+</tr>
+<tr>
+<th scope="row">Delivered Lumens</th>
+<td>41</td>
+</tr>
+<tr>
+<th scope="row">Kelvin Temperature</th>
+<td>2700K</td>
+</tr>
+<tr>
+<th scope="rowgroup" colspan="2">Primary Lamping</th>
+</tr>
+<tr>
+<th scope="row">Lamp Included</th>
+<td>Not Included</td>
+</tr>
+<tr>
+<th scope="row">Light Source</th>
+<td>LED</td>
+</tr>
+<tr>
+<th scope="row">Max or Nominal Watt</th>
+<td>2.5W</td>
+</tr>
+<tr>
+<th scope="rowgroup" colspan="2">Product/Ordering Information</th>
+</tr>
+<tr>
+<th scope="row">Finish</th>
+<td>Bronze</td>
+</tr>
+<tr>
+<th scope="row">UPC</th>
+<td>783927459303</td>
+</tr>
+<tr>
+<th scope="rowgroup" colspan="2">Specifications</th>
+</tr>
+<tr>
+<th scope="row">Material</th>
+<td>ALUMINUM</td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><a href="https://www.kichler.com/products/spec-sheet?sku=16111AZT27" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Spec Sheet</span></a></li>
+<li><a href="https://www.kichler.com/globalassets/products/documents/instruction-sheets/is-16111-us.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Instruction Sheet﻿</span></a></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:tag>PRODUCT TYPE_Deck Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4711116406886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>16111AZT27</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452346830948</id>
+    <published>2019-01-19T00:26:19-05:00</published>
+    <updated>2019-01-19T00:26:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-overlay-2700k-led-deck-light-azt-16112azt27-textured-architectural-bronze"/>
+    <title>Kichler - 15V 2.5W Overlay 4&apos;&apos; LED Deck Light 2700K (Textured Architectural Bronze) - 16112AZT27</title>
+    <s:type>Deck &amp; Patio Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-11971__55460.1516302933.1280.1280.jpg?v=1571715622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Deck &amp; Patio Lights<br>
+        <strong>Price: </strong>
+            84.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2700K Overlay LED deck light with a Textured Architectural Bronze overlay on Textured Tannery Bronze finish.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Cast aluminum construction</li>
+<li>Integrated high output Cree® LED</li>
+<li>Stainless steel mounting bracket</li>
+<li>Coordinates with the 16122 path light</li>
+<li>Operates between 9V and 15V with no loss in output due to constant current technology</li>
+<li>ETL listed for wet locations</li>
+</ul>
+<p><strong>Dimensions:</strong></p>
+<ul>
+<li>Height: 2.25"</li>
+<li>Width: 2"</li>
+<li>Extension: 3.75"</li>
+</ul>
+<p><strong>Electrical Specifications:</strong></p>
+<ul>
+<li>Bulb Type: LED</li>
+<li>Bulb Included: Yes</li>
+<li>Wattage: .86</li>
+<li>Color Temperature: 2700K (Warm White)</li>
+<li>Lumen Output: 43</li>
+<li>CRI (Color Rendering Index): 80</li>
+<li>Average LED Life: 40,000 hours</li>
+<li>Voltage: 12 (Low Voltage)</li>
+<li>Amp Draw: 1.86 VA</li>
+<li>See the attached spec sheets and catalog pages for full photometric details</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<p><span style="text-decoration: underline;">﻿<a href="https://s1.img-b.com/build.com/mediabase/specifications/kichler/1179478/kichler-16112-27-catalog.pdf" target="_blank" rel="noopener noreferrer">Catalog Page</a></span></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:tag>PRODUCT TYPE_Deck Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452346830948</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.98</s:price>
+      <s:sku>16112AZT27</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452343193700</id>
+    <published>2019-01-19T00:26:07-05:00</published>
+    <updated>2019-01-19T00:26:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-deck-post-1-lt-12v-15071oz-olde-bronze"/>
+    <title>Kichler - 12V 16W Zen Garden 7&apos;&apos; Xenon Deck Post Light (Olde Bronze) - 15071OZ</title>
+    <s:type>Deck &amp; Patio Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12461__64329.1516302933.1280.1280.jpg?v=1571715621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Deck &amp; Patio Lights<br>
+        <strong>Price: </strong>
+            269.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ZEN GARDEN POST LIGHT - Serene, minimalist design and added security to supplement deck sconces. <span>Coordinates with path light 15391 and bollard 15392.</span></p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Solid brass construction with textured linen seedy glass</li>
+<li>Includes a 16W Xenon lamp</li>
+<li>Includes a stainless steel post and rail adapter</li>
+<li>Fits a standard 4" x 4" post</li>
+<li>Coordinates with the 15392 bollard and 15391 path light</li>
+<li>Note: Brass will develop a natural patina over time</li>
+</ul>
+<p><strong>Dimensions:</strong></p>
+<ul>
+<li>Height: 5"</li>
+<li>Width: 7"</li>
+</ul>
+<p><strong>Electrical Specifications:</strong></p>
+<ul>
+<li>Bulb Type: Xenon</li>
+<li>Bulb Included: Yes</li>
+<li>Bulb Socket Type: Wedge</li>
+<li>Maximum Wattage: 16.5</li>
+<li>Bulb Shape: T5</li>
+<li>Voltage: 12 (Low Voltage)</li>
+<li>Lead Wire Length: 59</li>
+<li>See the attached spec sheets and catalog pages for full photometric details</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Deck Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452343193700</id>
+      <title>Default Title</title>
+      <s:price currency="USD">269.99</s:price>
+      <s:sku>15071OZ</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452323074148</id>
+    <published>2019-01-19T00:24:57-05:00</published>
+    <updated>2019-01-19T00:24:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-12v-brass-deck-light-cbr-15477cbr"/>
+    <title>Kichler - 12V 20W Deck Light (Centennial Brass) - 15477CBR</title>
+    <s:type>Deck &amp; Patio Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-942__29761.1516302929.1280.1280.jpg?v=1571715619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Deck &amp; Patio Lights<br>
+        <strong>Price: </strong>
+            78.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12V Solid Brass Deck Light in Centennial Brass</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Cast brass construction</li>
+<li>Mounting hardware included</li>
+<li>Note: Brass will develop a natural patina over time</li>
+<li>To upgrade your fixture to LED, purchase the 18020 or 18021 drop-in lamp</li>
+<li>ETL listed for wet locations</li>
+</ul>
+<p><strong>Dimensions:</strong></p>
+<ul>
+<li>Height: 3.43"</li>
+<li>Width: 3.43"</li>
+<li>Extension: 1.93"</li>
+</ul>
+<p><strong>Electrical Specifications:</strong></p>
+<ul>
+<li>Bulb Included: No</li>
+<li>Bulb Socket Type: Wedge</li>
+<li>Maximum Wattage: 6.5</li>
+<li>Bulb Shape: T5</li>
+<li>Voltage: 12 (Low Voltage)</li>
+<li>See the attached spec sheets and catalog pages for full photometric details</li>
+</ul>
+<h4>Technical Information</h4>
+<table data-mobile="false">
+<tbody>
+<tr style="height: 22px;">
+<th style="height: 22px;">Weight:</th>
+<td style="height: 22px;">0.70 LBS</td>
+</tr>
+<tr style="height: 22px;">
+<th style="height: 22px;">Safety Rated:</th>
+<td style="height: 22px;">Wet</td>
+</tr>
+<tr style="height: 22px;">
+<th style="height: 22px;">Max Wattage/Range:</th>
+<td style="height: 22px;">13W</td>
+</tr>
+<tr style="height: 22px;">
+<th style="height: 22px;">Width:</th>
+<td style="height: 22px;">2.00"</td>
+</tr>
+<tr style="height: 22px;">
+<th style="height: 22px;">Height:</th>
+<td style="height: 22px;">3.50"</td>
+</tr>
+<tr style="height: 22px;">
+<th style="height: 22px;">Length:</th>
+<td style="height: 22px;">3.50"</td>
+</tr>
+<tr style="height: 22px;">
+<th style="height: 22px;">Lamp Included:</th>
+<td style="height: 22px;">Not Included</td>
+</tr>
+<tr style="height: 22px;">
+<th style="height: 22px;">Voltage:</th>
+<td style="height: 22px;">12V</td>
+</tr>
+<tr style="height: 22px;">
+<th style="height: 22px;">Light Source:</th>
+<td style="height: 22px;">Incandescent</td>
+</tr>
+<tr style="height: 22px;">
+<th style="height: 22px;">Socket Base:</th>
+<td style="height: 22px;">T5 Wedge</td>
+</tr>
+<tr style="height: 22px;">
+<th style="height: 22px;">Lamp Type:</th>
+<td style="height: 22px;">XENON</td>
+</tr>
+<tr style="height: 22px;">
+<th style="height: 22px;">Max Watt:</th>
+<td style="height: 22px;">20W</td>
+</tr>
+<tr style="height: 21px;">
+<th style="height: 21px;">Number of Lights/LEDs:</th>
+<td style="height: 21px;">1</td>
+</tr>
+</tbody>
+</table>
+<p>Manuals &amp; Literature</p>
+<ul>
+<li><a href="http://www.kichler.com/media/documents/instruction_sheets/IS-15477-US.pdf" target="_blank" rel="noopener noreferrer">Instruction Sheet-15477</a></li>
+<li><a href="http://www.kichler.com/media/documents/high_res_images/15477.zip" target="_blank" rel="noopener noreferrer">High Res Images 15477</a></li>
+<li><a href="http://www.kichler.com/products/product/12v-brass-deck-light-cbr-15477cbr/specsheet.aspx" target="_blank" rel="noopener noreferrer">Spec Sheet</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$40-60</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Deck Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452323074148</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.99</s:price>
+      <s:sku>15477CBR</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

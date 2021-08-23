@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/controller-modules-remotes.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2020-03-31T12:01:28-04:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705573142630</id>
+    <published>2020-03-31T12:01:28-04:00</published>
+    <updated>2020-03-31T12:01:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-roamxl-kit-long-range-remote-control-smartport-kit"/>
+    <title>Hunter - ROAMXL-KIT - Long-Range Remote Control &amp; SmartPort Kit</title>
+    <s:type>Remotes</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/roam_xl_tandtr_clipped.jpg?v=1591901337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Remotes<br>
+        <strong>Price: </strong>
+            511.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Large-scale sites such as shopping centers, industrial complexes, college campuses, and multi-unit housing complexes require high-powered remotes that can cover long distances. The Roam XL is as powerful as they come and features a simple user interface with 128 different programmable addresses. Within line of sight, it can function up to two miles from the controller. The compact, high-powered remote is a single unit that can be carried from job to job and used to remotely access any Hunter controller that has a SmartPort connector. It eliminates the need to physically visit the controller to start or stop a cycle during maintenance, installation or winterization.</span></p>
+<h4><span>Key Benefits</span></h4>
+<ul>
+<li><span>Up to 2 mile range for remote manual operation of Hunter irrigation systems</span></li>
+<li><span>Designed to work with Hunter X-Core, Pro-C, PCC, I-Core and ACC controllers through a SmartPort® connection</span></li>
+<li>128 different programmable addresses</li>
+<li>Display shows remaining battery life</li>
+<li>Maximum stations supported: 240</li>
+<li>Programmable Run Times: 1 to 90 minutes</li>
+<li>Large LCD display, push-button operation</li>
+<li>Manually run manual watering cycles without modifying regular program</li>
+<li>Transmitter power source: 4 AAA batteries (included)</li>
+<li>Receiver power source: 24 VAC, 10 mA (provided by controller)</li>
+<li>System operating frequency: 27 MHz band</li>
+<li>SmartPort connector can be mounted up to 50' (max) from controller (use SRR-SCWH shielded cable wiring harness)</li>
+<li>FCC Approved</li>
+<li>No FCC license required</li>
+<li>Rugged plastic carrying case included</li>
+<li>Warranty: 3 years</li>
+</ul>
+<p><strong>Remote Specification</strong></p>
+<ul>
+<li>Transmitter power source: 4 AAA alkaline batteries (included)</li>
+<li>Receiver power source: 24 VAC, from controller through a SmartPort® connector</li>
+<li>System operating frequency: 27 MHz band</li>
+<li>SmartPort connector can be mounted up to 50' (max) from controller (use SRR-SCWH shielded cable wiring harness)</li>
+<li>FCC approved: No FCC license required</li>
+<li>Not available in all countries</li>
+</ul>
+<h4>Manuals &amp; Literature</h4>
+<ul>
+<li><a href="https://www.hunterindustries.com/sites/default/files/om_roamxl_dom.pdf" target="_blank" rel="noopener noreferrer">Roam XL Owners Manual</a></li>
+<li><a href="https://www.hunterindustries.com/sites/default/files/br_roamxl_dom.pdf" target="_blank" rel="noopener noreferrer">Roam XL Brochure</a></li>
+<li><a href="https://www.hunterindustries.com/sites/default/files/CA-Cutsheet-ROAM-XL-US.pdf" target="_blank" rel="noopener noreferrer">Roam XL Product Cutsheet</a></li>
+</ul>
+<div class="horizontal-rule-title">
+<h2>ADVANCED FEATURES</h2>
+<hr>
+</div>
+<div class="field field-name-field-advanced-features field-type-node-reference field-label-hidden field-wrapper clearfix">
+<div class="field-items">
+<div class="field-item advanced-features-field-item clearfix even last">
+<article id="node-23846" class="node node-advanced-feature view-mode-full" about="/node/23846" typeof="sioc:Item foaf:Document">
+<h4 class="node-title">RUGGED ALUMINUM SHELL</h4>
+<span property="dc:title" content="Rugged Aluminum Shell" class="rdf-meta element-hidden"></span>
+<div class="image"><img typeof="foaf:Image" src="https://www.hunterindustries.com/sites/default/files/null/roam_xl_r_clipped_100w.jpg" alt="" width="96" height="181"></div>
+<div class="field field-name-field-advanced-feature-desc field-type-text-long field-label-hidden field-wrapper">
+<p>The Roam XL has a heavy duty aluminum and rubber shell, which ensures reliable operation day in and day out</p>
+</div>
+</article>
+</div>
+<div class="field-item advanced-features-field-item clearfix odd last">
+<article id="node-23851" class="node node-advanced-feature view-mode-full" about="/node/23851" typeof="sioc:Item foaf:Document">
+<h4 class="node-title">WATER RESISTANT REMOTE</h4>
+<span property="dc:title" content="Water Resistant Remote" class="rdf-meta element-hidden"></span>
+<div class="field field-name-field-advanced-feature-desc field-type-text-long field-label-hidden field-wrapper">
+<p>The water-resistent Roam XL is built to work even when exposed to sprinkler spray</p>
+</div>
+</article>
+</div>
+<div class="field-item advanced-features-field-item clearfix even last">
+<article id="node-23861" class="node node-advanced-feature view-mode-full" about="/node/23861" typeof="sioc:Item foaf:Document">
+<h4 class="node-title">COMPATIBLE WITH LEGACY ICR TRANSMITTER AND RECEIVER</h4>
+<span property="dc:title" content="Compatible with legacy ICR transmitter and receiver" class="rdf-meta element-hidden"></span>
+<div class="image"><img typeof="foaf:Image" src="https://www.hunterindustries.com/sites/default/files/null/av-roam-xl-icr-compatible_1.jpg" alt="" width="230" height="227"></div>
+<div class="field field-name-field-advanced-feature-desc field-type-text-long field-label-hidden field-wrapper">
+<p>The Roam XL transmitter and receiver both work with ICR transmitters or receivers. So, if you upgrade your ICR remote to Roam XL, you can still use your old ICR receiver. Or if you bring an ICR to a site that has a RoamXL receiver, they will work together.</p>
+</div>
+</article>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705573142630</id>
+      <title>Default Title</title>
+      <s:price currency="USD">511.45</s:price>
+      <s:sku>ROAMXL-KIT</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452404830308</id>
+    <published>2019-01-19T00:29:51-05:00</published>
+    <updated>2019-01-19T00:29:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/k-rain-pro-ex-2-0-remote-kit-3203-kit"/>
+    <title>K-Rain - 3203-KIT - Pro EX 2.0 Remote Kit</title>
+    <s:type>Remotes</s:type>
+    <s:vendor>K-Rain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/3202-KIT_1.jpg?v=1603121223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K-Rain<br>
+        <strong>Type: </strong>Remotes<br>
+        <strong>Price: </strong>
+            169.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Optional Kit for the Pro EX 2.0 Modular Irrigation Controller.</p>
+<p>Kit includes;</p>
+<ul>
+<li>3203 - Handheld remote w/batteries</li>
+<li>3206 - RF module with short distance antenna</li>
+<li>3207 - long range antenna w/ coaxial cable</li>
+</ul>
+<h4><strong>Manuals &amp; Literature</strong></h4>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://www.krain.com/product/attachment?productId=3203-KIT&amp;attachmentName=Pro+EX+2.0+Remote+Manual-English.pdf" target="_blank">Pro EX 2.0 Remote Manual-English.pdf</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://www.krain.com/product/attachment?productId=3203-KIT&amp;attachmentName=Pro+EX+2.0+Remote+Manual-Spanish.pdf" target="_blank">Pro EX 2.0 Remote Manual-Spanish.pdf</a></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_K-Rain</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452404830308</id>
+      <title>Default Title</title>
+      <s:price currency="USD">169.98</s:price>
+      <s:sku>3203-KIT</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452402831460</id>
+    <published>2019-01-19T00:29:46-05:00</published>
+    <updated>2019-01-19T00:29:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/k-rain-pro-ex-2-0-handheld-remote-3203"/>
+    <title>K-Rain - 3203 - Pro EX 2.0 Handheld Remote</title>
+    <s:type>Remotes</s:type>
+    <s:vendor>K-Rain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-3203_1__83310.1532011132.1280.1280.jpg?v=1571715637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K-Rain<br>
+        <strong>Type: </strong>Remotes<br>
+        <strong>Price: </strong>
+            69.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Optional Remote Feature for the Pro EX 2.0 Modular Irrigation Controller.</p>
+<p>The new remote capability expands irrigation control right in your hand:</p>
+<ul>
+<li>Short range: 500' (155 m) (line of sight)</li>
+<li>Long range: 1000' (305 m) (line of sight)</li>
+<li>Zone and run time indication nZone run time count down</li>
+<li>Visual confirmation of remote controller connection</li>
+<li>Establish your run time per zone up to 99 minutes</li>
+</ul>
+<h4><strong>Manuals &amp; Literature</strong></h4>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://www.krain.com/product/attachment?productId=3203&amp;attachmentName=Pro+EX+2.0+Remote+Manual-English.pdf" target="_blank">Pro EX 2.0 Remote Manual-English.pdf</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://www.krain.com/product/attachment?productId=3203&amp;attachmentName=Pro+EX+2.0+Remote+Manual-Spanish.pdf" target="_blank">Pro EX 2.0 Remote Manual-Spanish.pdf</a></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_K-Rain</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452402831460</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.25</s:price>
+      <s:sku>3203</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452316880996</id>
+    <published>2019-01-19T00:24:35-05:00</published>
+    <updated>2019-01-19T00:24:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-roam-kit-handheld-sprinkler-remote-control-system"/>
+    <title>Hunter - Roam-Kit - Handheld Sprinkler Remote Control System</title>
+    <s:type>Remotes</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1546__81390.1516313139.1280.1280.jpg?v=1571715619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Remotes<br>
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The ability to remotely command a controller means operators never have to walk back and forth to stop and start irrigation. Winterization is quick and easy and can be accomplished with only one worker. A mid-range solution for residential and commercial applications, the Roam will operate up to 1,000 feet from the controller. It is compatible with all Hunter AC powered controllers. The Roam offers features other remotes do not at a reasonable price. With a large LCD and simple push button operation, this remote is easy to use and small enough to fit in your pocket.</span></p>
+<h3><strong>Features &amp; Benefits</strong></h3>
+<ul>
+<li>Designed to work with Hunter X-Core, Pro-C, PCC, I-Core and ACC controllers through a SmartPort® connection</li>
+<li>128 programmable addresses for use with multiple Roam remotes in the same neighborhood</li>
+<li>Manually run watering cycles without modifying regular program</li>
+<li>Programmable run times: 1 to 90 minutes</li>
+<li>Range: Up to 1,000 ft. (line of sight)</li>
+<li>Transmitter power source: 4 AAA batteries (included)</li>
+<li>Receiver power source: 24 VAC, 10 mA (provided by controller)</li>
+<li>System operating frequency: 433 MHz</li>
+<li>FCC approved</li>
+<li>No FCC license required</li>
+<li>Warranty: 2 years</li>
+</ul>
+<center>
+<h3 align="center" style="text-align: left;"><strong>Remote Specifications</strong></h3>
+</center>
+<ul>
+<li>Receiver power source: 24 VAC, from controller through a SmartPort connector</li>
+<li>System operating frequency: 27 MHz band</li>
+<li>SmartPort connector can be mounted up to 50 ft. (max) from controller (use SRR-SCWH shielded cable wiring harness)</li>
+<li>FCC approved: No FCC license required</li>
+</ul>
+<h3><strong>Dimensions</strong></h3>
+<ul>
+<li>
+<strong>Transmitter Dimensions w/o Antenna:</strong><br> Height: 6-1/4 in.<br> Width: 3 in.<br> Depth: 1-1/4 in.</li>
+<li>
+<strong>Antenna</strong><br> Height:7-1/2 in.<br> Width: 1/2 in.</li>
+</ul>
+<h3><strong>Downloads</strong></h3>
+<p> </p>
+<p><a href="https://www.hunterindustries.com/sites/default/files/manual_Roam_INT-788-EN.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Roam Owners Manual</span></a></p>
+<p><a href="https://www.hunterindustries.com/sites/default/files/BR_ROAM_dom.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Roam Brochure</span></a></p>
+<p><a href="https://www.hunterindustries.com/sites/default/files/CA-Cutsheet-ROAM-US.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Roam Product Cutsheet</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452316880996</id>
+      <title>Default Title</title>
+      <s:price currency="USD">169.99</s:price>
+      <s:sku>ROAM-KIT</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/decoders.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2021-03-26T14:53:31-04:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/6551839047782</id>
+    <published>2021-03-26T14:53:31-04:00</published>
+    <updated>2021-03-26T14:53:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-lxivout-2-wire-output-field-device"/>
+    <title>Rain Bird - LXIVMOUT - 2-Wire Output Field Device</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/ivm-out.jpg?v=1616784754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            139.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-content-type="heading" data-appearance="default" data-element="main" data-mce-fragment="1">Rain Bird LX IVM-OUT 2W Output Device</h2>
+<div data-content-type="text" data-appearance="default" data-element="main" data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Used to control third-party valves with DC latching solenoids</li>
+<li data-mce-fragment="1">Can be used after replacing AC latching solenoids with DC latching solenoids</li>
+<li data-mce-fragment="1">Max combined wire length between IVM-OUT and the solenoid is 48 inches</li>
+</ul>
+<h3 data-mce-fragment="1">Features &amp; Benefits</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Field Devices are installed along the 2-Wire path to interface with valves and other hardware.</li>
+<li data-mce-fragment="1">Interfaces with LX-IVM to control station valves and master valves</li>
+<li data-mce-fragment="1">Rain Bird WC20 connectors (included with IVMSOL; sold separately) to be used for all splices</li>
+</ul>
+<p data-mce-fragment="1">This product can be used in conjunction with the ESP-LXIVM Series Controllers and its respective ESP-LXIVM 2-Wire Field Devices. These devices (sold separately) include the:</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">IVM-SOL: Control station or master valves</li>
+<li data-mce-fragment="1">IVM-OUT: Interfaces with LX-IVM to manage 3rd party valves and external gear such as pump stations</li>
+<li data-mce-fragment="1">IVM-SEN: Interfaces with LX-IVM to control weather sensors or flow sensors</li>
+<li data-mce-fragment="1">IVM-SD: provides surge protection on the 2-Wire path</li>
+</ul>
+<h3 data-mce-fragment="1">Product Details</h3>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">IVM-OUT 2-Wire control devices can be used to control valves with DC latching solenoids.</strong></p>
+<ol data-mce-fragment="1">
+<li data-mce-fragment="1">Connect the red and black wires on the IVMOUT to the 2-Wire Path.</li>
+<li data-mce-fragment="1">Connect the red/white striped wire on the IVM-OUT to the DC latching solenoid red wire.</li>
+<li data-mce-fragment="1">Connect the black/white striped wire on the IVM-OUT to the DC latching solenoid black wire.</li>
+<li data-mce-fragment="1">For future troubleshooting or modifications, it is recommended to leave an additional 3 feet (1 meter) of 2-Wire cable stored in each valve box location</li>
+</ol>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Note:</strong> Make sure that the DC latching solenoid is compatible with non Rain Bird valves. Contact the valve manufacturer for more information.</p>
+<p data-mce-fragment="1">Maximum combined wire length between IVMOUT and its load (e.g. Solenoid) shall be 48 in. This includes pre-installed IVM-OUT wire (24 in.) and solenoid wires (22 in.). Use only WC20 splice kits for all wiring connections to the 2-Wire Path. Improper wiring can cause serious damage to your controller or irrigation system.</p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/files/PSR220-IVM_1_480x480.jpg?v=1616784655"></p>
+<h4>Manuals &amp; Literature</h4>
+<ul>
+<li><a href="https://www.rainbird.com/sites/default/files/media/documents/2020-02/LX-IVM_Field_Install_Guide_0.pdf" target="_blank"><span>Field Device Installation Guide</span></a></li>
+<li><a href="https://www.rainbird.com/sites/default/files/media/documents/2020-02/LX-IVM_Sell_Sheet_1.pdf" target="_blank"><span>LXIVM Sell Sheet</span></a></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/6551839047782</id>
+      <title>Default Title</title>
+      <s:price currency="USD">139.98</s:price>
+      <s:sku>LXIVMOUT</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4985182552166</id>
+    <published>2020-12-09T13:46:24-05:00</published>
+    <updated>2020-12-09T13:46:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-lxivmsd-2-wire-surge-protection-device"/>
+    <title>Rain Bird - LXIVMSD - 2-Wire Surge Protection Device</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/lxivmsd.jpg?v=1607539342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            74.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>IVM-SD provides surge protection on the 2-Wire path (One every 500ft or 15 field devices)</span></div>
+<ul data-mce-fragment="1">
+<li>Revolutionary 2-Wire Design with Integrated Valve Module (IVM)</li>
+<li>IVM-SD provides surge protection on the 2-Wire path</li>
+<li>Field Devices are installed along the 2-Wire path to interface with valves and other hardware.</li>
+</ul>
+<p>Manuals &amp; Literature</p>
+<ul>
+<li><a href="https://www.rainbird.com/sites/default/files/media/documents/2020-02/LX-IVM_Field_Install_Guide_0.pdf" target="_blank"><span style="text-decoration: underline;">Field Device Installation Guide</span></a></li>
+<li><a href="https://www.rainbird.com/sites/default/files/media/documents/2020-02/LX-IVM_Sell_Sheet_1.pdf" target="_blank"><span style="text-decoration: underline;">LXIVM Sell Sheet</span></a></li>
+<li><a href="https://www.rainbird.com/sites/default/files/media/documents/2020-07/d41895_08jl20_lx-ivm_grounding_and_surge_protection_en_200710_03.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">ESP-LXIVM Surge Protection &amp; Grounding</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4985182552166</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.98</s:price>
+      <s:sku>LXIVMSD</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4985007276134</id>
+    <published>2020-12-09T13:35:01-05:00</published>
+    <updated>2020-12-09T13:35:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-lxivmsol-2-wire-field-device-solenoid"/>
+    <title>Rain Bird - LXIVMSOL - 2-Wire Field Device Solenoid</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/lxivmsol.jpg?v=1607538599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            114.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Rain Bird's new ESP-LXIVM 2-Wire System has many powerful and flexible features, starting with the revolutionary new Integrated Valve Module (IVM). This “smart solenoid” stays in constant communication with the controller, providing efficient irrigation and advanced diagnostics. Only half the number of wire splices are needed, improving installation costs and reliability.</div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Rain Bird WC20 connectors (included with IVMSOL) to be used for all splices</li>
+<li data-mce-fragment="1">Field Devices are installed along the 2-Wire path to interface with valves and other hardware.</li>
+<li data-mce-fragment="1">Interfaces with LX-IVM to control station valves and master valves</li>
+<li data-mce-fragment="1">Revolutionary 2-Wire Design with Integrated Valve Module (IVM)</li>
+</ul>
+<p>Manuals &amp; Literature</p>
+<ul>
+<li><a href="https://www.rainbird.com/sites/default/files/media/documents/2020-02/LX-IVM_Field_Install_Guide_0.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Field Device Installation Guide</span></a></li>
+<li><a href="https://www.rainbird.com/sites/default/files/media/documents/2020-02/LX-IVM_Sell_Sheet_1.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">LXIVM Sell Sheet</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4985007276134</id>
+      <title>Default Title</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>LXIVMSOL</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452297547876</id>
+    <published>2020-07-23T17:34:52-04:00</published>
+    <updated>2020-07-23T17:34:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-adm99-acc-decoder-module-only"/>
+    <title>Hunter - ADM99 - ACC Decoder (Module Only)</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/ADM99-2_2000x_be928c68-4bc4-4970-89f2-dc8ec6c2ecd7.jpg?v=1571715617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            710.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hunter - ADM99 - ACC Decoder - Module Only</strong></p>
+<ul>
+<li>Hunters premium industrial-grade controller for high-performance irrigation control.</li>
+<li>Operates 24 VAC irrigation solenoids or low-draw solid state relays for specific durations at specific times.</li>
+<li>Can be connected to various sensors, providing automatic shutdown and notification in case of emergencies, and actual flow records and responses in real time.</li>
+</ul>
+<div id="ProductDetail_ProductDetails_div2" style="background-color: transparent; box-sizing: border-box; color: #000000; font-family: arial,verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452297547876</id>
+      <title>Default Title</title>
+      <s:price currency="USD">710.99</s:price>
+      <s:sku>ADM99</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705492467814</id>
+    <published>2020-03-31T11:55:30-04:00</published>
+    <updated>2020-03-31T11:55:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-icd400-4-station-decoder"/>
+    <title>Hunter - ICD400 - 4 Station Decoder</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/icd-400.jpg?v=1592941393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            375.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; box-sizing: border-box; color: #000000; font-family: arial,verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; margin-bottom: 7.5px; margin-top: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<li style="box-sizing: border-box;">4-station  decoder</li>
+<li style="box-sizing: border-box;">With surge suppression and ground wire</li>
+<li style="box-sizing: border-box;">For use with any ACC Decoder Controller</li>
+</ul>
+<p><span>Hunters next-generation ACC2 Decoder controller provides powerful irrigation management and monitoring capabilities for complex commercial projects. The ACC2 Decoder controller is specifically designed to manage Hunter ICD decoders on large projects and is expandable to 225 stations. The controller offers extreme flexibility, with 32 independent programs, 10 start times, and a variety of overlapping, stacking, and management configurations.</span></p>
+<h3><strong>Downloads</strong></h3>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-qg-en-acc2-decoder-web.pdf?13846692636141023726" target="_blank" title="ICD200 QUICK START GUIDE" rel="noopener noreferrer">ACC2 Decoder Quick Start Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-ig-acc2decoder-web.pdf?13846692636141023726" target="_blank" title="ICD200 INSTALLATION GUIDE" rel="noopener noreferrer">ACC2 Decoder Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-ig-acc2decoder-module-us-web.pdf?13846692636141023726" target="_blank" title="ICD200 MODULE INSTALLATION GUIDE" rel="noopener noreferrer">ACC2 Decoder Module Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-004-ig-acc2-pcu-us-web.pdf?13846692636141023726" target="_blank" title="ICD200 PCU BOARD INSTALLATION GUIDE" rel="noopener noreferrer">ACC2 PCU Board Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-acc2-decoderdoorcard-press.pdf?13846692636141023726" target="_blank" title="ICD200 DOOR CARD" rel="noopener noreferrer">Door Card</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/acc2-strong-box-assembly-instructions-final.pdf?13846692636141023726" target="_blank" title="ICD200 STRONGBOX ASSEMBLY INSTRUCTIONS" rel="noopener noreferrer">ACC2 Strongbox Assembly Instructions</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-acc2decoder-ss-us.pdf?13846692636141023726" target="_blank" title="ICD200 SUBMITTAL SHEET" rel="noopener noreferrer">ACC2 Decoder Submittal Sheet</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-br-acc2-decoder-en-web.pdf?13846692636141023726" target="_blank" title="ICD200 BROCHURE" rel="noopener noreferrer">Brochure</a></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705492467814</id>
+      <title>Default Title</title>
+      <s:price currency="USD">375.41</s:price>
+      <s:sku>ICD400</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705392296038</id>
+    <published>2020-03-31T11:20:16-04:00</published>
+    <updated>2020-03-31T11:20:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-ez-dm-decoder-output-module-for-hcc-icc2-controllers"/>
+    <title>Hunter - EZ-DM - Decoder Output Module for HCC &amp; ICC2 (54 Station)</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/EZ-DM.jpg?v=1592940337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            215.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Bring two-wire technology to more projects than ever before with the revolutionary, low-cost, hassle-free EZ Decoder System for HCC and ICC2 controllers.</h4>
+<p>Cost and complexity have often limited decoder technology to higher-end systems. However, with the revolutionary EZ Decoder System (EZDS), you get all the advantages of two-wire installations with simpler, more cost-effective technology — so you can bring the power of two-wire control to more projects than ever before. </p>
+<p>EZDS is compatible with all the features of our Hydrawise™-enabled HCC controller, as well as the ICC2 controller and its web-based Centralus™ management platform. Plug in the EZ-DM two-wire output module to enable up to 54 stations of irrigation, plus a master valve, on a single pair of wires. Then simply place EZ Decoders at each valve! </p>
+<p>EZ Decoders are small, waterproof, and come with color-coded wiring and a convenient LED status light.<span> </span><strong>They do not require special wire or connectors to function.</strong><span> </span>Better yet, the system can coexist with conventional output modules, allowing hybrid functionality of both direct-wired valves and decoder operations in the same controller. This technology also permits easy conversion of a conventionally wired system to two-wire using the existing wiring bundle. It’s that easy! </p>
+<h4><span>KEY BENEFITS</span></h4>
+<ul>
+<li>
+<span style="font-size: 14px;">Number of stations: </span><span style="font-size: 14px;">Up to 54, plus a master valve</span>
+</li>
+<li><span style="font-size: 14px;">2 two-wire paths to the field for flexible system design and installation</span></li>
+<li><span style="font-size: 14px;">No special wire or connectors required</span></li>
+<li><span style="font-size: 14px;">No special grounding or surge arrestors required in-line, saves time and money during installation</span></li>
+<li><span style="font-size: 14px;">Programmable decoders with no need to input individual serial numbers</span></li>
+<li><span style="font-size: 14px;">P/MV can activate via the two-wire path for distant master valves</span></li>
+<li><span style="font-size: 14px;">Permits hybrid operations of side-by-side conventional and decoder stations (maximum 54 stations) for added flexibility</span></li>
+<li><span style="font-size: 14px;">EZ-1 decoders have built-in status LED for positive diagnostics</span></li>
+</ul>
+<br>
+<h3>OPERATING SPECIFICATIONS</h3>
+<ul>
+<li>Electrical output on two-wire path: 24 VAC, 50/60 Hz</li>
+<li>Wire paths possible over 3,000' (see wiring chart below)</li>
+<li>Each EZ-1 decoder has the capability to activate two standard 24 VAC solenoids</li>
+<li>Can operate any two decoders simultaneously for more efficient watering</li>
+<li>Approvals: UL, cUL, FCC, CE, RCM, Industry Canada</li>
+<li>EZ-1 decoders are IP68 rated, submersible</li>
+<li>Warranty period: 3 years</li>
+</ul>
+<h3>USER-INSTALLED OPTIONS</h3>
+<ul>
+<li>Centralus™ with ICC2</li>
+<li>Hydrawise® with HCC</li>
+<li>ICV or PGV valves</li>
+<li>Pump start relays (PSR)</li>
+</ul>
+<div class="horizontal-rule-title">
+<h2>ADVANCED FEATURES</h2>
+<hr>
+</div>
+<div class="field field-name-field-advanced-features field-type-node-reference field-label-hidden field-wrapper clearfix">
+<div class="field-items">
+<div class="field-item advanced-features-field-item clearfix even last">
+<article id="node-85136" class="node node-advanced-feature view-mode-full" about="/node/85136" typeof="sioc:Item foaf:Document">
+<h2 class="node-title"><a href="https://www.hunterindustries.com/node/85136">NO SPECIAL WIRE OR CONNECTORS REQUIRED</a></h2>
+<span property="dc:title" content="No Special Wire or Connectors Required" class="rdf-meta element-hidden"></span>
+<div class="image"><img typeof="foaf:Image" src="https://www.hunterindustries.com/sites/default/files/advanced_feature_ezds.jpg" alt=""></div>
+<div class="field field-name-field-advanced-feature-desc field-type-text-long field-label-hidden field-wrapper">
+<p>EZ Decoders are compatible with standard wire and connectors, making it cost-effective and simple to install.</p>
+<p>EZ Decoders have built-in status LED for postive diagnostics.</p>
+<table class="model-and-description table-model-description">
+<thead>
+<tr>
+<th class="model-column">American Wire Gauge</th>
+<th>Distance (Feet)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td class="model">18 AWG</td>
+<td><span class="description">908</span></td>
+</tr>
+<tr class="even">
+<td class="model">16 AWG</td>
+<td><span class="description">1,446</span></td>
+</tr>
+<tr class="odd">
+<td class="model">14 AWG</td>
+<td><span class="description">2,292</span></td>
+</tr>
+<tr class="even">
+<td class="model">12 AWG</td>
+<td><span class="description">3,650</span></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Note:</strong><br>Distances in the Wiring Table are calculated based on 60 Hz for American Wire Gauge, with wire temperature of 122°F, and a 10% safety factor.</p>
+<h4>Manuals &amp; Literature</h4>
+<ul>
+<li><a href="https://www.hunterindustries.com/sites/default/files/rc-101-ezdm-decoder-ig-us-web.pdf" target="_blank" rel="noopener noreferrer">EZ-DM Installation Guide</a></li>
+<li><a href="https://www.hunterindustries.com/sites/default/files/rc-101-br-ezds-us-web.pdf" target="_blank" rel="noopener noreferrer">EZDS Brochure</a></li>
+<li><a href="https://www.hunterindustries.com/sites/default/files/CA-Cutsheet-EZ-Decoder-System-US.pdf" target="_blank" rel="noopener noreferrer">EZDS Submittal Sheet</a></li>
+<li><a href="https://www.hunterindustries.com/sites/default/files/ezds_written_specifications.docx" target="_blank" rel="noopener noreferrer">EZDS Written Specifications</a></li>
+</ul>
+<p><iframe width="500" height="300" src="https://www.youtube.com/embed/IVL20y2mkFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+</div>
+</article>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705392296038</id>
+      <title>Default Title</title>
+      <s:price currency="USD">215.98</s:price>
+      <s:sku>EZ-DM</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705386561638</id>
+    <published>2020-03-31T10:04:13-04:00</published>
+    <updated>2020-03-31T10:04:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-ez-1-single-station-decoder-w-status-led"/>
+    <title>Hunter - EZ-1 - Single Station Decoder w/ Status LED</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/ez-1.jpg?v=1592940344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Bring two-wire technology to more projects than ever before with the revolutionary, low-cost, hassle-free EZ Decoder System for HCC and ICC2 controllers.</h4>
+<p><span>EZ Decoders are small, waterproof, and come with color-coded wiring and a convenient LED status light. </span><strong>They do not require special wire or connectors to function.</strong><span> Better yet, the system can coexist with conventional output modules, allowing hybrid functionality of both direct-wired valves and decoder operations in the same controller. This technology also permits easy conversion of a conventionally wired system to two-wire using the existing wiring bundle. It’s that easy! </span></p>
+<p><span>EZDS is compatible with all the features of our Hydrawise™-enabled HCC controller, as well as the ICC2 controller and its web-based Centralus™ management platform. Plug in the EZ-DM two-wire output module to enable up to 54 stations of irrigation, plus a master valve, on a single pair of wires. Then simply place EZ Decoders at each valve! </span></p>
+<h3>OPERATING SPECIFICATIONS</h3>
+<ul>
+<li>Electrical output on two-wire path: 24 VAC, 50/60 Hz</li>
+<li>Wire paths possible over 3,000' (see wiring chart below)</li>
+<li>Each EZ-1 decoder has the capability to activate two standard 24 VAC solenoids</li>
+<li>Can operate any two decoders simultaneously for more efficient watering</li>
+<li>Approvals: UL, cUL, FCC, CE, RCM, Industry Canada</li>
+<li>EZ-1 decoders are IP68 rated, submersible</li>
+<li>Warranty period: 3 years</li>
+</ul>
+<h3>USER-INSTALLED OPTIONS</h3>
+<ul>
+<li>Centralus™ with ICC2</li>
+<li>Hydrawise® with HCC</li>
+<li>ICV or PGV valves</li>
+<li>Pump start relays (PSR)</li>
+</ul>
+<div class="horizontal-rule-title">
+<h2>ADVANCED FEATURES</h2>
+<hr>
+</div>
+<div class="field field-name-field-advanced-features field-type-node-reference field-label-hidden field-wrapper clearfix">
+<div class="field-items">
+<div class="field-item advanced-features-field-item clearfix even last">
+<article id="node-85136" class="node node-advanced-feature view-mode-full" about="/node/85136" typeof="sioc:Item foaf:Document">
+<h2 class="node-title"><a href="https://www.hunterindustries.com/node/85136">NO SPECIAL WIRE OR CONNECTORS REQUIRED</a></h2>
+<span property="dc:title" content="No Special Wire or Connectors Required" class="rdf-meta element-hidden"></span>
+<div class="image"><img typeof="foaf:Image" src="https://www.hunterindustries.com/sites/default/files/advanced_feature_ezds.jpg" alt=""></div>
+<div class="field field-name-field-advanced-feature-desc field-type-text-long field-label-hidden field-wrapper">
+<p>EZ Decoders are compatible with standard wire and connectors, making it cost-effective and simple to install.</p>
+<p>EZ Decoders have built-in status LED for postive diagnostics.</p>
+<table class="model-and-description table-model-description">
+<thead>
+<tr>
+<th class="model-column">American Wire Gauge</th>
+<th>Distance (Feet)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td class="model">18 AWG</td>
+<td><span class="description">908</span></td>
+</tr>
+<tr class="even">
+<td class="model">16 AWG</td>
+<td><span class="description">1,446</span></td>
+</tr>
+<tr class="odd">
+<td class="model">14 AWG</td>
+<td><span class="description">2,292</span></td>
+</tr>
+<tr class="even">
+<td class="model">12 AWG</td>
+<td><span class="description">3,650</span></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Note:</strong><br>Distances in the Wiring Table are calculated based on 60 Hz for American Wire Gauge, with wire temperature of 122°F, and a 10% safety factor.</p>
+<h4>Manuals &amp; Literature</h4>
+<ul>
+<li><a href="https://www.hunterindustries.com/sites/default/files/rc-101-ig-ez1-us-web.pdf" target="_blank" rel="noopener noreferrer">EZ-1 Installation Guide</a></li>
+<li><a href="https://www.hunterindustries.com/sites/default/files/rc-101-br-ezds-us-web.pdf" target="_blank" rel="noopener noreferrer">EZDS Brochure</a></li>
+<li><a href="https://www.hunterindustries.com/sites/default/files/CA-Cutsheet-EZ-Decoder-System-US.pdf" target="_blank" rel="noopener noreferrer">EZDS Submittal Sheet</a></li>
+<li><a href="https://www.hunterindustries.com/sites/default/files/ezds_written_specifications.docx" target="_blank" rel="noopener noreferrer">EZDS Written Specifications</a></li>
+</ul>
+<p><iframe width="500" height="300" src="https://www.youtube.com/embed/xAl2HI6GqsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+</div>
+</article>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705386561638</id>
+      <title>Default Title</title>
+      <s:price currency="USD">56.99</s:price>
+      <s:sku>EZ-1</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4192762724454</id>
+    <published>2019-10-08T14:37:52-04:00</published>
+    <updated>2019-10-08T14:37:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/weathermatic-four-zone-decoder-sldec4"/>
+    <title>Weathermatic - Four-Zone Decoder - SLDEC4</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Weathermatic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/SLDEC_25b8fe5b-5ba7-456b-af82-300b5b379f8c.jpg?v=1571715674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weathermatic<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            289.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>DECODER FEATURES</strong>
+<p> </p>
+<ul>
+<li>4 valve decoder</li>
+<li>Decodes signals from Decoder Module to open and close valves</li>
+<li>Input voltage 24 “ 28VAC from 2-Wire path</li>
+<li>Shock resistant</li>
+<li>Surge protection</li>
+<li>Fully programmable for valve addresses using Decoder Module</li>
+<li>Freeze/heat resistant (-20° to 60°C)</li>
+<li>14 gauge PVC-coated connecting wires</li>
+<li>Sealed electrical components for protection from water and dirt</li>
+<li>Operates valves to a maximum of 100 (30m) from decoder</li>
+<li>Diagnoses and reports failed solenoids to the Decoder Module</li>
+<li>Auto shut-down if communication with Decoder Module is lost</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li>
+<strong></strong><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/SMARTWIRE_DECODER_WIRING_-_SLDEC4.pdf?11812912736972348718" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Smartwire 4-Zone Valve Decoder Wiring</span></a>
+</li>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/SmartWire_Owners_Manual.pdf?11812912736972348718" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">SmartWire Owners Manual</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Weathermatic</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4192762724454</id>
+      <title>Default Title</title>
+      <s:price currency="USD">289.98</s:price>
+      <s:sku>SLDEC4</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4192747978854</id>
+    <published>2019-10-08T14:31:46-04:00</published>
+    <updated>2019-10-08T14:31:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/weathermatic-two-zone-decoder-sldec2"/>
+    <title>Weathermatic - Two-Zone Decoder - SLDEC2</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Weathermatic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/SLDEC_0b81ac2b-d950-4f67-819e-233203b9ba74.jpg?v=1571715674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weathermatic<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            198.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>DECODER FEATURES</strong>
+<p> </p>
+<ul>
+<li>2 valve decoder</li>
+<li>Decodes signals from Decoder Module to open and close valves</li>
+<li>Input voltage 24 “ 28VAC from 2-Wire path</li>
+<li>Shock resistant</li>
+<li>Surge protection</li>
+<li>Fully programmable for valve addresses using Decoder Module</li>
+<li>Freeze/heat resistant (-20° to 60°C)</li>
+<li>14 gauge PVC-coated connecting wires</li>
+<li>Sealed electrical components for protection from water and dirt</li>
+<li>Operates valves to a maximum of 100 (30m) from decoder</li>
+<li>Diagnoses and reports failed solenoids to the Decoder Module</li>
+<li>Auto shut-down if communication with Decoder Module is lost</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li>
+<strong></strong><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/SMARTWIRE_DECODER_WIRING_-_SLDEC2.pdf?16250803831974633856" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Smartwire 2-Zone Valve Decoder Wiring</span></a>
+</li>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/SmartWire_Owners_Manual.pdf?11812912736972348718" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">SmartWire Owners Manual</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Weathermatic</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4192747978854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">198.99</s:price>
+      <s:sku>SLDEC2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4192747749478</id>
+    <published>2019-10-08T14:22:09-04:00</published>
+    <updated>2019-10-08T14:22:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/weathermatic-single-zone-decoder-sldec1"/>
+    <title>Weathermatic - Single-Zone Decoder - SLDEC1</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Weathermatic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/SLDEC.jpg?v=1571715674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weathermatic<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            119.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>DECODER FEATURES</strong>
+<p> </p>
+<ul>
+<li>1 valve decoder</li>
+<li>Decodes signals from Decoder Module to open and close valves</li>
+<li>Input voltage 24 “ 28VAC from 2-Wire path</li>
+<li>Shock resistant</li>
+<li>Surge protection</li>
+<li>Fully programmable for valve addresses using Decoder Module</li>
+<li>Freeze/heat resistant (-20° to 60°C)</li>
+<li>14 gauge PVC-coated connecting wires</li>
+<li>Sealed electrical components for protection from water and dirt</li>
+<li>Operates valves to a maximum of 100 (30m) from decoder</li>
+<li>Diagnoses and reports failed solenoids to the Decoder Module</li>
+<li>Auto shut-down if communication with Decoder Module is lost</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li>
+<strong></strong><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/SMARTWIRE_DECODER_WIRING_-_SLDEC1.pdf?1071236050759624408" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Smartwire 1-Zone Valve Decoder Wiring</span></a>
+</li>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/SmartWire_Owners_Manual.pdf?11812912736972348718" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">SmartWire Owners Manual</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Weathermatic</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4192747749478</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.98</s:price>
+      <s:sku>SLDEC1</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4192669958246</id>
+    <published>2019-10-08T13:38:42-04:00</published>
+    <updated>2019-10-08T13:38:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/weathermatic-lightning-arrestor-slgdt"/>
+    <title>Weathermatic - Lightning Arrestor - SLGDT</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Weathermatic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/SLGDT-2_2000x_2bb9cfe3-6fa1-4032-9e95-0ed4f925b305.jpg?v=1571715674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weathermatic<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            78.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>SmartWire is the industrys first simple to install 2-wire system. It requires no training and is cost effective for commercial jobs 16 zone and higher. SmartWire provides a reduction in material (copper wire) and labor costs; simplicity of wiring, programming and troubleshooting; and ease of system expansion when adding zones. True two-way communication provides specific diagnostics, so you dont have to spend hours searching for a problem.</span></p>
+<ul>
+<li>SmartWire Lightning Arrestor</li>
+<li>Connects to 2-wire systems</li>
+<li>Shock Resistant</li>
+<li>Protects a 300 Foot Radius</li>
+<li>Can only be connected to SmartWire Systems</li>
+</ul>
+<h3>Downloads</h3>
+<ul>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/SmartWire_SLGDT_Installation_Guide.pdf?11812912736972348718" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">SmartWire SLGDT Installation Guide</span></a></li>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/SmartWire_Owners_Manual.pdf?11812912736972348718" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">SmartWire Owners Manual</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Weathermatic</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4192669958246</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.88</s:price>
+      <s:sku>SLGDT</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4180561887334</id>
+    <published>2019-10-04T10:53:21-04:00</published>
+    <updated>2019-10-04T10:53:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-dual48m-48-station-i-core-dual-output-decoder-module"/>
+    <title>Hunter - DUAL48M - 48-Station I-Core DUAL Decoder Output Module</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/DUAL48M_1-1_2000x_1069eb64-c514-4ef6-82d1-70fcc9f292c8.jpg?v=1592940881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            294.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>DUAL decoder output module. Plug-in module converts any I-CORE<br>controller to 2-wire decoder system (up to 48 stations maximum)</span></p>
+<p><span>The DUAL48M decoder output module is designed for use in all Hunter I-CORE series controllers and provides two-wire decoder outputs for the Hunter DUAL family of field decoders. Dual decoders must be programmed with station numbers before they can operate. They can be programmed from the DUAL48M module itself, before installation, or at any time with the ICD-HP wireless handheld programmer.</span></p>
+<ul>
+<li><span>48-Station Decoder Output Module</span></li>
+<li><span>For use with I-Core DUAL Controller</span></li>
+</ul>
+<h3><span><strong>Downloads</strong></span></h3>
+<ul>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-533_reva_om_dual_web.pdf?4762295325672106755" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Dual Decoder Owners Manual</span></a></li>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/Decoder_Worksheet.pdf?4762295325672106755" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Decoder Worksheet</span></a></li>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/OM_ICORE_Dom.pdf?4762295325672106755" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">I-Core Owners Manual </span></a></li>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/installation_guide_dual_lit-662.pdf?4762295325672106755" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Dual Installation Guide</span></a></li>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/installation_guide_dual-s_lit-662.pdf?4762295325672106755" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Dual-S Installation Guide</span></a></li>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/BR_Dual_dom.pdf?4762295325672106755" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Dual Brochure</span></a></li>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/DG_DecoderDesignGuide_dom.pdf?4762295325672106755" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Decoder Design Guide</span></a></li>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/BR_ICDHP_dom.pdf?4762295325672106755" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">ICD-HP Brochure</span></a></li>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/CA-Cutsheets-Dual-US.pdf?4762295325672106755" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Dual Product Cutsheet</span></a></li>
+<li><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/CA-Cutsheets-ICore-US.pdf?4762295325672106755" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">I-Core Product Cutsheet﻿</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4180561887334</id>
+      <title>Default Title</title>
+      <s:price currency="USD">294.94</s:price>
+      <s:sku>DUAL48M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/3951925690470</id>
+    <published>2019-08-28T15:04:08-04:00</published>
+    <updated>2019-08-28T15:04:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-dual-2-2-station-decoder"/>
+    <title>Hunter - Dual-2 - 2 Station Decoder</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/hunter-core-dual-3_2.jpg?v=1592938569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            157.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>2-Station Decoder</strong><br>
+<ul>
+<li>For use with I-Core DUAL Controller</li>
+</ul>
+<p><strong>Dual Model Specifications</strong></p>
+<ul>
+<li>Decoder station size: 2</li>
+<li>Dual-S external surge protectors (add in-line every 12th decoder or 1000 ft/300 m, minimum)</li>
+<li>Max. distance to decoder
+<ul>
+<li>14 AWG wire path; 5,000 ft.</li>
+<li>12 AWG wire path; 7,500 ft.</li>
+</ul>
+</li>
+<li>Max recommended distance, decoder to solenoid: 100 ft.</li>
+<li>Field programmable:</li>
+<li>
+<ul>
+<li>Dual decoder module display and push button programming makes it easy to program decoders at the controller itself</li>
+<li>Dual decoders can also be field programmed with the Hunter ICD-HP. No need to remove decoders from the two-wire path</li>
+</ul>
+</li>
+<li>Decoder module displays decoder operation and diagnostic information including current draw in milliamps</li>
+<li>Can operate up to 48 stations of combined decoder and conventional control making system retrofit easy</li>
+<li>Waterproof connectors for connection to two-wire path supplied with all Dual decoders and Dual-S surge protection</li>
+<li>Number of two-wire paths: 3</li>
+</ul>
+<p><strong>Dual Specifications</strong></p>
+<ul>
+<li>Max. recommended distance, decoder to solenoid: 100 ft.</li>
+<li>Max. distance to decoder
+<ul>
+<li>14 AWG wire path: 5,000 ft.</li>
+<li>12 AWG wire path: 7,500 ft.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Approvals</strong></p>
+<ul>
+<li>CE, UL, C-UL, C-tick, FCC</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<p><a href="https://www.hunterindustries.com/sites/default/files/installation_guide_dual_lit-662.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Dual Installation Guide</span></a></p>
+<p><a href="https://www.hunterindustries.com/sites/default/files/lit-533_reva_om_dual_web.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Dual Decoder Owners Manual</span></a></p>
+<p><a href="https://www.hunterindustries.com/sites/default/files/Decoder_Worksheet.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Decoder Worksheet</span></a></p>
+<p><iframe width="493" height="346" src="https://www.youtube.com/embed/LMBKL366UJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/3951925690470</id>
+      <title>Default Title</title>
+      <s:price currency="USD">157.95</s:price>
+      <s:sku>DUAL2</s:sku>
+      <s:grams>238</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452721500260</id>
+    <published>2019-01-19T00:49:24-05:00</published>
+    <updated>2019-01-19T00:49:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-sd210turf-fd-series-sensor-decoder-signal-line-analog-digital"/>
+    <title>Rain Bird - SD210TURF - FD Series Sensor Decoder - Signal Line, Analog/Digital</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1993__56220.1516141904.1280.1280.jpg?v=1571715653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            581.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="std">SD-210 Sensor Decoder provides surge protection for each sensor installed on the 2-Wire path.</div>
+<div class="std">
+<ul>
+<li><span>flow sensing and weather sensor support</span></li>
+<li><span>Sensor decoder interfacing signal line and analog or digital decoders.</span></li>
+</ul>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0167/3543/6900/files/Capture_480x480.png?v=1581622509" alt=""></span></p>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/4273" target="_blank" rel="noopener noreferrer">ESP-LXD 2-Wire Decoder System Design Guide</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/8666" target="_blank" rel="noopener noreferrer">ESP-LXD Flow Sensor Installation Guide</a></strong></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sensors</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452721500260</id>
+      <title>Default Title</title>
+      <s:price currency="USD">581.00</s:price>
+      <s:sku>SD210TURF</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452692533348</id>
+    <published>2019-01-19T00:47:32-05:00</published>
+    <updated>2019-01-19T00:47:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-lsp1turf-line-surge-protection"/>
+    <title>Rain Bird - LSP1TURF - Line Surge Protection</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12276__71606.1516141908.1280.1280_806645a3-6b7b-450e-8c4f-2b86d978e25a.jpg?v=1571715652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            98.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Line surge protector for use with Rain Bird 2-wire decoder systems</p>
+<ul>
+<li>Required every 500 feet along a 2-wire path</li>
+<li>Not necessary with FD-401TURF or FD-601TURF which include built-in surge protection</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Valves</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452692533348</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.99</s:price>
+      <s:sku>LSP1TURF</s:sku>
+      <s:grams>201</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452684570724</id>
+    <published>2019-01-19T00:46:58-05:00</published>
+    <updated>2019-01-19T00:46:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-fd601turf-fd-series-2-wire-decoder-signal-line-6-individual-valves"/>
+    <title>Rain Bird - FD601TURF - FD Series 2-Wire Decoder - Signal Line, 6 Individual Valves</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12269__71193.1516141908.1280.1280_1f7eb3de-d54b-4108-ab82-03047402e1ee.jpg?v=1571715651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            598.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Operates up to 6 individual automatic irrigation valves</p>
+<h2>Specs</h2>
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<ul>
+<li>
+<strong>Mounting:<span> </span></strong>In valve box (recommended) or direct burial</li>
+<li>
+<strong>Power Draw:</strong>
+<ul>
+<li><span>FD-601TURF: 1 mA (idle) 18 mA (per active solenoid)</span></li>
+</ul>
+</li>
+<li>
+<strong>Dimensions:</strong>
+<ul>
+<li><span>FD-601TURF: Length: 3.94 in. (100 mm), Diameter: 2.56 in. (65 mm)</span></li>
+</ul>
+</li>
+<li>
+<strong>Solenoids:</strong>
+<ul>
+<li><span>FD-601TURF: 1 to 6 with individual control</span></li>
+</ul>
+</li>
+<li>
+<strong>Wires:</strong>
+<ul>
+<li><span>FD-601TURF: Blue to cable, color-coded to solenoids</span></li>
+</ul>
+</li>
+</ul>
+</div>
+<ul>
+<li>Address pre-coded from the factory (no switches)</li>
+<li>Easy, cost-effective installation, expansion and upgrade for Rain Bird ESP-LXD and/or SiteControl two-wire decoder systems</li>
+<li>Installed out of sight and protected from the elements and vandalism</li>
+<li>Enables advanced diagnostics and sensor features</li>
+<li>Use with Rain Bird DB Series Wire Connectors for the most reliable, water-tight connections </li>
+</ul>
+<div class="sku">
+<p>Rain Bird Field Decoders provide easy, cost-effective installation and expansion for SiteControl Decoder or ESP-LXD Decoder Central Control Systems. Decoders are installed out of sight to help protect them from the elements and vandalism.</p>
+<p>A technology long-since proven on golf courses around the world, Rain Bird decoders provide "best-in-class" field control on centrally controlled 2-wire irrigation systems. Installed underground and featuring simple, low-cost wiring, decoders are an aesthetically pleasing, full-featured, economical option for reliable in-field control.</p>
+<p>A simple wiring configuration and absence of protective enclosures keeps installation and maintenance costs low. Rain Bird decoders are a "true lower than 30 volt system that utilize a two-wire path of 14-gauge wire connecting the central control system, decoders and valves or valve-in-head sprinklers. </p>
+<p>With all electronic components fully sealed within a water-tight enclosure and buried underground, damage from floods, frost, rodents or vandals is virtually eliminated. Rain Bird decoders are an especially good choice for flood plains.</p>
+</div>
+<div class="clearer">
+<strong>Downloads</strong><br>
+</div>
+<div class="clearer">
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/2488" target="_blank" rel="noopener noreferrer">Rain Bird Decoder Technical Reference Sheet</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4272" target="_blank" rel="noopener noreferrer">ESP-LXD 2-Wire Decoder System Installation and Troubleshooting Guide</a></strong></li>
+</ul>
+</div>
+<div class="sku"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sensors</s:tag>
+    <s:tag>CATEGORY_Valves</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Valve Repair Parts &amp; Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452684570724</id>
+      <title>Default Title</title>
+      <s:price currency="USD">598.88</s:price>
+      <s:sku>FD601TURF</s:sku>
+      <s:grams>493</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452684505188</id>
+    <published>2019-01-19T00:46:57-05:00</published>
+    <updated>2019-01-19T00:46:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-fd401turf-fd-series-2-wire-decoder-signal-line-4-individual-valves"/>
+    <title>Rain Bird - FD401TURF - FD Series 2-Wire Decoder - Signal Line, 4 Individual Valves</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12268__54237.1516141908.1280.1280_c453977f-40d5-49e3-9368-074e3e1c7b14.jpg?v=1571715651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            371.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Operates up to 4 individual automatic irrigation valves</p>
+<h2>Specs</h2>
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<ul>
+<li>
+<strong>Mounting:<span> </span></strong>In valve box (recommended) or direct burial</li>
+<li>
+<strong>Power Draw:</strong>
+<ul>
+<li><span>FD-401TURF: 1 mA (idle) 18 mA (per active solenoid)</span></li>
+</ul>
+</li>
+<li>
+<strong>Dimensions:</strong>
+<ul>
+<li><span>FD-401TURF: Length: 3.94 in. (100 mm), Diameter: 2.56 in. (65 mm)</span></li>
+</ul>
+</li>
+<li>
+<strong>Solenoids:</strong>
+<ul>
+<li><span>FD-401TURF: 1 to 4 with individual control</span></li>
+</ul>
+</li>
+<li>
+<strong>Wires:</strong>
+<ul>
+<li><span>FD-401TURF: Blue to cable, color-coded to solenoids</span></li>
+</ul>
+</li>
+</ul>
+</div>
+<ul>
+<li>Address pre-coded from the factory (no switches)</li>
+<li>Easy, cost-effective installation, expansion and upgrade for Rain Bird ESP-LXD and/or SiteControl two-wire decoder systems</li>
+<li>Installed out of sight and protected from the elements and vandalism</li>
+<li>Enables advanced diagnostics and sensor features</li>
+<li>Use with Rain Bird DB Series Wire Connectors for the most reliable, water-tight connections </li>
+</ul>
+<div class="sku">
+<p>Rain Bird Field Decoders provide easy, cost-effective installation and expansion for SiteControl Decoder or ESP-LXD Decoder Central Control Systems. Decoders are installed out of sight to help protect them from the elements and vandalism.</p>
+<p>A technology long-since proven on golf courses around the world, Rain Bird decoders provide "best-in-class" field control on centrally controlled 2-wire irrigation systems. Installed underground and featuring simple, low-cost wiring, decoders are an aesthetically pleasing, full-featured, economical option for reliable in-field control.</p>
+<p>A simple wiring configuration and absence of protective enclosures keeps installation and maintenance costs low. Rain Bird decoders are a "true lower than 30 volt system that utilize a two-wire path of 14-gauge wire connecting the central control system, decoders and valves or valve-in-head sprinklers. </p>
+<p>With all electronic components fully sealed within a water-tight enclosure and buried underground, damage from floods, frost, rodents or vandals is virtually eliminated. Rain Bird decoders are an especially good choice for flood plains.</p>
+</div>
+<div class="clearer">
+<strong>Downloads</strong><br>
+</div>
+<div class="clearer">
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/2488" target="_blank" rel="noopener noreferrer">Rain Bird Decoder Technical Reference Sheet</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4272" target="_blank" rel="noopener noreferrer">ESP-LXD 2-Wire Decoder System Installation and Troubleshooting Guide</a></strong></li>
+</ul>
+</div>
+<div class="clearer">
+<ul>
+<li>
+<div class="clearer">
+<ul></ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="sku"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sensors</s:tag>
+    <s:tag>CATEGORY_Valves</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Valve Repair Parts &amp; Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452684505188</id>
+      <title>Default Title</title>
+      <s:price currency="USD">371.99</s:price>
+      <s:sku>FD401TURF</s:sku>
+      <s:grams>502</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452684308580</id>
+    <published>2019-01-19T00:46:56-05:00</published>
+    <updated>2019-01-19T00:46:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-fd202turf-fd-series-2-wire-decoder-signal-line-2-valves-or-2-pairs-of-valves"/>
+    <title>Rain Bird - FD202TURF - FD Series 2-Wire Decoder - Signal Line, 2 Valves or 2 Pairs of Valves</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12267__07440.1516141908.1280.1280_684fee0d-bd31-4166-9c5f-90b79e043ca8.jpg?v=1571715651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            272.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Operates 2 individual valves or 2 pairs of automatic irrigation valves</p>
+<h2>Specs</h2>
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<ul>
+<li>
+<strong>Mounting:<span> </span></strong>In valve box (recommended) or direct burial</li>
+<li>
+<strong>Power Draw:</strong>
+<ul>
+<li><span>FD-202TURF: 1 mA (idle) 18 mA (per active solenoid)</span></li>
+</ul>
+</li>
+<li>
+<strong>Dimensions:</strong>
+<ul>
+<li><span>FD-202TURF: Length: 3.35 in. (85 mm), Diameter: 1.97 in. (50 mm)</span></li>
+</ul>
+</li>
+<li>
+<strong>Solenoids:</strong>
+<ul>
+<li>FD-202TURF: 1 to 4 simultaneously</li>
+</ul>
+</li>
+<li>
+<strong>Wires:</strong>
+<ul>
+<li>FD-202TURF: Blue to cable, white and brown to solenoids</li>
+</ul>
+</li>
+</ul>
+</div>
+<ul>
+<li>Address pre-coded from the factory (no switches)</li>
+<li>Easy, cost-effective installation, expansion and upgrade for Rain Bird ESP-LXD and/or SiteControl two-wire decoder systems</li>
+<li>Installed out of sight and protected from the elements and vandalism</li>
+<li>Enables advanced diagnostics and sensor features</li>
+<li>Use with Rain Bird DB Series Wire Connectors for the most reliable, water-tight connections </li>
+</ul>
+<div class="sku">
+<p>Rain Bird Field Decoders provide easy, cost-effective installation and expansion for SiteControl Decoder or ESP-LXD Decoder Central Control Systems. Decoders are installed out of sight to help protect them from the elements and vandalism.</p>
+<p>A technology long-since proven on golf courses around the world, Rain Bird decoders provide "best-in-class" field control on centrally controlled 2-wire irrigation systems. Installed underground and featuring simple, low-cost wiring, decoders are an aesthetically pleasing, full-featured, economical option for reliable in-field control.</p>
+<p>A simple wiring configuration and absence of protective enclosures keeps installation and maintenance costs low. Rain Bird decoders are a "true lower than 30 volt system that utilize a two-wire path of 14-gauge wire connecting the central control system, decoders and valves or valve-in-head sprinklers. </p>
+<p>With all electronic components fully sealed within a water-tight enclosure and buried underground, damage from floods, frost, rodents or vandals is virtually eliminated. Rain Bird decoders are an especially good choice for flood plains.</p>
+</div>
+<div class="clearer">
+<strong>Downloads</strong><br>
+</div>
+<div class="clearer">
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/2488" target="_blank" rel="noopener noreferrer">Rain Bird Decoder Technical Reference Sheet</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4272" target="_blank" rel="noopener noreferrer">ESP-LXD 2-Wire Decoder System Installation and Troubleshooting Guide</a></strong></li>
+</ul>
+</div>
+<div class="sku"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sensors</s:tag>
+    <s:tag>CATEGORY_Valves</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Valve Repair Parts &amp; Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452684308580</id>
+      <title>Default Title</title>
+      <s:price currency="USD">272.99</s:price>
+      <s:sku>FD202TURF</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452684046436</id>
+    <published>2019-01-19T00:46:56-05:00</published>
+    <updated>2019-01-19T00:46:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-fd102turf-fd-series-2-wire-decoder-signal-line-1-pair-of-valves"/>
+    <title>Rain Bird - FD102TURF - FD Series 2-Wire Decoder - Signal Line, 1 Pair of Valves</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12266__36247.1516141908.1280.1280_8f42c1b7-8f6f-4d33-9ca3-e2b50124c69d.jpg?v=1571715651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Operates a pair of automatic irrigation valves</p>
+<h2>Specs</h2>
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<ul>
+<li>
+<strong>Mounting:<span> </span></strong>In valve box (recommended) or direct burial</li>
+<li>
+<strong>Power Draw:</strong>
+<ul>
+<li><span>FD-102TURF: 0.5 mA (idle) 18 mA (per active solenoid)</span></li>
+</ul>
+</li>
+<li>
+<strong>Dimensions:</strong>
+<ul>
+<li><span>FD-102TURF: Length: 3.35 in. (85 mm), Diameter: 1.77 in. (45 mm)</span></li>
+</ul>
+</li>
+<li>
+<strong>Solenoids:</strong>
+<ul>
+<li><span>FD-102TURF: 1 or 2 simultaneously</span></li>
+</ul>
+</li>
+<li>
+<strong>Wires:</strong>
+<ul>
+<li>FD-102TURF: Blue to cable, white to solenoid</li>
+</ul>
+</li>
+</ul>
+</div>
+<ul>
+<li>Address pre-coded from the factory (no switches)</li>
+<li>Easy, cost-effective installation, expansion and upgrade for Rain Bird ESP-LXD and/or SiteControl two-wire decoder systems</li>
+<li>Installed out of sight and protected from the elements and vandalism</li>
+<li>Enables advanced diagnostics and sensor features</li>
+<li>Use with Rain Bird DB Series Wire Connectors for the most reliable, water-tight connections </li>
+</ul>
+<div class="sku">
+<p>Rain Bird Field Decoders provide easy, cost-effective installation and expansion for SiteControl Decoder or ESP-LXD Decoder Central Control Systems. Decoders are installed out of sight to help protect them from the elements and vandalism.</p>
+<p>A technology long-since proven on golf courses around the world, Rain Bird decoders provide "best-in-class" field control on centrally controlled 2-wire irrigation systems. Installed underground and featuring simple, low-cost wiring, decoders are an aesthetically pleasing, full-featured, economical option for reliable in-field control.</p>
+<p>A simple wiring configuration and absence of protective enclosures keeps installation and maintenance costs low. Rain Bird decoders are a "true lower than 30 volt system that utilize a two-wire path of 14-gauge wire connecting the central control system, decoders and valves or valve-in-head sprinklers. </p>
+<p>With all electronic components fully sealed within a water-tight enclosure and buried underground, damage from floods, frost, rodents or vandals is virtually eliminated. Rain Bird decoders are an especially good choice for flood plains.</p>
+</div>
+<div class="clearer">
+<strong>Downloads</strong><br>
+</div>
+<div class="clearer">
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/2488" target="_blank" rel="noopener noreferrer">Rain Bird Decoder Technical Reference Sheet</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4272" target="_blank" rel="noopener noreferrer">ESP-LXD 2-Wire Decoder System Installation and Troubleshooting Guide</a></strong></li>
+</ul>
+</div>
+<div class="sku"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sensors</s:tag>
+    <s:tag>CATEGORY_Valves</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Valve Repair Parts &amp; Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452684046436</id>
+      <title>Default Title</title>
+      <s:price currency="USD">179.99</s:price>
+      <s:sku>FD102TURF</s:sku>
+      <s:grams>193</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452683849828</id>
+    <published>2019-01-19T00:46:55-05:00</published>
+    <updated>2019-01-19T00:46:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-fd101turf-fd-series-field-decoder-signal-line-individual-valve"/>
+    <title>Rain Bird - FD101TURF - FD Series Field Decoder - Signal Line, Individual Valve</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-644__65782.1516141898.1280.1280_1fb6993d-9809-402a-907d-7c8093501a25.jpg?v=1571715651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            134.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Operates one automatic irrigation valve</p>
+<h2>Specs</h2>
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<ul>
+<li>
+<strong>Mounting:<span> </span></strong>In valve box (recommended) or direct burial</li>
+<li>
+<strong>Power Draw:</strong>
+<ul>
+<li>FD-101TURF: 0.5 mA (idle) 18 mA (per active solenoid)</li>
+</ul>
+</li>
+<li>
+<strong>Dimensions:</strong>
+<ul>
+<li>FD-101TURF: Length: 2.77 in. (70 mm), Diameter: 1.5 in. (40 mm)</li>
+</ul>
+</li>
+<li>
+<strong>Solenoids:</strong>
+<ul>
+<li>FD-101TURF: 1 with individual control</li>
+</ul>
+</li>
+<li>
+<strong>Wires:</strong>
+<ul>
+<li>FD-101TURF: Blue to cable, white to solenoid</li>
+</ul>
+</li>
+</ul>
+</div>
+<ul>
+<li>Fully waterproof; mount inside a valve box or direct burial</li>
+<li>Address pre-coded from the factory (no switches)</li>
+<li>Easy, cost-effective installation, expansion and upgrade for Rain Bird ESP-LXD and/or SiteControl two-wire decoder systems</li>
+<li>Installed out of sight and protected from the elements and vandalism</li>
+<li>Enables advanced diagnostics and sensor features</li>
+<li>Use with Rain Bird DB Series Wire Connectors for the most reliable, water-tight connections </li>
+</ul>
+<div class="sku">
+<p>Rain Bird Field Decoders provide easy, cost-effective installation and expansion for SiteControl Decoder or ESP-LXD Decoder Central Control Systems. Decoders are installed out of sight to help protect them from the elements and vandalism.</p>
+<p>A technology long-since proven on golf courses around the world, Rain Bird decoders provide "best-in-class" field control on centrally controlled 2-wire irrigation systems. Installed underground and featuring simple, low-cost wiring, decoders are an aesthetically pleasing, full-featured, economical option for reliable in-field control.</p>
+<p>A simple wiring configuration and absence of protective enclosures keeps installation and maintenance costs low. Rain Bird decoders are a "true lower than 30 volt system that utilize a two-wire path of 14-gauge wire connecting the central control system, decoders and valves or valve-in-head sprinklers. </p>
+<p>With all electronic components fully sealed within a water-tight enclosure and buried underground, damage from floods, frost, rodents or vandals is virtually eliminated. Rain Bird decoders are an especially good choice for flood plains.</p>
+</div>
+<div class="clearer">
+<strong>Downloads</strong><br>
+</div>
+<div class="clearer">
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/2488" target="_blank" rel="noopener noreferrer">Rain Bird Decoder Technical Reference Sheet</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4272" target="_blank" rel="noopener noreferrer">ESP-LXD 2-Wire Decoder System Installation and Troubleshooting Guide</a></strong></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sensors</s:tag>
+    <s:tag>CATEGORY_Valves</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Valve Repair Parts &amp; Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452683849828</id>
+      <title>Default Title</title>
+      <s:price currency="USD">134.95</s:price>
+      <s:sku>FD101TURF</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452302659684</id>
+    <published>2019-01-19T00:23:47-05:00</published>
+    <updated>2019-01-19T00:23:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-icd600-6-station-decoder"/>
+    <title>Hunter - ICD600 - 6 Station Decoder</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-icd_and_dual_decoders_4_of_8__35935.1516302957.1280.1280.jpg?v=1571715617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            289.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="font-family: arial, verdana, sans-serif; font-size: 12px;">6-station  decoder</span></li>
+<li><span style="font-family: arial, verdana, sans-serif; font-size: 12px;">With surge suppression and ground wire</span></li>
+<li><span style="font-family: arial, verdana, sans-serif; font-size: 12px;">For use with any ACC Decoder Controller</span></li>
+</ul>
+<ul></ul>
+<h4></h4>
+<p><span>Hunters next-generation ACC2 Decoder controller provides powerful irrigation management and monitoring capabilities for complex commercial projects. The ACC2 Decoder controller is specifically designed to manage Hunter ICD decoders on large projects and is expandable to 225 stations. The controller offers extreme flexibility, with 32 independent programs, 10 start times, and a variety of overlapping, stacking, and management configurations.</span></p>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-qg-en-acc2-decoder-web.pdf?2395986608385036871" target="_blank" title="ICD600 ACC2 DECODER QUICK START GUIDE" rel="noopener noreferrer">ACC2 Decoder Quick Start Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-ig-acc2decoder-web.pdf?4064296961451689032" target="_blank" title="ICD600 INSTALLATION GUIDE" rel="noopener noreferrer">ACC2 Decoder Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-ig-acc2decoder-module-us-web.pdf?2634152426544660163" target="_blank" title="ICD600 MODULE INSTALLATION GUIDE" rel="noopener noreferrer">ACC2 Decoder Module Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-004-ig-acc2-pcu-us-web.pdf?11260184140418346726" target="_blank" title="ICD600 PCU BOARD INSTALLATION GUIDE" rel="noopener noreferrer">ACC2 PCU Board Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-acc2-decoderdoorcard-press.pdf?15731234932525518119" target="_blank" title="ICD600 DOOR CARD" rel="noopener noreferrer">Door Card</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/acc2-strong-box-assembly-instructions-final.pdf?6278732883242116626" target="_blank" title="ICD600 STRONGBOX ASSEMBLY INSTRUCTIONS" rel="noopener noreferrer">ACC2 Strongbox Assembly Instructions</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-acc2decoder-ss-us.pdf?10447893890587442215" target="_blank" title="ICD600 SUBMITTAL SHEET" rel="noopener noreferrer">ACC2 Decoder Submittal Sheet</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-br-acc2-decoder-en-web.pdf?13846692636141023726" target="_blank" title="ICD600 BROCHURE" rel="noopener noreferrer">Brochure</a></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452302659684</id>
+      <title>Default Title</title>
+      <s:price currency="USD">289.99</s:price>
+      <s:sku>ICD600</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452302364772</id>
+    <published>2019-01-19T00:23:46-05:00</published>
+    <updated>2019-01-19T00:23:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-icd200-2-station-decoder"/>
+    <title>Hunter - ICD200 - 2 Station Decoder</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-icd_and_dual_decoders_6_of_8__36810.1516302955.1280.1280.jpg?v=1571715617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            199.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; box-sizing: border-box; color: #000000; font-family: arial,verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; margin-bottom: 7.5px; margin-top: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<li style="box-sizing: border-box;">2-station  decoder</li>
+<li style="box-sizing: border-box;">With surge suppression and ground wire</li>
+<li style="box-sizing: border-box;">For use with any ACC Decoder Controller</li>
+</ul>
+<p><span>Hunters next-generation ACC2 Decoder controller provides powerful irrigation management and monitoring capabilities for complex commercial projects. The ACC2 Decoder controller is specifically designed to manage Hunter ICD decoders on large projects and is expandable to 225 stations. The controller offers extreme flexibility, with 32 independent programs, 10 start times, and a variety of overlapping, stacking, and management configurations.</span></p>
+<h3><strong>Downloads</strong></h3>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-qg-en-acc2-decoder-web.pdf?13846692636141023726" target="_blank" title="ICD200 QUICK START GUIDE" rel="noopener noreferrer">ACC2 Decoder Quick Start Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-ig-acc2decoder-web.pdf?13846692636141023726" target="_blank" title="ICD200 INSTALLATION GUIDE" rel="noopener noreferrer">ACC2 Decoder Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-ig-acc2decoder-module-us-web.pdf?13846692636141023726" target="_blank" title="ICD200 MODULE INSTALLATION GUIDE" rel="noopener noreferrer">ACC2 Decoder Module Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-004-ig-acc2-pcu-us-web.pdf?13846692636141023726" target="_blank" title="ICD200 PCU BOARD INSTALLATION GUIDE" rel="noopener noreferrer">ACC2 PCU Board Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-acc2-decoderdoorcard-press.pdf?13846692636141023726" target="_blank" title="ICD200 DOOR CARD" rel="noopener noreferrer">Door Card</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/acc2-strong-box-assembly-instructions-final.pdf?13846692636141023726" target="_blank" title="ICD200 STRONGBOX ASSEMBLY INSTRUCTIONS" rel="noopener noreferrer">ACC2 Strongbox Assembly Instructions</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-acc2decoder-ss-us.pdf?13846692636141023726" target="_blank" title="ICD200 SUBMITTAL SHEET" rel="noopener noreferrer">ACC2 Decoder Submittal Sheet</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-br-acc2-decoder-en-web.pdf?13846692636141023726" target="_blank" title="ICD200 BROCHURE" rel="noopener noreferrer">Brochure</a></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452302364772</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.98</s:price>
+      <s:sku>ICD200</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452302135396</id>
+    <published>2019-01-19T00:23:45-05:00</published>
+    <updated>2019-01-19T00:23:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-icd100-single-station-decoder"/>
+    <title>Hunter - ICD100 - Single Station Decoder</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-icd_and_dual_decoders_7_of_8__41021.1516302956.1280.1280.jpg?v=1571715617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            130.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Single-station decoder</li>
+<li>With surge suppression and ground wire</li>
+<li>For use with any ACC Decoder Controller</li>
+</ul>
+<p><span>Hunters next-generation ACC2 Decoder controller provides powerful irrigation management and monitoring capabilities for complex commercial projects. The ACC2 Decoder controller is specifically designed to manage Hunter ICD decoders on large projects and is expandable to 225 stations. The controller offers extreme flexibility, with 32 independent programs, 10 start times, and a variety of overlapping, stacking, and management configurations.</span></p>
+<h3><strong>Downloads</strong></h3>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-qg-en-acc2-decoder-web.pdf?13846692636141023726" target="_blank" title="ICD100 QUICK START GUIDE" rel="noopener noreferrer">ACC2 Decoder Quick Start Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-ig-acc2decoder-web.pdf?13846692636141023726" target="_blank" title="ICD100 INSTALLATION GUIDE" rel="noopener noreferrer">ACC2 Decoder Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-ig-acc2decoder-module-us-web.pdf?13846692636141023726" target="_blank" title="ICD100 MODULE INSTALLATION GUIDE" rel="noopener noreferrer">ACC2 Decoder Module Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-004-ig-acc2-pcu-us-web.pdf?13846692636141023726" target="_blank" title="ICD100 PCU BOARD INSTALLATION GUIDE" rel="noopener noreferrer">ACC2 PCU Board Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-acc2-decoderdoorcard-press.pdf?13846692636141023726" target="_blank" title="ICD100 DOOR CARD" rel="noopener noreferrer">Door Card</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/acc2-strong-box-assembly-instructions-final.pdf?13846692636141023726" target="_blank" title="ICD100 STRONGBOX ASSEMBLY INSTRUCTIONS" rel="noopener noreferrer">ACC2 Strongbox Assembly Instructions</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-acc2decoder-ss-us.pdf?13846692636141023726" target="_blank" title="ICD100 SUBMITTAL SHEET" rel="noopener noreferrer">ACC2 Decoder Submittal Sheet</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-035-br-acc2-decoder-en-web.pdf?13846692636141023726" target="_blank" title="ICD100 BROCHURE" rel="noopener noreferrer">Brochure</a></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452302135396</id>
+      <title>Default Title</title>
+      <s:price currency="USD">130.95</s:price>
+      <s:sku>ICD100</s:sku>
+      <s:grams>252</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452298334308</id>
+    <published>2019-01-19T00:23:31-05:00</published>
+    <updated>2019-01-19T00:23:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-dual-s-surge-suppression-module"/>
+    <title>Hunter - Dual-S - Surge Suppression Module</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1115__11902.1516369665.1280.1280.jpg?v=1571715617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            65.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span style="font-size: 12px;"><strong><span style="font-family: arial, verdana, sans-serif;">Surge Suppression Module</span></strong></span></h3>
+<ul style="background-color: transparent; box-sizing: border-box; color: #000000; font-family: arial,verdana,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; margin-bottom: 7.5px; margin-top: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<li><span style="font-family: arial, verdana, sans-serif; font-size: 12px;">For use with I-Core DUAL Controller</span></li>
+</ul>
+<ul></ul>
+<p><strong>Dual Model Specifications</strong></p>
+<ul>
+<li>Dual-S external surge protectors (add in-line every 12th decoder or 1000 ft/300 m, minimum)</li>
+<li>Max. distance to decoder
+<ul>
+<li>14 AWG wire path; 5,000 ft.</li>
+<li>12 AWG wire path; 7,500 ft.</li>
+</ul>
+</li>
+<li>Max recommended distance, decoder to solenoid: 100 ft.</li>
+<li>Field programmable:</li>
+<li>
+<ul>
+<li>Dual decoder module display and push button programming makes it easy to program decoders at the controller itself</li>
+<li>Dual decoders can also be field programmed with the Hunter ICD-HP. No need to remove decoders from the two-wire path</li>
+</ul>
+</li>
+<li>Decoder module displays decoder operation and diagnostic information including current draw in milliamps</li>
+<li>Can operate up to 48 stations of combined decoder and conventional control making system retrofit easy</li>
+<li>Waterproof connectors for connection to two-wire path supplied with all Dual decoders and Dual-S surge protection</li>
+<li>Number of two-wire paths: 3</li>
+</ul>
+<p><strong>Dual Specifications</strong></p>
+<ul>
+<li>Max. recommended distance, decoder to solenoid: 100 ft.</li>
+<li>Max. distance to decoder
+<ul>
+<li>14 AWG wire path: 5,000 ft.</li>
+<li>12 AWG wire path: 7,500 ft.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Approvals</strong></p>
+<ul>
+<li>CE, UL, C-UL, C-tick, FCC</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<p><a href="https://www.hunterindustries.com/sites/default/files/installation_guide_dual-s_lit-662.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Dual-S Installation Guide</span></a></p>
+<p><a href="https://www.hunterindustries.com/sites/default/files/lit-533_reva_om_dual_web.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Dual Decoder Owners Manual</span></a></p>
+<p><a href="https://www.hunterindustries.com/sites/default/files/Decoder_Worksheet.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Decoder Worksheet</span></a></p>
+<p><iframe width="493" height="346" src="https://www.youtube.com/embed/LMBKL366UJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> </p>
+ 
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452298334308</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.80</s:price>
+      <s:sku>DualS</s:sku>
+      <s:grams>374</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452297875556</id>
+    <published>2019-01-19T00:23:31-05:00</published>
+    <updated>2019-01-19T00:23:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-dual-1-single-station-decoder"/>
+    <title>Hunter - Dual-1 - Single Station Decoder</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1114__27966.1516369611.1280.1280.jpg?v=1571715617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>1-Station Decoder</strong><br>
+<ul>
+<li>For use with I-Core DUAL Controller</li>
+</ul>
+<p><strong>Dual Model Specifications</strong></p>
+<ul>
+<li>Decoder station size: 1</li>
+<li>Dual-S external surge protectors (add in-line every 12th decoder or 1000 ft/300 m, minimum)</li>
+<li>Max. distance to decoder
+<ul>
+<li>14 AWG wire path; 5,000 ft.</li>
+<li>12 AWG wire path; 7,500 ft.</li>
+</ul>
+</li>
+<li>Max recommended distance, decoder to solenoid: 100 ft.</li>
+<li>Field programmable:</li>
+<li>
+<ul>
+<li>Dual decoder module display and push button programming makes it easy to program decoders at the controller itself</li>
+<li>Dual decoders can also be field programmed with the Hunter ICD-HP. No need to remove decoders from the two-wire path</li>
+</ul>
+</li>
+<li>Decoder module displays decoder operation and diagnostic information including current draw in milliamps</li>
+<li>Can operate up to 48 stations of combined decoder and conventional control making system retrofit easy</li>
+<li>Waterproof connectors for connection to two-wire path supplied with all Dual decoders and Dual-S surge protection</li>
+<li>Number of two-wire paths: 3</li>
+</ul>
+<p><strong>Dual Specifications</strong></p>
+<ul>
+<li>Max. recommended distance, decoder to solenoid: 100 ft.</li>
+<li>Max. distance to decoder
+<ul>
+<li>14 AWG wire path: 5,000 ft.</li>
+<li>12 AWG wire path: 7,500 ft.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Approvals</strong></p>
+<ul>
+<li>CE, UL, C-UL, C-tick, FCC</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<p><a href="https://www.hunterindustries.com/sites/default/files/installation_guide_dual_lit-662.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Dual Installation Guide</span></a></p>
+<p><a href="https://www.hunterindustries.com/sites/default/files/lit-533_reva_om_dual_web.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Dual Decoder Owners Manual</span></a></p>
+<p><a href="https://www.hunterindustries.com/sites/default/files/Decoder_Worksheet.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Decoder Worksheet</span></a></p>
+<p><iframe width="493" height="346" src="https://www.youtube.com/embed/LMBKL366UJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452297875556</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>Dual1</s:sku>
+      <s:grams>238</s:grams>
+    </s:variant>
+  </entry>
+</feed>

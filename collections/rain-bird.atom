@@ -1,0 +1,2073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/rain-bird.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2021-03-26T14:53:31-04:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/6551839047782</id>
+    <published>2021-03-26T14:53:31-04:00</published>
+    <updated>2021-03-26T14:53:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-lxivout-2-wire-output-field-device"/>
+    <title>Rain Bird - LXIVMOUT - 2-Wire Output Field Device</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/ivm-out.jpg?v=1616784754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            139.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-content-type="heading" data-appearance="default" data-element="main" data-mce-fragment="1">Rain Bird LX IVM-OUT 2W Output Device</h2>
+<div data-content-type="text" data-appearance="default" data-element="main" data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Used to control third-party valves with DC latching solenoids</li>
+<li data-mce-fragment="1">Can be used after replacing AC latching solenoids with DC latching solenoids</li>
+<li data-mce-fragment="1">Max combined wire length between IVM-OUT and the solenoid is 48 inches</li>
+</ul>
+<h3 data-mce-fragment="1">Features &amp; Benefits</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Field Devices are installed along the 2-Wire path to interface with valves and other hardware.</li>
+<li data-mce-fragment="1">Interfaces with LX-IVM to control station valves and master valves</li>
+<li data-mce-fragment="1">Rain Bird WC20 connectors (included with IVMSOL; sold separately) to be used for all splices</li>
+</ul>
+<p data-mce-fragment="1">This product can be used in conjunction with the ESP-LXIVM Series Controllers and its respective ESP-LXIVM 2-Wire Field Devices. These devices (sold separately) include the:</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">IVM-SOL: Control station or master valves</li>
+<li data-mce-fragment="1">IVM-OUT: Interfaces with LX-IVM to manage 3rd party valves and external gear such as pump stations</li>
+<li data-mce-fragment="1">IVM-SEN: Interfaces with LX-IVM to control weather sensors or flow sensors</li>
+<li data-mce-fragment="1">IVM-SD: provides surge protection on the 2-Wire path</li>
+</ul>
+<h3 data-mce-fragment="1">Product Details</h3>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">IVM-OUT 2-Wire control devices can be used to control valves with DC latching solenoids.</strong></p>
+<ol data-mce-fragment="1">
+<li data-mce-fragment="1">Connect the red and black wires on the IVMOUT to the 2-Wire Path.</li>
+<li data-mce-fragment="1">Connect the red/white striped wire on the IVM-OUT to the DC latching solenoid red wire.</li>
+<li data-mce-fragment="1">Connect the black/white striped wire on the IVM-OUT to the DC latching solenoid black wire.</li>
+<li data-mce-fragment="1">For future troubleshooting or modifications, it is recommended to leave an additional 3 feet (1 meter) of 2-Wire cable stored in each valve box location</li>
+</ol>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Note:</strong> Make sure that the DC latching solenoid is compatible with non Rain Bird valves. Contact the valve manufacturer for more information.</p>
+<p data-mce-fragment="1">Maximum combined wire length between IVMOUT and its load (e.g. Solenoid) shall be 48 in. This includes pre-installed IVM-OUT wire (24 in.) and solenoid wires (22 in.). Use only WC20 splice kits for all wiring connections to the 2-Wire Path. Improper wiring can cause serious damage to your controller or irrigation system.</p>
+<p data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/files/PSR220-IVM_1_480x480.jpg?v=1616784655"></p>
+<h4>Manuals &amp; Literature</h4>
+<ul>
+<li><a href="https://www.rainbird.com/sites/default/files/media/documents/2020-02/LX-IVM_Field_Install_Guide_0.pdf" target="_blank"><span>Field Device Installation Guide</span></a></li>
+<li><a href="https://www.rainbird.com/sites/default/files/media/documents/2020-02/LX-IVM_Sell_Sheet_1.pdf" target="_blank"><span>LXIVM Sell Sheet</span></a></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/6551839047782</id>
+      <title>Default Title</title>
+      <s:price currency="USD">139.98</s:price>
+      <s:sku>LXIVMOUT</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5019585151078</id>
+    <published>2021-02-05T12:15:00-05:00</published>
+    <updated>2021-02-05T12:15:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-5004-plfc-4-5000-plus-series-full-circle-rotor"/>
+    <title>Rain Bird - 5004+FC - 4&apos;&apos; 5000 Plus Series Full Circle Rotor</title>
+    <s:type>Rotors</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1035__19274.1516141898.1280.1280_61c25828-29ae-4558-aa94-2f1ab9cf4c5c.jpg?v=1612545221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Rotors<br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 in. 5000 Series Full-Circle Pattern Pop-up Rotor with Flow Shut-Off</p>
+<ul>
+<li>Flow Shut Off:</li>
+<ul>
+<li>Turn the rotor on/off at the head for easier maintenance.</li>
+<li>Flush zone and nozzle the rotor without going back and forth to a valve or controller.</li>
+<li>Troubleshoot for leaks by turning off all the heads in that zone.</li>
+</ul>
+<li>Radius: 25' to 70'</li>
+<li>Heavy-duty cover assembly for extra durability</li>
+<li>Rain Curtain Nozzles</li>
+<li>Slip clutch mechanism for quick adjustment on installation</li>
+<li>Heavy-duty retract spring assures positive pop-down</li>
+<li>360° full circle arc rotation</li>
+<li>Radius adjustment screw allows up to 25% radius reduction without changing nozzles</li>
+<li>Pressure-activated multi-function wiper seal protects internals from debris and assures positive pop-up and retraction</li>
+<li>Reinforced flow path for additional side load strength</li>
+<li>Additional O-rings and seals for extra protection in "gritty" water</li>
+<li>1 Nozzle Tree per Rotor. Free ROTORTOOL with purchase of 20+.</li>
+</ul>
+<div class="sku">
+<div class="field field--name-field-tagline field--type-text field--label-hidden field__item">
+<h4>Engineered to be the Industrys Most Reliable and Best Performing Rotor</h4>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">
+<p>Offering unmatched performance from 25 to 50, Rain Bird 5000 series rotors are ideal for residential, light commercial and commercial applications. By combining the industrys only Triple-Blade Wiper Seal with unrivaled Rain Curtain„¢ nozzles, 5000 series rotors give you even coverage and enduring reliability that the best contractors demand. </p>
+<h2>Features</h2>
+<div class="field field--name-field-features-full field--type-text-long field--label-hidden field__item">
+<h3>Rain Curtain Nozzle Technology</h3>
+<ul>
+<li>Rain Curtain Nozzles standard on all 5000 Series Rotors
+<ul>
+<li>Large water droplets for greater wind resistance</li>
+<li>Effective close-in watering</li>
+<li>Even distribution over the entire radius</li>
+</ul>
+</li>
+<li>Tree of nozzles including four low angle (angle of trajectory 10°) and eight standard angle Rain Curtain Nozzles (angle of trajectory 25°) provides 25 to 50 (7.6m to 15.2m) distance of throw</li>
+<li>Self-aligning nozzles</li>
+</ul>
+<h3>Installation and Maintenance</h3>
+<ul>
+<li>Slip clutch mechanism for quick adjustment on installation</li>
+<li>Faster maintenance with a new self-cleaning arc adjustment screw</li>
+<li>Top-adjust arc adjustment requiring only a flathead screwdriver</li>
+<li>Radius adjustment screw allows up to 25% radius reduction without changing nozzles</li>
+</ul>
+<h3>Durability</h3>
+<ul>
+<li>Heavy-duty cover assembly for extra durability in residential or commercial applications</li>
+<li>Heavy-duty retract spring assures positive pop-down</li>
+<li>Pressure-activated triple-blade multi-function wiper seal protects internals from debris and assures positive pop-up and retraction</li>
+<li>Additional O-rings and seals for extra protection in "gritty" water</li>
+</ul>
+<h2>Specs</h2>
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<p><strong>Operating Range</strong></p>
+<ul>
+<li>Precipitation rate: 0.20 to 1.5 in/hr (5 to 37 mm/hr)</li>
+<li>Radius: 25 to 50 feet (7,6 to 15,2 m)</li>
+<li>Radius may be reduced up to 25% with radius reduction screw</li>
+<li>Pressure: 25-65 psi (1,7 to 4,5 bar)</li>
+<li>Flow Rate: 0.73 to 9.63 gpm (4,2 to 36,6 l/m)</li>
+</ul>
+<p><strong>Specifications</strong></p>
+<ul>
+<li>3/4" NPT female bottom threaded inlet</li>
+<li>Reversing full circle adjustment 360°</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/4009" target="_blank">5000 Series Rotor Sell Sheet</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4635" target="_blank">5000 Series Rotors Tech Spec</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4013" target="_blank">5000 Series Rotor Brochure</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4118" target="_blank">Rotors Brochure</a></strong></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clearer"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Model_5000+</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5019585151078</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.40</s:price>
+      <s:sku>5004+FC</s:sku>
+      <s:grams>303</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4988576890982</id>
+    <published>2020-12-15T11:13:22-05:00</published>
+    <updated>2020-12-15T11:13:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-1800xc"/>
+    <title>Rain Bird - 1800XC - Xerigation Spray Head Cap</title>
+    <s:type>Spray Heads</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/1800xc.jpg?v=1608048673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Spray Heads<br>
+        <strong>Price: </strong>
+            2.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Primary application is for residential installation. The Xerigation Solid Cap is used to retrofit a spray head system to a Xerigation® system by capping off any unused spray heads.</span></p>
+<ul>
+<li>Fits Rain Bird 1800 Series spray bodies</li>
+<li>Also fits Hunter PRO Sprays</li>
+<li>Operating range (pressure): up to 70 psi (4.8 bar)</li>
+<li>Dimensions: Width: 2 1/4 in. (5.7 cm)</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sprinklers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Spray Heads</s:tag>
+    <s:tag>PRODUCT TYPE_Sprinkler Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4988576890982</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.45</s:price>
+      <s:sku>1800XC</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4985182552166</id>
+    <published>2020-12-09T13:46:24-05:00</published>
+    <updated>2020-12-09T13:46:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-lxivmsd-2-wire-surge-protection-device"/>
+    <title>Rain Bird - LXIVMSD - 2-Wire Surge Protection Device</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/lxivmsd.jpg?v=1607539342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            74.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span>IVM-SD provides surge protection on the 2-Wire path (One every 500ft or 15 field devices)</span></div>
+<ul data-mce-fragment="1">
+<li>Revolutionary 2-Wire Design with Integrated Valve Module (IVM)</li>
+<li>IVM-SD provides surge protection on the 2-Wire path</li>
+<li>Field Devices are installed along the 2-Wire path to interface with valves and other hardware.</li>
+</ul>
+<p>Manuals &amp; Literature</p>
+<ul>
+<li><a href="https://www.rainbird.com/sites/default/files/media/documents/2020-02/LX-IVM_Field_Install_Guide_0.pdf" target="_blank"><span style="text-decoration: underline;">Field Device Installation Guide</span></a></li>
+<li><a href="https://www.rainbird.com/sites/default/files/media/documents/2020-02/LX-IVM_Sell_Sheet_1.pdf" target="_blank"><span style="text-decoration: underline;">LXIVM Sell Sheet</span></a></li>
+<li><a href="https://www.rainbird.com/sites/default/files/media/documents/2020-07/d41895_08jl20_lx-ivm_grounding_and_surge_protection_en_200710_03.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">ESP-LXIVM Surge Protection &amp; Grounding</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4985182552166</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.98</s:price>
+      <s:sku>LXIVMSD</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4985007276134</id>
+    <published>2020-12-09T13:35:01-05:00</published>
+    <updated>2020-12-09T13:35:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-lxivmsol-2-wire-field-device-solenoid"/>
+    <title>Rain Bird - LXIVMSOL - 2-Wire Field Device Solenoid</title>
+    <s:type>Decoders</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/lxivmsol.jpg?v=1607538599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Decoders<br>
+        <strong>Price: </strong>
+            114.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Rain Bird's new ESP-LXIVM 2-Wire System has many powerful and flexible features, starting with the revolutionary new Integrated Valve Module (IVM). This “smart solenoid” stays in constant communication with the controller, providing efficient irrigation and advanced diagnostics. Only half the number of wire splices are needed, improving installation costs and reliability.</div>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Rain Bird WC20 connectors (included with IVMSOL) to be used for all splices</li>
+<li data-mce-fragment="1">Field Devices are installed along the 2-Wire path to interface with valves and other hardware.</li>
+<li data-mce-fragment="1">Interfaces with LX-IVM to control station valves and master valves</li>
+<li data-mce-fragment="1">Revolutionary 2-Wire Design with Integrated Valve Module (IVM)</li>
+</ul>
+<p>Manuals &amp; Literature</p>
+<ul>
+<li><a href="https://www.rainbird.com/sites/default/files/media/documents/2020-02/LX-IVM_Field_Install_Guide_0.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Field Device Installation Guide</span></a></li>
+<li><a href="https://www.rainbird.com/sites/default/files/media/documents/2020-02/LX-IVM_Sell_Sheet_1.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">LXIVM Sell Sheet</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4985007276134</id>
+      <title>Default Title</title>
+      <s:price currency="USD">114.95</s:price>
+      <s:sku>LXIVMSOL</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4983438213222</id>
+    <published>2020-12-08T10:42:05-05:00</published>
+    <updated>2020-12-08T10:42:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-esp-lxivm-two-wire-controller-w-smart-valve-technology"/>
+    <title>Rain Bird - ESP-LXIVM - 2-Wire Controller w/ Smart Valve Technology</title>
+    <s:type>Controllers</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/lx-ivm_front-109_1.png?v=1607439394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Controllers<br>
+        <strong>Price: </strong>
+            959.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="field field--name-field-tagline field--type-text field--label-hidden field__item">
+<p>Rain Bird's most advanced irrigation controller offers fast and error-free installation, world-class diagnostics, and an updated version of the Industry’s favorite programming interface</p>
+</div>
+<div class="product-social-links"><br></div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">
+<p>Rain Bird’s newest 2-Wire Controller has many powerful new features like the Integrated Valve Module that stays in constant communication with the controller to provide efficient irrigation and advanced diagnostics. The ESP-LXIVM supports up to 60 stations standard or 240 stations with LX-IVM Pro. Up to four 2-Wire paths can be connected, plus flow sensing and advanced flow management tools that set new industry standards for state-of-the art water management.</p>
+<div id="tab_features">
+<h2>Features</h2>
+<div class="field field--name-field-features-full field--type-text-long field--label-hidden field__item">
+<ul>
+<li>60-station capability standard</li>
+<li>Four available sensor inputs (one wired plus up to three on 2-Wire path) with override switch. </li>
+<li>Five flow sensors supported (LX-IVM)</li>
+<li>Supported Field devices: IVM-SOL, IVM-OUT and IVM Smart Valves</li>
+<li>Supports IVM-SEN sensor devices (flow sensing and weather sensor support) and IVM-SD surge devices (one per 500 feet of two-wire path or every 15 devices required)</li>
+<li>Central Control capable with Rain Bird IQ Communications Cartridges and software</li>
+<li>Six user-selectable languages</li>
+<li>10 independent programs (LX-IVM)</li>
+<li>Removable front panel is programmable under battery power</li>
+<li>Compatible with Rain Bird Landscape Irrigation and Maintenance and Third Party Remotes</li>
+<li>Plastic, locking, UV resistant, wall-mount case, Optional Metal and Stainless Steel Case &amp; Pedestal</li>
+</ul>
+<h3>Water Management Features:</h3>
+<ul>
+<li>Learn Flow utility and flow usage totalizer help optimize water usage</li>
+<li>FloWatch™ protection for high and low flow conditions set by the user FloManager™ manages hydraulic demand, make full use of available water to turn on as many stations as possible without exceeding water supply and reducing the total time to complete irrigation cycles</li>
+<li>SimulStations™ allows stations to operate at the same time; up to 8 with LX-IVM</li>
+<li>Cycle+Soak™ by station</li>
+<li>Rain Delay up to 30 days</li>
+<li>365-Day Calendar Day Off (up to 5 days)</li>
+<li>Station Delay by program</li>
+<li>Normally Open or Normally Closed Master Valves programmable by station; up to 5 with LX-IVM.</li>
+<li>Optional Weather Sensors are programmable by station to prevent or pause watering; up to 4 with LX-IVM.</li>
+<li>Seasonal Adjust by Program or by Month</li>
+</ul>
+</div>
+</div>
+<div id="tab_specs">
+<h2>Specs</h2>
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<ul>
+<li>Station timing: 0 min to 96 hrs</li>
+<li>Program level and global Monthly Seasonal Adjust; 0% to 300% (96 hrs maximum station run time)</li>
+<li>8 start times per program</li>
+<li>Program Day Cycles include Custom days of the week, Odd, Odd no 31st, Even, and Cyclical dates</li>
+<li>Manual station, program, test program</li>
+</ul>
+<h3>Diagnostic Features:</h3>
+<ul>
+<li>
+<strong>2-Wire Mapping</strong>: Maps the devices to corresponding wire paths in the controller to help quickly find and resolve issues</li>
+<li>
+<strong>Self-Healing</strong>: Automatically detect “fixes” to wire path and splice issues and re-start irrigation without reliance on manual intervention</li>
+<li>
+<strong>Two- Way Communication</strong>: with Intelligent Valve Modules (IVM) communication happens both ways enabling key features</li>
+<li>
+<strong>Self-Shutoff</strong>: Once loss of power is detected, automatically shutoff valve to avoid leaks</li>
+<li>Alarm light with external case lens</li>
+<li>2-Wire diagnostics to simplify and expedite troubleshooting</li>
+<li>Four isolated wire paths prevent full system failure under a single short</li>
+<li>Trending 12-month electrical history reports and proactive action</li>
+</ul>
+<h3>Certifications:</h3>
+<ul>
+<li>cULus, CE, IPX4</li>
+</ul>
+<h3>Environmental:</h3>
+<ul>
+<li>
+<strong>Operating temperature range</strong>: 14ºF to 149ºF (-10ºC to 65ºC)</li>
+<li>
+<strong>Operating humidity range</strong>: 95% max at 40ºF to 120ºF (4ºC to 49ºC) in a non-condensing environment</li>
+<li>
+<strong>Storage temperature range</strong>: -40ºF to 150ºF (-40ºC to 66ºC)</li>
+<li>
+<strong>Optional Upgrade:</strong> IQ-NCC Network Communication Cartridge</li>
+<li>
+<strong>Optional Upgrade: </strong>LXIVM Pro Panels (for regular 60 station controllers)</li>
+</ul>
+<h3>Electrical Specifications:</h3>
+<ul>
+<li>
+<strong>Power Supply Voltage:</strong> 120 VAC ± 10%, 60Hz</li>
+<li>
+<strong>Power back-up</strong>: Lithium coin-cell battery maintains time and date while nonvolatile memory maintains the schedule</li>
+<li>Simultaneous operation of up to eight (IVM) Stations plus any corresponding master valves</li>
+</ul>
+<h2>Dimensions</h2>
+<ul>
+<li>14.32”W x 12.69”H x 5.50”D (36.4 x 32.2 x 14.0 cm)</li>
+</ul>
+</div>
+</div>
+<div id="tab_models">
+<div class="field field--name-field-model-comparison-chart field--type-text-long field--label-hidden field__item">
+<ul></ul>
+<h3>Accessories:</h3>
+<ul>
+<li>
+<strong>IQ-NCC</strong>: Network Communication Cartridge for ESP-LX Series Controllers</li>
+<li>
+<strong>PSR110-IVM</strong>: 110V Pump Start Relay</li>
+<li>
+<strong>PSR220-IVM</strong>: 220VPump Start Relay</li>
+</ul>
+<h3>IVM Field Devices:</h3>
+<ul>
+<li>
+<a href="https://cheapsprinklers.com/products/rain-bird-lxivmsol-2-wire-field-device-solenoid?_pos=3&amp;_sid=5ecc156cd&amp;_ss=r"> <strong>LXIVMSOL</strong></a>: DC latching solenoid that Interfaces with LX-IVM to control station valves and master valves (PEB, PESB, PGA, EFB-BP and BESP Valves)</li>
+<li>
+<strong>LXIVMOUT</strong>: Interfaces with LX-IVM to manage 3rd party valves and external gear such as pump stations</li>
+<li>
+<strong>LXIVMSEN</strong>: Interfaces with LX-IVM to control weather sensors or flow sensors</li>
+<li>
+<a href="https://cheapsprinklers.com/products/rain-bird-lxivmsd-2-wire-surge-protection-device?_pos=2&amp;_sid=5ecc156cd&amp;_ss=r"> <strong>LXIVMSD</strong></a>: IVM-SD provides surge protection on the 2-Wire path (One every 500ft or 15 field devices)</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong><br></p>
+<ul>
+<li><a href="https://www.rainbird.com/media/10256" target="_blank"><span style="text-decoration: underline;">LXIVM Specifications</span></a></li>
+<li><a href="https://www.rainbird.com/media/10264" target="_blank"><span style="text-decoration: underline;">LXIVM Sell Sheet</span></a></li>
+<li><a href="https://www.rainbird.com/media/10272" target="_blank"><span style="text-decoration: underline;">LXIVM User Manual</span></a></li>
+<li><a href="https://www.rainbird.com/media/10278" target="_blank"><span style="text-decoration: underline;">LXIVM Quick Reference Guide</span></a></li>
+<li><a href="https://www.rainbird.com/media/10285" target="_blank"><span style="text-decoration: underline;">LXIVM Programming Chart</span></a></li>
+<li><a href="https://www.rainbird.com/media/10284" target="_blank"><span style="text-decoration: underline;">LXIVM Troubleshooting Guide</span></a></li>
+<li><a href="https://www.rainbird.com/media/10311" target="_blank"><span style="text-decoration: underline;">LX-IVM Field Installation Guide</span></a></li>
+<li><a href="https://www.rainbird.com/media/10715" target="_blank"><span style="text-decoration: underline;">LXIVM Surge Protection and Grounding</span></a></li>
+</ul>
+<p><a href="https://www.rainbird.com/products/esp-lxivm-two-wire-controller-smart-valve-technology" target="_blank">For Product Videos Click Here</a></p>
+</div>
+</div>
+</div>
+<div class="product-certification-images row">
+<div class="cert-image col-md-4 col-sm-6 col-xs-12">
+<article>
+<div class="field field--name-field-image field--type-image field--label-hidden field__item"></div>
+</article>
+</div>
+<div class="cert-image col-md-4 col-sm-6 col-xs-12">
+<article></article>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4983438213222</id>
+      <title>Default Title</title>
+      <s:price currency="USD">959.99</s:price>
+      <s:sku>ESPLXIVM</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4908726222950</id>
+    <published>2020-08-20T15:53:20-04:00</published>
+    <updated>2020-08-20T15:53:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-8qflt-8-mpr-quarter-circle-flat-spray-pattern-nozzle-90-degree"/>
+    <title>Rain Bird - 8QFLT - 8&apos; MPR Quarter-Circle Flat Spray Pattern Nozzle (90 Degree)</title>
+    <s:type>Spray Nozzles</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2200__48297.1516141914.1280.1280_9a8b9066-bdba-4e49-8839-63115fa7f1ed.jpg?v=1597953110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Spray Nozzles<br>
+        <strong>Price: </strong>
+            0.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8 ft. Quarter circle pattern MPR nozzle</p>
+<ul>
+<li>1800 Series white filter (.035" x .035") screens (shipped with nozzles) maintain precise radius adjustment and prevent clogging</li>
+<li>Stainless steel adjustment screw to adjust flow and radius</li>
+<li>Fits all Rain Bird sprinklers and shrub adapters </li>
+</ul>
+<div class="sku"></div>
+<div class="sku">
+<p>Trusted for decades, Rain Bird® MPR Nozzles are installed by more contractors than all other brands combined. MPR Nozzles simplify the design process by allowing sprinklers with various arcs and radii to be mixed on the same circuit while maintaining even water distribution rates. They fit all Rain Bird spray heads and shrub adapters.</p>
+<p><strong>Sort Quicker, Install Faster, Check Easier!</strong></p>
+<p>Rain Bird MPR Spray nozzles are color-coded on the top to enhance your productivity.</p>
+<ul>
+<li>Quickly identify radius and arc with Top Color-coded nozzles.</li>
+<li>Top Color-coding makes it easy to verify proper nozzle installation, even when system is not operating.</li>
+</ul>
+<p>Now its easier to sort, easier to organize, and easier to install with Top Color-coded nozzles.</p>
+<p><strong>Model Comparison</strong></p>
+<p><img src="https://www.rainbird.com/sites/default/files/inline-images/image_33.png" alt="image"></p>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/4082" target="_blank" rel="noopener noreferrer">5000 Series MPR Nozzles Brochure</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4174" target="_blank" rel="noopener noreferrer">MPR Spray Nozzles Performance Charts</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4133" target="_blank" rel="noopener noreferrer">Interactive Sprays Specification Guide</a></strong></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sprinkler Nozzles</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Fixed Spray</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4908726222950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>8QFLT</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705828470886</id>
+    <published>2020-08-11T14:38:40-04:00</published>
+    <updated>2020-08-11T14:38:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-1812prs-12-1800-series-prs-spray-head-no-nozzle"/>
+    <title>Rain Bird - 1812PRS - 12&apos;&apos; 1800 Series PRS Spray Head - No Nozzle</title>
+    <s:type>Spray Heads</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/542.jpg?v=1592940745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Spray Heads<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12 in. 1800-series pop-up sprinkler with Rain Bird® Flow Optimizer Technology</p>
+<ul>
+<li>12 in. 1800-series pop-up sprinkler with Rain Bird® Flow Optimizer„¢ Technology</li>
+<li>Patented PRS pressure regulator built into the stem</li>
+<li>No parts to be installed at the site</li>
+<li>Saves time and money</li>
+<li>Maintains constant outlet pressure at 30psi (2.1 bar)</li>
+<li>Ensures maximum nozzle performance, even with varying inlet pressures</li>
+<li>Maintains constant pressure regardless of nozzles used</li>
+</ul>
+<div class="sku">
+<p>When the pressures on, save water and money with Rain Bird® 1800® Series Sprays featuring PRS with Flow Optimizer„¢ technology. These Spray Heads are ideal for use in areas with high and/or widely fluctuating water pressures. The patented PRS pressure regulator built into the stem can help you save approximately one gallon per minute per spray. It also helps to end misting and fogging caused by excessively high water pressure.</p>
+<p>Trusted for over 30 years, 1800 Series Spray Heads have provided unmatched durability, reliability, and performance. Superior components and features make the 1800 Series Spray Head the spray head of choice for a wide variety of applications.</p>
+<h3>Additional features:</h3>
+<ul>
+<li>Unlike competitive PRS sprays, Rain Bird PRS sprays adjust to fluctuating pressure, optimizing flow and promoting a more consistent spray pattern.</li>
+<li>Restricts water loss by up to 70% if nozzle is removed or damaged. Reduces possibility of accidents and property damage. Recommended for vandal-prone areas.</li>
+<li>Ensures consistent performance throughout zone if nozzle is removed or damaged. Keeps plant life covered by other spray heads properly irrigated.</li>
+<li>Ends misting and fogging caused by high pressure. Stops water waste. Ensures necessary watering occurs in high pressure or wind conditions.</li>
+<li>Co-molded, pressure-activated, multi-functional wiper seal assures positive seal without excess œflow-by� which enables more heads to be installed on the same valve.</li>
+<li>All sprinkler components are removable from the top without special tools, providing for quick and easy flushing and maintenance of the sprinkler.</li>
+<li>Constructed of time-proven UV-resistant plastic and corrosion resistant stainless steel parts, assuring long product life. Designed for use with all Rain Bird spray head nozzles.</li>
+<li>Designed for use with all Rain Bird plastic spray head nozzles.</li>
+<li>œPRS� stamped on cap for easy identification and maintenance.</li>
+</ul>
+<h3>Specifications</h3>
+<ul>
+<li>
+<p style="display: inline !important;">Spacing: 2.5 to 24 feet (0.8 to 7.3 m)</p>
+</li>
+<li>Pressure: 15 to 70 psi (1 to 5 bar)</li>
+<li>Regulates nozzle pressure to an average 30 psi (2.1 bar) with inlet pressures of up to 70 psi (4.8 bar)</li>
+<li>Flow-by: 0 at 8 psi (0.6 bar) or greater; 0.1 gpm (0.02 m3/h; 0.006 l/s) otherwise</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/4006" target="_blank" rel="noopener noreferrer">1800 Series Spray Heads Brochure</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4632" target="_blank" rel="noopener noreferrer">1800 Series Spray Heads Tech Spec</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/1882" target="_blank" rel="noopener noreferrer">Spray Head Adjustment Instructions and Troubleshooting Guide</a></strong></li>
+</ul>
+<p> <br></p>
+</div>
+<div class="sku">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sprinklers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Spray Heads</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705828470886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>1812PRS</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452687650916</id>
+    <published>2020-08-11T14:38:32-04:00</published>
+    <updated>2020-08-11T14:38:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-he-van-10-high-efficiency-variable-arc-nozzle-8-to-10-ft"/>
+    <title>Rain Bird - HE-VAN-10 -  8&apos; to 10&apos; High Efficiency Variable Arc Nozzle</title>
+    <s:type>Spray Nozzles</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1214__93993.1516141899.1280.1280_67c1ec46-17be-46ee-aee8-0ff92507e89d.jpg?v=1571715651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Spray Nozzles<br>
+        <strong>Price: </strong>
+            1.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8-10 ft. high efficiency variable arc sprinkler nozzle</p>
+<ul>
+<li>Use with green very fine mesh filter screen, 0.010 in x 0.013 in (included) to prevent clogging</li>
+<li>Patent pending Flow Control Technology delivers superior close-in watering and uniform coverage across the entire spray pattern</li>
+<li>Rain Bird HE-VAN Nozzles achieve greater than a 70% average DU<sub>LQ - </sub>more than a 40% improvement over existing variable arc nozzles</li>
+<li>Meet tight watering windows with ease</li>
+<li>When compared with competitive nozzles, HE-VANs dramatically reduce zone run times</li>
+<li>In addition to water savings, you will conserve energy and reduce system wear and tear</li>
+<li>With full adjustability from 0<span>°</span> to 360<span>°</span>, youll be able to efficiently water landscapes of all shapes</li>
+<li>Matched precipitation rates allow you to install Rain Bird® HE-VAN, MPR and U-Series Nozzles on the same zone</li>
+</ul>
+<div class="sku">
+<p>Rain Bird HE-VAN nozzles offer even coverage throughout the spray pattern, delivering a healthy, beautiful landscape. Gentle close‘in watering eliminates dry spots around the spray head. HE-VAN nozzles also generate large wind-resistant water droplets that prevent misting and airborne evaporation, so the right amount of water is delivered to the right place.</p>
+<p>The high efficiency of the HE-VAN nozzle allows you to shorten your sprinkler run times by up to 35%, saving you water and money. Even coverage makes them the perfect choice for homeowners looking to conserve water while maintaining a healthy beautiful landscape.</p>
+<p> <strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/4068" target="_blank" rel="noopener noreferrer">HE-VAN Series Nozzles Brochure</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4172" target="_blank" rel="noopener noreferrer">HE-VAN Series Spray Nozzles Performance Charts</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4680" target="_blank" rel="noopener noreferrer">HE_VAN Nozzles Tech Spec</a></strong></li>
+</ul>
+<p><iframe width="700" height="495" src="https://www.youtube.com/embed/wIiLGk2A7xg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+</div>
+<div class="sku"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sprinkler Nozzles</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Variable Arc</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452687650916</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.24</s:price>
+      <s:sku>HE-VAN-10</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452687061092</id>
+    <published>2020-08-11T14:38:31-04:00</published>
+    <updated>2020-08-11T14:38:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-he-van-08-high-efficiency-variable-arc-nozzle-6-to-8-ft"/>
+    <title>Rain Bird - HE-VAN-08 - 6&apos; to 8&apos; High Efficiency Variable Arc Nozzle</title>
+    <s:type>Spray Nozzles</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-525__76103.1516141893.1280.1280_c2c7aa3a-b8b8-46da-b812-bb180df12630.jpg?v=1571715651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Spray Nozzles<br>
+        <strong>Price: </strong>
+            1.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description">
+<div class="std">6-8 ft. high efficiency variable arc nozzle<br>
+<ul>
+<li>Use with green very fine mesh filter screen, 0.010 in x 0.013 in (included) to prevent clogging</li>
+<li>Patent pending Flow Control Technology delivers superior close-in watering and uniform coverage across the entire spray pattern</li>
+<li>Rain Bird HE-VAN Nozzles achieve greater than a 70% average DU<sub>LQ - </sub>more than a 40% improvement over existing variable arc nozzles</li>
+<li>Meet tight watering windows with ease</li>
+<li>When compared with competitive nozzles, HE-VANs dramatically reduce zone run times</li>
+<li>In addition to water savings, you will conserve energy and reduce system wear and tear</li>
+<li>With full adjustability from 0<span>°</span> to 360<span>°</span>, youll be able to efficiently water landscapes of all shapes</li>
+<li>Matched precipitation rates allow you to install Rain Bird® HE-VAN, MPR and U-Series Nozzles on the same zone</li>
+</ul>
+</div>
+</div>
+<div class="sku">
+<p>Rain Bird HE-VAN nozzles offer even coverage throughout the spray pattern, delivering a healthy, beautiful landscape. Gentle close‘in watering eliminates dry spots around the spray head. HE-VAN nozzles also generate large wind-resistant water droplets that prevent misting and airborne evaporation, so the right amount of water is delivered to the right place.</p>
+<p>The high efficiency of the HE-VAN nozzle allows you to shorten your sprinkler run times by up to 35%, saving you water and money. Even coverage makes them the perfect choice for homeowners looking to conserve water while maintaining a healthy beautiful landscape.</p>
+<p> <strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/4068" target="_blank" rel="noopener noreferrer">HE-VAN Series Nozzles Brochure</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4172" target="_blank" rel="noopener noreferrer">HE-VAN Series Spray Nozzles Performance Charts</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4680" target="_blank" rel="noopener noreferrer">HE_VAN Nozzles Tech Spec</a></strong></li>
+</ul>
+<p><iframe width="700" height="495" src="https://www.youtube.com/embed/wIiLGk2A7xg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+</div>
+<div class="sku"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sprinkler Nozzles</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Variable Arc</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452687061092</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.24</s:price>
+      <s:sku>HE-VAN-08</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452676870244</id>
+    <published>2020-08-11T14:38:30-04:00</published>
+    <updated>2020-08-11T14:38:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-esp-lxbasic-controller"/>
+    <title>Rain Bird - ESP-LX Basic - 12 Station Indoor/Outdoor Controller</title>
+    <s:type>Controllers</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-526__41035.1516141893.1280.1280_7a94aebb-a37f-45ea-842a-a738cd678fe7.jpg?v=1571715651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Controllers<br>
+        <strong>Price: </strong>
+            259.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="field field--name-field-tagline field--type-text field--label-hidden field__item">
+<p><strong>The easiest to use commercial controller</strong></p>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">
+<p>The ESP-LX Basic Controller offers basic irrigation programming options you need for commercial sites. The simple dial makes programming the controller straightforward, and easy-to-understand menu options guide you through set-up.  The ESP-LX Basic is the first controller to offer both English and Spanish on one dial.</p>
+<p>With 48-station capacity, four independent programs and up to eight start times for each station the ESP-LX Basic offers flexible scheduling options.  Basic water management features such as Cycle+Soak„¢, seasonal adjust, station delay, and SimulStations„¢ are available to meet unique site requirements.</p>
+<div id="tab_features">
+<h2>Features</h2>
+<div class="field field--name-field-features-full field--type-text-long field--label-hidden field__item">
+<p><strong>Simple, Three-Step Programming.</strong><br>Basic irrigation programming can be done using minimal dial positions.  Additional programming options can be accessed through the Basic Setup and Station Timing dial positions.</p>
+<p><strong>Two Languages, One Dial.</strong><br>English and Spanish are both on one simple dial making it easy for everyone to install and maintain.</p>
+<p><strong>Larger Station Count.</strong><br>Get more stations out of the box with the ESP-LX Basic as compared to competitive commercial controllers.  The ESP-LX Basic base model has 12 stations and has capacity for 48 stations using 4-, 8- and 12-station modules.</p>
+<p><strong>Water Management Features:</strong></p>
+<ul>
+<li>SimulStations„¢ “ Operate two stations simultaneously.</li>
+<li>Cycle+Soak„¢</li>
+<li>Station Delay</li>
+<li>Seasonal Adjust</li>
+<li>Sensor &amp; Master Valve Programmable by Station</li>
+</ul>
+<p><strong>Contractor Default„¢</strong><br>Create a customized default program that can be automatically recalled up to 90 days in the future. This allows a temporary schedule to be created for new seed or a fast fix.</p>
+<p><strong>Enhanced Diagnostic Feedback„¢ with RASTER„¢ Wiring Test</strong><br>External alarm light and on-screen messaging alert the user of conditions that may disrupt controller operation.</p>
+<h4><strong>Options</strong></h4>
+<p><strong>Station Modules</strong><br>Expand the ESP-LX Basic from 12 to 48 stations in four-station increments using <a href="https://cheapsprinklers.com/products/rain-bird-esplxmsm4-4-station-output-module?_pos=5&amp;_sid=33c4c9ae9&amp;_ss=r" target="_blank" rel="noopener noreferrer">SM4</a>, <a href="https://cheapsprinklers.com/products/rain-bird-esplxmsm8-8-station-output-module?_pos=3&amp;_sid=33c4c9ae9&amp;_ss=r" target="_blank" rel="noopener noreferrer">SM8</a> or <a href="https://cheapsprinklers.com/products/rain-bird-esplxmsm12-12-station-expansion-module-for-esp-lx-series-controllers?_pos=4&amp;_sid=33c4c9ae9&amp;_ss=r" target="_blank" rel="noopener noreferrer">SM12</a> station modules. These easy-to-install modules snap into one of four bays on the controller chassis. Dynamic Station Numbering eliminates numbering gaps between stations for easy, confusion-free programming.</p>
+<p><strong>Rain/Freeze Sensors</strong><br>Add a Rain Bird® Rain/Freeze Sensor to your ESP-LXME to save time, improve system performance and can enhance your reputation as a water management expert.</p>
+</div>
+</div>
+<div id="tab_specs">
+<h2>Specs</h2>
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<p><strong>Controller Hardware</strong></p>
+<ul>
+<li>Plastic, locking, UV resistant, wall-mount case</li>
+<li>Optional Metal Case &amp; Pedestal</li>
+<li>12-station base unit expandable to 48 stations with 4-, 8-, &amp; 12-Station Modules</li>
+</ul>
+<p><strong>Controller Features</strong></p>
+<ul>
+<li>Large LCD display with easy to navigate softkey user interface</li>
+<li>Hot-swappable modules, no need to power down the controller to add/remove modules</li>
+<li>Dynamic station numbering eliminates station numbering gaps</li>
+<li>Weather Sensor input with override switch</li>
+<li>Master valve/pump start circuit</li>
+<li>English or Spanish language with a simple turn of the dial</li>
+<li>Non-Volatile (100- year) program memory</li>
+<li>Standard 10kV surge protection</li>
+<li>Front panel is removable and programmable under battery power</li>
+<li>Compatible with Rain Bird Landscape Irrigation and Maintenance Remote</li>
+</ul>
+<p><strong>Water Management Features</strong></p>
+<ul>
+<li>SimulStations„¢ are programmable to allow up to 2 stations to operate at the same time</li>
+<li>Water Windows by program</li>
+<li>Cycle+Soak„¢ by station</li>
+<li>Rain Delay</li>
+<li>Programmable Station Delay by program</li>
+<li>Normally Closed Master Valve programmable by station</li>
+<li>Weather Sensor programmable by station to prevent or pause watering</li>
+<li>Program Seasonal Adjust</li>
+<li>Global Monthly Seasonal Adjust</li>
+</ul>
+<p><strong>Electrical Specifications</strong></p>
+<ul>
+<li>Input required: 120 VAC ± 10%, 60Hz</li>
+<li>Output: 26.5 VAC 1.9A</li>
+<li>Power back-up: Lithium coin-cell battery maintains time and date while nonvolatile memory maintains the programming</li>
+<li>Multi-valve capacity: Maximum two 24 VAC, 7VA solenoid valves simultaneous operation plus the master valve, maximum two solenoid valves per station</li>
+</ul>
+</div>
+</div>
+</div>
+<iframe width="700" height="495" src="https://www.youtube.com/embed/sGjRZ1SKCME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452676870244</id>
+      <title>Default Title</title>
+      <s:price currency="USD">259.50</s:price>
+      <s:sku>ESP-LXBasic</s:sku>
+      <s:grams>5874</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452665368676</id>
+    <published>2020-08-11T14:38:29-04:00</published>
+    <updated>2020-08-11T14:38:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rainbird-65pjadjtnt-fc-pc-impact-1-in-fipt"/>
+    <title>Rain Bird - 65PJ-ADJ-TNT - 1&apos;&apos; FC/PC Brass Impact Sprinkler - FIPT</title>
+    <s:type>Impacts</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-11788__53519.1516302945.1280.1280_79e08288-3c97-4bc1-ab42-cde7062541d5.jpg?v=1571715650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Impacts<br>
+        <strong>Price: </strong>
+            189.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="field field--name-field-tagline field--type-text field--label-hidden field__item">
+<h4>*Product has been discontinued. Please <span style="text-decoration: underline;"><a href="https://cheapsprinklers.com/products/buckner-360sax18pg-1-full-part-circle-brass-impact-sprinkler-mpt?_pos=3&amp;_sid=7963d371c&amp;_ss=r">click here for the replacement Impact Sprinkler we have available with similar specs. - Buckner - 360SAX18PG</a> </span>
+</h4>
+<h4></h4>
+<h4>1" (25 mm) Full or Part Circle, Brass Impact Sprinkler</h4>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">
+<p>Has a wide range of applications. Added versatility comes from an adjustable trip slip-pin that converts the sprinkler to full circle applications. The PJ precision jet arm eliminates side splash.</p>
+<div id="tab_features">
+<h2>Features</h2>
+<div class="field field--name-field-features-full field--type-text-long field--label-hidden field__item">
+<div id="p7tpc1_1">
+<ul>
+<li>1" (25mm) Female NPT bearing inlet bearing</li>
+<li>Full or part circle operation</li>
+<li>"Precision jet" (PJ) arm</li>
+<li>Stainless steel springs and fulcrum pin</li>
+<li>Chemically resistant washers</li>
+<li>ADJ-4 Nozzles include integral break-in pin</li>
+<li>Full or Part Circle operation</li>
+<li>Back by five-year Customer Satisfaction Policy</li>
+<li>For use with Rain Bird ADJN-4 Straight Bore Adjustable Nozzle</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="tab_specs">
+<h2>Specs</h2>
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<div id="p7tpc1_2">
+<ul>
+<li>Bearing: 1" Female NPT, Brass</li>
+<li>Trajectory Angle: 27 degrees</li>
+<li>Operating Range: 50-80 psi (3.5-5.5 bar)</li>
+<li>Flow Rate: 12.9-16.5 gpm (2.93-3.75 m<sup>3</sup>/h)</li>
+<li>Radius: 57-65 ft. (17.4-19.8 m)</li>
+<li>Nozzle Port: 3/8" Female NPT</li>
+</ul>
+<h2>Downloads</h2>
+<p><span style="text-decoration: underline;">﻿<a href="https://www.rainbird.com/media/7869" target="_blank">Performance Chart</a></span></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sprinklers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Impacts</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452665368676</id>
+      <title>Default Title</title>
+      <s:price currency="USD">189.98</s:price>
+      <s:sku>65PJ-ADJ-TNT</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452650688612</id>
+    <published>2020-08-11T14:38:27-04:00</published>
+    <updated>2020-08-11T14:38:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-3504pc-4-in-3500-series-part-full-circle-rotor-pop-up-sprinkler"/>
+    <title>Rain Bird - 3504PC - 4&apos;&apos; 3500 Series Adjustable Arc Rotor</title>
+    <s:type>Rotors</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-3500_SAM_overhead-pair__11722.1516634447.1280.1280_558981f5-37bd-450a-9c11-b274025e6a62.jpg?v=1571715649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Rotors<br>
+        <strong>Price: </strong>
+            11.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 in. part/full-circle pop-up rotor sprinkler</p>
+<ul>
+<li>Top-adjust arc adjustment requiring only a flat-blade screwdriver.</li>
+<li><span>1/2" NPT female bottom threaded inlet</span></li>
+<li>True 4" (10 cm) pop-up (measured from center of nozzle).</li>
+<li>40- 360° Arc Part-Circle arc rotation and reversing Full-Circle rotation in one.</li>
+<li>Attachable nozzle tree of six Rain Curtain„¢ nozzles.</li>
+<li>Radius adjustment screw allows up to 35% radius reduction without changing nozzles.</li>
+<li>Quick Check Arc/Fast Forward.</li>
+<li>Dual action, positive stop wiper seal protects internals from debris and assures positive pop-up and retraction.</li>
+<li>Self-adjusting stator does not require replacement when changing nozzles.</li>
+<li>Water-lubricated gear-drive design for durable, reliable operation.</li>
+<li>Easily removable filter screen.</li>
+<li>Nozzle removal feature.</li>
+<li>Arc setting factory preset at 180° for installation convenience.</li>
+</ul>
+<p>The 3500 Series Rotor is an easy to use short to mid-range 1/2" gear-drive rotor, offering value and convenience for residential applications. Utilizing a simple flat-bladed screwdriver, the 3500s arc adjustment is quick and easy.</p>
+<p>This versatile rotor offers an attachable nozzle tree with six superior performing Rain Curtain nozzles and the convenience of reversing full and part circle operation (up to 360 degrees) in one unit. Plus, a nozzle removal feature and easily removable filter screen makes maintenance a breeze.</p>
+<p>All of this and an affordable price makes the Rain Bird 3500 Series one rotor that is easy to use, easy to buy and tough to beat!</p>
+<h2>Specs</h2>
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<ul>
+<li>Precipitation rate: 0.37 “ 0.83 in/hr (9-21 mm/h)</li>
+<li>Radius: 15 to 35 feet (4,6 to 10,7 m)</li>
+<li>Radius may be reduced up to 25% with radius reduction screw</li>
+<li>Pressure: 25-55 psi (1,7 to 3,8 Bars)</li>
+<li>Flow Rate: .54 to 4.6 gpm (,12 to 1,04 m 3/h)</li>
+<li>½" NPT female bottom threaded inlet</li>
+<li>Reversing Full-and Part-circle adjustment 40° “ 360°</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/4008" target="_blank" rel="noopener noreferrer">3500 Series Rotor Brochure</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4157" target="_blank" rel="noopener noreferrer">3500 Series Nozzles Performance Charts</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4228" target="_blank" rel="noopener noreferrer">3500 Series Rotor Manual</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4634" target="_blank" rel="noopener noreferrer">3500 Series Rotors Tech Spec</a></strong></li>
+</ul>
+<p> </p>
+</div>
+<iframe width="700" height="495" src="https://www.youtube.com/embed/u0TQEWQ3grg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Model_3500</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452650688612</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.40</s:price>
+      <s:sku>3504PC</s:sku>
+      <s:grams>153</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452647444580</id>
+    <published>2020-08-11T14:38:26-04:00</published>
+    <updated>2020-08-11T14:38:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-2045a-maxi-paw-impact-rotor-pop-up-sprinklers"/>
+    <title>Rain Bird - 2045A - Maxi-Paw Impact Rotor Pop-Up Sprinkler</title>
+    <s:type>Impacts</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1410__94376.1516141903.1280.1280_ee3167d7-0535-4082-8a93-c91f3da2b7ad.jpg?v=1592842901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Impacts<br>
+        <strong>Price: </strong>
+            22.08 - 27.40
+            <a href="https://cheapsprinklers.com/products/rain-bird-2045a-maxi-paw-impact-rotor-pop-up-sprinklers">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="tab_features">
+<p>The Maxi-Paws powerful throw permits maximum spacing and offers superior close-in watering and uniform water distribution. Low pressure loss and an efficient, straight-through flow design conserve energy and are ideal for dirty water applications.</p>
+<p>The optional Seal-A-Matic prevents run-off, puddling, and erosion caused by low head drainage. And most important, its rugged and dependable, popping up on schedule again and again because of the multi-function wiper seal.</p>
+<p>***If you need the other nozzles email contact@cheapsprinklers.com. Working on getting the other nozzles added to the site.***</p>
+<h2>Features</h2>
+<div class="field field--name-field-features-full field--type-text-long field--label-hidden field__item">
+<ul>
+<li>Proven impact drive with straight-through flow for superior performance in dirty water.</li>
+<li>Five standard trajectory and two low angle color-coded nozzles for matched precipitation in a wide range of applications</li>
+<li>360° Full-circle OR arc adjustable from 20° to 340°.</li>
+<li>Side and combination 1/2" or 3/4" bottom inlet for design flexibility.</li>
+<li>Easy to adjust, easy to service.</li>
+<li>No tools required to change nozzles.</li>
+<li>Heavy-duty plastic case with sturdy, reinforced ribbed design.</li>
+<li>Double-weighted arm for slower rotation and increased distance of throw.</li>
+<li>Self-flushing inner trip with improved inner trip lever.</li>
+<li>Powerful reverse action.</li>
+<li>Adjustable arm spring for low-pressure and low-gallonage operation.</li>
+<li>Energy efficient, low pressure and low-gallonage operation.</li>
+<li>Hooded bearing for longer life.</li>
+<li>Distance control diffuser pin.</li>
+<li>Multi-function, pressure-activated wiper seal.</li>
+<li>Inlet filter screen and pressure-activated wiper seal protect internal assembly from debris to ensure positive pop-up and retraction.</li>
+<li>Heavy-duty, stainless steel retract spring assures positive sprinkler pop-down.</li>
+<li>Serviceable through the top of the case.</li>
+<li>Optional internal Seal-A-Matic (SAM) prevents puddling and erosion caused by low head drainage and saves water.</li>
+<li>Optional nonpotable cover.</li>
+<li>Three-year trade warranty.</li>
+</ul>
+</div>
+</div>
+<div id="tab_specs">
+<h2>Specs</h2>
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<ul>
+<li>Precipitation Rate: 0.28 to 1.21 inches per hour (7 to 31 mm/h)</li>
+<li>Radius: 22 to 45 feet (6,7 to 13,7 m)</li>
+<li>Radius with Radius Reduction Screw: 18 ft (5,4 m)</li>
+<li>Pressure: 25 to 60 psi (1,7 to 4,1 Bars)</li>
+<li>Flow: 1.5 to 8.4 GPM (0,34 to 1,91 m3/h; 0,9 to 0,53 l/s)</li>
+<li>Combination 1/2" (15/21) or 3/4" (20/27) FPT bottom inlet <br>1/2" (15/21) FPT side inlet</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/4699" target="_blank">Maxi-Paw 2045A Rotor Impact Sprinkler Tech Spec</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4152" target="_blank">2045A Maxi-Paw and Maxi-Paw SAM Nozzles Performance Charts</a></strong></li>
+</ul>
+</div>
+</div>
+<div class="sku">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sprinklers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Impacts</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452647444580</id>
+      <title>2045A08 | 3&apos;&apos; Adjustable Arc Impact Rotor w/ #08 Nozzle</title>
+      <s:price currency="USD">22.08</s:price>
+      <s:sku>2045A08</s:sku>
+      <s:grams>490</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452647444580</id>
+      <title>2045A08-SAM | 3&apos;&apos; Adjustable Arc Impact Rotor w/ Check Valve w/ #08 Nozzle</title>
+      <s:price currency="USD">27.40</s:price>
+      <s:sku>2045A08-SAM</s:sku>
+      <s:grams>490</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452638793828</id>
+    <published>2020-08-11T14:38:25-04:00</published>
+    <updated>2020-08-11T14:38:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-1804samprs-4-in-1800-series-sam-prs-spray-head-no-nozzle"/>
+    <title>Rain Bird - 1804SAMPRS - 4&apos;&apos; 1800 Series SAM-PRS Spray Head - No Nozzle</title>
+    <s:type>Spray Heads</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-544__55832.1516141898.1280.1280_3e078329-732c-45ff-ba55-ab100eeb33de.jpg?v=1571715649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Spray Heads<br>
+        <strong>Price: </strong>
+            6.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 in. 1800 Series pop-up spray head with Rain Bird® Flow Optimizer Technology and Seal-A-Matic Check Valve</p>
+<ul>
+<li>4 in. 1800 Series pop-up spray head with Rain Bird® Flow Optimizer„¢ Technology and Seal-A-Matic Check Valve</li>
+<li>PATENTED PRS pressure regulator built into the stem</li>
+<li>Restricts water loss by up to 70% if nozzle is removed or damaged</li>
+<li>Saves water and money</li>
+<li>Reduces possibility of accidents and property damage</li>
+<li>Designed for use with all Rain Bird plastic spray head nozzles</li>
+<li>Includes Seal-A-Matic check valve preventing low head drainage of up to 14 feet of head</li>
+<li>Nozzle not included</li>
+</ul>
+<div class="sku">
+<p>Rain Bird® 1800-SAM-PRS Series Spray Heads meet the needs of all spray areas, regardless of changing elevation or water pressures. This top of the line spray head incorporates all 1800 Series SAM and PRS features, making them ideal for use in areas with high and/or widely fluctuating water pressures and steep slopes.</p>
+<p>Trusted for over 30 years, 1800 Series Spray Heads have provided unmatched durability, reliability, and performance. Superior components and features make the 1800 Series Spray Head the spray head of choice for a wide variety of applications.</p>
+<h3>Additional features:</h3>
+<ul>
+<li>Maintains constant outlet pressure at 30psi (2.1 bar). Spray nozzles perform best at 30psi. Ensures maximum nozzle performance, even with varying inlet pressures. Maintains constant pressure regardless of nozzles used.</li>
+<li>Unlike competitive PRS sprays, Rain Bird PRS sprays adjust to fluctuating pressure, optimizing flow and promoting a more consistent spray pattern.</li>
+<li>Ensures consistent performance throughout zone if nozzle is removed or damaged. Keeps plant life covered by other spray heads properly irrigated.</li>
+<li>Ends misting and fogging caused by high pressure. Stops water waste. Ensures necessary watering occurs in high pressure or wind conditions.</li>
+<li>Built-in Seal-A-Matic (SAM) check valve. Eliminates the need for under-the-head check valves. No parts to be installed at the site.</li>
+<li>Traps water in lateral pipes in elevation changes of up to 14 feet (4,2 m). Reduces wear on system components by minimizing water hammer during start-up.</li>
+<li>Prevents drainage from spray heads at lower elevations. Stops water waste. Ends landscape damage due to flooding and/or erosion.</li>
+<li>Even stronger retract spring to accommodate elevation changes up to 14 feet (4,2 m). One of the strongest springs in the industry.</li>
+<li>Co-molded, pressure-activated, multi-functional wiper seal assures positive seal without excess flow-by which enables more heads to be installed on the same valve.</li>
+<li>All sprinkler components are removable from the top without special tools, providing for quick and easy flushing and<br>maintenance of the sprinkler.</li>
+<li>Constructed of time-proven UV-resistant plastic and corrosion resistant stainless steel parts, assuring long product life.</li>
+<li>SAM-PRS stamped on cap for easy identification and maintenance.</li>
+<li>
+<span>1/2" (15/21) female threaded inlet</span><br><span>SAM capability: holds up to 14 feet (4.2 m) of head; 6 psi (0.4 bar)</span><br><span>Flow-by: 0 at 8 psi (0.6 bar) or greater; 0.50 gpm (0.11 m3/h; 1.80 l/m) otherwise</span>
+</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/4006" target="_blank">1800 Series Spray Heads Brochure</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4632" target="_blank">1800 Series Spray Heads Tech Spec</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/1882" target="_blank">Spray Head Adjustment Instructions and Troubleshooting Guide</a></strong></li>
+</ul>
+</div>
+<div class="sku">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sprinklers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Spray Heads</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452638793828</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.94</s:price>
+      <s:sku>1804SAMPRS</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452637941860</id>
+    <published>2020-08-11T14:38:24-04:00</published>
+    <updated>2020-08-11T14:38:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-1804prs-4-in-1800-series-prs-spray-head-no-nozzle"/>
+    <title>Rain Bird - 1804PRS - 4&apos;&apos; 1800 Series PRS Spray Head - No Nozzle</title>
+    <s:type>Spray Heads</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1336__14977.1516141900.1280.1280_55682042-4f7f-4e02-8801-3af878cc91ab.jpg?v=1571715649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Spray Heads<br>
+        <strong>Price: </strong>
+            5.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 in. 1800-series pop-up sprinkler with Rain Bird® Flow Optimizer Technology</p>
+<ul>
+<li>4 in. 1800-series pop-up sprinkler with Rain Bird® Flow Optimizer„¢ Technology</li>
+<li>Patented PRS pressure regulator built into the stem</li>
+<li>No parts to be installed at the site</li>
+<li>Saves time and money</li>
+<li>Maintains constant outlet pressure at 30psi (2.1 bar)</li>
+<li>Ensures maximum nozzle performance, even with varying inlet pressures</li>
+<li>Maintains constant pressure regardless of nozzles used</li>
+</ul>
+<div class="sku">
+<p>When the pressures on, save water and money with Rain Bird® 1800® Series Sprays featuring PRS with Flow Optimizer„¢ technology. These Spray Heads are ideal for use in areas with high and/or widely fluctuating water pressures. The patented PRS pressure regulator built into the stem can help you save approximately one gallon per minute per spray. It also helps to end misting and fogging caused by excessively high water pressure.</p>
+<p>Trusted for over 30 years, 1800 Series Spray Heads have provided unmatched durability, reliability, and performance. Superior components and features make the 1800 Series Spray Head the spray head of choice for a wide variety of applications.</p>
+<h3>Additional features:</h3>
+<ul>
+<li>Unlike competitive PRS sprays, Rain Bird PRS sprays adjust to fluctuating pressure, optimizing flow and promoting a more consistent spray pattern.</li>
+<li>Restricts water loss by up to 70% if nozzle is removed or damaged. Reduces possibility of accidents and property damage. Recommended for vandal-prone areas.</li>
+<li>Ensures consistent performance throughout zone if nozzle is removed or damaged. Keeps plant life covered by other spray heads properly irrigated.</li>
+<li>Ends misting and fogging caused by high pressure. Stops water waste. Ensures necessary watering occurs in high pressure or wind conditions.</li>
+<li>Co-molded, pressure-activated, multi-functional wiper seal assures positive seal without excess œflow-by� which enables more heads to be installed on the same valve.</li>
+<li>All sprinkler components are removable from the top without special tools, providing for quick and easy flushing and maintenance of the sprinkler.</li>
+<li>Constructed of time-proven UV-resistant plastic and corrosion resistant stainless steel parts, assuring long product life. Designed for use with all Rain Bird spray head nozzles.</li>
+<li>Designed for use with all Rain Bird plastic spray head nozzles.</li>
+<li>œPRS� stamped on cap for easy identification and maintenance.</li>
+</ul>
+<h3>Specifications</h3>
+<ul>
+<li>
+<p style="display: inline !important;">Spacing: 2.5 to 24 feet (0.8 to 7.3 m)</p>
+</li>
+<li>Pressure: 15 to 70 psi (1 to 5 bar)</li>
+<li>Regulates nozzle pressure to an average 30 psi (2.1 bar) with inlet pressures of up to 70 psi (4.8 bar)</li>
+<li>Flow-by: 0 at 8 psi (0.6 bar) or greater; 0.1 gpm (0.02 m3/h; 0.006 l/s) otherwise</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/4006" target="_blank" rel="noopener noreferrer">1800 Series Spray Heads Brochure</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4632" target="_blank" rel="noopener noreferrer">1800 Series Spray Heads Tech Spec</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/1882" target="_blank" rel="noopener noreferrer">Spray Head Adjustment Instructions and Troubleshooting Guide</a></strong></li>
+</ul>
+<p> <br></p>
+</div>
+<div class="sku">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sprinklers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Spray Heads</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452637941860</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.34</s:price>
+      <s:sku>1804PRS</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452632993892</id>
+    <published>2020-08-11T14:38:23-04:00</published>
+    <updated>2020-08-11T14:38:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-15h-15-ft-half-circle-pattern-nozzle-180-degree"/>
+    <title>Rain Bird - 15H - 15&apos; Half-Circle Pattern Nozzle (180 Degree)</title>
+    <s:type>Spray Nozzles</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12248__37433.1516141906.1280.1280_3c739b08-4ada-4bdf-89c0-eadba98dc7cd.jpg?v=1571715648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Spray Nozzles<br>
+        <strong>Price: </strong>
+            0.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>15 ft. half-circle pattern MPR nozzle</p>
+<ul>
+<li>1800 Series white filter (.035" x .035") screens (shipped with nozzles) maintain precise radius adjustment and prevent clogging</li>
+<li>Stainless steel adjustment screw to adjust flow and radius</li>
+<li>Fits all Rain Bird sprinklers and shrub adapters </li>
+</ul>
+<div class="sku"><br></div>
+<div class="sku">
+<p>Trusted for decades, Rain Bird® MPR Nozzles are installed by more contractors than all other brands combined. MPR Nozzles simplify the design process by allowing sprinklers with various arcs and radii to be mixed on the same circuit while maintaining even water distribution rates. They fit all Rain Bird spray heads and shrub adapters.</p>
+<p><strong>Sort Quicker, Install Faster, Check Easier!</strong></p>
+<p>Rain Bird MPR Spray nozzles are color-coded on the top to enhance your productivity.</p>
+<ul>
+<li>Quickly identify radius and arc with Top Color-coded nozzles.</li>
+<li>Top Color-coding makes it easy to verify proper nozzle installation, even when system is not operating.</li>
+</ul>
+<p>Now its easier to sort, easier to organize, and easier to install with Top Color-coded nozzles.</p>
+<p><strong>Model Comparison</strong></p>
+<p><img src="https://www.rainbird.com/sites/default/files/inline-images/image_33.png" alt="image"></p>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/4082" target="_blank" rel="noopener noreferrer">5000 Series MPR Nozzles Brochure</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4174" target="_blank" rel="noopener noreferrer">MPR Spray Nozzles Performance Charts</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4133" target="_blank" rel="noopener noreferrer">Interactive Sprays Specification Guide</a></strong></li>
+</ul>
+</div>
+<div class="sku"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sprinkler Nozzles</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Fixed Spray</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452632993892</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.79</s:price>
+      <s:sku>15H</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452619231332</id>
+    <published>2020-08-11T14:38:22-04:00</published>
+    <updated>2020-08-11T14:38:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-100dvfss-1-in-dvf-series-inline-plastic-residential-irrigation-valve-with-flow-control-slip-x-slip"/>
+    <title>Rain Bird - 100DVFSS - 1&apos;&apos; DVF Series Inline Plastic Residential Irrigation Valve w/ Flow Control - Slip x Slip</title>
+    <s:type>Electric Solenoid Valves</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/0001_100-dvf-ss.jpg?v=1629208033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Electric Solenoid Valves<br>
+        <strong>Price: </strong>
+            17.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 in. Slip DVF Series Inline Plastic Residential Valve</p>
+<ul>
+<li>Unique, easy-to-turn patented pressure assisted flow control mechanism</li>
+<li>Double-filtered pilot-flow design for maximum reliability</li>
+<li>Balanced-pressure diaphragm for long life</li>
+<li>External bleed to manually flush system of dirt and debris during installation and system start-up</li>
+<li>Internal bleed for spray-free manual operation</li>
+<li>Energy-efficient, low-power encapsulated solenoid with captured plunger and 90-mesh (200 micron) solenoid filter</li>
+</ul>
+<div class="sku"><br></div>
+<div class="sku">
+<p>The Rain Bird DV/DVF valve is the premium valve product chosen by more professionals than any other valve on the market. Its long history of reliable performance makes it the natural choice for your landscape. Its consistent, problem-free performance means you can spend less time thinking about your irrigation system and more time enjoying your landscape. </p>
+<p>Use DV/DVF series valves in locations where the use of a separate pressure vacuum breaker (PVB) or a double-check valve is required by city codes to protect against back flow. Check your local city codes to determine what type of valves are required.</p>
+<p>All of our residential valves work with any standard sprinkler timer. </p>
+<div id="tab_features">
+<h2>Features</h2>
+<div class="field field--name-field-features-full field--type-text-long field--label-hidden field__item">
+<ul>
+<li>Double-filtered (diaphragm and solenoid) pilot-flow design for maximum reliability and grit resistance</li>
+<li>Buna-N, balanced pressure diaphragm with self-cleaning 90 mesh (200 micron) pilot water filter and captive spring</li>
+<li>Energy-efficient, low-power encapsulated solenoid with captured plunger and 90-mesh (200 micron) solenoid filter</li>
+<li>Unique, easy-to-turn patented pressure assisted flow control mechanism (DVF models only)</li>
+<li>External bleed to manually flush system of dirt and debris during installation and system start-up</li>
+<li>Internal bleed for spray-free manual operation</li>
+<li>Accepts Rain Bird TBOS latching solenoid for use with most battery-operated controllers</li>
+<li>Operates in low-flow and Landscape Drip applications when a 200 mesh filter is installed upstream</li>
+<li>Not recommended for use with two-wire control systems</li>
+<li>Unique, easy-to-turn patented pressure assisted flow control mechanism (DVF models only).</li>
+</ul>
+</div>
+</div>
+<div id="tab_specs">
+<h2>Specs</h2>
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<ul>
+<li>Pressure: 15 to 150 psi (1,0 to 10,4 bar)</li>
+<li>100-DVF Flow Control Model: 0.2 to 40 gpm (0,05 to 9.085 m³/h; 0,01 to 2,52 l/s); For flows below 3 gpm (0,68 m³/h; 0,19 l/s) or any Landscape Drip application, use a 200 mesh filter installed upstream.</li>
+<li>Water temperature: Up to 110°F (43°C)</li>
+<li>Ambient air temperature: Up to 125°F (52°C)</li>
+<li>24 VAC 50/60Hz (cycles per second) solenoid power requirement: 0.450A inrush current, 0.25A holding current</li>
+<li>Solenoid coil resistance: 38 Ohms</li>
+</ul>
+<h3>Dimensions:</h3>
+<p><strong>DVF Valves</strong></p>
+<ul>
+<li>Height : 5 3/5" (14.2 cm)</li>
+<li>Length: 4 3/8" (11.1 cm)</li>
+<li>Length (MB): 5¾" (14.6 cm)</li>
+<li>Width: 3 1/3" (8.4 cm)</li>
+</ul>
+<h3>Recommendations:</h3>
+<ol>
+<li>Rain Bird recommends flow rates that result in discharge velocities in the supply line not to exceed 7.5 ft/sec (2.3 m/s) in order to reduce the effects of water hammer.</li>
+<li>Rain Bird residential valves cannot be used with PRS pressure regulating modules.</li>
+<li>Not recommended for use with two-wire systems.</li>
+</ol>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/4024" target="_blank" rel="noopener noreferrer">DV and DVF Irrigation Control Valves Brochure</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4243" target="_blank" rel="noopener noreferrer">DV Valves Manual</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4650" target="_blank" rel="noopener noreferrer">DV Series Valves Tech Spec</a></strong></li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Valves</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Electric Solenoid Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452619231332</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.60</s:price>
+      <s:sku>100DVFSS</s:sku>
+      <s:grams>451</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452618543204</id>
+    <published>2020-08-11T14:38:21-04:00</published>
+    <updated>2020-08-11T14:38:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-100dvf-1-in-dvf-series-inline-plastic-residential-irrigation-valve-with-flow-control-female-pipe-thread"/>
+    <title>Rain Bird - 100DVF - 1&apos;&apos; DVF Series Inline Plastic Residential Irrigation Valve w/ Flow Control- Female Pipe Thread</title>
+    <s:type>Electric Solenoid Valves</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/100-dvf-npt_0002_100-dvf-npt.jpg?v=1629208014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Electric Solenoid Valves<br>
+        <strong>Price: </strong>
+            17.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 in. FPT DVF Series Inline Plastic Residential Valve</p>
+<ul>
+<li>Unique, easy-to-turn patented pressure assisted flow control mechanism</li>
+<li>Double-filtered pilot-flow design for maximum reliability</li>
+<li>Balanced-pressure diaphragm for long life</li>
+<li>External bleed to manually flush system of dirt and debris during installation and system start-up</li>
+<li>Internal bleed for spray-free manual operation</li>
+<li>Energy-efficient, low-power encapsulated solenoid with captured plunger and 90-mesh (200 micron) solenoid filter</li>
+</ul>
+<div class="sku"></div>
+<div class="sku">
+<p>The Rain Bird DV/DVF valve is the premium valve product chosen by more professionals than any other valve on the market. Its long history of reliable performance makes it the natural choice for your landscape. Its consistent, problem-free performance means you can spend less time thinking about your irrigation system and more time enjoying your landscape. </p>
+<p>Use DV/DVF series valves in locations where the use of a separate pressure vacuum breaker (PVB) or a double-check valve is required by city codes to protect against back flow. Check your local city codes to determine what type of valves are required.</p>
+<p>All of our residential valves work with any standard sprinkler timer. </p>
+<div id="tab_features">
+<h2>Features</h2>
+<div class="field field--name-field-features-full field--type-text-long field--label-hidden field__item">
+<ul>
+<li>Double-filtered (diaphragm and solenoid) pilot-flow design for maximum reliability and grit resistance</li>
+<li>Buna-N, balanced pressure diaphragm with self-cleaning 90 mesh (200 micron) pilot water filter and captive spring</li>
+<li>Energy-efficient, low-power encapsulated solenoid with captured plunger and 90-mesh (200 micron) solenoid filter</li>
+<li>Unique, easy-to-turn patented pressure assisted flow control mechanism (DVF models only)</li>
+<li>External bleed to manually flush system of dirt and debris during installation and system start-up</li>
+<li>Internal bleed for spray-free manual operation</li>
+<li>Accepts Rain Bird TBOS latching solenoid for use with most battery-operated controllers</li>
+<li>Operates in low-flow and Landscape Drip applications when a 200 mesh filter is installed upstream</li>
+<li>Not recommended for use with two-wire control systems</li>
+<li>Unique, easy-to-turn patented pressure assisted flow control mechanism (DVF models only).</li>
+</ul>
+</div>
+</div>
+<div id="tab_specs">
+<h2>Specs</h2>
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<ul>
+<li>Pressure: 15 to 150 psi (1,0 to 10,4 bar)</li>
+<li>100-DVF Flow Control Model: 0.2 to 40 gpm (0,05 to 9.085 m³/h; 0,01 to 2,52 l/s); For flows below 3 gpm (0,68 m³/h; 0,19 l/s) or any Landscape Drip application, use a 200 mesh filter installed upstream.</li>
+<li>Water temperature: Up to 110°F (43°C)</li>
+<li>Ambient air temperature: Up to 125°F (52°C)</li>
+<li>24 VAC 50/60Hz (cycles per second) solenoid power requirement: 0.450A inrush current, 0.25A holding current</li>
+<li>Solenoid coil resistance: 38 Ohms</li>
+</ul>
+<h3>Dimensions:</h3>
+<p><strong>DVF Valves</strong></p>
+<ul>
+<li>Height : 5 3/5" (14.2 cm)</li>
+<li>Length: 4 3/8" (11.1 cm)</li>
+<li>Length (MB): 5¾" (14.6 cm)</li>
+<li>Width: 3 1/3" (8.4 cm)</li>
+</ul>
+<h3>Recommendations:</h3>
+<ol>
+<li>Rain Bird recommends flow rates that result in discharge velocities in the supply line not to exceed 7.5 ft/sec (2.3 m/s) in order to reduce the effects of water hammer.</li>
+<li>Rain Bird residential valves cannot be used with PRS pressure regulating modules.</li>
+<li>Not recommended for use with two-wire systems.</li>
+</ol>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/4024" target="_blank" rel="noopener noreferrer">DV and DVF Irrigation Control Valves Brochure</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4243" target="_blank" rel="noopener noreferrer">DV Valves Manual</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4650" target="_blank" rel="noopener noreferrer">DV Series Valves Tech Spec</a></strong></li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Valves</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Electric Solenoid Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452618543204</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.80</s:price>
+      <s:sku>100DVF</s:sku>
+      <s:grams>479</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452617822308</id>
+    <published>2020-08-11T14:38:19-04:00</published>
+    <updated>2020-08-11T14:38:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-100asvf-1-in-plastic-residential-anti-siphon-irrigation-valve-with-flow-control-1-in-fpt-threads"/>
+    <title>Rain Bird - 100ASVF - 1&apos;&apos; Plastic Residential Anti-Siphon Irrigation Valve w/ Flow Control - Female Pipe Thread</title>
+    <s:type>Electric Solenoid Valves</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1743__51134.1516141913.1280.1280_a70f661d-0329-4ae0-84d1-cc07b6b674d9.jpg?v=1571715648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Electric Solenoid Valves<br>
+        <strong>Price: </strong>
+            22.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>1 plastic residential irrigation valve Female Pipe Thread (FPT)</li>
+<li>Combination reliable DVF valve and atmospheric backflow preventer in one unit</li>
+<li>Incorporates all features of DV/DVF Series valves</li>
+<li>I.A.P.M.O. and A.S.S.E listing approved</li>
+<li>City of Los Angeles listing approved</li>
+<li>All of our valves work with any standard sprinkler timer</li>
+</ul>
+<p>Rain Bird manufactures only the highest quality valves. Use ASVF series valves in locations where the use of a separate pressure vacuum breaker (PVB) or a double-check valve is required by city codes to protect against back flow. Check your local city codes to determine what type of valves are required.</p>
+<h4>Installation Notes</h4>
+<ul>
+<li>Anti-siphon valve must be installed upright</li>
+<li>Anti-siphon unit must be installed at least 6" (15,2 cm) above the highest point of water in the pipe and sprinklers it serves</li>
+<li>No valve can be located downstream of the anti-siphon valve</li>
+<li>Anti-siphon valves must not be subjected to operating pressure for more than twelve (12) hours in any twenty-four (24) hour period.</li>
+<li>Uniform Plumbing Code Sec. 1003 (2) 602.2  Consult local codes</li>
+</ul>
+<p><strong>Operating Temperature</strong></p>
+<p>For use in cold water only, less than 110° F (43° C)</p>
+<p><strong>Electrical Specifications</strong></p>
+<ul>
+<li>24 VAC 50/60 Hz (cycles per second) solenoid power requirement:</li>
+<li>0.30 A (7.2 VA) inrush current</li>
+<li>0.23 A (5.5 VA) holding current</li>
+<li>Solenoid coil resistance: 38 Ohms</li>
+</ul>
+<p><strong>Flow Range</strong></p>
+<p>0.2 to 40 GPM (0,05 to 9,08 m3/h; 0,01 to 2,52 l/s). For flows below 3 GPM (0,75 m3/h; 0,21 l/s) or any Xerigation® products application, use RBY-100-200MX filter installed upstream.</p>
+<p><strong>Operating Pressure</strong></p>
+<p>15 to 150 psi (1,0 to 10,4 bar)</p>
+<p><strong>Downloads</strong><br></p>
+<ul>
+<li><a href="https://www.rainbird.com/media/4020" target="_blank" rel="noopener noreferrer"><strong>ASVF Irrigation Control Valve Brochure</strong></a></li>
+<li><a href="https://www.rainbird.com/media/4234" target="_blank" rel="noopener noreferrer"><strong>ASVF Anti-siphon Valve Manual</strong></a></li>
+</ul>
+<div class="sku">Product ID: <span>B73100</span>
+</div>
+<div class="sku">Product Model: <span>100ASVF</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Valves</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRODUCT TYPE_Electric Solenoid Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452617822308</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.64</s:price>
+      <s:sku>100ASVF</s:sku>
+      <s:grams>737</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452732412004</id>
+    <published>2020-08-11T14:34:53-04:00</published>
+    <updated>2020-08-11T14:34:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-x360adjmst-xeri-spray-full-circle-adjustable-mister"/>
+    <title>Rain Bird - XS360ADJMST - Xeri-Spray - Adjustable Mister</title>
+    <s:type>Drip Emitters</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12323__17011.1516141912.1280.1280.jpg?v=1571715653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Drip Emitters<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Xeri-Spray - Full-Circle Spray (360 Degree)</span><br></p>
+<ul>
+<li>Adjust flow/radius by turning integral ball valve</li>
+<li>Uniform emission pattern provides excellent distribution</li>
+<li>10-32 self-tapping threads fit into 1/2 in. x 10-32 adapter (10-32A); 1800 Xeri-Bubbler adapter (XBA-1800); and polyflex riser (PFR-12)</li>
+<li>Ideal for ground cover, mass plantings, annual flower beds, and containers </li>
+</ul>
+<div class="sku">Uniform emission pattern provides excellent distribution, ideal for ground cover, mass plantings, annual flower beds and containers.</div>
+<div class="sku"><br></div>
+<div class="sku">
+<h3>Operating Range</h3>
+<ul>
+<li>Flow: 0 to 31 gph (0 to 117.34 l/h)</li>
+<li>Pressure: 10 to 30 psi (0.75 to 2.1 bar)</li>
+<li>Radius:<span> </span><span>0 to 13.4 feet (0 to 4.1 m)</span>
+</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/5039" target="_blank" rel="noopener noreferrer">Xeri-Sprays and Misters Performance Chart</a></strong></li>
+</ul>
+</div>
+<br>
+<div class="sku"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452732412004</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>XS360ADJMST</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452721139812</id>
+    <published>2020-08-11T14:34:48-04:00</published>
+    <updated>2020-08-11T14:34:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rainbird-sbfe-050-1-2-f-npt-x-1-2-barb-elbow"/>
+    <title>Rain Bird - SBFE-050 - 1/2&quot; FPT x 1/2&quot; Barb Elbow</title>
+    <s:type>Funny Pipe &amp; Fittings</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1491__76633.1516302961.1280.1280.jpg?v=1584809272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Funny Pipe &amp; Fittings<br>
+        <strong>Price: </strong>
+            0.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="std">1/2 in. Female NPT x 1/2 in. barb elbow<br><br>
+</div>
+<div class="std">
+<span>For use in conjunction with Swing Pipe as a flexible swing assembly</span><br>
+<ul>
+<li>Fittings are made of robust acetal material to make connecting swing pipe fast and easy</li>
+<li>Easy twist-in insertion; no glue or clamps needed for installation</li>
+<li>Aggressive barb lip makes a secure connection that is less likely to leak</li>
+<li>Broad range of shapes and sizes allow the contractor to choose the best fitting for the application</li>
+<li>Extended length and aggressive barb lip prevent blow outs, reducing likelihood of contractor call backs</li>
+<li><span>Not compatible with Rain Bird XF series dripline or XBS series blank drip tubing.</span></li>
+</ul>
+<div class="sku">
+<h2>Specs</h2>
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<ul>
+<li>Operating pressure: Up to 80 psi (5.5 bar)</li>
+<li>Temperature: Up to 110°F (43°C)</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/4516" target="_blank" rel="noopener noreferrer">Swing Pipe Installation Tips</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/4729" target="_blank" rel="noopener noreferrer">SPX-FLEX Series Swing Pipe Tubing and Fittings Tech Spec</a></strong></li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Funny Pipe</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452721139812</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.48</s:price>
+      <s:sku>SBFE-050</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452712652900</id>
+    <published>2020-08-11T14:34:47-04:00</published>
+    <updated>2020-08-11T14:34:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-r-van14-8-14-ft-adjustable-rotary-nozzle-45-to-270-degree"/>
+    <title>Rain Bird - R-VAN14 - 8&apos;-14&apos; Adjustable Rotary Nozzle (45 to 270 Degree)</title>
+    <s:type>Rotary Nozzles</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12404__11628.1516141912.1280.1280.jpg?v=1571715652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Rotary Nozzles<br>
+        <strong>Price: </strong>
+            4.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8 - 14 Adjustable R-Van Rotary Nozzle</p>
+<p>Rotary Nozzles provide unsurpassed design flexibility and highly efficient water distribution from 8 to 14 feet. Rain Bird Rotary Nozzles help reduce water waste and make it easier to design systems.</p>
+<p>The Rotary Nozzle is a truly remarkable innovation with a low precipitation rate, highly uniform distribution, and increased radius range, all in a nozzle which fits on a Rain Bird spray head.</p>
+<div>
+<p><strong>Features / Benefits</strong></p>
+<ul>
+<li>Fewer zones, faster installs - System complexity and cost are reduced because more heads can be installed per zone. Rotary Nozzles can also be zoned with Rain Bird 5000/5000 Plus MPR Rotor Nozzles.</li>
+<li>Efficient water distribution - multiple rotating streams deliver close-in watering and even coverage throughout the radius range. The low precipitation rate significantly reduces wasteful run-off and erosion</li>
+<li>Ultimate retrofit solution - low flow rate and an expanded radius of throw solve existing spray zone inefficiencies caused by diminished pressure or stretched spacing.</li>
+<li>Low precipitation rate - 0.60 in/hr (15,2 mm/hr) - reduces run-off and erosion.</li>
+<li>Flow Rate - .39 - 1.17 GPM</li>
+<li>Multiple, rotating streams uniformly distribute water throughout the radius range.</li>
+<li>Matched precipitation rate across radii and pattern simplify the design process.</li>
+<li>With approximately 60% less flow than conventional spray nozzles, Rotary Nozzles allow more heads per zone, reducing overall system complexity and cost.</li>
+<li>Female Thread Rotary Nozzle</li>
+</ul>
+<p><strong>Specs</strong></p>
+<ul>
+<li>Pressure range: 20 - 55 psi</li>
+<li>Recommended Operating Pressure: 45 psi (3.1 bar)</li>
+<li>Spacing: 8 to 14 (based on zero wind conditions)</li>
+<li>The Rotary Nozzle shall have multiple arced streams and have a matched precipitation rate of 0.60 in/hr.</li>
+<li>The Rotary Nozzle shall be constructed of UV-resistant plastic. The radius adjustment screw shall be of stainless steel.</li>
+<li>Adjustments: Arc and radius should be adjusted while water is running</li>
+</ul>
+<p><strong>Manuals and Literature</strong></p>
+<ul>
+<li><span style="text-decoration: underline;"><a href="https://www.rainbird.com/media/5917" target="_blank" rel="noopener noreferrer">Nozzle Performance Data</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://www.rainbird.com/media/5915" target="_blank" rel="noopener noreferrer">R-Van Sell Sheet</a></span></li>
+</ul>
+<p><span style="text-decoration: underline;"><iframe width="600" height="400" src="https://www.youtube.com/embed/VtTg0LodNzQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Sprinkler Nozzles</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRODUCT TYPE_Rotary Nozzles</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452712652900</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.72</s:price>
+      <s:sku>R-VAN14</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452693712996</id>
+    <published>2020-08-11T14:34:46-04:00</published>
+    <updated>2020-08-11T14:34:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-mdcf50fpt-easy-fit-compression-fitting-system-1-2-in-female-pipe-thread-adapter"/>
+    <title>Rain Bird - MDCF50FPT - 1/2&apos;&apos; Female Pipe Thread Adapter - Easy Fit Compression Fitting System</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12277__42046.1516141908.1280.1280_f407a51b-69b9-4cfe-a6ad-e13e034e308c.jpg?v=1571715652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            1.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy Fit Compression Fitting System - 1/2 in. Female Pipe Thread Adapter</p>
+<div id="tab_features">
+<div class="field field--name-field-features-full field--type-text-long field--label-hidden field__item">
+<ul>
+<li>Reduces inventory costs: Multi-diameter compression fittings work with a wide range of 16mm - 17mm tubing or dripline</li>
+<li>Saves time and effort: 50% less force is required to connect tubing and fittings versus competitive compression fittings. Adapters swivel for easy installation</li>
+<li>Provides increased flexibility: Just three Easy Fit Fittings and five Easy Fit Adapters are needed to make over 160 combinations of connections, accommodating countless installation and maintenance situations</li>
+<li>Works with all 16-17mm dripline and blank tubing</li>
+<li>Patented fittings and adapters are molded from UV-resistant and durable ABS materials</li>
+<li>Removable flush caps can be used to flush end of line and temporarily cap off lines for later expansion</li>
+<li>Not recommended with subsurface irrigation</li>
+</ul>
+<p><em><strong>Note:</strong><span> </span><span style="text-decoration: underline;">Easy Fit Adapters are not barbed fittings. They are to be used only with Easy Fit Compression Fittings.</span></em></p>
+<p>Complete system of compression fittings and adapters for all tubing connection needs in a low-volume system.</p>
+</div>
+</div>
+<div id="tab_specs">
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<h3>Operating Range</h3>
+<ul>
+<li>Pressure: 0 to 60 psi (0 to 4.1 bar)</li>
+<li>Accepts tubing with an O.D. of 0.630" to 0.669" (16-17mm)</li>
+<li>Recommended for use above surface only</li>
+</ul>
+</div>
+</div>
+<div class="sku"></div>
+<p><strong>Reduces inventory costs</strong>: Multi-diameter compression fittings work with a wide range of 1/2" polyethylene tubing sizes (0.630" to 0.669" or 16mm - 17mm outside diameter).</p>
+<p><strong>Saves time and effort</strong>: 50% less force is required to connect tubing and fittings versus competitive compression fittings. Adapters swivel for easy installation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452693712996</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.24</s:price>
+      <s:sku>MDCF50FPT</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452743159908</id>
+    <published>2020-07-27T16:24:06-04:00</published>
+    <updated>2020-07-27T16:24:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-xp600x-6-in-xeri-pop-micro-spray"/>
+    <title>Rain Bird - XP600X - 6&apos;&apos; Xeri-Pop Micro-Spray</title>
+    <s:type>Spray Heads</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1525__77816.1516141903.1280.1280.jpg?v=1571715654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Spray Heads<br>
+        <strong>Price: </strong>
+            6.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 in. Xeri-Pop Micro-Spray</p>
+<ul>
+<li>The Xeri-Pop can operate with 20 to 50 psi base pressure when water is supplied via 1/4 in. Distribution Tubing (XQ)</li>
+<li>The flexibility of 1/4 in. tubing allows the Xeri-Pop to be easily located and relocated as planting conditions dictate</li>
+<li>A durable, plastic snap-collar secures the 1/4 in. tubing to the outside of the Xeri-Pop case</li>
+<li>The Xeri-Pops 1/4 in. Distribution Tubing can readily connect to 1/2 in. or 3/4 in. polyethylene tubing or to a multi-outlet manifold (EMT-6XERI)</li>
+<li>External parts are UV-resistant</li>
+</ul>
+<div class="sku">
+<h3 class="product-title"><span>Xeri-Pop Micro-Spray</span></h3>
+<ul>
+<li><span>The Xeri-Pop micro-spray makes it easy to integrate a durable micro-spray into a low-volume drip irrigation design.</span></li>
+<li><span>The only pop-up spray that works in low-volume low-pressure application, and this is the perfect solution to vandal-prone areas.</span></li>
+<li><span>Xeri-Pops can be installed and located in nearly any location and are ideal for small, odd-shaped planting beds; the 12" version is perfect for annual flower beds.</span></li>
+<li><span>Xeri-Pops work with Rain Bird 5 and 8 MPR nozzles and SQ Series Nozzles ” nozzles with square spray patterns and adjustable throws of 2.5 and 4.</span></li>
+</ul>
+<div id="tab_features">
+<h2>Features</h2>
+<div class="field field--name-field-features-full field--type-text-long field--label-hidden field__item">
+<ul>
+<li>The only pop-up spray that works in low-volume low-pressure application, and this is the perfect solution to vandal-prone areas</li>
+<li>Xeri-Pops can be installed and located in nearly any location and are ideal for small, odd-shaped planting beds; the 12" version is perfect for annual flower beds</li>
+<li>Xeri-Pops work with Rain Bird 5 and 8 MPR nozzles and SQ Series Nozzles ” nozzles with square spray patterns and adjustable throws of 2.5 and 4</li>
+<li>The Xeri-Pop can operate with 20 to 50 psi base pressure when water is supplied via 1�„4" Distribution Tubing (XQ)</li>
+<li>The flexibility of 1�„4" tubing allows the Xeri-Pop to be easily located and relocated as planting conditions dictate</li>
+<li>A durable, plastic snap-collar (on 4" and 6" models) secures the 1�„4" tubing to the outside of the Xeri-Pop case</li>
+<li>The Xeri-Pops 1�„4" Distribution Tubing can readily connect to 1�„2" or 3�„4" polyethylene tubing or to a multi-outlet manifold (EMT-6XERI). Connections to polyethylene tubing are accomplished with either an SPB-025 1�„4" Self-piercing barb Connector or an XBF1CONN 1�„4" barb Connector</li>
+</ul>
+</div>
+</div>
+<div id="tab_specs">
+<div class="field field--name-field-specs field--type-text-long field--label-hidden field__item">
+<h3>Operating Range</h3>
+<ul>
+<li>Pressure: 20 to 50 psi (1.4 to 3.5 bar)</li>
+<li>Filtration: Depends on nozzle used with Xeri-Pop</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/5082" target="_blank" rel="noopener noreferrer">XP Series Xeri-Pops Technical Specifications</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/5015" target="_blank" rel="noopener noreferrer">Low Volume Spray irrigation Solutions Sell Sheet</a></strong></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sku"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452743159908</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.24</s:price>
+      <s:sku>XP600X</s:sku>
+      <s:grams>111</s:grams>
+    </s:variant>
+  </entry>
+</feed>

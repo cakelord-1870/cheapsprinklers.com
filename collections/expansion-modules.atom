@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/expansion-modules.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2020-12-22T11:33:24-05:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4992156139622</id>
+    <published>2020-12-22T11:33:24-05:00</published>
+    <updated>2020-12-22T11:33:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/weathermatic-12-zone-expansion-module-for-sl1600-slm12-1600"/>
+    <title>Weathermatic - 12-Zone Expansion Module for SL1600 &amp; PL1600 - SLM12-1600</title>
+    <s:type>Expansion Modules</s:type>
+    <s:vendor>Weathermatic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/s_l_slm12.jpg?v=1608654761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weathermatic<br>
+        <strong>Type: </strong>Expansion Modules<br>
+        <strong>Price: </strong>
+            139.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>12-Zone Module for PL1600 &amp; SL1600 ONLY. </span></p>
+<ul>
+<li><span>Adds 12 stations to the Weathermatic PL1600 &amp; SL1600 Controller/Timer.</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Weathermatic</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4992156139622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">139.98</s:price>
+      <s:sku>SLM12-1600</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4944502456422</id>
+    <published>2020-10-07T10:47:18-04:00</published>
+    <updated>2020-10-07T10:47:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-pcm-1600-kit-upgrade-kit-for-16-station-plug-in-module"/>
+    <title>Hunter - PCM-1600-KIT - Upgrade Kit for 16-station Plug-in Module</title>
+    <s:type>Expansion Modules</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/PCM-1600-kit.jpg?v=1602082039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Expansion Modules<br>
+        <strong>Price: </strong>
+            219.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Pro-C controller is supplied with a base 4-station module. Additional modules may be added separately in increments of 3 stations (PCM-300), 9 stations (PCM-900), or 16 stations (PCM-1600). In total, the system may be expanded up to 23 stations.</p>
+<p><strong>NOTE</strong>: To expand your controller to 16 or 23 stations with a PCM-900 or PCM-1600, respectively, install one PCM-300 in the first expansion slot (stations 5–7). Then install the PCM-900 or PCM-1600 in the upper two expansion slots. These modules will not fit or operate in any other station output slot.</p>
+<ul>
+<li>This Kit contains 1 x PCM-1600 module and a new Pro-C Faceplate that allows for 23 station programming ability.</li>
+</ul>
+<p><strong>﻿Manuals and Literature</strong></p>
+<ul>
+<li>
+<a href="https://www.hunterindustries.com/sites/default/files/rc-138-ig-pcm-1600-us-web.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">﻿PCM-1600 Installation Guide</span></a><b><br></b>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4944502456422</id>
+      <title>Default Title</title>
+      <s:price currency="USD">219.98</s:price>
+      <s:sku>PCM1600KIT</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4944490791014</id>
+    <published>2020-10-07T10:08:13-04:00</published>
+    <updated>2020-10-07T10:08:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-pcdmkit-upgrade-kit-for-ez-decoder-output-module"/>
+    <title>Hunter - PCDMKIT - Upgrade Kit for EZ Decoder Output Module</title>
+    <s:type>Expansion Modules</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/PCDMKIT.jpg?v=1602079693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Expansion Modules<br>
+        <strong>Price: </strong>
+            224.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The PC-DM-KIT includes a PC-DM decoder output module for use with EZ-1 decoders. Plug the PC-DM into a PC-400 to enable up to 32 total stations (+P/MV) on a single pair of wires. The higher station counts provided by these kits make the Pro-C controller a flexible and affordable fit for residential and light commercial projects. The kits are compatible with modular PC-400 models manufactured since February 2020.</span></p>
+<h4>Manuals and Literature<br>
+</h4>
+<ul>
+<li><a href="https://www.hunterindustries.com/sites/default/files/rc-138-ig-pcdm-us-web.pdf" target="_blank"><span style="text-decoration: underline;">PC-DM Installation Guide</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4944490791014</id>
+      <title>Default Title</title>
+      <s:price currency="USD">224.98</s:price>
+      <s:sku>PCDMKIT</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4922276806758</id>
+    <published>2020-09-10T10:50:39-04:00</published>
+    <updated>2020-09-10T10:50:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-icm-2200-22-station-i-core-expansion-module"/>
+    <title>Hunter - ICM-2200 - 22 Station I-Core Expansion Module</title>
+    <s:type>Expansion Modules</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/image_e47e2815-0e1e-4413-a27c-4871e0386bb8.jpg?v=1599749595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Expansion Modules<br>
+        <strong>Price: </strong>
+            234.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<ul>
+<li>22-Station Module</li>
+<li>For adding stations to base controller</li>
+<li>Plug-in Expansion</li>
+<li>Hunter ICM800</li>
+<li>CAN ONLY BE USED IN A METAL CABINET ICC2</li>
+</ul>
+<p>ICC2 can run any two of its four automatic programs simultaneously. The ICC2 facepack and station output modules (with enhanced surge protection) are compatible with the original ICC controllers, in four and eight station increments. An optional expansion module allows up to 54 stations in ICC2 metal enclosures and 38 stations in plastic enclosures.</p>
+<p><strong>Documents:</strong></p>
+<ul>
+<li>
+<strong></strong><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-icc2-doorcard-metal-press-us.pdf?5513457536982126580" target="_blank" title="ICM600 DOOR CARD" rel="noopener noreferrer">Door Card</a></span>
+</li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-icc2-wc-3.5x2.5-us-web.pdf?5513457536982126580" target="_blank" title="ICM600 WALLET CARD" rel="noopener noreferrer">Wallet Card</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-ig-icc2.pdf?5513457536982126580" target="_blank" title="ICM600 INSTALLATION GUIDE" rel="noopener noreferrer">Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-qg-icc2-us-a3-web.pdf?5513457536982126580" target="_blank" title="ICM600 QUICK START PROGRAMMING GUIDE" rel="noopener noreferrer">Quick Start Programming Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-br-icc-upgradekit-web.pdf?5513457536982126580" target="_blank" title="ICM600 RETROFIT MANUAL" rel="noopener noreferrer">ICC to ICC2 Retrofit Manual</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-004-ig-acc-plastic-ped-us-web.pdf?5513457536982126580" target="_blank" title="ICM600 PP INSTALLATION GUIDE" rel="noopener noreferrer">Plastic Pedestal Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-om-icc2-us-web.pdf?5513457536982126580" target="_blank" title="ICM600 OWNER MANUAL" rel="noopener noreferrer">Owners Manual</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-br-icc2-us.pdf?5513457536982126580" target="_blank" title="ICM600 BROCHURE" rel="noopener noreferrer">Brochure</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/CA-Cutsheet-ICC2-US.pdf?5513457536982126580" target="_blank" title="ICM600 SUBMITTAL SHEET" rel="noopener noreferrer">Submittal Sheet</a></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4922276806758</id>
+      <title>Default Title</title>
+      <s:price currency="USD">234.99</s:price>
+      <s:sku>ICM2200</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4922276151398</id>
+    <published>2020-09-10T10:49:09-04:00</published>
+    <updated>2020-09-10T10:49:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-icm-800-8-station-i-core-expansion-module"/>
+    <title>Hunter - ICM-800 - 8 Station I-Core Expansion Module</title>
+    <s:type>Expansion Modules</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/image_4e75ed64-54d2-435d-830d-edf6201195a2.jpg?v=1599749403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Expansion Modules<br>
+        <strong>Price: </strong>
+            119.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<ul>
+<li>8-Station Module</li>
+<li>For adding stations to base controller</li>
+<li>Plug-in Expansion</li>
+<li>Hunter ICM800</li>
+</ul>
+<p>ICC2 can run any two of its four automatic programs simultaneously. The ICC2 facepack and station output modules (with enhanced surge protection) are compatible with the original ICC controllers, in four and eight station increments. An optional expansion module allows up to 54 stations in ICC2 metal enclosures and 38 stations in plastic enclosures.</p>
+<p><strong>Documents:</strong></p>
+<ul>
+<li>
+<strong></strong><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-icc2-doorcard-metal-press-us.pdf?5513457536982126580" target="_blank" title="ICM600 DOOR CARD" rel="noopener noreferrer">Door Card</a></span>
+</li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-icc2-wc-3.5x2.5-us-web.pdf?5513457536982126580" target="_blank" title="ICM600 WALLET CARD" rel="noopener noreferrer">Wallet Card</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-ig-icc2.pdf?5513457536982126580" target="_blank" title="ICM600 INSTALLATION GUIDE" rel="noopener noreferrer">Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-qg-icc2-us-a3-web.pdf?5513457536982126580" target="_blank" title="ICM600 QUICK START PROGRAMMING GUIDE" rel="noopener noreferrer">Quick Start Programming Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-br-icc-upgradekit-web.pdf?5513457536982126580" target="_blank" title="ICM600 RETROFIT MANUAL" rel="noopener noreferrer">ICC to ICC2 Retrofit Manual</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-004-ig-acc-plastic-ped-us-web.pdf?5513457536982126580" target="_blank" title="ICM600 PP INSTALLATION GUIDE" rel="noopener noreferrer">Plastic Pedestal Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-om-icc2-us-web.pdf?5513457536982126580" target="_blank" title="ICM600 OWNER MANUAL" rel="noopener noreferrer">Owners Manual</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-br-icc2-us.pdf?5513457536982126580" target="_blank" title="ICM600 BROCHURE" rel="noopener noreferrer">Brochure</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/CA-Cutsheet-ICC2-US.pdf?5513457536982126580" target="_blank" title="ICM600 SUBMITTAL SHEET" rel="noopener noreferrer">Submittal Sheet</a></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4922276151398</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.94</s:price>
+      <s:sku>ICM800</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2906998407268</id>
+    <published>2019-02-25T14:15:52-05:00</published>
+    <updated>2019-02-25T14:15:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/weathermatic-2-zone-expansion-module-for-pl800-slm2"/>
+    <title>Weathermatic - 2-Zone Expansion Module for PL800 - SLM2</title>
+    <s:type>Expansion Modules</s:type>
+    <s:vendor>Weathermatic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/SLM2-2T.jpg?v=1592941370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weathermatic<br>
+        <strong>Type: </strong>Expansion Modules<br>
+        <strong>Price: </strong>
+            26.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>2-Zone Module for PL800 ONLY. Adds 2 stations to the Weathermatic PL800 Controller/Timer.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Weathermatic</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2906998407268</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.44</s:price>
+      <s:sku>SLM2</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2906909999204</id>
+    <published>2019-02-25T14:15:52-05:00</published>
+    <updated>2019-02-25T14:15:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/weathermatic-4-zone-expansion-module-for-sl1600-slm4"/>
+    <title>Weathermatic - 4-Zone Expansion Module for SL1600/PL1600 - SLM4</title>
+    <s:type>Expansion Modules</s:type>
+    <s:vendor>Weathermatic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/SLM4-2T.jpg?v=1592941258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weathermatic<br>
+        <strong>Type: </strong>Expansion Modules<br>
+        <strong>Price: </strong>
+            41.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>4-Zone Module for PL1600 &amp; SL1600 ONLY. Adds 4 stations to the Weathermatic PL1600 &amp; SL1600 Controller/Timer.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Weathermatic</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2906909999204</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.24</s:price>
+      <s:sku>SLM4</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2906860879972</id>
+    <published>2019-02-25T14:15:52-05:00</published>
+    <updated>2019-02-25T14:15:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/weathermatic-12-zone-expansion-module-for-sl4800-slm12"/>
+    <title>Weathermatic - 12-Zone Expansion Module for SL4800 &amp; PL4800 - SLM12-4800</title>
+    <s:type>Expansion Modules</s:type>
+    <s:vendor>Weathermatic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/SLM12-2T.jpg?v=1592939337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weathermatic<br>
+        <strong>Type: </strong>Expansion Modules<br>
+        <strong>Price: </strong>
+            139.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>12-Zone Module for PL4800 &amp; SL4800 ONLY. </span></p>
+<ul>
+<li><span>Adds 12 stations to the Weathermatic PL4800 &amp; SL4800 Controller/Timer.</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Weathermatic</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2906860879972</id>
+      <title>Default Title</title>
+      <s:price currency="USD">139.98</s:price>
+      <s:sku>SLM12-4800</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452679000164</id>
+    <published>2019-01-19T00:46:32-05:00</published>
+    <updated>2019-01-19T00:46:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-espsm6-6-station-expansion-module-for-esp-me-and-esp-smte-series-timers"/>
+    <title>Rain Bird - ESPSM6 - 6-Station Expansion Module for ESP-Me Controller</title>
+    <s:type>Expansion Modules</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-564__53541.1516141897.1280.1280_696a8a7c-ff95-4612-a870-a0c6b71fbe81.jpg?v=1571715651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Expansion Modules<br>
+        <strong>Price: </strong>
+            67.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description">
+<div class="std">Adds six additional stations to Rain Bird residential modular controllers<br>
+<ul>
+<li>Hot-swappable 6-station expansion module can be installed without powering down the controller</li>
+<li>Compatible with Rain Bird ESP-Me and ESP-SMTe series irrigation controllers only</li>
+<li><strong><span>NOTE: Not compatible with older style ESP-Modular or ESP-SMT series controllers</span></strong></li>
+<li>Can be installed in any available slot</li>
+</ul>
+</div>
+</div>
+<div class="sku"><span><span>Easily expand your Rain Bird ESP-Me or ESP-SMTe Series Controller with this 6 station hot-swappable module, which can be added without powering down the controller. Modules can be installed in any available slot.</span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$40-60</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452679000164</id>
+      <title>Default Title</title>
+      <s:price currency="USD">67.93</s:price>
+      <s:sku>ESPSM6</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452678672484</id>
+    <published>2019-01-19T00:46:31-05:00</published>
+    <updated>2019-01-19T00:46:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-espsm3-3-station-expansion-module-for-esp-m-esp-me-esp-smt-and-esp-smte-series-timers"/>
+    <title>Rain Bird - ESPSM3 - 3-Station Expansion Module for ESP-Me Controller</title>
+    <s:type>Expansion Modules</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-565__46178.1516141897.1280.1280_930d7cf1-30c0-4762-87d9-52eb24dc1ff2.jpg?v=1571715651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Expansion Modules<br>
+        <strong>Price: </strong>
+            35.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="short-description">
+<div class="std">Adds three additional stations to Rain Bird residential modular controllers<br>
+<ul>
+<li>Hot-swappable 3-station expansion module can be installed without powering down the controller</li>
+<li>Compatible with Rain Bird ESP-M, ESP-Me, ESP-SMT and ESP-SMTe series irrigation controllers</li>
+<li>Can be installed in any available slot </li>
+</ul>
+</div>
+</div>
+<div class="sku"><span><span>Easily expand your Rain Bird ESP-Modular, ESP-Me, ESP-SMT or ESP-SMTe Series Controller with this 3 station hot-swappable module, which can be added without powering down the controller. Modules can be installed in any available slot.</span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452678672484</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.39</s:price>
+      <s:sku>ESPSM3</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452678017124</id>
+    <published>2019-01-19T00:46:29-05:00</published>
+    <updated>2019-01-19T00:46:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-esplxmsm8-8-station-output-module"/>
+    <title>Rain Bird - ESPLXMSM8 - 8-Station Expansion Module for ESP-LX Series Controllers</title>
+    <s:type>Expansion Modules</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-566__47476.1516141897.1280.1280_d29ed588-f2bc-4654-bebf-472841006a80.jpg?v=1571715651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Expansion Modules<br>
+        <strong>Price: </strong>
+            114.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rain Bird - ESPLXMSM8 - 8-Station Output Module</p>
+<ul>
+<li>Adds eight additional stations to Rain Bird ESP-LX Series modular controllers</li>
+<li>Hot-swappable 8-station expansion module can be installed without powering down the controller</li>
+<li>Compatible with Rain Bird ESP-LXME, ESP-LXMEF and ESP-LX Basic series irrigation controllers</li>
+<li>Can be installed in any available slot</li>
+</ul>
+<p>Easily expand your Rain Bird ESP-LXME or ESP-LX Basic Series Controller with this 8 station hot-swappable module, which can be added without powering down the controller. Modules can be installed in any available slot.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452678017124</id>
+      <title>Default Title</title>
+      <s:price currency="USD">114.45</s:price>
+      <s:sku>ESPLXMSM8</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452677558372</id>
+    <published>2019-01-19T00:46:27-05:00</published>
+    <updated>2019-01-19T00:46:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-esplxmsm12-12-station-expansion-module-for-esp-lx-series-controllers"/>
+    <title>Rain Bird - ESPLXMSM12 - 12-Station Expansion Module for ESP-LX Series Controllers</title>
+    <s:type>Expansion Modules</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/e_s_esplxmsm12_a01-1.jpg?v=1624632882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Expansion Modules<br>
+        <strong>Price: </strong>
+            195.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adds twelve additional stations to Rain Bird ESP-LX Series modular controllers</p>
+<ul>
+<li>Hot-swappable 12-station expansion module can be installed without powering down the controller</li>
+<li>Compatible with Rain Bird ESP-LXME, ESP-LXMEF and ESP-LX Basic series irrigation controllers</li>
+<li>Can be installed in any available slot</li>
+</ul>
+<div class="sku"><span>Easily expand your Rain Bird ESP-LXME or ESP-LX Basic Series Controller with this 12 station hot-swappable module, which can be added without powering down the controller. Modules can be installed in any available slot.</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452677558372</id>
+      <title>Default Title</title>
+      <s:price currency="USD">195.95</s:price>
+      <s:sku>ESPLXMSM12</s:sku>
+      <s:grams>275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452402536548</id>
+    <published>2019-01-19T00:29:46-05:00</published>
+    <updated>2019-01-19T00:29:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/k-rain-pro-ex-2-0-4-zone-module-3205"/>
+    <title>K-Rain - 3205 - Pro EX 2.0, 4 Zone Module</title>
+    <s:type>Expansion Modules</s:type>
+    <s:vendor>K-Rain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-3205_1__81562.1533324428.1280.1280.jpg?v=1571715637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K-Rain<br>
+        <strong>Type: </strong>Expansion Modules<br>
+        <strong>Price: </strong>
+            27.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4 Station expansion module for the Pro EX 2.0 Modular Irrigation Controller.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_K-Rain</s:tag>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452402536548</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.24</s:price>
+      <s:sku>3205</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452309606500</id>
+    <published>2019-01-19T00:24:13-05:00</published>
+    <updated>2019-01-19T00:24:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-pcm-900-9-station-expansion-module-for-pro-c-timer"/>
+    <title>Hunter - PCM-900 - 9 Station Expansion Module for Pro-C Controller</title>
+    <s:type>Expansion Modules</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-982__26006.1516313486.1280.1280.jpg?v=1571715618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Expansion Modules<br>
+        <strong>Price: </strong>
+            105.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This is a MODULE ONLY - Use as an add-on to your existing Irrigation Controller - Adds 9 stations to your existing Irrigation Controller. <span>Use to increase station count from 7 to 16 only.</span></strong></p>
+<p><em><strong>**</strong></em><span style="text-decoration: underline;"><em><strong>IMPORTANT</strong></em></span>: The PCM-900 will not work in the PRO-C Series without an additional <a href="https://cheapsprinklers.com/products/hunter-pcm-300-3-station-expansion-module-for-pro-c-timer?_pos=1&amp;_sid=ee2f56d58&amp;_ss=r">PCM-300</a> module. The PRO-C irrigation controller is equipped with a 3 station expansion module; however, an additional 3 station module is required to activate the PCM-900.</p>
+<p>The Hunter Pro-C Series Controller is customizable from 3 to 15 stations, and is considered Hunters best-selling irrigation controller. This full-featured series offers 3 programs with multiple start times as well as "one touch" manual start and rapid advance, independent day scheduling options, superior surge protection and a heavy-duty plastic cabinet. The Hunter Pro-C Series Controller delivers maximum flexibility in a modular form. No wonder it is the choice for so many landscapes!</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452309606500</id>
+      <title>Default Title</title>
+      <s:price currency="USD">105.98</s:price>
+      <s:sku>PCM900</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452309475428</id>
+    <published>2019-01-19T00:24:12-05:00</published>
+    <updated>2019-01-19T00:24:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-pcm-300-3-station-expansion-module-for-pro-c-timer"/>
+    <title>Hunter - PCM-300 - 3 Station Expansion Module for Pro-C Controller</title>
+    <s:type>Expansion Modules</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-pcm-300_1__19056.1516302955.1280.1280.jpg?v=1571715618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Expansion Modules<br>
+        <strong>Price: </strong>
+            33.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This is a MODULE ONLY - Use as an add-on to your existing Irrigation Controller - Adds 3 stations to your existing Irrigation Controller. <span>Use to increase station count from 4 to 7, 7 to 10, and 10 to 13</span></strong></p>
+<p>The Hunter Pro-C Series Controller is customizable from 3 to 15 stations, and is considered Hunters best-selling irrigation controller. This full-featured series offers 3 programs with multiple start times as well as "one touch" manual start and rapid advance, independent day scheduling options, superior surge protection and a heavy-duty plastic cabinet. The Hunter Pro-C Series Controller delivers maximum flexibility in a modular form. No wonder it is the choice for so many landscapes!</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452309475428</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.74</s:price>
+      <s:sku>PCM300</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452302889060</id>
+    <published>2019-01-19T00:23:48-05:00</published>
+    <updated>2019-01-19T00:23:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-icm-600-i-core-6-station-sprinkler-timer-expansion-module"/>
+    <title>Hunter - ICM-600 - 6 Station I-Core Expansion Module</title>
+    <s:type>Expansion Modules</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-icore_exp_module__31407.1516302955.1280.1280.jpg?v=1571715617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Expansion Modules<br>
+        <strong>Price: </strong>
+            79.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<ul>
+<li> 6-Station Module</li>
+<li>For adding stations to base controller</li>
+<li>Plug-in Expansion</li>
+<li>Hunter ICM600</li>
+</ul>
+<p>ICC2 can run any two of its four automatic programs simultaneously. The ICC2 facepack and station output modules (with enhanced surge protection) are compatible with the original ICC controllers, in four and eight station increments. An optional expansion module allows up to 54 stations in ICC2 metal enclosures and 38 stations in plastic enclosures.</p>
+<p><strong>Documents:</strong></p>
+<ul>
+<li>
+<strong></strong><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-icc2-doorcard-metal-press-us.pdf?5513457536982126580" target="_blank" title="ICM600 DOOR CARD" rel="noopener noreferrer">Door Card</a></span>
+</li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-icc2-wc-3.5x2.5-us-web.pdf?5513457536982126580" target="_blank" title="ICM600 WALLET CARD" rel="noopener noreferrer">Wallet Card</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-ig-icc2.pdf?5513457536982126580" target="_blank" title="ICM600 INSTALLATION GUIDE" rel="noopener noreferrer">Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-qg-icc2-us-a3-web.pdf?5513457536982126580" target="_blank" title="ICM600 QUICK START PROGRAMMING GUIDE" rel="noopener noreferrer">Quick Start Programming Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-br-icc-upgradekit-web.pdf?5513457536982126580" target="_blank" title="ICM600 RETROFIT MANUAL" rel="noopener noreferrer">ICC to ICC2 Retrofit Manual</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/rc-004-ig-acc-plastic-ped-us-web.pdf?5513457536982126580" target="_blank" title="ICM600 PP INSTALLATION GUIDE" rel="noopener noreferrer">Plastic Pedestal Installation Guide</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-om-icc2-us-web.pdf?5513457536982126580" target="_blank" title="ICM600 OWNER MANUAL" rel="noopener noreferrer">Owners Manual</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/lit-666-br-icc2-us.pdf?5513457536982126580" target="_blank" title="ICM600 BROCHURE" rel="noopener noreferrer">Brochure</a></span></li>
+<li><span style="text-decoration: underline;"><a href="https://cdn.shopify.com/s/files/1/1987/5531/files/CA-Cutsheet-ICC2-US.pdf?5513457536982126580" target="_blank" title="ICM600 SUBMITTAL SHEET" rel="noopener noreferrer">Submittal Sheet</a></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Controllers &amp; Timers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Modules &amp; Remotes</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452302889060</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.78</s:price>
+      <s:sku>ICM600</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+  </entry>
+</feed>

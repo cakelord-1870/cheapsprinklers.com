@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/drip-tools.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2021-01-20T09:56:02-05:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4710987726950</id>
+    <published>2021-01-20T09:56:02-05:00</published>
+    <updated>2021-01-20T09:56:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-pop-up-indicator-24-x-12-dspi-12b-1"/>
+    <title>DIG - 12&apos;&apos; Pop-Up Indicator w/ 24&quot; Micro Tubing and 1/4&apos;&apos; Barb - DSPI-12B</title>
+    <s:type>Drip Tools</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/dspi-12b.jpg?v=1592940999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tools<br>
+        <strong>Price: </strong>
+            8.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The DSPI series micro pop-up indicators are designed to provide a clear visual verification when drip irrigation valves are open. The DSPI series popup indicator utilizes a double seal and an extra-large red color indicator which pops up when a drip irrigation system is pressurized and running.</p>
+<strong>Features and Benefits</strong><span></span>
+<ul>
+<li>Large red color indicator is clearly visible from a distance</li>
+<li>Unique design incorporates a pressure activated, low friction, upper stem seal and a second stage piston seal to ensure reliable operation</li>
+<li>Can be installed with Excel? dripline, poly tubing, PVC or used with any drip irrigation system</li>
+<li>Ideal for sub surface systems and densely planted sites</li>
+<li>Rugged materials can withstand adverse conditions</li>
+</ul>
+<strong>Specifications</strong><span></span>
+<ul>
+<li>Operating Pressure: 15-35 PSI (1-2.4 BAR)</li>
+<li>Nominal Operating Pressure: 30 PSI (2.1 BAR)</li>
+<li>Pop Up Indicator Height: &gt; 12" (30.5 cm) retracted to 21" (53.34 cm) extended</li>
+</ul>
+<strong>Materials</strong><span></span>
+<ul>
+<li>Cylinder: Polyethylene</li>
+<li>Housing: Acetal</li>
+<li>O-ring: Buna-N</li>
+<li>Spring: Stainless steel 304</li>
+<li>Red flag: High impact plasticwith UV</li>
+<li>Black sleeve: High impact plastic with UV</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4710987726950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.45</s:price>
+      <s:sku>DSPI-12B</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4710987661414</id>
+    <published>2021-01-20T09:45:44-05:00</published>
+    <updated>2021-01-20T09:45:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-pop-up-indicator-1-2-x-12-dspi-13"/>
+    <title>DIG - 12&apos;&apos; Pop-Up Indicator w/ 1/2&apos;&apos; MPT - DSPI-12</title>
+    <s:type>Drip Tools</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/dspi-12.jpg?v=1592941017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tools<br>
+        <strong>Price: </strong>
+            7.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The DSPI series micro pop-up indicators are designed to provide a clear visual verifi cation when drip irrigation valves are open. The DSPI series popup indicator utilizes a double seal and an extra-large red color indicator which pops up when a drip irrigation system is pressurized and running.</p>
+<strong>Features and Benefits</strong><span></span>
+<ul>
+<li>Large red color indicator is clearly visible from a distance</li>
+<li>Unique design incorporates a pressure activated, low friction, upper stem seal and a second stage piston seal to ensure reliable operation</li>
+<li>Can be installed with Excel dripline, poly tubing, PVC or used with any drip irrigation system</li>
+<li>Ideal for sub surface systems and densely planted sites</li>
+<li>Rugged materials can withstand adverse conditions</li>
+</ul>
+<strong>Specifications</strong><span></span>
+<ul>
+<li>Operating Pressure: 15-35 PSI (1-2.4 BAR)</li>
+<li>Nominal Operating Pressure: 30 PSI (2.1 BAR)</li>
+<li>Pop Up Indicator Height: &gt; 12" (30.5 cm) retracted to 21" (53.34 cm) extended</li>
+</ul>
+<strong>Materials</strong><span></span>
+<ul>
+<li>Cylinder: Polyethylene</li>
+<li>Housing: Acetal</li>
+<li>O-ring: Buna-N</li>
+<li>Spring: Stainless steel 304</li>
+<li>Red flag: High impact plastic with UV</li>
+<li>Black sleeve: High impact plastic with UV</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4710987661414</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.96</s:price>
+      <s:sku>DSPI-12</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5007091925094</id>
+    <published>2021-01-19T16:39:48-05:00</published>
+    <updated>2021-01-19T16:39:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-3mm-drip-deluxe-punch-tool-w-cutter-16-065"/>
+    <title>DIG - 3mm Drip Deluxe Punch Tool w/ Cutter- 16-065</title>
+    <s:type>Drip Tools</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16-065.jpg?v=1611092320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tools<br>
+        <strong>Price: </strong>
+            22.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pro Punch</strong><br><i>Easily punch holes in 1/2" poly tubing when connecting 1/4" micro tubing or drippers to the main line. Cutter will easily cut through any 1/4'' or 1/2'' Drip Irrigation Tubing</i></p>
+<h3 class="f-40 f-primary-color">Punches</h3>
+<p>DIGs drip irrigation hole punches are designed to easily punch a clean hole in any size of drip tubing for the insertion of drip emitters, micro sprinklers and 1/4" barbed fittings. The punches are designed to remove the residual debris formed as the hole is created in the drip tubing, protecting the drip emitters and micro sprinklers from plastic debris that can, over time, plug the system. The small punch is inexpensive and the deluxe gun punch is heavy duty with an optional replacement of the stainless steel pin.</p>
+<h3>Features</h3>
+<ul>
+<li>Used to puncture holes when installing drip emitters and micro sprinklers in polyethylene tubing</li>
+<li>Designed to remove the residual debris formed as the hole is created in the drip tubing</li>
+<li>Easy-grip handle constructed of durable plastic and non-corrosive materials</li>
+<li>The deluxe-pro-punch stainless steel pins can be replaced</li>
+<li>Constructed of UV-resistant, high-impact plastic</li>
+<li>The deluxe professional punch can be used for punching a large number of holes into drip tubing</li>
+</ul>
+<h3>Product specifications</h3>
+<ul>
+<li>Pin size for small punch: 1/4" with .170 OD (4 mm)</li>
+<li>Pin size for professional punch: .110 OD (3 mm)</li>
+<li>Material:
+<ul>
+<li>Handle and housing: high-impact plastic</li>
+<li>Pin: stainless steel</li>
+</ul>
+</li>
+</ul>
+<h3>About</h3>
+<p>The Palm Hole Punch and the Pro Punch are used to punch holes in any size of drip tubing for the insertion of drip emitters, micro sprinklers, 1/4" barbs and 10/32 threaded barbs.<br>When using this punch, make sure to punch the hole in the center of the drip tubing and use a paper clip or pin from time to time to remove the debris stuck inside.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Tools</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5007091925094</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.98</s:price>
+      <s:sku>16-065</s:sku>
+      <s:grams>104</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4711825047654</id>
+    <published>2020-04-03T16:44:37-04:00</published>
+    <updated>2020-04-03T16:44:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-pro-punch-with-4-mm-pin-16-045"/>
+    <title>DIG - Pro Punch w/ 4mm Pin - 16-045</title>
+    <s:type>Drip Tools</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16-045-pro-punch-4mm-pin.jpg?v=1592941176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tools<br>
+        <strong>Price: </strong>
+            19.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Features</h3>
+<ul>
+<li>Use to puncture holes when installing drippers and micro sprinklers in polyethylene tubing<br>
+</li>
+<li>Easy-grip handle constructed of durable plastic and non-corrosive materials<br>
+</li>
+<li>Pro punch and deluxe punch pins can be replaced<br>
+</li>
+<li>Deluxe punch cuts 1/2" polyethylene tubing and 1/4" distribution tubing with cutter in handle</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4711825047654</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.98</s:price>
+      <s:sku>16-045</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4198877102182</id>
+    <published>2019-10-10T16:06:39-04:00</published>
+    <updated>2019-10-10T16:06:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-3mm-drip-deluxe-punch-tool-16-035r"/>
+    <title>DIG - 3mm Drip Pro Punch Tool - 16-035R</title>
+    <s:type>Drip Tools</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16-035r.png?v=1592940850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Tools<br>
+        <strong>Price: </strong>
+            14.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pro Punch</strong><br><i>Easily punch holes in 1/2" poly tubing when connecting 1/4" micro tubing or drippers to the main line.</i></p>
+<h3 class="f-40 f-primary-color">Punches</h3>
+<p>DIGs drip irrigation hole punches are designed to easily punch a clean hole in any size of drip tubing for the insertion of drip emitters, micro sprinklers and 1/4" barbed fittings. The punches are designed to remove the residual debris formed as the hole is created in the drip tubing, protecting the drip emitters and micro sprinklers from plastic debris that can, over time, plug the system. The small punch is inexpensive and the deluxe gun punch is heavy duty with an optional replacement of the stainless steel pin.</p>
+<h3>Features</h3>
+<ul>
+<li>Used to puncture holes when installing drip emitters and micro sprinklers in polyethylene tubing</li>
+<li>Designed to remove the residual debris formed as the hole is created in the drip tubing</li>
+<li>Easy-grip handle constructed of durable plastic and non-corrosive materials</li>
+<li>The deluxe-pro-punch stainless steel pins can be replaced</li>
+<li>Constructed of UV-resistant, high-impact plastic</li>
+<li>The deluxe professional punch can be used for punching a large number of holes into drip tubing</li>
+</ul>
+<h3>Product specifications</h3>
+<ul>
+<li>Pin size for small punch: 1/4" with .170 OD (4 mm)</li>
+<li>Pin size for professional punch: .110 OD (3 mm)</li>
+<li>Material:
+<ul>
+<li>Handle and housing: high-impact plastic</li>
+<li>Pin: stainless steel</li>
+</ul>
+</li>
+</ul>
+<h3>About</h3>
+<p>The Palm Hole Punch and the Pro Punch are used to punch holes in any size of drip tubing for the insertion of drip emitters, micro sprinklers, 1/4" barbs and 10/32 threaded barbs.<br>When using this punch, make sure to punch the hole in the center of the drip tubing and use a paper clip or pin from time to time to remove the debris stuck inside.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Tools</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4198877102182</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.45</s:price>
+      <s:sku>16-035</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/3371901976676</id>
+    <published>2019-04-24T13:38:29-04:00</published>
+    <updated>2019-04-24T13:38:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/jain-1-4-punch-tool-250-series-3-6mm-ap036"/>
+    <title>Jain - 1/4&apos;&apos; Punch Tool, 250 Series, 3.6mm AP036 - 12071009</title>
+    <s:type>Drip Tools</s:type>
+    <s:vendor>Jain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/punz_n_sacabocados_expulsador_para_tubo_de_irrigaci_n_irritec_3_6mm_a5-ap036.jpg?v=1592940885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jain<br>
+        <strong>Type: </strong>Drip Tools<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Ejector Style Hole Punch used for œpunching� a hole in rigid poly tubing to insert 1/4³ barb fittings. This punch is constructed of heavy duty plastic. It creates clean, precise holes for 1/4³ barb fittings. Ejector pin quickly cleans the punch tool of debris.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Jain</s:tag>
+    <s:tag>CATEGORY_Drip Tools</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/3371901976676</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>12071009</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/3222434611300</id>
+    <published>2019-04-01T16:35:03-04:00</published>
+    <updated>2019-04-01T16:35:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/nds-drip-hose-punch-fmp08"/>
+    <title>NDS - FMP08 - Drip Hose Punch</title>
+    <s:type>Drip Tools</s:type>
+    <s:vendor>NDS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/TA-310000__29694.1493758397.1280.1280.jpg?v=1592939253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NDS<br>
+        <strong>Type: </strong>Drip Tools<br>
+        <strong>Price: </strong>
+            4.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">hole punch for 1/8" &amp; 1/4" barbed emitters</span></li>
+<li><span class="a-list-item">hole punch for 1/8" &amp; 1/4" barbed fittings</span></li>
+<li><span class="a-list-item">drip hose hole punch</span></li>
+<li><span class="a-list-item">emitter hole punch</span></li>
+<li><span class="a-list-item">poly hose punch</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_NDS</s:tag>
+    <s:tag>CATEGORY_Drip Tools</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/3222434611300</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.95</s:price>
+      <s:sku>FMP08</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/3060355432548</id>
+    <published>2019-03-14T13:15:04-04:00</published>
+    <updated>2019-03-14T13:15:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/netafim-6-staple-tls6"/>
+    <title>Netafim - 6&apos;&apos; Dripline Staple - TLS6</title>
+    <s:type>Drip Tools</s:type>
+    <s:vendor>Netafim</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/TLS6-25-1-1_400x_e469048f-8092-4686-9889-dd88188618c4.jpg?v=1592938535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Netafim<br>
+        <strong>Type: </strong>Drip Tools<br>
+        <strong>Price: </strong>
+            0.20 - 15.00
+            <a href="https://cheapsprinklers.com/products/netafim-6-staple-tls6">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Required for every 3 Feet of Tubing.</p>
+<p>6 Dripline Staples, 11 Gauge</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Netafim</s:tag>
+    <s:tag>CATEGORY_Drip Tubing &amp; Dripline</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/3060355432548</id>
+      <title>TLS6 | Sod Staple</title>
+      <s:price currency="USD">0.20</s:price>
+      <s:sku>Sod Staples</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/3060355432548</id>
+      <title>TLS6-100PK | Sod Staple 100 Pack</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>Sod Staples 100PK</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452741750884</id>
+    <published>2019-01-19T00:50:36-05:00</published>
+    <updated>2019-01-19T00:50:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-xmtool-xerigation-xeriman-all-purpose-tool"/>
+    <title>Rain Bird - XMTOOL - Xerigation Xeriman All Purpose Tool</title>
+    <s:type>Drip Tools</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-922__97753.1516141898.1280.1280.jpg?v=1571715654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Drip Tools<br>
+        <strong>Price: </strong>
+            6.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rain Bird - XMTOOL - Xerigation Xeriman All Purpose Tool</p>
+<ul>
+<li>Provides fast, easy, one-step installation of Xeri-Bug emitters, PC Modules and 1/4" barbed insert fittings</li>
+<li><span>Cuts emitter installation time</span></li>
+</ul>
+<h3>Using the Emitter Tool</h3>
+<ul>
+<li>
+<p><strong>Step 1</strong></p>
+<p>Place the Xeri-Bug Emitter on end of tool. Press barbed point into side wall of ½" Tubing.</p>
+<p>Note: The Emitter Tool also works with ¼" Barbed Couplings and with ¼" Barbed Tees.</p>
+</li>
+<li>
+<p><strong>Step 2</strong></p>
+<p>Pull tool away, leaving the Xeri-Bug Emitter embedded in tubing.</p>
+</li>
+<li>
+<p><strong>Step 3</strong></p>
+<p>Push ¼" tubing onto the Xeri-Bug Emitter.</p>
+</li>
+<li>
+<p><strong>Step 4</strong></p>
+<p>To remove Xeri-Bug Emitters, use side of tool.</p>
+</li>
+<li>
+<p><strong>Step 5</strong></p>
+<p>¼" Tubing Plugs can be used to seal holes in ½" tubing. Use bottom of Emitter Tool to insert these plugs.</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Drip Tools</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452741750884</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.80</s:price>
+      <s:sku>XMTOOL</s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452685357156</id>
+    <published>2019-01-19T00:46:59-05:00</published>
+    <updated>2019-01-19T00:46:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-fitinstool-xf-fitting-insertion-tool"/>
+    <title>Rain Bird - FITINSTOOL - XF Fitting Insertion Tool</title>
+    <s:type>Drip Tools</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12364__21040.1516141912.1280.1280_de9f4284-55fe-4be0-85a2-8085c577a225.jpg?v=1571715651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Drip Tools<br>
+        <strong>Price: </strong>
+            6.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>50% less effort required to install fittings than without a tool*</li>
+<li>Firmly locks fittings into place while inserting the Dripline</li>
+<li>Tool helps widen the dripline opening to make the fitting insertion easier</li>
+<li>Solid grip and comfortable fit in hand</li>
+</ul>
+<div class="sku"></div>
+<div class="sku">Rain Birds XF Insertion Tool assists you with installing XF Fittings in less time and with less effort. Installing fittings can be a grueling task at any job site. Not to worry, theres help. Introducing Rain Birds new XF Insertion tool. Your hands will thank you.</div>
+<div class="sku"></div>
+<div class="sku"><strong>Downloads</strong></div>
+<div class="sku">
+<ul>
+<li><strong><a href="https://www.rainbird.com/media/5034" target="_blank" rel="noopener noreferrer">XF Insertion Tool Sell Sheet</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/5055" target="_blank" rel="noopener noreferrer">XF Insertion Tool Instruction Sheet</a></strong></li>
+<li><strong><a href="https://www.rainbird.com/media/5085" target="_blank" rel="noopener noreferrer">XF Insert Fittings &amp; Insertion Tool Technical Specifications</a></strong></li>
+</ul>
+<p><iframe width="700" height="495" src="https://www.youtube.com/embed/T6iXXTuKW_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Drip Tools</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452685357156</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.98</s:price>
+      <s:sku>FITINSTOOL</s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452617396324</id>
+    <published>2019-01-19T00:42:30-05:00</published>
+    <updated>2019-01-19T00:42:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/netafim-spdt-drip-emitter-insertion-tool"/>
+    <title>Netafim - SPDT - Drip Emitter Insertion Tool</title>
+    <s:type>Drip Tools</s:type>
+    <s:vendor>Netafim</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1778__21345.1519064647.1280.1280_33e21225-fe91-48c9-8ff2-befaf5d1a4e2.jpg?v=1571715648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Netafim<br>
+        <strong>Type: </strong>Drip Tools<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SPDT - Netafim Drip Emitter Instertion Tool.  Save your sore fingers with Netafims Emitter Insetion Tool.</p>
+<p>Works with Both SPCV Self Piercing Emitters and Woodpecker Jr Emitters.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Netafim</s:tag>
+    <s:tag>CATEGORY_Drip Tools</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>DEPARTMENTTools &amp; Accessories</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452617396324</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>SPDT</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+</feed>

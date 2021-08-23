@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/yard-hydrants.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2021-02-05T15:38:20-05:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5019813150822</id>
+    <published>2021-02-05T15:38:20-05:00</published>
+    <updated>2021-02-05T15:38:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/simmons-4802lf-frost-proof-yard-hydrant-2-bury"/>
+    <title>Simmons - 4802LF Frost-Proof Yard Hydrant - 2&apos; Bury</title>
+    <s:type>Yard Hydrants</s:type>
+    <s:vendor>Simmons</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/Premier-Hydrant_b-172x300_c8d8d911-cfb5-45a0-a760-9191021c40d5.jpg?v=1612557381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simmons<br>
+        <strong>Type: </strong>Yard Hydrants<br>
+        <strong>Price: </strong>
+            94.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Frost Proof Yard Hydrant provides running water for lawn and garden, livestock and fire  protection all year, even in sub-zero temperatures. The shut-off valve operates below the frost line. Hydrant cannot freeze because when it is closed, all water in the standpipe drains out a hole in the valve which is set in the ground below the frost line. Hydrant spout operates at a convenient height (24 inches) from the ground level so that it can spill into a stock tank. Adapter (No. 8828) is threaded for 3/4'' hose. Hydrant can be easily installed anywhere water is supplied under pressure. To prevent unauthorized use, handle can be padlocked by inserting padlock into holes provided in handle and head.</p>
+<p>Meets all Federal and state Safe Drinking Water Acts and requirements.<br><strong><em>Does not meet California Prop. 65 (Environmental Law)</em></strong></p>
+<p>¢ 3/4'' NPT Female Inlet<br>¢ 3/4'' Male Hose Thread Outlet<br>¢ Plunger can be replaced without digging the hydrant up<br>¢ All components identical to 800LF Series except head casting and handle are smaller. Does not have flow lock wheel<br>¢ Polyester Powder Coat finish</p>
+<p> </p>
+<table border="0" width="380" cellspacing="0" cellpadding="0">
+<tbody>
+<tr valign="top">
+<td width="100">
+<strong>Part No</strong>.</td>
+<td width="110"><strong>Bury Depth</strong></td>
+<td width="100"><strong>Weight</strong></td>
+<td width="70"></td>
+</tr>
+<tr>
+<td>4802LF</td>
+<td>2<br>
+</td>
+<td>15</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>Downloads</strong></p>
+<p><a href="http://www.simmonsmfg.com/wp-content/uploads/2012/11/HydrRepairInstr.pdf" target="_blank"><span style="text-decoration: underline;">Hydrant Repair Instructions</span></a></p>
+<p><a href="http://www.simmonsmfg.com/index.php/specifications/hydrant-lengths/" target="_blank"><span style="text-decoration: underline;">Hydrant Lengths</span></a></p>
+<p><a href="http://www.simmonsmfg.com/index.php/specifications/hydrant-flow-charts/" target="_blank"><span style="text-decoration: underline;">Hydrant Flow Rates</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Simmons</s:tag>
+    <s:tag>CATEGORY_Yard Hydrants</s:tag>
+    <s:tag>DEPARTMENTGarden &amp; Outdoor</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5019813150822</id>
+      <title>Default Title</title>
+      <s:price currency="USD">94.98</s:price>
+      <s:sku>4802LF</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5019812462694</id>
+    <published>2021-02-05T15:36:01-05:00</published>
+    <updated>2021-02-05T15:36:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/simmons-4800lf-frost-proof-yard-hydrant-1-bury"/>
+    <title>Simmons - 4800LF Frost-Proof Yard Hydrant - 1&apos; Bury</title>
+    <s:type>Yard Hydrants</s:type>
+    <s:vendor>Simmons</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/Premier-Hydrant_b-172x300_6fd131e7-e17a-43f8-85d8-1d866e162dda.jpg?v=1612557248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simmons<br>
+        <strong>Type: </strong>Yard Hydrants<br>
+        <strong>Price: </strong>
+            85.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Frost Proof Yard Hydrant provides running water for lawn and garden, livestock and fire  protection all year, even in sub-zero temperatures. The shut-off valve operates below the frost line. Hydrant cannot freeze because when it is closed, all water in the standpipe drains out a hole in the valve which is set in the ground below the frost line. Hydrant spout operates at a convenient height (24 inches) from the ground level so that it can spill into a stock tank. Adapter (No. 8828) is threaded for 3/4'' hose. Hydrant can be easily installed anywhere water is supplied under pressure. To prevent unauthorized use, handle can be padlocked by inserting padlock into holes provided in handle and head.</p>
+<p>Meets all Federal and state Safe Drinking Water Acts and requirements.<br><strong><em>Does not meet California Prop. 65 (Environmental Law)</em></strong></p>
+<p>¢ 3/4'' NPT Female Inlet<br>¢ 3/4'' Male Hose Thread Outlet<br>¢ Plunger can be replaced without digging the hydrant up<br>¢ All components identical to 800LF Series except head casting and handle are smaller. Does not have flow lock wheel<br>¢ Polyester Powder Coat finish</p>
+<p> </p>
+<table border="0" width="380" cellspacing="0" cellpadding="0">
+<tbody>
+<tr valign="top">
+<td width="100">
+<strong>Part No</strong>.</td>
+<td width="110"><strong>Bury Depth</strong></td>
+<td width="100"><strong>Weight</strong></td>
+<td width="70"></td>
+</tr>
+<tr>
+<td>4800LF</td>
+<td>1</td>
+<td>12</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>Downloads</strong></p>
+<p><a href="http://www.simmonsmfg.com/wp-content/uploads/2012/11/HydrRepairInstr.pdf" target="_blank"><span style="text-decoration: underline;">Hydrant Repair Instructions</span></a></p>
+<p><a href="http://www.simmonsmfg.com/index.php/specifications/hydrant-lengths/" target="_blank"><span style="text-decoration: underline;">Hydrant Lengths</span></a></p>
+<p><a href="http://www.simmonsmfg.com/index.php/specifications/hydrant-flow-charts/" target="_blank"><span style="text-decoration: underline;">Hydrant Flow Rates</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Simmons</s:tag>
+    <s:tag>CATEGORY_Yard Hydrants</s:tag>
+    <s:tag>DEPARTMENTGarden &amp; Outdoor</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5019812462694</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.98</s:price>
+      <s:sku>4800LF</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/3041411596388</id>
+    <published>2019-03-12T11:24:20-04:00</published>
+    <updated>2019-03-12T11:24:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/simmons-frost-proof-yard-hydrant-4800lf"/>
+    <title>Simmons - 4801LF Frost-Proof Yard Hydrant - 1.5&apos; Bury</title>
+    <s:type>Yard Hydrants</s:type>
+    <s:vendor>Simmons</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/Premier-Hydrant_b-172x300.jpg?v=1592938719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simmons<br>
+        <strong>Type: </strong>Yard Hydrants<br>
+        <strong>Price: </strong>
+            89.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Frost Proof Yard Hydrant provides running water for lawn and garden, livestock and fire  protection all year, even in sub-zero temperatures. The shut-off valve operates below the frost line. Hydrant cannot freeze because when it is closed, all water in the standpipe drains out a hole in the valve which is set in the ground below the frost line. Hydrant spout operates at a convenient height (24 inches) from the ground level so that it can spill into a stock tank. Adapter (No. 8828) is threaded for 3/4'' hose. Hydrant can be easily installed anywhere water is supplied under pressure. To prevent unauthorized use, handle can be padlocked by inserting padlock into holes provided in handle and head.</p>
+<p>Meets all Federal and state Safe Drinking Water Acts and requirements.<br><strong><em>Does not meet California Prop. 65 (Environmental Law)</em></strong></p>
+<p>¢ 3/4'' NPT Female Inlet<br>¢ 3/4'' Male Hose Thread Outlet<br>¢ Plunger can be replaced without digging the hydrant up<br>¢ All components identical to 800LF Series except head casting and handle are smaller. Does not have flow lock wheel<br>¢ Polyester Powder Coat finish</p>
+<p> </p>
+<table border="0" width="380" cellspacing="0" cellpadding="0">
+<tbody>
+<tr valign="top">
+<td width="100">
+<strong>Part No</strong>.</td>
+<td width="110"><strong>Bury Depth</strong></td>
+<td width="100"><strong>Weight</strong></td>
+<td width="70"></td>
+</tr>
+<tr>
+<td>4801LF</td>
+<td>1.5</td>
+<td>13.5</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>Downloads</strong></p>
+<p><a href="http://www.simmonsmfg.com/wp-content/uploads/2012/11/HydrRepairInstr.pdf" target="_blank"><span style="text-decoration: underline;">Hydrant Repair Instructions</span></a></p>
+<p><a href="http://www.simmonsmfg.com/index.php/specifications/hydrant-lengths/" target="_blank"><span style="text-decoration: underline;">Hydrant Lengths</span></a></p>
+<p><a href="http://www.simmonsmfg.com/index.php/specifications/hydrant-flow-charts/" target="_blank"><span style="text-decoration: underline;">Hydrant Flow Rates</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Simmons</s:tag>
+    <s:tag>CATEGORY_Yard Hydrants</s:tag>
+    <s:tag>DEPARTMENTGarden &amp; Outdoor</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/3041411596388</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.98</s:price>
+      <s:sku>H801NL</s:sku>
+      <s:grams>6123</s:grams>
+    </s:variant>
+  </entry>
+</feed>

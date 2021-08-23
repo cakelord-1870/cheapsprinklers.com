@@ -1,0 +1,2095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/accent-spot-lights.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2020-04-02T16:54:03-04:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4711126892646</id>
+    <published>2020-04-02T16:54:03-04:00</published>
+    <updated>2020-04-02T16:54:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-12v-12w-adjustable-lumen-vlo-led-large-accent-light-2700k-15-degree-flood-beam-textured-black-16018bkt27"/>
+    <title>Kichler - 12V 12W Adjustable Lumen VLO LED Large Accent Light - 2700K - 15 Degree Flood Beam (Textured Black) - 16018BKT27</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16018bkt27.jpg?v=1592941324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            214.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12V with Variable Lumen Output (VLO) that allows you to easily switch between three lumen outputs (100, 200, 300 lumens) without mechanically adjusting the settings on the fixture. The adjustable lumen large accent 15 degree wide flood, 2700K spot light in textured black (BKT) is an integrated, fully sealed LED fixture that features 6,000 volt surge protection. Featuring custom optics that assures no halos or scallops to deliver superb center-to-edge uniformity for clean, clear light.</p>
+<h4><strong>Features</strong></h4>
+<ul>
+<li>Delivers three different lumen outputs that can be changed on site with a magnetic key without the increased risk of failure with mechanical adjustment</li>
+<li>Adjusting Lumen Output</li>
+<ul>
+<li>Simply hold the magnetic key over the lumen adjustment locator and the light will blink 4 times indicating that it is programmable</li>
+<li>Reapply the magnetic key over the switch locator and the light will blink according to its lumen level (1, 2 or 3 blinks)</li>
+</ul>
+<li>6,000 volt surge protection</li>
+<li>Crafted from aluminum and brass</li>
+<li>Includes a clear glass shade</li>
+<li>Integrated LED lighting</li>
+<li>This product is designed for use outdoors</li>
+<li>Made in Taiwan</li>
+<li>ETL rated for wet locations</li>
+</ul>
+<h4><strong>Dimensions</strong></h4>
+<ul>
+<li>Height: 3-3/4"</li>
+<li>Width: 4-1/2"</li>
+<li>Depth: 2"</li>
+<li>Product Weight: 1.5 lbs</li>
+<li>Beam Spread: 15°</li>
+</ul>
+<h4><strong>Electrical Specifications</strong></h4>
+<ul>
+<li>Bulb Base: Integrated LED</li>
+<li>Bulb Included: Yes</li>
+<li>Wattage: 12 watts</li>
+<li>Voltage: 12 volts</li>
+<li>Color Temperature: 2700K</li>
+<li>Color Rendering Index: 80CRI</li>
+<li>Average Hours: 50000</li>
+</ul>
+<h4>Documents</h4>
+<ul>
+<li><a href="https://www.kichler.com/globalassets/products/documents/instruction-sheets/is-16018-us.pdf" target="_blank" rel="noopener noreferrer"><span>Instruction Sheet</span></a></li>
+<li><a href="https://www.kichler.com/products/spec-sheet?sku=16018BKT27" target="_blank" rel="noopener noreferrer"><span>Spec Sheet</span></a></li>
+</ul>
+<p><iframe width="700" height="400" src="https://www.youtube.com/embed/-VuD98TUqyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<h4></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4711126892646</id>
+      <title>Default Title</title>
+      <s:price currency="USD">214.99</s:price>
+      <s:sku>16018BKT27</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4711125352550</id>
+    <published>2020-04-02T16:49:06-04:00</published>
+    <updated>2020-04-02T16:49:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-12v-12w-adjustable-lumen-vlo-led-large-accent-light-2700k-15-degree-flood-beam-textured-architectural-bronze-16018azt27"/>
+    <title>Kichler - 12V 12W Adjustable Lumen VLO LED Large Accent Light - 2700K - 15 Degree Flood Beam (Textured Architectural Bronze) - 16018AZT27</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16018azt27.jpg?v=1592938477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            214.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12V with Variable Lumen Output (VLO) that allows you to easily switch between three lumen outputs (100, 200, 300 lumens) without mechanically adjusting the settings on the fixture. The adjustable lumen large accent 15 degree wide flood, 2700K spot light in textured architectural bronze (AZT) is an integrated, fully sealed LED fixture that features 6,000 volt surge protection. Featuring custom optics that assures no halos or scallops to deliver superb center-to-edge uniformity for clean, clear light.</p>
+<h4><strong>Features</strong></h4>
+<ul>
+<li>Delivers three different lumen outputs that can be changed on site with a magnetic key without the increased risk of failure with mechanical adjustment</li>
+<li>Adjusting Lumen Output</li>
+<ul>
+<li>Simply hold the magnetic key over the lumen adjustment locator and the light will blink 4 times indicating that it is programmable</li>
+<li>Reapply the magnetic key over the switch locator and the light will blink according to its lumen level (1, 2 or 3 blinks)</li>
+</ul>
+<li>6,000 volt surge protection</li>
+<li>Crafted from aluminum and brass</li>
+<li>Includes a clear glass shade</li>
+<li>Integrated LED lighting</li>
+<li>This product is designed for use outdoors</li>
+<li>Made in Taiwan</li>
+<li>ETL rated for wet locations</li>
+</ul>
+<h4><strong>Dimensions</strong></h4>
+<ul>
+<li>Height: 3-3/4"</li>
+<li>Width: 4-1/2"</li>
+<li>Depth: 2"</li>
+<li>Product Weight: 1.5 lbs</li>
+<li>Beam Spread: 15°</li>
+</ul>
+<h4><strong>Electrical Specifications</strong></h4>
+<ul>
+<li>Bulb Base: Integrated LED</li>
+<li>Bulb Included: Yes</li>
+<li>Wattage: 12 watts</li>
+<li>Voltage: 12 volts</li>
+<li>Color Temperature: 2700K</li>
+<li>Color Rendering Index: 80CRI</li>
+<li>Average Hours: 50000</li>
+</ul>
+<h4>Documents</h4>
+<ul>
+<li><a href="https://www.kichler.com/globalassets/products/documents/instruction-sheets/is-16018-us.pdf" target="_blank" rel="noopener noreferrer"><span>Instruction Sheet</span></a></li>
+<li><a href="https://www.kichler.com/products/spec-sheet?sku=16018AZT27" target="_blank" rel="noopener noreferrer"><span>Spec Sheet</span></a></li>
+</ul>
+<p><iframe width="700" height="400" src="https://www.youtube.com/embed/-VuD98TUqyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<h4></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4711125352550</id>
+      <title>Default Title</title>
+      <s:price currency="USD">214.99</s:price>
+      <s:sku>16018AZT27</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4711123681382</id>
+    <published>2020-04-02T16:45:01-04:00</published>
+    <updated>2020-04-02T16:45:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-12v-5-5w-adjustable-lumen-vlo-led-small-accent-light-2700k-15-degree-flood-beam-textured-black-16015bkt27"/>
+    <title>Kichler - 12V 5.5W Adjustable Lumen VLO LED Small Accent Light - 2700K - 15 Degree Flood Beam (Textured Black) - 16015BKT27</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16015bkt27.jpg?v=1585860347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            194.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12V with Variable Lumen Output (VLO) that allows you to easily switch between three lumen outputs (100, 200, 300 lumens) without mechanically adjusting the settings on the fixture. The adjustable lumen small accent 15 degree, 2700K spot light in textured black (BKT) is an integrated, fully sealed LED fixture that features 6,000 volt surge protection. Featuring custom optics that assures no halos or scallops to deliver superb center-to-edge uniformity for clean, clear light.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Delivers three different lumen outputs that can be changed on site with a magnetic key without the increased risk of failure with mechanical adjustment</li>
+<li>Adjusting Lumen Output</li>
+<ul>
+<li>Simply hold the magnetic key over the lumen adjustment locator and the light will blink 4 times indicating that it is programmable</li>
+<li>Reapply the magnetic key over the switch locator and the light will blink according to its lumen level (1, 2 or 3 blinks)</li>
+</ul>
+<li>6,000 volt surge protection</li>
+<li>Crafted from aluminum and brass</li>
+<li>Includes a clear glass shade</li>
+<li>Integrated LED lighting</li>
+<li>This product is designed for use outdoors</li>
+<li>Made in Taiwan</li>
+<li>ETL rated for wet locations</li>
+</ul>
+<p><strong>Dimensions</strong></p>
+<ul>
+<li>Height: 3-3/4"</li>
+<li>Width: 4-1/2"</li>
+<li>Depth: 2"</li>
+<li>Product Weight: 1.0 lbs</li>
+<li>Beam Spread: 15°</li>
+</ul>
+<p><strong>Electrical Specifications</strong></p>
+<ul>
+<li>Bulb Base: Integrated LED</li>
+<li>Bulb Included: Yes</li>
+<li>Wattage: 8 watts</li>
+<li>Voltage: 12 volts</li>
+<li>Color Temperature: 2700K</li>
+<li>Color Rendering Index: 80CRI</li>
+<li>Average Hours: 50000</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><a href="https://www.kichler.com/products/spec-sheet?sku=16015AZT27" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">﻿Spec Sheet</span></a></li>
+<li><a href="https://www.kichler.com/globalassets/products/documents/instruction-sheets/is-16015-us.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Instruction Sheet</span></a></li>
+</ul>
+<p><span style="text-decoration: underline;"><iframe width="700" height="400" src="https://www.youtube.com/embed/-VuD98TUqyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4711123681382</id>
+      <title>Default Title</title>
+      <s:price currency="USD">194.99</s:price>
+      <s:sku>16015BKT27</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4711121158246</id>
+    <published>2020-04-02T16:39:42-04:00</published>
+    <updated>2020-04-02T16:39:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-12v-5-5w-adjustable-lumen-vlo-led-small-accent-light-2700k-15-degree-flood-beam-textured-architectural-bronze-16016azt27"/>
+    <title>Kichler - 12V 5.5W Adjustable Lumen VLO LED Small Accent Light - 2700K - 15 Degree Flood Beam (Textured Architectural Bronze) - 16015AZT27</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16015azt27.jpg?v=1585860120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            194.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12V with Variable Lumen Output (VLO) that allows you to easily switch between three lumen outputs (100, 200, 300 lumens) without mechanically adjusting the settings on the fixture. The adjustable lumen small accent 15 degree, 2700K spot light in textured architectural bronze (AZT) is an integrated, fully sealed LED fixture that features 6,000 volt surge protection. Featuring custom optics that assures no halos or scallops to deliver superb center-to-edge uniformity for clean, clear light.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Delivers three different lumen outputs that can be changed on site with a magnetic key without the increased risk of failure with mechanical adjustment</li>
+<li>Adjusting Lumen Output</li>
+<ul>
+<li>Simply hold the magnetic key over the lumen adjustment locator and the light will blink 4 times indicating that it is programmable</li>
+<li>Reapply the magnetic key over the switch locator and the light will blink according to its lumen level (1, 2 or 3 blinks)</li>
+</ul>
+<li>6,000 volt surge protection</li>
+<li>Crafted from aluminum and brass</li>
+<li>Includes a clear glass shade</li>
+<li>Integrated LED lighting</li>
+<li>This product is designed for use outdoors</li>
+<li>Made in Taiwan</li>
+<li>ETL rated for wet locations</li>
+</ul>
+<p><strong>Dimensions</strong></p>
+<ul>
+<li>Height: 3-3/4"</li>
+<li>Width: 4-1/2"</li>
+<li>Depth: 2"</li>
+<li>Product Weight: 1.0 lbs</li>
+<li>Beam Spread: 15°</li>
+</ul>
+<p><strong>Electrical Specifications</strong></p>
+<ul>
+<li>Bulb Base: Integrated LED</li>
+<li>Bulb Included: Yes</li>
+<li>Wattage: 8 watts</li>
+<li>Voltage: 12 volts</li>
+<li>Color Temperature: 2700K</li>
+<li>Color Rendering Index: 80CRI</li>
+<li>Average Hours: 50000</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><a href="https://www.kichler.com/products/spec-sheet?sku=16015AZT27" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">﻿Spec Sheet</span></a></li>
+<li><a href="https://www.kichler.com/globalassets/products/documents/instruction-sheets/is-16015-us.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Instruction Sheet</span></a></li>
+</ul>
+<p><span style="text-decoration: underline;"><iframe width="700" height="400" src="https://www.youtube.com/embed/-VuD98TUqyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4711121158246</id>
+      <title>Default Title</title>
+      <s:price currency="USD">194.99</s:price>
+      <s:sku>16015AZT27</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4711106740326</id>
+    <published>2020-04-02T14:33:53-04:00</published>
+    <updated>2020-04-02T14:33:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-par36-well-light-heat-resistant-lens-black-15689bk"/>
+    <title>Kichler - PAR36 Well Light Heat-Resistant Lens (Black) - 15689BK</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/15689bk.jpg?v=1592938963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            35.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Lens - for use with fixtures 15088,15388. Heat-resistant glass lens for use with 15088 and 15388 well light.</span></p>
+<table class="table product-spec">
+<tbody>
+<tr>
+<th scope="rowgroup" colspan="2">Certifications/Qualifications</th>
+</tr>
+<tr>
+<th scope="row">Location Rating</th>
+<td>Accessory,Listing Not Required</td>
+</tr>
+<tr>
+<th scope="rowgroup" colspan="2">Primary Lamping</th>
+</tr>
+<tr>
+<th scope="row">Lamp Included</th>
+<td>Not Included</td>
+</tr>
+<tr>
+<th scope="rowgroup" colspan="2">Product/Ordering Information</th>
+</tr>
+<tr>
+<th scope="row">Finish</th>
+<td>Black</td>
+</tr>
+<tr>
+<th scope="row">UPC</th>
+<td>783927016537</td>
+</tr>
+<tr>
+<th scope="rowgroup" colspan="2">Specifications</th>
+</tr>
+<tr>
+<th scope="row">Material</th>
+<td>GLASS &amp; ALUMINUM</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h4>Downloads</h4>
+<ul>
+<li><a href="https://www.kichler.com/products/spec-sheet?sku=15689BK" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Spec Sheet</span></a></li>
+<li><a href="https://www.kichler.com/globalassets/products/documents/instruction-sheets/is-15689-us.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Instruction Sheet</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRODUCT TYPE_Lighting Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4711106740326</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku>15689BK</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4689670406246</id>
+    <published>2020-03-26T15:14:41-04:00</published>
+    <updated>2020-03-26T15:14:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-12v-led-13w-10-degree-spot-light-2700k-textured-architectural-bronze-16009azt27"/>
+    <title>Kichler - 12V LED 13W 10 Degree Spot Light 2700K (Textured Architectural Bronze) - 16009AZT27</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16009AZT27-2_600x600_9054ab58-b054-4174-a885-49616044b6e0.jpg?v=1592940981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            225.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Spot Light</li>
+<li>LED</li>
+<li>Width: 3"</li>
+<li>Height: 4.75"</li>
+<li>Length: 4.75"</li>
+<li>Lamp Integrated</li>
+<li>Voltage: 12v</li>
+<li>2700K</li>
+<li>Number of Bulbs: 5</li>
+<li>Max watt: 13w</li>
+<li>Finish: Textured Bronze</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4689670406246</id>
+      <title>Default Title</title>
+      <s:price currency="USD">225.90</s:price>
+      <s:sku>16009AZT27</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2972357230692</id>
+    <published>2019-03-05T16:47:06-05:00</published>
+    <updated>2019-03-05T16:47:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-120v-led-19-5w-accent-10-degree-3000k-bronzed-brass-16202bbr30"/>
+    <title>Kichler - 120V LED 19.5W 10 Degree Narrow Beam Spot Light 3000K (Bronzed Brass) - 16202BBR30</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16202BBR30.jpg?v=1592939511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            404.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>120V 19.5W LED ACCENT</strong> specification-grade fixture for both new installations and existing fixture replacement. 3000K PURE WHITE - In Bronzed Brass with a 10 degree spot beam spread.</span></p>
+<h4><strong>Features:</strong></h4>
+<ul>
+<li>Cast aluminum or brass construction</li>
+<li>8 integrated high output Cree® LEDs</li>
+<li>Light output similar to a 75W PAR-30 Halogen lamp</li>
+<li>Custom Radiax„¢ reflector optics</li>
+<li>Not for use with electronic transformers</li>
+<li>Note: Brass will develop a natural patina over time</li>
+<li>ETL listed for wet locations</li>
+</ul>
+<h4><strong>Dimensions:</strong></h4>
+<ul>
+<li>Height: 5.5"</li>
+<li>Length: 4.5"</li>
+<li>Diameter: 4.4"</li>
+<li>Lead Wire Length: 8"</li>
+</ul>
+<h4><strong>Electrical Specifications:</strong></h4>
+<ul>
+<li>Bulb Type: Integrated LED</li>
+<li>Bulb Included: Yes</li>
+<li>Wattage: 19.5</li>
+<li>Color Temperature: 3000K (Pure White)</li>
+<li>Lumen Output: 947</li>
+<li>CRI (Color Rendering Index): 80</li>
+<li>Beam Spread: 10°</li>
+<li>Average LED Life: 40,000 hours</li>
+<li>Voltage: 108-132 (Line Voltage)</li>
+<li>Amp Draw: 0.18 VA</li>
+<li>Note: Line voltage products require an electrician for installation by law in most areas</li>
+<li>See the attached spec sheets and catalog pages for full photometric details</li>
+</ul>
+<h4><strong>Compatible Accessories:</strong></h4>
+<ul>
+<li>For installation into soil, purchase the 15276 Power Post®</li>
+<li>For installation directly to a junction box, purchase the 15601 surface mounting flange</li>
+<li>For installation into trees, purchase the 15609 junction box mounting bracket</li>
+</ul>
+<h4>Documents</h4>
+<p><span style="text-decoration: underline;"><a href="https://www.kichler.com/globalassets/products/documents/instruction-sheets/is-16202-us.pdf" target="_blank" rel="noopener noreferrer">Instruction Sheet</a></span></p>
+<p><span style="text-decoration: underline;"><a href="https://www.kichler.com/globalassets/products/documents/spec-sheets/spec-sheet-16202.pdf" target="_blank" rel="noopener noreferrer">Spec Sheet</a></span></p>
+<p><span style="text-decoration: underline;"><a href="https://s1.img-b.com/build.com/mediabase/specifications/kichler/841152/kichler-16202-30-catalog.pdf" target="_blank" rel="noopener noreferrer">Catalog</a></span></p>
+<p><span style="text-decoration: underline;"><a href="https://s1.img-b.com/build.com/mediabase/specifications/kichler/841152/kichler-16202-30-design-guide.pdf" target="_blank" rel="noopener noreferrer">Landscape Design Guide</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2972357230692</id>
+      <title>Default Title</title>
+      <s:price currency="USD">404.99</s:price>
+      <s:sku>16202BBR30</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2972226158692</id>
+    <published>2019-03-05T16:28:39-05:00</published>
+    <updated>2019-03-05T16:28:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-vlo-16022azt27"/>
+    <title>Kichler - 12V 12W Adjustable Lumen VLO LED Flood Light - 2700K - NEMA 6x5 Wide Flood Beam (Textured Architectural Bronze) - 16022AZT27</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16022AZT27.jpg?v=1573144157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            284.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This 12V LED Flood with Variable Lumen Output (VLO) allows you to easily switch between three lumen outputs (500, 700, 900 lumens) by magnetically adjusting the settings on the fixture. The wide flood beam spread is a NEMA 6x5, one of the widest in the 12V category. It is a fully sealed and encapsulated fixture with a 2700 CCT and comes in textured Architectural Bronze (AZT) finish. It also features 6,000-volt surge protection, custom optics that assures no halos or scallops and an operating range from 9-15 volts.</span></p>
+<h4><strong>Features</strong></h4>
+<ul>
+<li>Durable aluminum construction</li>
+<li>Integrated LED lighting</li>
+<li>Intended for outdoor use</li>
+<li>ETL rated for wet locations</li>
+</ul>
+<h4><strong>Dimensions</strong></h4>
+<ul>
+<li>Height: 7"</li>
+<li>Width: 7"</li>
+<li>Extension: 6"</li>
+<li>Product Weight: 3.95 lbs</li>
+</ul>
+<h4><strong>Electrical Specifications</strong></h4>
+<ul>
+<li>Wattage: 12 watts</li>
+<li>Color Temperature: 2700K</li>
+<li>Color Rendering Index: 80CRI</li>
+<li>Average Hours: 50000</li>
+Voltage: 12 volts</ul>
+<h4>Documents</h4>
+<p><a href="https://www.kichler.com/globalassets/products/documents/instruction-sheets/is-16022-us.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Instruction Sheet</span></a></p>
+<p><span style="text-decoration: underline;"><a href="https://www.kichler.com/globalassets/products/documents/spec-sheets/specsheet-16022.pdf" target="_blank" rel="noopener noreferrer">Spec Sheet</a></span></p>
+<p><span style="text-decoration: underline;"><iframe width="700" height="400" src="https://www.youtube.com/embed/-VuD98TUqyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Flood Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2972226158692</id>
+      <title>Default Title</title>
+      <s:price currency="USD">284.99</s:price>
+      <s:sku>16022AZT27</s:sku>
+      <s:grams>1792</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2972144730212</id>
+    <published>2019-03-05T16:00:54-05:00</published>
+    <updated>2019-03-05T16:00:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-vlo-35-degree-large-flood-2700k-textured-black-16019bkt27"/>
+    <title>Kichler - 12V 12W Adjustable Lumen VLO LED Large Accent Light - 2700K - 35 Degree Medium Flood Beam (Textured Black) - 16019BKT27</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16019BKT27.jpg?v=1573069524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            214.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>12V with Variable Lumen Output ( VLO ) that allows you to easily switch between three lumen outputs (400, 600, 835 lumens) without mechanically adjusting the settings on the fixture. The adjustable lumen large accent 35 degree, 2700K flood light in textured black (BKT) is an integrated, fully sealed LED fixture that features 6,000 volt surge protection. Featuring custom optics that assures no halos or scallops to deliver superb center-to-edge uniformity for clean, clear light.</span></p>
+<h4><strong>Features</strong></h4>
+<ul>
+<li>Delivers three different lumen outputs that can be changed on site with a magnetic key without the increased risk of failure with mechanical adjustment</li>
+<li>Adjusting Lumen Output</li>
+<ul>
+<li>Simply hold the magnetic key over the lumen adjustment locator and the light will blink 4 times indicating that it is programmable</li>
+<li>Reapply the magnetic key over the switch locator and the light will blink according to its lumen level (1, 2 or 3 blinks)</li>
+</ul>
+<li>6,000 volt surge protection</li>
+<li>Crafted from aluminum and brass</li>
+<li>Includes a clear glass shade</li>
+<li>Integrated LED lighting</li>
+<li>This product is designed for use outdoors</li>
+<li>Made in Taiwan</li>
+<li>ETL rated for wet locations</li>
+</ul>
+<h4><strong>Dimensions</strong></h4>
+<ul>
+<li>Height: 4-1/2"</li>
+<li>Width: 6"</li>
+<li>Depth: 2-3/4"</li>
+<li>Product Weight: 1.5 lbs</li>
+<li>Beam Spread: 35°</li>
+</ul>
+<h4><strong>Electrical Specifications</strong></h4>
+<ul>
+<li>Bulb Base: Integrated LED</li>
+<li>Bulb Included: Yes</li>
+<li>Wattage: 23 watts</li>
+<li>Voltage: 12 volts</li>
+<li>Color Temperature: 2700K</li>
+<li>Color Rendering Index: 80CRI</li>
+<li>Average Hours: 50000</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<p><a href="https://www.kichler.com/products/spec-sheet?sku=16019AZT27" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Spec Sheet</span></a></p>
+<p> </p>
+<p><iframe width="700" height="400" src="https://www.youtube.com/embed/-VuD98TUqyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<h4></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2972144730212</id>
+      <title>Default Title</title>
+      <s:price currency="USD">214.99</s:price>
+      <s:sku>16019BKT27</s:sku>
+      <s:grams>1474</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2971939504228</id>
+    <published>2019-03-05T15:32:57-05:00</published>
+    <updated>2019-03-05T15:32:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-16017bkt27"/>
+    <title>Kichler - 12V 5.5W Adjustable Lumen VLO LED Small Accent Light - 2700K - 60 Degree Wide Flood Beam (Textured Black) - 16017BKT27</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16017BKT27.jpg?v=1573143243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            194.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>12V with Variable Lumen Output ( VLO ) that allows you to easily switch between three lumen outputs (100, 200, 300 lumens) without mechanically adjusting the settings on the fixture. The adjustable lumen small accent 60 degree wide flood, 2700K spot light in textured black (BKT) is an integrated, fully sealed LED fixture that features 6,000 volt surge protection. Featuring custom optics that assures no halos or scallops to deliver superb center-to-edge uniformity for clean, clear light.</span></p>
+<h4><strong>Features</strong></h4>
+<ul>
+<li>Delivers three different lumen outputs that can be changed on site with a magnetic key without the increased risk of failure with mechanical adjustment</li>
+<li>Adjusting Lumen Output</li>
+<ul>
+<li>Simply hold the magnetic key over the lumen adjustment locator and the light will blink 4 times indicating that it is programmable</li>
+<li>Reapply the magnetic key over the switch locator and the light will blink according to its lumen level (1, 2 or 3 blinks)</li>
+</ul>
+<li>6,000 volt surge protection</li>
+<li>Crafted from aluminum and brass</li>
+<li>Includes a clear glass shade</li>
+<li>Integrated LED lighting</li>
+<li>This product is designed for use outdoors</li>
+<li>Made in Taiwan</li>
+<li>ETL rated for wet locations</li>
+</ul>
+<h4><strong>Dimensions</strong></h4>
+<ul>
+<li>Height: 3-3/4"</li>
+<li>Width: 4-1/2"</li>
+<li>Depth: 2"</li>
+<li>Product Weight: 1.0 lbs</li>
+<li>Beam Spread: 60°</li>
+</ul>
+<h4><strong>Electrical Specifications</strong></h4>
+<ul>
+<li>Bulb Base: Integrated LED</li>
+<li>Bulb Included: Yes</li>
+<li>Wattage: 8 watts</li>
+<li>Voltage: 12 volts</li>
+<li>Color Temperature: 2700K</li>
+<li>Color Rendering Index: 80CRI</li>
+<li>Average Hours: 50000</li>
+</ul>
+<h4>Documents</h4>
+<p><a href="https://www.kichler.com/globalassets/products/documents/instruction-sheets/is-16017-us.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Instruction Sheet</span></a></p>
+<p><a href="https://www.kichler.com/globalassets/products/documents/spec-sheets/spec-sheet-16017.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Spec Sheet</span></a></p>
+<p><span style="text-decoration: underline;"><iframe width="700" height="400" src="https://www.youtube.com/embed/-VuD98TUqyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2971939504228</id>
+      <title>Default Title</title>
+      <s:price currency="USD">194.99</s:price>
+      <s:sku>16017BKT27</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2971915976804</id>
+    <published>2019-03-05T15:21:53-05:00</published>
+    <updated>2019-03-05T15:21:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-vlo-2700k-small-35-degree-accent-light-textured-black-16016bkt27"/>
+    <title>Kichler - 12V 5.5W Adjustable Lumen VLO LED Small Accent Light - 2700K - 35 Degree Flood Beam (Textured Black) - 16016BKT27</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16016BKT27.jpg?v=1573074237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            194.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>12V with Variable Lumen Output ( VLO ) that allows you to easily switch between three lumen outputs (100, 200, 300 lumens) without mechanically adjusting the settings on the fixture. The adjustable lumen small accent 35 degree, 2700K spot light in textured black (BKT) is an integrated, fully sealed LED fixture that features 6,000 volt surge protection. Featuring custom optics that assures no halos or scallops to deliver superb center-to-edge uniformity for clean, clear light.</span></p>
+<h4><strong>Features</strong></h4>
+<ul>
+<li>Delivers three different lumen outputs that can be changed on site with a magnetic key without the increased risk of failure with mechanical adjustment</li>
+<li>Adjusting Lumen Output</li>
+<ul>
+<li>Simply hold the magnetic key over the lumen adjustment locator and the light will blink 4 times indicating that it is programmable</li>
+<li>Reapply the magnetic key over the switch locator and the light will blink according to its lumen level (1, 2 or 3 blinks)</li>
+</ul>
+<li>6,000 volt surge protection</li>
+<li>Crafted from aluminum and brass</li>
+<li>Includes a clear glass shade</li>
+<li>Integrated LED lighting</li>
+<li>This product is designed for use outdoors</li>
+<li>Made in Taiwan</li>
+<li>ETL rated for wet locations</li>
+</ul>
+<h4><strong>Dimensions</strong></h4>
+<ul>
+<li>Height: 3-3/4"</li>
+<li>Width: 4-1/2"</li>
+<li>Depth: 2"</li>
+<li>Product Weight: 1.0 lbs</li>
+<li>Beam Spread: 35°</li>
+</ul>
+<h4><strong>Electrical Specifications</strong></h4>
+<ul>
+<li>Bulb Base: Integrated LED</li>
+<li>Bulb Included: Yes</li>
+<li>Wattage: 8 watts</li>
+<li>Voltage: 12 volts</li>
+<li>Color Temperature: 2700K</li>
+<li>Color Rendering Index: 80CRI</li>
+<li>Average Hours: 50000</li>
+</ul>
+<p> </p>
+<p><strong>Downloads</strong></p>
+<p><a href="https://www.kichler.com/products/spec-sheet?sku=16016BKT27" target="_blank" rel="noopener noreferrer"><span>﻿Spec Sheet</span></a></p>
+<p><iframe width="700" height="400" src="https://www.youtube.com/embed/-VuD98TUqyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<h4></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2971915976804</id>
+      <title>Default Title</title>
+      <s:price currency="USD">194.99</s:price>
+      <s:sku>16016BKT27</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2963428180068</id>
+    <published>2019-03-04T16:23:27-05:00</published>
+    <updated>2019-03-04T16:23:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-12v-mr11-accent-light-textured-architectural-bronze-15484azt"/>
+    <title>Kichler - 12V 50W Accent Light (Textured Architectural Bronze) - 15484AZT</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/15484AZT.jpg?v=1572376062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Features</strong></p>
+<ul>
+<li>Includes adjustable cowl</li>
+<li>Crafted from brass</li>
+<li>Requires (1) 50 watt Bi Pin bulb</li>
+<li>ETL rated for wet locations</li>
+<li>10 year limited manufacturer warranty</li>
+</ul>
+<p><strong>Dimensions</strong></p>
+<ul>
+<li>Height: 2-1/2"</li>
+<li>Width: 5"</li>
+<li>Depth: 1-3/4"</li>
+<li>Product Weight: 2.1 lbs</li>
+<li>Wire Length: 35</li>
+</ul>
+<p><strong>Electrical Specifications</strong></p>
+<ul>
+<li>Bulb Base: Bi Pin</li>
+<li>Number of Bulbs: 1</li>
+<li>Bulb Included: No</li>
+<li>Watts Per Bulb: 50 watts</li>
+<li>Wattage: 50 watts</li>
+<li>Voltage: 12 volts</li>
+</ul>
+<table class="table product-spec">
+<tbody>
+<tr>
+<th scope="rowgroup" colspan="2">Dimensions</th>
+</tr>
+<tr>
+<th scope="row">Height</th>
+<td>4.00"</td>
+</tr>
+<tr>
+<th scope="row">Length</th>
+<td>10.00"</td>
+</tr>
+<tr>
+<th scope="row">Width</th>
+<td>2.50"</td>
+</tr>
+<tr>
+<th scope="rowgroup" colspan="2">Electrical</th>
+</tr>
+<tr>
+<th scope="row">Voltage</th>
+<td>12V</td>
+</tr>
+<tr>
+<th scope="rowgroup" colspan="2">Mounting/Installation</th>
+</tr>
+<tr>
+<th scope="row">Lead Wire Length</th>
+<td>35.00</td>
+</tr>
+<tr>
+<th scope="rowgroup" colspan="2">Primary Lamping</th>
+</tr>
+<tr>
+<th scope="row">Lamp Included</th>
+<td>Not Included</td>
+</tr>
+<tr>
+<th scope="row">Lamp Type</th>
+<td>MR-16</td>
+</tr>
+<tr>
+<th scope="row">Max or Nominal Watt</th>
+<td>50W</td>
+</tr>
+<tr>
+<th scope="row"># of Bulbs/LED Modules</th>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h3>Documents</h3>
+<p><a href="https://www.kichler.com/globalassets/products/documents/instruction-sheets/is-15484-us.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Instruction Sheet</span></a></p>
+<p><a href="https://www.kichler.com/products/spec-sheet?sku=15484AZT" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Spec Sheet</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2963428180068</id>
+      <title>Default Title</title>
+      <s:price currency="USD">159.99</s:price>
+      <s:sku>15484AZT</s:sku>
+      <s:grams>953</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2933130526820</id>
+    <published>2019-02-28T16:01:18-05:00</published>
+    <updated>2019-02-28T16:01:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-mini-hooded-adjustable-wide-flood-light-15396azt"/>
+    <title>Kichler - 12V 35W 5&apos;&apos; Mini Hooded Halogen Adjustable Wide Flood Light (Textured Architectural Bronze) - 15396AZT</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/15396azt_1.jpg?v=1573144906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            134.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>MINIATURE HOODED ADJUSTABLE WIDE FLOOD LIGHT - Small (4=" x 5") eyebrow allows adjustment to upwards position without glare. Use for wide-angle angle wall washing, with young shrubs and low walls.</span></p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Cast aluminum construction</li>
+<li>Heat-resistant glass lens - sealed for watertight outdoor use</li>
+<li>Compatible with bi-pin Halogen lamps up to 35W (Included)</li>
+<li>Cable connectors included</li>
+<li>Includes an 8" ground stake for installation into soil</li>
+<li>Light can be angled up to 90°</li>
+<li>Rated for outdoor use</li>
+</ul>
+<p><strong>Dimensions:</strong></p>
+<ul>
+<li>Height: 5"</li>
+<li>Length: 4.5"</li>
+<li>Width: 6.75"</li>
+<li>Lead Wire Length: 35"</li>
+</ul>
+<p><strong>Electrical Specifications:</strong></p>
+<ul>
+<li>Bulb Type: Halogen</li>
+<li>Bulb Included: Yes</li>
+<li>Bulb Socket Type: Bi-Pin</li>
+<li>Maximum Wattage: 35</li>
+<li>Bulb Shape: T3</li>
+<li>Voltage: 12 (Low Voltage)</li>
+<li>See the attached spec sheets and catalog pages for full photometric details</li>
+</ul>
+<p><strong>Compatible Accessories:</strong></p>
+<ul>
+<li>Add to cart to see all options for adjusting height and orientation, including stems and elbows</li>
+<li>For installation directly to a junction box, purchase the 15601 surface mounting flange</li>
+<li>For installation into trees, purchase the 15609 junction box mounting bracket</li>
+<li>For surface mounting, purchase the 15607 mounting bracket</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<p><a href="https://s2.img-b.com/build.com/mediabase/specifications/kichler/85951/kichler-15396-catalog.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">﻿Catalog Page</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Flood Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2933130526820</id>
+      <title>Default Title</title>
+      <s:price currency="USD">134.99</s:price>
+      <s:sku>15396AZT</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452352335972</id>
+    <published>2019-01-19T00:26:39-05:00</published>
+    <updated>2019-01-19T00:26:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-variable-lumen-small-accent-60-degree-wide-flood-azt-16017azt30"/>
+    <title>Kichler - 12V 5.5W Adjustable Lumen VLO LED Small Accent Light - 3000K - 60 Degree Wide Flood Beam (Textured Architectural Bronze) - 16017AZT30</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2357__76857.1516999925.1280.1280.jpg?v=1571715622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            194.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12V with Variable Lumen Output (VLO) that allows you to easily switch between three lumen outputs (100, 200, 300 lumens) without mechanically adjusting the settings on the fixture. The adjustable lumen small accent 60 degree wide flood, 3000K spot light in textured architectural bronze (AZT) is an integrated, fully sealed LED fixture that features 6,000 volt surge protection. Featuring custom optics that assures no halos or scallops to deliver superb center-to-edge uniformity for clean, clear light.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Delivers three different lumen outputs that can be changed on site with a magnetic key without the increased risk of failure with mechanical adjustment</li>
+<li>Adjusting Lumen Output</li>
+<ul>
+<li>Simply hold the magnetic key over the lumen adjustment locator and the light will blink 4 times indicating that it is programmable</li>
+<li>Reapply the magnetic key over the switch locator and the light will blink according to its lumen level (1, 2 or 3 blinks)</li>
+</ul>
+<li>6,000 volt surge protection</li>
+<li>Crafted from aluminum and brass</li>
+<li>Includes a clear glass shade</li>
+<li>Integrated LED lighting</li>
+<li>This product is designed for use outdoors</li>
+<li>Manufactured in Taiwan</li>
+<li>ETL rated for wet locations</li>
+</ul>
+<p><strong>Dimensions</strong></p>
+<ul>
+<li>Height: 3-3/4"</li>
+<li>Width: 4-1/2"</li>
+<li>Depth: 2"</li>
+<li>Product Weight: 1.0 lbs</li>
+<li>Beam Spread: 60°</li>
+</ul>
+<p><strong>Electrical Specifications</strong></p>
+<ul>
+<li>Bulb Base: Integrated LED</li>
+<li>Bulb Included: Yes</li>
+<li>Wattage: 8 watts</li>
+<li>Voltage: 12 volts</li>
+<li>Color Temperature: 3000K</li>
+<li>Color Rendering Index: 80CRI</li>
+<li>Average Hours: 50000</li>
+</ul>
+<h4>Documents</h4>
+<p><a href="https://www.kichler.com/globalassets/products/documents/instruction-sheets/is-16017-us.pdf" target="_blank" rel="noopener noreferrer"><span>Instruction Sheet</span></a></p>
+<p><a href="https://www.kichler.com/globalassets/products/documents/spec-sheets/spec-sheet-16017.pdf" target="_blank" rel="noopener noreferrer"><span>Spec Sheet</span></a></p>
+<p><iframe width="700" height="400" src="https://www.youtube.com/embed/-VuD98TUqyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<h4></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452352335972</id>
+      <title>Default Title</title>
+      <s:price currency="USD">194.99</s:price>
+      <s:sku>16017AZT30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452352172132</id>
+    <published>2019-01-19T00:26:37-05:00</published>
+    <updated>2019-01-19T00:26:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-variable-lumen-small-accent-60-degree-wide-flood-azt-16017azt27"/>
+    <title>Kichler - 12V 5.5W Adjustable Lumen VLO LED Small Accent Light - 2700K - 60 Degree Wide Flood Beam (Textured Architectural Bronze) - 16017AZT27</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2356__76305.1516999583.1280.1280.jpg?v=1571715622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            194.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12V with Variable Lumen Output (VLO) that allows you to easily switch between three lumen outputs (100, 200, 300 lumens) without mechanically adjusting the settings on the fixture. The adjustable lumen small accent 60 degree wide flood, 2700K spot light in textured architectural bronze (AZT) is an integrated, fully sealed LED fixture that features 6,000 volt surge protection. Featuring custom optics that assures no halos or scallops to deliver superb center-to-edge uniformity for clean, clear light.</p>
+<h4><strong>Features</strong></h4>
+<ul>
+<li>Delivers three different lumen outputs that can be changed on site with a magnetic key without the increased risk of failure with mechanical adjustment</li>
+<li>Adjusting Lumen Output</li>
+<ul>
+<li>Simply hold the magnetic key over the lumen adjustment locator and the light will blink 4 times indicating that it is programmable</li>
+<li>Reapply the magnetic key over the switch locator and the light will blink according to its lumen level (1, 2 or 3 blinks)</li>
+</ul>
+<li>6,000 volt surge protection</li>
+<li>Crafted from aluminum and brass</li>
+<li>Includes a clear glass shade</li>
+<li>Integrated LED lighting</li>
+<li>This product is designed for use outdoors</li>
+<li>Made in Taiwan</li>
+<li>ETL rated for wet locations</li>
+</ul>
+<h4><strong>Dimensions</strong></h4>
+<ul>
+<li>Height: 3-3/4"</li>
+<li>Width: 4-1/2"</li>
+<li>Depth: 2"</li>
+<li>Product Weight: 1.0 lbs</li>
+<li>Beam Spread: 60°</li>
+</ul>
+<h4><strong>Electrical Specifications</strong></h4>
+<ul>
+<li>Bulb Base: Integrated LED</li>
+<li>Bulb Included: Yes</li>
+<li>Wattage: 8 watts</li>
+<li>Voltage: 12 volts</li>
+<li>Color Temperature: 2700K</li>
+<li>Color Rendering Index: 80CRI</li>
+<li>Average Hours: 50000</li>
+</ul>
+<h4>Documents</h4>
+<p><a href="https://www.kichler.com/globalassets/products/documents/instruction-sheets/is-16017-us.pdf" target="_blank" rel="noopener noreferrer"><span>Instruction Sheet</span></a></p>
+<p><a href="https://www.kichler.com/globalassets/products/documents/spec-sheets/spec-sheet-16017.pdf" target="_blank" rel="noopener noreferrer"><span>Spec Sheet</span></a></p>
+<p><iframe width="700" height="400" src="https://www.youtube.com/embed/-VuD98TUqyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<h4></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452352172132</id>
+      <title>Default Title</title>
+      <s:price currency="USD">194.99</s:price>
+      <s:sku>16017AZT27</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452351778916</id>
+    <published>2019-01-19T00:26:37-05:00</published>
+    <updated>2019-01-19T00:26:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-variable-lumen-small-accent-35-degree-flood-azt-16016azt30"/>
+    <title>Kichler - 12V 5.5W Adjustable Lumen VLO LED Small Accent Light - 3000K - 35 Degree Flood Beam (Textured Architectural Bronze) - 16016AZT30</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2355__40995.1516999218.1280.1280.jpg?v=1571715622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            194.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12V with Variable Lumen Output (VLO) that allows you to easily switch between three lumen outputs (100, 200, 300 lumens) without mechanically adjusting the settings on the fixture. The adjustable lumen small accent 35 degree, 3000K spot light in textured architectural bronze (AZT) is an integrated, fully sealed LED fixture that features 6,000 volt surge protection. Featuring custom optics that assures no halos or scallops to deliver superb center-to-edge uniformity for clean, clear light.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Delivers three different lumen outputs that can be changed on site with a magnetic key without the increased risk of failure with mechanical adjustment</li>
+<li>Adjusting Lumen Output</li>
+<ul>
+<li>Simply hold the magnetic key over the lumen adjustment locator and the light will blink 4 times indicating that it is programmable</li>
+<li>Reapply the magnetic key over the switch locator and the light will blink according to its lumen level (1, 2 or 3 blinks)</li>
+</ul>
+<li>6,000 volt surge protection</li>
+<li>Crafted from aluminum and brass</li>
+<li>Includes a clear glass shade</li>
+<li>Integrated LED lighting</li>
+<li>This product is designed for use outdoors</li>
+<li>Made in Taiwan</li>
+<li>ETL rated for wet locations</li>
+</ul>
+<p><strong>Dimensions</strong></p>
+<ul>
+<li>Height: 3-3/4"</li>
+<li>Width: 4-1/2"</li>
+<li>Depth: 2"</li>
+<li>Product Weight: 1.0 lbs</li>
+<li>Beam Spread: 35°</li>
+</ul>
+<p><strong>Electrical Specifications</strong></p>
+<ul>
+<li>Bulb Base: Integrated LED</li>
+<li>Bulb Included: Yes</li>
+<li>Wattage: 8 watts</li>
+<li>Voltage: 12 volts</li>
+<li>Color Temperature: 3000K</li>
+<li>Color Rendering Index: 80CRI</li>
+<li>Average Hours: 50000</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<p><span><a href="https://www.kichler.com/products/spec-sheet?sku=16016BKT27" target="_blank" rel="noopener noreferrer">﻿Spec Sheet</a>.</span></p>
+<p><span><iframe width="700" height="400" src="https://www.youtube.com/embed/-VuD98TUqyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452351778916</id>
+      <title>Default Title</title>
+      <s:price currency="USD">194.99</s:price>
+      <s:sku>16016AZT30</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452351680612</id>
+    <published>2019-01-19T00:26:36-05:00</published>
+    <updated>2019-01-19T00:26:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-variable-lumen-small-accent-35-degree-flood-azt-16016azt27"/>
+    <title>Kichler - 12V 5.5W Adjustable Lumen VLO LED Small Accent Light - 2700K - 35 Degree Flood Beam (Textured Architectural Bronze) - 16016AZT27</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2354__18781.1516998242.1280.1280.jpg?v=1571715622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            194.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12V with Variable Lumen Output (VLO) that allows you to easily switch between three lumen outputs (100, 200, 300 lumens) without mechanically adjusting the settings on the fixture. The adjustable lumen small accent 35 degree, 2700K spot light in textured architectural bronze (AZT) is an integrated, fully sealed LED fixture that features 6,000 volt surge protection. Featuring custom optics that assures no halos or scallops to deliver superb center-to-edge uniformity for clean, clear light.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Delivers three different lumen outputs that can be changed on site with a magnetic key without the increased risk of failure with mechanical adjustment</li>
+<li>Adjusting Lumen Output</li>
+<ul>
+<li>Simply hold the magnetic key over the lumen adjustment locator and the light will blink 4 times indicating that it is programmable</li>
+<li>Reapply the magnetic key over the switch locator and the light will blink according to its lumen level (1, 2 or 3 blinks)</li>
+</ul>
+<li>6,000 volt surge protection</li>
+<li>Crafted from aluminum and brass</li>
+<li>Includes a clear glass shade</li>
+<li>Integrated LED lighting</li>
+<li>This product is designed for use outdoors</li>
+<li>Made in Taiwan</li>
+<li>ETL rated for wet locations</li>
+</ul>
+<p><strong>Dimensions</strong></p>
+<ul>
+<li>Height: 3-3/4"</li>
+<li>Width: 4-1/2"</li>
+<li>Depth: 2"</li>
+<li>Product Weight: 1.0 lbs</li>
+<li>Beam Spread: 35°</li>
+</ul>
+<p><strong>Electrical Specifications</strong></p>
+<ul>
+<li>Bulb Base: Integrated LED</li>
+<li>Bulb Included: Yes</li>
+<li>Wattage: 8 watts</li>
+<li>Voltage: 12 volts</li>
+<li>Color Temperature: 2700K</li>
+<li>Color Rendering Index: 80CRI</li>
+<li>Average Hours: 50000</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<p><a href="https://www.kichler.com/products/spec-sheet?sku=16016BKT27" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">﻿Spec Sheet</span></a></p>
+<p><span style="text-decoration: underline;"><iframe width="700" height="400" src="https://www.youtube.com/embed/-VuD98TUqyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452351680612</id>
+      <title>Default Title</title>
+      <s:price currency="USD">194.99</s:price>
+      <s:sku>16016AZT27</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2972212592740</id>
+    <published>2019-01-19T00:26:35-05:00</published>
+    <updated>2019-01-19T00:26:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-vlo-large-accent-60-degree-wide-flood-textured-black-16020bkt27"/>
+    <title>Kichler - 12V 12W Adjustable Lumen VLO Large Accent Light - 2700K - 60 Degree Wide Flood Beam (Textured Black) - 16020BKT27</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/16020BKT27.jpg?v=1573144497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            214.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>12V with Variable Lumen Output ( VLO ) that allows you to easily switch between three lumen outputs (400, 600, 835 lumens) without mechanically adjusting the settings on the fixture. The adjustable lumen large accent 60 degree wide flood, 2700K spot light in textured black (BKT) is an integrated, fully sealed LED fixture that features 6,000 volt surge protection. Featuring custom optics that assures no halos or scallops to deliver superb center-to-edge uniformity for clean, clear light.</span></p>
+<h4><strong>Features</strong></h4>
+<ul>
+<li>Delivers three different lumen outputs that can be changed on site with a magnetic key without the increased risk of failure with mechanical adjustment</li>
+<li>Adjusting Lumen Output</li>
+<ul>
+<li>Simply hold the magnetic key over the lumen adjustment locator and the light will blink 4 times indicating that it is programmable</li>
+<li>Reapply the magnetic key over the switch locator and the light will blink according to its lumen level (1, 2 or 3 blinks)</li>
+</ul>
+<li>6,000 volt surge protection</li>
+<li>Crafted from aluminum and brass</li>
+<li>Includes a clear glass shade</li>
+<li>Integrated LED lighting</li>
+<li>This product is designed for use outdoors</li>
+<li>Manufactured in Taiwan</li>
+<li>ETL rated for wet locations</li>
+</ul>
+<h4><strong>Dimensions</strong></h4>
+<ul>
+<li>Height: 4-1/2"</li>
+<li>Width: 6"</li>
+<li>Depth: 2-3/4"</li>
+<li>Product Weight: 1.5 lbs</li>
+<li>Beam Spread: 60°</li>
+</ul>
+<h4><strong>Electrical Specifications</strong></h4>
+<ul>
+<li>Bulb Base: Integrated LED</li>
+<li>Bulb Included: Yes</li>
+<li>Wattage: 23 watts</li>
+<li>Voltage: 12 volts</li>
+<li>Color Temperature: 2700K</li>
+<li>Color Rendering Index: 80CRI</li>
+<li>Average Hours: 50000</li>
+</ul>
+<p><strong>Documents</strong></p>
+<p><a href="https://www.kichler.com/globalassets/products/documents/instruction-sheets/is-16020-us.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Instruction Sheet</span></a></p>
+<p><a href="https://www.kichler.com/globalassets/products/documents/spec-sheets/spec-sheet-16020.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Spec Sheet</span></a></p>
+<p><span style="text-decoration: underline;"><iframe width="700" height="400" src="https://www.youtube.com/embed/-VuD98TUqyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2972212592740</id>
+      <title>Default Title</title>
+      <s:price currency="USD">214.99</s:price>
+      <s:sku>16020BKT27</s:sku>
+      <s:grams>1474</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452351451236</id>
+    <published>2019-01-19T00:26:35-05:00</published>
+    <updated>2019-01-19T00:26:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-variable-lumen-large-accent-60-degree-wide-flood-azt-16020azt27"/>
+    <title>Kichler - 12V 12W Adjustable Lumen VLO Large Accent Light - 2700K - 60 Degree Wide Flood Beam (Textured Architectural Bronze) - 16020AZT27</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2359__18618.1517000533.1280.1280.jpg?v=1571715622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            214.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12V with Variable Lumen Output (VLO) that allows you to easily switch between three lumen outputs (400, 600, 835 lumens) without mechanically adjusting the settings on the fixture. The adjustable lumen large accent 60 degree wide flood, 2700K spot light in textured architectural bronze (AZT) is an integrated, fully sealed LED fixture that features 6,000 volt surge protection. Featuring custom optics that assures no halos or scallops to deliver superb center-to-edge uniformity for clean, clear light.</p>
+<h4><strong>Features</strong></h4>
+<ul>
+<li>Delivers three different lumen outputs that can be changed on site with a magnetic key without the increased risk of failure with mechanical adjustment</li>
+<li>Adjusting Lumen Output</li>
+<ul>
+<li>Simply hold the magnetic key over the lumen adjustment locator and the light will blink 4 times indicating that it is programmable</li>
+<li>Reapply the magnetic key over the switch locator and the light will blink according to its lumen level (1, 2 or 3 blinks)</li>
+</ul>
+<li>6,000 volt surge protection</li>
+<li>Crafted from aluminum and brass</li>
+<li>Includes a clear glass shade</li>
+<li>Integrated LED lighting</li>
+<li>This product is designed for use outdoors</li>
+<li>Manufactured in Taiwan</li>
+<li>ETL rated for wet locations</li>
+</ul>
+<h4><strong>Dimensions</strong></h4>
+<ul>
+<li>Height: 4-1/2"</li>
+<li>Width: 6"</li>
+<li>Depth: 2-3/4"</li>
+<li>Product Weight: 1.5 lbs</li>
+<li>Beam Spread: 60°</li>
+</ul>
+<h4><strong>Electrical Specifications</strong></h4>
+<ul>
+<li>Bulb Base: Integrated LED</li>
+<li>Bulb Included: Yes</li>
+<li>Wattage: 23 watts</li>
+<li>Voltage: 12 volts</li>
+<li>Color Temperature: 2700K</li>
+<li>Color Rendering Index: 80CRI</li>
+<li>Average Hours: 50000</li>
+</ul>
+<p><strong>Documents</strong></p>
+<p><a href="https://www.kichler.com/globalassets/products/documents/instruction-sheets/is-16020-us.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Instruction Sheet</span></a></p>
+<p><a href="https://www.kichler.com/globalassets/products/documents/spec-sheets/spec-sheet-16020.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Spec Sheet</span></a></p>
+<p><span style="text-decoration: underline;"><iframe width="700" height="400" src="https://www.youtube.com/embed/-VuD98TUqyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452351451236</id>
+      <title>Default Title</title>
+      <s:price currency="USD">214.99</s:price>
+      <s:sku>16020AZT27</s:sku>
+      <s:grams>1474</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452351156324</id>
+    <published>2019-01-19T00:26:33-05:00</published>
+    <updated>2019-01-19T00:26:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-variable-lumen-large-accent-35-degree-flood-azt-16019azt27"/>
+    <title>Kichler - 12V 12W Adjustable Lumen VLO LED Large Accent Light - 2700K - 35 Degree Medium Flood Beam (Textured Architectural Bronze) - 16019AZT27</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2358__18934.1517000210.1280.1280.jpg?v=1571715622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            214.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p>12V with Variable Lumen Output (VLO) that allows you to easily switch between three lumen outputs (400, 600, 835 lumens) without mechanically adjusting the settings on the fixture. The adjustable lumen large accent 35 degree, 2700K flood light in textured architectural bronze (AZT) is an integrated, fully sealed LED fixture that features 6,000 volt surge protection. Featuring custom optics that assures no halos or scallops to deliver superb center-to-edge uniformity for clean, clear light.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Delivers three different lumen outputs that can be changed on site with a magnetic key without the increased risk of failure with mechanical adjustment</li>
+<li>Adjusting Lumen Output</li>
+<ul>
+<li>Simply hold the magnetic key over the lumen adjustment locator and the light will blink 4 times indicating that it is programmable</li>
+<li>Reapply the magnetic key over the switch locator and the light will blink according to its lumen level (1, 2 or 3 blinks)</li>
+</ul>
+<li>6,000 volt surge protection</li>
+<li>Crafted from aluminum and brass</li>
+<li>Includes a clear glass shade</li>
+<li>Integrated LED lighting</li>
+<li>This product is designed for use outdoors</li>
+<li>Made in Taiwan</li>
+<li>ETL rated for wet locations</li>
+</ul>
+<p><strong>Dimensions</strong></p>
+<ul>
+<li>Height: 4-1/2"</li>
+<li>Width: 6"</li>
+<li>Depth: 2-3/4"</li>
+<li>Product Weight: 1.5 lbs</li>
+<li>Beam Spread: 35°</li>
+</ul>
+<p><strong>Electrical Specifications</strong></p>
+<ul>
+<li>Bulb Base: Integrated LED</li>
+<li>Bulb Included: Yes</li>
+<li>Wattage: 23 watts</li>
+<li>Voltage: 12 volts</li>
+<li>Color Temperature: 2700K</li>
+<li>Color Rendering Index: 80CRI</li>
+<li>Average Hours: 50000</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<p><a href="https://www.kichler.com/products/spec-sheet?sku=16019AZT27" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Spec Sheet</span></a></p>
+<h4><iframe width="700" height="400" src="https://www.youtube.com/embed/-VuD98TUqyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></h4>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452351156324</id>
+      <title>Default Title</title>
+      <s:price currency="USD">214.99</s:price>
+      <s:sku>16019AZT27</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452345684068</id>
+    <published>2019-01-19T00:26:14-05:00</published>
+    <updated>2019-01-19T00:26:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-in-ground-1-lt-12v-15088bk-black-painted"/>
+    <title>Kichler - 12V 36W In-Ground PAR36 Well Light (Black Material (Not Painted)) - 15088BK</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/15088bk.jpg?v=1572639653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>36-Watt PAR36 Well Light</strong></p>
+<p>Versatile design with reversible support sleeve to accommodate uplighting when flush mounted or angled lighting effects when semi-recessed. Stainless steel yolk design holds light source securely at desired angle.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Heavy duty polycarbonate support sleeve with stainless steel gimble ring</li>
+<li>Compatible with PAR36 screw-terminal halogen lamps up to 35W (Not included)</li>
+<li>Reversible sleeve allows up lighting or angled accent lighting</li>
+<li>Cable connectors included</li>
+<li>To upgrade your fixture to LED, purchase one of the 18021 - 18029 drop-in lamps depending on your application</li>
+<li>UL listed for wet locations</li>
+</ul>
+<p><strong>Dimensions:</strong></p>
+<ul>
+<li>Height: 8"</li>
+<li>Width: 5.5"</li>
+<li>Lead Wire Length: 42"</li>
+</ul>
+<p><strong>Electrical Specifications:</strong></p>
+<ul>
+<li>Bulb Type: Halogen</li>
+<li>Bulb Included: No</li>
+<li>Bulb Socket Type: Screw Terminal</li>
+<li>Maximum Wattage: 35</li>
+<li>Bulb Shape: PAR-36 or AR-111</li>
+<li>Voltage: 12 (Low Voltage)</li>
+<li>See the attached spec sheets and catalog pages for full photometric details</li>
+</ul>
+<p><strong>Compatible Accessories:</strong></p>
+<ul>
+<li>15689 - Lens Cover</li>
+<li>15690 - Rock Guard</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<p><a href="https://s1.img-b.com/build.com/mediabase/specifications/kichler/84102/kichler-15088-catalog.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Catalog Page</span></a></p>
+<p><a href="https://s1.img-b.com/build.com/mediabase/specifications/kichler/84102/kichler-15088-installation.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Installation Guide</span></a></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$40-60</s:tag>
+    <s:tag>PRODUCT TYPE_In Ground</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452345684068</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>15088BK</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452344766564</id>
+    <published>2019-01-19T00:26:11-05:00</published>
+    <updated>2019-01-19T00:26:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-down-accent-1-lt-12v-15494azt-textured-architectural-bronze"/>
+    <title>Kichler - 12V 50W Accent Downlight (Textured Architectural Bronze) - 15494AZT</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-943__25237.1516302930.1280.1280.jpg?v=1571715622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            164.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>12V Long Cowl Mini-Accent Light (Down Light)</strong></p>
+<p>A compact accent light with extra long cowl.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Cast aluminum construction with heal-resistant glass lens</li>
+<li>Compatible with bi-pin base MR-16 or MR-11 lamps up to 50W (Not included)</li>
+<li>Can be mounted on walls, eaves, or in trees for downlighting</li>
+<li>Includes the 15609 junction box for tree mounting in the box</li>
+</ul>
+<p><strong>Dimensions:</strong></p>
+<ul>
+<li>Height: 3.67"</li>
+<li>Width: 2.41"</li>
+<li>Length: 10"</li>
+</ul>
+<p><strong>Electrical Specifications:</strong></p>
+<ul>
+<li>Bulb Type: Halogen</li>
+<li>Bulb Included: No</li>
+<li>Bulb Socket Type: Bi-Pin</li>
+<li>Maximum Wattage: 50</li>
+<li>Bulb Shape: MR-11 or MR-16</li>
+<li>Voltage: 12 (Low Voltage)</li>
+<li>See the attached spec sheets and catalog pages for full photometric details</li>
+</ul>
+<p><strong>Compatible Accessories:</strong></p>
+<ul>
+<li>For surface mounting to an existing junction box, purchase the 15601 mounting flange</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<p><a href="https://s1.img-b.com/build.com/mediabase/specifications/kichler/92288/kichler-15494-specsheet.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">﻿Spec Sheet</span></a></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRODUCT TYPE_Down Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452344766564</id>
+      <title>Default Title</title>
+      <s:price currency="USD">164.99</s:price>
+      <s:sku>15494AZT</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452340703332</id>
+    <published>2019-01-19T00:25:58-05:00</published>
+    <updated>2019-01-19T00:25:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-accent-led-4-5w-60-degree-wide-bkt-15733bkt"/>
+    <title>Kichler - 12V LED 4.5W 60 Degree Wide Beam Accent Light (Textured Black) - 15733BKT</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2371__34320.1517003273.1280.1280.png?v=1571715621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            114.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60 degree 4.5 watt accent light in Textured Black engineered to provide the spread of light needed with the amount of lumen or light output desired</p>
+<h4>Technical Information</h4>
+<table data-mobile="false">
+<tbody>
+<tr>
+<th>Lamp Included:</th>
+<td>Integrated</td>
+</tr>
+<tr>
+<th>Weight:</th>
+<td>1.00 LBS</td>
+</tr>
+<tr>
+<th>Safety Rated:</th>
+<td>Wet</td>
+</tr>
+<tr>
+<th>Dual Mount:</th>
+<td>No</td>
+</tr>
+<tr>
+<th>Light Source:</th>
+<td>LED</td>
+</tr>
+<tr>
+<th>Number of Bulbs:</th>
+<td>3</td>
+</tr>
+<tr>
+<th>Lamp Type:</th>
+<td>LED</td>
+</tr>
+<tr>
+<th>Max Watt:</th>
+<td>4.5W</td>
+</tr>
+<tr>
+<th>Max Wattage/Range:</th>
+<td>4.5W</td>
+</tr>
+<tr>
+<th>Width:</th>
+<td>3.00"</td>
+</tr>
+<tr>
+<th>Height:</th>
+<td>4.50"</td>
+</tr>
+<tr>
+<th>Length:</th>
+<td>2.75"</td>
+</tr>
+<tr>
+<th>Lead Wire Length:</th>
+<td>24.00"</td>
+</tr>
+<tr>
+<th>Diffuser Description:</th>
+<td>Clear Tempered</td>
+</tr>
+<tr>
+<th>Voltage:</th>
+<td>12V</td>
+</tr>
+<tr>
+<th>Finish:</th>
+<td>Textured Black</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>Downloads</strong></p>
+<p><span style="text-decoration: underline;"><a href="http://www.kichler.com/media/documents/spec_sheets/Spec%20Sheet%2015733.pdf" target="_blank" rel="noopener noreferrer">Spec Sheet</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452340703332</id>
+      <title>Default Title</title>
+      <s:price currency="USD">114.98</s:price>
+      <s:sku>15733BKT</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452340113508</id>
+    <published>2019-01-19T00:25:57-05:00</published>
+    <updated>2019-01-19T00:25:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-accent-led-4-5w-35-degree-medium-bkt-15732bkt"/>
+    <title>Kichler - 12V LED 4.5W 35 Degree Medium Beam Accent Light (Textured Black) - 15732BKT</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2370__49997.1517003070.1280.1280.png?v=1571715621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            114.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>35 degree 4.5 watt accent light in Textured Black engineered to provide the spread of light needed with the amount of lumen or light output desired</p>
+<h4>Technical Information</h4>
+<table data-mobile="false">
+<tbody>
+<tr>
+<th>Lamp Included:</th>
+<td>Integrated</td>
+</tr>
+<tr>
+<th>Safety Rated:</th>
+<td>Wet</td>
+</tr>
+<tr>
+<th>Dual Mount:</th>
+<td>No</td>
+</tr>
+<tr>
+<th>Light Source:</th>
+<td>LED</td>
+</tr>
+<tr>
+<th>Number of Bulbs:</th>
+<td>3</td>
+</tr>
+<tr>
+<th>Max Watt:</th>
+<td>3W</td>
+</tr>
+<tr>
+<th>Max Wattage/Range:</th>
+<td>3W</td>
+</tr>
+<tr>
+<th>Width:</th>
+<td>3.00"</td>
+</tr>
+<tr>
+<th>Height:</th>
+<td>3.50"</td>
+</tr>
+<tr>
+<th>Length:</th>
+<td>2.50"</td>
+</tr>
+<tr>
+<th>Lead Wire Length:</th>
+<td>24.00"</td>
+</tr>
+<tr>
+<th>Diffuser Description:</th>
+<td>Clear Glass</td>
+</tr>
+<tr>
+<th>Voltage:</th>
+<td>12V</td>
+</tr>
+<tr>
+<th>Finish:</th>
+<td>Textured Black</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>Downloads</strong></p>
+<p><span style="text-decoration: underline;"><a href="http://www.kichler.com/media/documents/spec_sheets/Spec%20Sheet%2015732.pdf" target="_blank" rel="noopener noreferrer">Spec Sheet</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452340113508</id>
+      <title>Default Title</title>
+      <s:price currency="USD">114.98</s:price>
+      <s:sku>15732BKT</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452339359844</id>
+    <published>2019-01-19T00:25:54-05:00</published>
+    <updated>2019-01-19T00:25:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-accent-led-4-5w-10-deg-narrow-azt-15731azt-textured-architectural-bronze"/>
+    <title>Kichler - 12V LED 4.5W 10 Degree Narrow Beam Accent Light (Textured Architectural Bronze) - 15731AZT</title>
+    <s:type>Accent Lights</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12573__23958.1516302933.1280.1280.jpg?v=1571715621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Accent Lights<br>
+        <strong>Price: </strong>
+            114.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>10 degree 4.5 watt accent light in Textured Architectural Bronze engineered to provide the spread of light needed with the amount of lumen or light output desired</p>
+<h4>Technical Information</h4>
+<table data-mobile="false">
+<tbody>
+<tr>
+<th>Safety Rated:</th>
+<td>Wet</td>
+</tr>
+<tr>
+<th>Dual Mount:</th>
+<td>No</td>
+</tr>
+<tr>
+<th>Number of Bulbs:</th>
+<td>3</td>
+</tr>
+<tr>
+<th>Max Watt:</th>
+<td>3W</td>
+</tr>
+<tr>
+<th>Max Wattage/Range:</th>
+<td>3W</td>
+</tr>
+<tr>
+<th>Width:</th>
+<td>3.00"</td>
+</tr>
+<tr>
+<th>Height:</th>
+<td>3.50"</td>
+</tr>
+<tr>
+<th>Length:</th>
+<td>2.50"</td>
+</tr>
+<tr>
+<th>Lamp Included:</th>
+<td>Integrated</td>
+</tr>
+<tr>
+<th>Lead Wire Length:</th>
+<td>24.00"</td>
+</tr>
+<tr>
+<th>Glass Description:</th>
+<td>Clear Glass</td>
+</tr>
+<tr>
+<th>Voltage:</th>
+<td>12V</td>
+</tr>
+<tr>
+<th>Light Source:</th>
+<td>LED</td>
+</tr>
+<tr>
+<th>Number of Lights/LEDs:</th>
+<td>3</td>
+</tr>
+<tr>
+<th>Finish:</th>
+<td>Textured Architectural Bronze</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="http://www.kichler.com/media/documents/instruction_sheets/IS-15731-US.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Instruction Sheet 15731</span></a></li>
+<li><a href="http://www.kichler.com/media/documents/spec_sheets/Spec%20Sheet%2015731.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Spec Sheet 15731</span></a></li>
+<li><a href="http://www.kichler.com/media/documents/high_res_images/15731.zip" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">High Res Images 15731</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Accent Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452339359844</id>
+      <title>Default Title</title>
+      <s:price currency="USD">114.98</s:price>
+      <s:sku>15731AZT</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

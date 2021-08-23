@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/abr-lighting.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2020-05-01T06:48:04-04:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452197671012</id>
+    <published>2020-05-01T06:48:04-04:00</published>
+    <updated>2020-05-01T06:48:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-5w-g4-2700k-36l-12v"/>
+    <title>ABR Lighting - 5w G4 - 2700K 36L 12V</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2289-2290__59956.1518444084.1280.1280.png?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>G4 5W 36L-2700K</p>
+<p>9-15v AC/DC</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452197671012</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.70</s:price>
+      <s:sku>5w G4 2700K</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452210319460</id>
+    <published>2019-01-19T00:18:30-05:00</published>
+    <updated>2019-01-19T00:18:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-ul-base-ul-base-mr16-well"/>
+    <title>ABR Lighting - UL-Base - UL-Base MR16 Well</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2384__17403.1518441521.1280.1280.png?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cast Brass MR16 type of Well with PVC composite sleeve</p>
+<p>Fits Monaco, Titian, Botticelli, and El Greco Grates</p>
+<p>MR16 20W included</p>
+<p>Unit weight 2.6 lbs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$40-60</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Lighting Accessories</s:tag>
+    <s:tag>PRODUCT TYPE_Well Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452210319460</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku>UL-Base</s:sku>
+      <s:grams>1179</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452209205348</id>
+    <published>2019-01-19T00:18:25-05:00</published>
+    <updated>2019-01-19T00:18:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-stoss-small-hat-apl-02-hat-s"/>
+    <title>ABR Lighting - Stoss Small Hat - APL-02-Hat-S</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2267__81929.1518446875.1280.1280.png?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cast Brass Area/Path Light Shade</p>
+<p>Fits all the Stems</p>
+<p>Diameter 4''</p>
+<p>*Just hat itself, no stem or bulb.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Lighting Accessories</s:tag>
+    <s:tag>PRODUCT TYPE_Path Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452209205348</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>APL-02-Hat-S</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452208124004</id>
+    <published>2019-01-19T00:18:22-05:00</published>
+    <updated>2019-01-19T00:18:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-stem-24-apl-stem-24"/>
+    <title>ABR Lighting - Stem 24 - APL-Stem-24</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2270__72823.1518460108.1280.1280.png?v=1584808517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            117.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cast Brass Path Light Stem 24</p>
+<p>25 lead 16/2 wire</p>
+<p>Ground Stabilizer Stake A</p>
+<p>G4 20W bulb NOT Included</p>
+<p>Clear and Frosted Lens</p>
+<p>Unit weight: 3.15 lb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$40-60</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Path Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452208124004</id>
+      <title>Default Title</title>
+      <s:price currency="USD">117.00</s:price>
+      <s:sku>APL-Stem-24</s:sku>
+      <s:grams>1559</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452207403108</id>
+    <published>2019-01-19T00:18:19-05:00</published>
+    <updated>2019-01-19T00:18:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-rubens-r-fdl-01-r"/>
+    <title>ABR Lighting - Rubens-R - FDL-01-R</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2281__32792.1518443315.1280.1280.png?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            163.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Construction: Solid Brass<br> Voltage: 12V-24V<br> Lamp: MR16/G4 Halogen (NOT Included)<br> Wire: 25 Feet 16/2 AWG, UV Resistant<br> Spike: Brown PVC Stabilizer<br> Finish: Aged Bronze<br> Maximum: Wattage: 50 Watts<br> Warranty: Lifetime</p>
+<p>Cast Brass Flood Light</p>
+<p>25 Lead 16/2 Wire</p>
+<p>Ground Stabilizer Stake A</p>
+<p>G4 20W and MR16 lamp NOT Included</p>
+<p>Comes with 4 lenses</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Flood Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452207403108</id>
+      <title>Default Title</title>
+      <s:price currency="USD">163.00</s:price>
+      <s:sku>FDL-01-R</s:sku>
+      <s:grams>2381</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452207009892</id>
+    <published>2019-01-19T00:18:17-05:00</published>
+    <updated>2019-01-19T00:18:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-rapheal-r-fdl-02-r"/>
+    <title>ABR Lighting - Rapheal-R - FDL-02-R</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2282__14557.1518443349.1280.1280.png?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            132.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Construction: Solid Brass<br> Voltage: 12V-24V<br> Lamp: G4 Halogen (NOT Included)<br> Wire: 25 Feet 16/2 AWG, UV Resistant<br> Spike: Brown PVC Stabilizer<br> Finish: Aged Bronze<br> Maximum: Wattage: 20 Watts<br> Warranty: Lifetime</p>
+<p>Cast Brass Flood Light</p>
+<p>25 Lead 16/2 Wire</p>
+<p>Ground Stabilizer Stake B</p>
+<p>G4 20W lamp NOT Included</p>
+<p>Comes with 2 lenses</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Flood Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452207009892</id>
+      <title>Default Title</title>
+      <s:price currency="USD">132.00</s:price>
+      <s:sku>FDL-02-R</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452206583908</id>
+    <published>2019-01-19T00:18:15-05:00</published>
+    <updated>2019-01-19T00:18:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-provost-dl-01"/>
+    <title>ABR Lighting - Provost - DL-01</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2279__46303.1518443009.1280.1280.png?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            144.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Construction: Solid Brass<br> IP: 65<br> Voltage: 12V-24V<br> Lamp: 20W MR16 Halogen Bi-Pin (LED Optional)<br> Wire: 25 Feet 16/2 AWG, UV Resistant<br> Spike: Brown PVC Stabilizer<br> Finish: Aged Bronze<br> Maximum: Wattage: 50 Watts<br> Warranty: Lifetime</p>
+<p>Cast Brass Down Light</p>
+<p>25 Lead 16/2 Wire</p>
+<p>Domed Lens</p>
+<p>Adjustable to 360 Degrees</p>
+<p>MR16 20W Lamp NOT Included</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Down Lights</s:tag>
+    <s:tag>PRODUCT TYPE_Specialty Lighting</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452206583908</id>
+      <title>Default Title</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku>DL-01</s:sku>
+      <s:grams>1270</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452206157924</id>
+    <published>2019-01-19T00:18:13-05:00</published>
+    <updated>2019-01-19T00:18:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-pontormo-dl-02"/>
+    <title>ABR Lighting - Pontormo - DL-02</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2280__65666.1518443082.1280.1280.png?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            156.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Construction: Solid Brass Body<br> IP: 65<br> Finish: Antique Brass<br> Lamp Type: MR16 20W 12V (Not Included)<br> 50W Max. LED Available<br> Wire: 25 Feet 18/2 Gauge<br> Lens: Clear (Tempered)</p>
+<p>Cast Brass Down Light</p>
+<p>25 Lead 16/2 Wire</p>
+<p>Domed Lens</p>
+<p>Adjustable to 360 Degrees</p>
+<p>MR16 20W lamp NOT Included</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Down Lights</s:tag>
+    <s:tag>PRODUCT TYPE_Specialty Lighting</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452206157924</id>
+      <title>Default Title</title>
+      <s:price currency="USD">156.00</s:price>
+      <s:sku>DL-02</s:sku>
+      <s:grams>1451</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452205797476</id>
+    <published>2019-01-19T00:18:08-05:00</published>
+    <updated>2019-01-19T00:18:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-monet-skinny-module-5w-sdl-04-5w"/>
+    <title>ABR Lighting - Monet Skinny Module 5W - SDL-04-5w</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2285-4__87024.1518459316.1280.1280.jpg?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            147.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LED Module 5 Watt CREE 2700K</p>
+<p>6 Lead 18/2 Wire</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Hardscape</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452205797476</id>
+      <title>Default Title</title>
+      <s:price currency="USD">147.00</s:price>
+      <s:sku>SDL-04-5W</s:sku>
+      <s:grams>111</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452204585060</id>
+    <published>2019-01-19T00:18:04-05:00</published>
+    <updated>2019-01-19T00:18:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-monet-skinny-module-2w-sdl-04-2w"/>
+    <title>ABR Lighting - Monet Skinny Module 2W - SDL-04-2w</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2285-4__75248.1518459292.1280.1280.jpg?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            123.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LED Module 2 Watt CREE 2700K</p>
+<p>6 Lead 18/2 Wire</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$40-60</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Hardscape</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452204585060</id>
+      <title>Default Title</title>
+      <s:price currency="USD">123.00</s:price>
+      <s:sku>SDL-04-2W</s:sku>
+      <s:grams>128</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452203503716</id>
+    <published>2019-01-19T00:18:02-05:00</published>
+    <updated>2019-01-19T00:18:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-monet-skinny-brass-plate-sdl-04-br"/>
+    <title>ABR Lighting - Monet Skinny Brass Plate - SDL-04-BR</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2284__81601.1518459208.1280.1280.jpg?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stainless Steel #304 Plate Brass Coated Finish</p>
+<p>Used with SDL-04-2W or SDL-04-5W module to make a fixture</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Hardscape</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452203503716</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>SDL-04-BR</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452202946660</id>
+    <published>2019-01-19T00:18:00-05:00</published>
+    <updated>2019-01-19T00:18:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-monaco-cover-grate-ul-03-cover"/>
+    <title>ABR Lighting - Monaco Cover Grate - UL-03-Cover</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2277__07039.1518449060.1280.1280.png?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brass Cover Grate for UL-Base with Tempered Clear Lens</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Lighting Accessories</s:tag>
+    <s:tag>PRODUCT TYPE_Well Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452202946660</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>UL-03-Cover</s:sku>
+      <s:grams>247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452201963620</id>
+    <published>2019-01-19T00:17:56-05:00</published>
+    <updated>2019-01-19T00:17:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-matteo-hat-apl-04-hat"/>
+    <title>ABR Lighting - Matteo Hat - APL-04-Hat</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2269__07085.1518448412.1280.1280.png?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cast Brass Area/Path Light Shade</p>
+<p>Fits all the Stems</p>
+<p>Diameter 8 1/2</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Lighting Accessories</s:tag>
+    <s:tag>PRODUCT TYPE_Path Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452201963620</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>APL-04-Hat</s:sku>
+      <s:grams>839</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452201504868</id>
+    <published>2019-01-19T00:17:54-05:00</published>
+    <updated>2019-01-19T00:17:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-mantegna-ul-02"/>
+    <title>ABR Lighting - Mantegna - UL-02</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2274__10776.1518442087.1280.1280.png?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            147.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PAR36 type PVC composite Well Light with Brass Cover Grate and Tempered Clear lens</p>
+<p>25 Lead 16/2 Wire</p>
+<p>Lamp Not Included</p>
+<p>Unit weight 3.4 lbs</p>
+<p>Construction: Solid Brass<br> Voltage: 12V-24V<br> Lamp: PAR-36 Halogen (NOT Included)<br> Wire: 25 Feet 16/2 AWG, UV Resistant<br> Finish: Aged Bronze<br> Maximum: Wattage: 50 Watts<br> Warranty: Lifetime</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Well Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452201504868</id>
+      <title>Default Title</title>
+      <s:price currency="USD">147.00</s:price>
+      <s:sku>UL-02</s:sku>
+      <s:grams>1542</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452200915044</id>
+    <published>2019-01-19T00:17:51-05:00</published>
+    <updated>2019-01-19T00:17:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-lombardo-adl-03"/>
+    <title>ABR Lighting - Lombardo - ADL-03</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2263__51267.1518445785.1280.1280.png?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            153.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Construction: Solid Brass<br> Voltage: 12V-24V<br> Lamp: PAR36 Halogen (NOT Included)<br> Wire: 25 Feet 16/2 AWG, UV Resistant<br> Spike: Brown PVC Stabilizer<br> Finish: Aged Bronze<br> Maximum: Wattage: 50 Watts<br> Warranty: Lifetime</p>
+<p>Cast Brass Spot/Directional Light</p>
+<p>25 Lead 16/2 Wire</p>
+<p>Ground Stabilizer Stake A</p>
+<p>PAR36 (Not Included)</p>
+<p>Flat Lens</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Directional Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452200915044</id>
+      <title>Default Title</title>
+      <s:price currency="USD">153.00</s:price>
+      <s:sku>ADL-03</s:sku>
+      <s:grams>1928</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452198588516</id>
+    <published>2019-01-19T00:17:43-05:00</published>
+    <updated>2019-01-19T00:17:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-botticelli-cover-grate-ul-05-cover"/>
+    <title>ABR Lighting - Botticelli Cover Grate - UL-05-Cover</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2278__02173.1518442877.1280.1280.png?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brass Cover Grate for UL-Base with Tempered Glass Lens</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Lighting Accessories</s:tag>
+    <s:tag>PRODUCT TYPE_Well Lights</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452198588516</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>UL-05-Cover</s:sku>
+      <s:grams>266</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452198490212</id>
+    <published>2019-01-19T00:17:41-05:00</published>
+    <updated>2019-01-19T00:17:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-base-t-universal-tree-bracket-base-t"/>
+    <title>ABR Lighting - Base-T Universal Tree Bracket - BASE-T</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2288__12520.1518444000.1280.1280.png?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Universal Mounting Tree Bracket</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Lighting Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452198490212</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>Base T</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452198031460</id>
+    <published>2019-01-19T00:17:41-05:00</published>
+    <updated>2019-01-19T00:17:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-base-a-universal-bracket-base-a"/>
+    <title>ABR Lighting - Base-A Universal Bracket - BASE-A</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-001__89715.1516822453.1280.1280.jpg?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cast Brass Universal Mounting Bracket A</p>
+<p>Diameter 2 5/8</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_Fixtures</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Lighting Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452198031460</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>Base A</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452197769316</id>
+    <published>2019-01-19T00:17:39-05:00</published>
+    <updated>2019-01-19T00:17:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/abr-lighting-5w-g4-3000k-36l-12v"/>
+    <title>ABR Lighting - 5w G4 - 3000K 36L 12V</title>
+    <s:type></s:type>
+    <s:vendor>ABR Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-2289-2290__86838.1518444097.1280.1280.png?v=1571715611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ABR Lighting<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>G4 5W 36L-3000K</p>
+<p>9-15v AC/DC</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_ABR Lighting</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452197769316</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.70</s:price>
+      <s:sku>5w G4 3000K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

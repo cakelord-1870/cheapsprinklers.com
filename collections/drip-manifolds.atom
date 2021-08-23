@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/drip-manifolds.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2021-02-03T13:40:53-05:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5017579225190</id>
+    <published>2021-02-03T13:40:53-05:00</published>
+    <updated>2021-02-03T13:40:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-2-2-gph-pressure-compensating-emitter-kit-top-200"/>
+    <title>DIG - T.O.P 12-Outlet Manifold Kit (2.2 GPH) - TOP-200</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/top-100_1_5d91c2d1-0890-4fbd-9c9c-00a5ef6ddf44.jpg?v=1612377628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Designed to retrofit a 1/2" sprinkler riser, DIG's TOP 12-outlet drip manifold utilizes extremely accurate, pressure compensating individual and interchangeable drip emitters to ensure equal flow from each outlet over a wide range of operating pressures from 10 to 80 PSI. </span><span>W</span><span>ith 2.2 GPH per outlet, the TOP can deliver water directly to up to 12 plants with less water evaporation and wind-drift than the overhead sprinkler heads it replaces. Using the TOP can save a significant amount of water by improving irrigation efficiency and lowering water runoff. For additional savings, check with your city for drip irrigation rebate program eligibility.</span></p>
+<p><span>TOP kits contains 100ft of 1/8" distribution tubing, 12 stakes and 12 1/4" converter barbs which allow the use of 1/4" distribution tubing. 8 Inlet plugs 10-015 as well as 12 bug plugs 10-016.</span></p>
+<h3>Features and Benefits</h3>
+<ul>
+<li>Constructed with 12 built-in individually pressure compensating drip emitters</li>
+<li>Self-flushing emitters allow passage of water and minimize clogging</li>
+<li>Interchangeable drip emitters for variable flow rates in a single head</li>
+<li>Color-coded drip emitters and barbs easily identify flow rate at each zone</li>
+<li>Drip emitters are individually filtered (approx. 80 mesh)</li>
+<li>Backup mini disc filter</li>
+<li>Rugged materials to withstand the most adverse conditions</li>
+<li>Can be installed above grade or placed below grade in a 6" emitter box</li>
+<li>Inlet plugs provide the option to cap off up to eight drip emitters</li>
+</ul>
+<h3>Product Specifications</h3>
+<ul>
+<li>Operating pressure: 15-50 PSI (1-3.4 BAR)</li>
+<li>Pressure compensating range: 8-80 PSI (.5-5.6 BAR)</li>
+<li>Flow rates: 2.2 GPH</li>
+<li>Inlet size: 1/2" FNPT</li>
+<li>Used with 1/8" (.187" OD) or 1/4" (.150"-.160" ID) distribution tubing</li>
+<li>Filter requirement: minimum of 120 mesh</li>
+<li>Body and cover: high-impact plastic</li>
+<li>Filter: nylon</li>
+<li>Diaphragm: silicon</li>
+</ul>
+<h3>Measurements</h3>
+<ul>
+<li>A - Height: 2"</li>
+<li>B - Width: 3"</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="https://www.digcorp.com/wp-content/uploads/digcorp/26-002_REVA-TOP-100-300_ENGLISH-010714-W.pdf" target="_blank"><span style="text-decoration: underline;">Instruction Manual</span></a></li>
+<li><a href="https://www.digcorp.com/wp-content/uploads/2020/06/Specs_TOP.pdf" target="_blank"><span style="text-decoration: underline;">Spec Sheet</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>CATEGORY_Drip Irrigation Kits</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5017579225190</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>TOP-200</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4714475946086</id>
+    <published>2021-02-03T13:13:45-05:00</published>
+    <updated>2021-02-03T13:13:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-emitter-cap-10-015"/>
+    <title>DIG - T.O.P Emitter Cap (Strip of 8) - 10-015</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/dig-10-015-8-caps-0.jpg?v=1592938855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            0.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Use the rubber caps to close all unused outlets. Do this by removing the cover and the Mini-Disk filter. Press the rubber caps into the unused outlets. Re-install the Mini-Disk filter and cover. Tighten cover by hand</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4714475946086</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.55</s:price>
+      <s:sku>10-015</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4711550517350</id>
+    <published>2020-08-11T14:36:38-04:00</published>
+    <updated>2020-08-11T14:36:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-6-gph-pressure-compensating-emitter-1-2-06-043"/>
+    <title>DIG - 4-Outlet PC Drip Manifold 1/2&quot; FPT (6 GPH) - 06-043</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/06_043_1.jpg?v=1592938591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Converts an existing 1/2" sprinkler riser to a 4-outlet, high flow, pressure compensating (PC) drip system.</p>
+<ul>
+<li>Pressure compensating range: 10-60PSI</li>
+<li>Color coded outlet barb may be removed and replaced to change flow rates.</li>
+<li>Used with 1/4" distribution tubing</li>
+<li>Built in screen filter and large water passage to prevent clogging</li>
+</ul>
+<p> <br></p>
+<ul>
+<li>Flow Rates: 6 GPH</li>
+<li>Operating Pressure: 10-50PSI</li>
+<li>1/2" FNPT</li>
+<li>Filter requirement: 120 mesh</li>
+</ul>
+<p> <br></p>
+<ul>
+<li>Body: ABS</li>
+<li>Diaphragm: EPDM</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4711550517350</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>06-043</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4711548878950</id>
+    <published>2020-08-11T14:36:37-04:00</published>
+    <updated>2020-08-11T14:36:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-20-gph-pressure-compensating-emitter-1-2-06-045"/>
+    <title>DIG - 4-Outlet PC Drip Manifold 1/2&quot; FPT (20 GPH) - 06-045</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/06_045_1.jpg?v=1592939235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Converts an existing 1/2" sprinkler riser to a 4-outlet, high flow, pressure compensating (PC) drip system.</p>
+<ul>
+<li>Pressure compensating range: 10-60PSI</li>
+<li>Color coded outlet barb may be removed and replaced to change flow rates.</li>
+<li>Used with 1/4" distribution tubing</li>
+<li>Built in screen filter and large water passage to prevent clogging</li>
+</ul>
+<p> <br></p>
+<ul>
+<li>Flow Rates: 20 GPH</li>
+<li>Operating Pressure: 10-50PSI</li>
+<li>1/2" FNPT</li>
+<li>Filter requirement: 120 mesh</li>
+</ul>
+<p> <br></p>
+<ul>
+<li>Body: ABS</li>
+<li>Diaphragm: EPDM</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4711548878950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>06-045</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4711548715110</id>
+    <published>2020-08-11T14:36:36-04:00</published>
+    <updated>2020-08-11T14:36:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-2-gph-pressure-compensating-emitter-1-2-06-042"/>
+    <title>DIG - 4-Outlet PC Drip Manifold 1/2&quot; FPT (2 GPH) - 06-042</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/06-042.jpg?v=1592940377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Converts an existing 1/2" sprinkler riser to a 4-outlet, high flow, pressure compensating (PC) drip system.</p>
+<p> <br></p>
+<ul>
+<li>Pressure compensating range: 10-60PSI</li>
+<li>Color coded outlet barb may be removed and replaced to change flow rates.</li>
+<li>Used with 1/4" distribution tubing</li>
+<li>Built in screen filter and large water passage to prevent clogging</li>
+</ul>
+<p> <br></p>
+<ul>
+<li>Flow Rates: 2 GPH</li>
+<li>Operating Pressure: 10-50PSI</li>
+<li>1/2" FNPT</li>
+<li>Filter requirement: 120 mesh</li>
+</ul>
+<p> <br></p>
+<ul>
+<li>Body: ABS</li>
+<li>Diaphragm: EPDM</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4711548715110</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>06-042</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4711546159206</id>
+    <published>2020-08-11T14:35:26-04:00</published>
+    <updated>2020-08-11T14:35:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-12-gph-pressure-compensating-emitter-1-2-06-044"/>
+    <title>DIG - 4-Outlet PC Drip Manifold 1/2&quot; FPT (12 GPH) - 06-044</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/06_044_1.jpg?v=1592939229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Converts an existing 1/2" sprinkler riser to a 4-outlet, high flow, pressure compensating (PC) drip system.</p>
+<ul>
+<li>Pressure compensating range: 10-60PSI</li>
+<li>Color coded outlet barb may be removed and replaced to change flow rates.</li>
+<li>Used with 1/4" distribution tubing</li>
+<li>Built in screen filter and large water passage to prevent clogging</li>
+</ul>
+<p> <br></p>
+<ul>
+<li>Flow Rates: 12 GPH</li>
+<li>Operating Pressure: 10-50PSI</li>
+<li>1/2" FNPT</li>
+<li>Filter requirement: 120 mesh</li>
+</ul>
+<p> <br></p>
+<ul>
+<li>Body: ABS</li>
+<li>Diaphragm: EPDM</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4711546159206</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>06-044</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4714444488806</id>
+    <published>2020-04-07T13:10:31-04:00</published>
+    <updated>2020-04-07T13:10:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-barb-emitter-top-000"/>
+    <title>DIG - T.O.P 12-Outlet Manifold - TOP-000</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/top-000.jpg?v=1592938780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The TOP concept is designed for first time installations or retrofitting an existing sprinkler riser into an efficient 12-Outlet drip irrigation system. The TOP concept utilizes unique self cleaning, pressure compensating emitters enabling long runs with even water distribution from all outlets.</span></p>
+<h4><span>Features</span></h4>
+<ul>
+<li>Use with 1/8" in. (.187 OD) <span data-mce-fragment="1">distribution tubing</span>
+</li>
+<ul>
+<li>or 1/4" in. (.150-.160 ID) distribution tubing when you purchase a bag of T.O.P Converter Barbs.</li>
+<ul>
+<li><a href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711556939878" data-mce-href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711556939878">10-012-B12 (Red)</a></li>
+<li><a href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543570534" data-mce-href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543570534">10-013-B12 (Green)</a></li>
+<li><a href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543308390" data-mce-href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543308390">10-017-B12 (Black)</a></li>
+</ul>
+</ul>
+</ul>
+<ul>
+<li>Allows for 12 individual pressure compensating, self flushing emitters, in multiple flow rates, while incorporating a self flushing dseign to ensure effortless passage of water and minimize clogging (sold separately)</li>
+<li>Interchangeable emitters available for variable flow rates in a single head (sold separately)</li>
+<li>Color-coded barbs easily identify flow rate at each zone (sold separately)</li>
+<li>Each emitter individually filtered - approx 80 mesh</li>
+<li>Backup mini-disk filter</li>
+<li>Rugged materials to withstand the most adverse conditions</li>
+<li>Install above grade or place below grade in a 6" emitter box</li>
+<li>Operating Pressure: 15-50PSI</li>
+<li>Used with 4mm distribution tubing</li>
+<li>Inlet size: 1/2" in. NPFT</li>
+<li>Filter requirement: 120 mesh</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4714444488806</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>TOP-000</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4714472013926</id>
+    <published>2020-04-07T12:38:23-04:00</published>
+    <updated>2020-04-07T12:38:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-3-3-gph-pressure-compensating-emitter-kit-top-300"/>
+    <title>DIG - T.O.P 12-Outlet Manifold Kit (3.3 GPH) - TOP-300</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/top-300_1.jpg?v=1592938477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Designed to retrofit a 1/2" sprinkler riser, DIG's TOP 12-outlet drip manifold utilizes extremely accurate, pressure compensating individual and interchangeable drip emitters to ensure equal flow from each outlet over a wide range of operating pressures from 10 to 80 PSI. With 3.3 GPH per outlet, the TOP can deliver water directly to up to 12 plants with less water evaporation and wind-drift than the overhead sprinkler heads it replaces. Using the TOP can save a significant amount of water by improving irrigation efficiency and lowering water runoff. For additional savings, check with your city for drip irrigation rebate program eligibility.</span></p>
+<p><span>TOP kits contains 100ft of 1/8" distribution tubing, 12 stakes and 12 1/4" converter barbs which allow the use of 1/4" distribution tubing. 8 Inlet plugs 10-015 as well as 12 bug plugs 10-016.</span></p>
+<h3>Features Benefits</h3>
+<ul>
+<li>Constructed with 12 built-in individually pressure compensating drip emitters</li>
+<li>Self-flushing emitters allow passage of water and minimize clogging</li>
+<li>Interchangeable drip emitters for variable flow rates in a single head</li>
+<li>Color-coded drip emitters and barbs easily identify flow rate at each zone</li>
+<li>Drip emitters are individually filtered (approx. 80 mesh)</li>
+<li>Backup mini disc filter</li>
+<li>Rugged materials to withstand the most adverse conditions</li>
+<li>Can be installed above grade or placed below grade in a 6" emitter box</li>
+<li>Inlet plugs provide the option to cap off up to eight drip emitters</li>
+</ul>
+<h3>Product Specifications</h3>
+<ul>
+<li>Operating pressure: 15-50 PSI (1-3.4 BAR)</li>
+<li>Pressure compensating range: 8-80 PSI (.5-5.6 BAR)</li>
+<li>Flow rate: 3.3 GPH (12.5 L/H)</li>
+<li>Inlet size: 1/2" FNPT</li>
+<li>Used with 1/8" (.187" OD) or 1/4" (.150"-.160" ID) distribution tubing (1/4'' requires converter connectors)</li>
+<li>Filter requirement: minimum of 120 mesh</li>
+<li>Body and cover: high-impact plastic</li>
+<li>Filter: nylon</li>
+<li>Diaphragm: silicon</li>
+</ul>
+<h3>Measurements</h3>
+<ul>
+<li>A - Height: 2"</li>
+<li>B - Width: 3"</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="https://www.digcorp.com/wp-content/uploads/digcorp/26-002_REVA-TOP-100-300_ENGLISH-010714-W.pdf" target="_blank"><span style="text-decoration: underline;">Instruction Manual</span></a></li>
+<li><a href="https://www.digcorp.com/wp-content/uploads/2020/06/Specs_TOP.pdf" target="_blank"><span style="text-decoration: underline;">Spec Sheet</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>CATEGORY_Drip Irrigation Kits</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4714472013926</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>TOP-300</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4714465362022</id>
+    <published>2020-04-07T12:38:22-04:00</published>
+    <updated>2020-04-07T12:38:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-3-3-gph-pressure-compensating-emitter-top-030"/>
+    <title>DIG - T.O.P 12-Outlet Manifold (3.3 GPH) - TOP-030</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/top-000_724b57ad-5430-434d-96fb-82d46192eb10.jpg?v=1592941185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>TOP 12-Outlet Drip Emitter. 3.3 GPH per outlet. The TOP concept is designed for first time installations or retrofitting an existing sprinkler riser into an efficient 12-Outlet drip irrigation system. The TOP concept utilizes unique self cleaning, pressure compensating emitters enabling long runs with even water distribution from all outlets. </span></p>
+<p><span>Color-coded converter barbs, end plugs, caps, stakes and micro tubing sold separately. OR you can purchase TOP-100, TOP-200 or TOP-300 kits that include the accessories previously listed.</span></p>
+<h4><span>Features</span></h4>
+<ul>
+<li>Use with 1/8" in. (.187 OD) <span data-mce-fragment="1">distribution tubing</span>
+</li>
+<ul>
+<li>or 1/4" in. (.150-.160 ID) distribution tubing when you purchase a bag of T.O.P Converter Barbs.</li>
+<ul>
+<li><a href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711556939878" data-mce-href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711556939878">10-012-B12 (Red)</a></li>
+<li><a href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543570534" data-mce-href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543570534">10-013-B12 (Green)</a></li>
+<li><a href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543308390" data-mce-href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543308390">10-017-B12 (Black)</a></li>
+</ul>
+</ul>
+</ul>
+<ul>
+<li>Built-in with 12 individually pressure compensating drip emitters</li>
+<li>Self-flushing emitters allow passage of water and minimize clogging</li>
+<li>Interchangeable drip emitters available for variable flow rates in a single head</li>
+<li>Color-coded drip emitters and barbs easily identify flow rate at each zone</li>
+<li>Each drip emitter individually filtered (approx. 80 mesh)</li>
+<li>Backup mini-disk filter</li>
+<li>Rugged materials to withstand the most adverse conditions</li>
+<li>Install above grade or place below grade in a 6" emitter box</li>
+<li>Barbs, end plugs, caps, stakes and micro-tubing sold separately</li>
+<li>Flow Rate: 3.3 GPH per outlet</li>
+<li>Pressure Compensating Range: 8-80 PSI</li>
+<li>Operating Pressure: 15-50PSI</li>
+<li>Use with 1/8" in. (.187 OD) or 1/4" in. (.150-.160 ID) distribution tubing</li>
+<li>Inlet size: 1/2" in. NPFT</li>
+<li>Filter requirement: 120 mesh</li>
+<li>Body and cover: high impact plastic</li>
+<li>Filter: nylon</li>
+<li>Diaphragm: silicon</li>
+<li>3" in. W x 2" in. H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4714465362022</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>TOP-030</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4714462150758</id>
+    <published>2020-04-07T12:38:21-04:00</published>
+    <updated>2020-04-07T12:38:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-2-2-gph-pressure-compensating-emitter-top-020"/>
+    <title>DIG - T.O.P 12-Outlet Manifold (2.2 GPH) - TOP-020</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/top-000_e2b1f521-dede-45ef-a6bd-13457c43f680.jpg?v=1592940748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="half">
+<p>TOP 12-Outlet Drip Emitter. 2.2 GPH per outlet. The TOP concept is designed for first time installations or retrofitting an existing sprinkler riser into an efficient 12-Outlet drip irrigation system. The TOP concept utilizes unique self cleaning, pressure compensating emitters enabling long runs with even water distribution from all outlets.</p>
+<p>Color-coded converter barbs, end plugs, caps, stakes and micro tubing sold separately. OR you can purchase TOP-100, TOP-200 or TOP-300 kits that include the accessories previously listed.</p>
+<h4><span>Features</span></h4>
+<ul>
+<li>Use with 1/8" in. (.187 OD) <span data-mce-fragment="1">distribution tubing</span>
+</li>
+<ul>
+<li>or 1/4" in. (.150-.160 ID) distribution tubing when you purchase a bag of T.O.P Converter Barbs.</li>
+<ul>
+<li><a href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711556939878" data-mce-href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711556939878">10-012-B12 (Red)</a></li>
+<li><a href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543570534" data-mce-href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543570534">10-013-B12 (Green)</a></li>
+<li><a href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543308390" data-mce-href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543308390">10-017-B12 (Black)</a></li>
+</ul>
+</ul>
+</ul>
+<ul>
+<li>Built-in with 12 individually pressure compensating drip emitters</li>
+<li>Self-flushing emitters allow passage of water and minimize clogging</li>
+<li>Interchangeable drip emitters available for variable flow rates in a single head</li>
+<li>Color-coded drip emitters and barbs easily identify flow rate at each zone</li>
+<li>Each drip emitter individually filtered (approx. 80 mesh)</li>
+<li>Backup mini-disk filter</li>
+<li>Rugged materials to withstand the most adverse conditions</li>
+<li>Install above grade or place below grade in a 6" emitter box</li>
+<li>Barbs, end plugs, caps, stakes and micro-tubing sold separately</li>
+<li>Flow Rate: 2.2 GPH per outlet</li>
+<li>Pressure Compensating Range: 8-80 PSI</li>
+<li>Operating Pressure: 15-50PSI</li>
+<li>Use with 1/8" in. (.187 OD) or 1/4" in. (.150-.160 ID) distribution tubing</li>
+<li>Inlet size: 1/2" in. NPFT</li>
+<li>Filter requirement: 120 mesh</li>
+<li>Body and cover: high impact plastic</li>
+<li>Filter: nylon</li>
+<li>Diaphragm: silicon</li>
+<li>3" in. W x 2" in. H</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4714462150758</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>TOP-020</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4714468802662</id>
+    <published>2020-04-07T09:10:36-04:00</published>
+    <updated>2020-04-07T09:10:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-1-gph-pressure-compensating-emitter-kit-top-100"/>
+    <title>DIG - T.O.P 12-Outlet Manifold Kit (1 GPH) - TOP-100</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/top-100_1.jpg?v=1592938892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Designed to retrofit a 1/2" sprinkler riser, DIG's TOP 12-outlet drip manifold utilizes extremely accurate, pressure compensating individual and interchangeable drip emitters to ensure equal flow from each outlet over a wide range of operating pressures from 10 to 80 PSI. </span><span>W</span><span>ith 1 GPH per outlet, the TOP can deliver water directly to up to 12 plants with less water evaporation and wind-drift than the overhead sprinkler heads it replaces. Using the TOP can save a significant amount of water by improving irrigation efficiency and lowering water runoff. For additional savings, check with your city for drip irrigation rebate program eligibility.</span></p>
+<p><span>TOP kits contains 100ft of 1/8" distribution tubing, 12 stakes and 12 1/4" converter barbs which allow the use of 1/4" distribution tubing. 8 Inlet plugs 10-015 as well as 12 bug plugs 10-016.</span></p>
+<h3>Features and Benefits</h3>
+<ul>
+<li>Constructed with 12 built-in individually pressure compensating drip emitters</li>
+<li>Self-flushing emitters allow passage of water and minimize clogging</li>
+<li>Interchangeable drip emitters for variable flow rates in a single head</li>
+<li>Color-coded drip emitters and barbs easily identify flow rate at each zone</li>
+<li>Drip emitters are individually filtered (approx. 80 mesh)</li>
+<li>Backup mini disc filter</li>
+<li>Rugged materials to withstand the most adverse conditions</li>
+<li>Can be installed above grade or placed below grade in a 6" emitter box</li>
+<li>Inlet plugs provide the option to cap off up to eight drip emitters</li>
+</ul>
+<h3>Product Specifications</h3>
+<ul>
+<li>Operating pressure: 15-50 PSI (1-3.4 BAR)</li>
+<li>Pressure compensating range: 8-80 PSI (.5-5.6 BAR)</li>
+<li>Flow rates: 1 GPH (3.8 L/H)</li>
+<li>Inlet size: 1/2" FNPT</li>
+<li>Used with 1/8" (.187" OD) or 1/4" (.150"-.160" ID) distribution tubing</li>
+<li>Filter requirement: minimum of 120 mesh</li>
+<li>Body and cover: high-impact plastic</li>
+<li>Filter: nylon</li>
+<li>Diaphragm: silicon</li>
+</ul>
+<h3>Measurements</h3>
+<ul>
+<li>A - Height: 2"</li>
+<li>B - Width: 3"</li>
+</ul>
+<p><strong>Manuals &amp; Literature</strong></p>
+<ul>
+<li><a href="https://www.digcorp.com/wp-content/uploads/digcorp/26-002_REVA-TOP-100-300_ENGLISH-010714-W.pdf" target="_blank"><span style="text-decoration: underline;">Instruction Manual</span></a></li>
+<li><a href="https://www.digcorp.com/wp-content/uploads/2020/06/Specs_TOP.pdf" target="_blank"><span style="text-decoration: underline;">Spec Sheet</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>CATEGORY_Drip Irrigation Kits</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4714468802662</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>TOP-100</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4714458939494</id>
+    <published>2020-04-07T09:10:36-04:00</published>
+    <updated>2020-04-07T09:10:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-1-gph-pressure-compensating-emitter-top-010"/>
+    <title>DIG - T.O.P 12-Outlet Manifold (1 GPH) - TOP-010</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/top-000_1bed9918-0323-47d0-8f01-82d6720d92af.jpg?v=1592938604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>TOP 12-Outlet Drip Emitter. 1 GPH per outlet. The TOP concept is designed for first time installations or retrofitting an existing sprinkler riser into an efficient 12-Outlet drip irrigation system. The TOP concept utilizes unique self cleaning, pressure compensating emitters enabling long runs with even water distribution from all outlets. </span></p>
+<p><span>Color-coded converter barbs, end plugs, caps, stakes and micro tubing sold separately. OR you can purchase TOP-100 or TOP-300 kits that include the accessories previously listed.</span></p>
+<h4><span>Features</span></h4>
+<ul>
+<li>Use with 1/8" in. (.187 OD) <span data-mce-fragment="1">distribution tubing</span>
+</li>
+<ul>
+<li>or 1/4" in. (.150-.160 ID) distribution tubing when you purchase a bag of T.O.P Converter Barbs.</li>
+<ul>
+<li><a href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711556939878" data-mce-href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711556939878">10-012-B12 (Red)</a></li>
+<li><a href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543570534" data-mce-href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543570534">10-013-B12 (Green)</a></li>
+<li><a href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543308390" data-mce-href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543308390">10-017-B12 (Black)</a></li>
+</ul>
+</ul>
+</ul>
+<ul>
+<li>Built-in with 12 individually pressure compensating drip emitters</li>
+<li>Self-flushing emitters allow passage of water and minimize clogging</li>
+<li>Internchangeable drip emitters available for variable flow rates in a single head</li>
+<li>Color-coded drip emitters and barbs easily identify flow rate at each zone</li>
+<li>Easch drip emitter individually filtered (approx. 80 mesh)</li>
+<li>Backup mini-disk filter</li>
+<li>Rugged materials to withstand the most adverse conditions</li>
+<li>Install above grade or place below grade in a 6" emitter box</li>
+<li>Barbs, end plugs, caps, stakes and micro-tubing sold separately</li>
+<li>Flow Rate: 1 GPH per outlet</li>
+<li>Pressure Compensating Range: 8-80 PSI</li>
+<li>Operating Pressure: 15-50PSI</li>
+<li>Inlet size: 1/2" in. NPFT</li>
+<li>Filter requirement: 120 mesh</li>
+<li>Body and cover: high impact plastic</li>
+<li>Filter: nylon</li>
+<li>Diaphragm: silicon</li>
+<li>3" in. W x 2" in. H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4714458939494</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>TOP-010</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4714454712422</id>
+    <published>2020-04-07T09:10:35-04:00</published>
+    <updated>2020-04-07T09:10:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-6-gph-pressure-compensating-emitter-top-005"/>
+    <title>DIG - T.O.P 12-Outlet Manifold (.6 GPH) - TOP-005</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/top-000_663be314-f1e4-4814-83b5-0925a59bfdc2.jpg?v=1592940938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            6.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>TOP 12-Outlet Drip Emitter. .6 GPH per outlet. The TOP concept is designed for first time installations or retrofitting an existing sprinkler riser into an efficient 12-Outlet drip irrigation system. The TOP concept utilizes unique self cleaning, pressure compensating emitters enabling long runs with even water distribution from all outlets. </span></p>
+<p><span>Color-coded converter barbs, end plugs, caps, stakes and micro tubing sold separately. OR you can purchase TOP-100, TOP-200 or TOP-300 kits that include the accessories previously listed.</span></p>
+<h4><span>Features</span></h4>
+<ul>
+<li>Use with 1/8" in. (.187 OD) <span data-mce-fragment="1">distribution tubing</span>
+</li>
+<ul>
+<li>or 1/4" in. (.150-.160 ID) distribution tubing when you purchase a bag of T.O.P Converter Barbs.</li>
+<ul>
+<li><a href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711556939878">10-012-B12 (Red)</a></li>
+<li><a href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543570534">10-013-B12 (Green)</a></li>
+<li><a href="https://cheapsprinklersbackup.myshopify.com/admin/products/4711543308390">10-017-B12 (Black)</a></li>
+</ul>
+</ul>
+<li>Built-in with 12 individually pressure compensating drip emitters</li>
+<li>Self-flushing emitters allow passage of water and minimize clogging</li>
+<li>Interchangeable drip emitters available for variable flow rates in a single head</li>
+<li>Color-coded drip emitters and barbs easily identify flow rate at each zone</li>
+<li>Each drip emitter individually filtered (approx. 80 mesh)</li>
+<li>Backup mini-disk filter</li>
+<li>Rugged materials to withstand the most adverse conditions</li>
+<li>Install above grade or place below grade in a 6" emitter box</li>
+<li>Barbs, end plugs, caps, stakes and micro-tubing sold separately</li>
+<li>Flow Rate: .6 GPH per outlet</li>
+<li>Pressure Compensating Range: 8-80 PSI</li>
+<li>Operating Pressure: 15-50PSI</li>
+<li>Inlet size: 1/2" in. NPFT</li>
+<li>Filter requirement: 120 mesh</li>
+<li>Body and cover: high impact plastic</li>
+<li>Filter: nylon</li>
+<li>Diaphragm: silicon</li>
+<li>3" in. W x 2" in. H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4714454712422</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.75</s:price>
+      <s:sku>TOP-005</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4711556939878</id>
+    <published>2020-04-03T16:44:35-04:00</published>
+    <updated>2020-04-03T16:44:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-converter-barb-1-8-to-1-4-red-bag-of-12-10-012-b12-1"/>
+    <title>DIG - T.O.P Converter Barb 1/8&quot; to 1/4&quot; Red (Bag of 12) - 10-012-B12</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/10-012-b12.jpg?v=1592941074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            1.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1/4" converter barb is only necessary if 1/4" micro tubing is used. The converter has a compression side to be inserted into the drip head body. The other side is a 1/4" barb to 1/4" micro tubing. Converter barbs are color coded to signify which emitter is installed.</p>
+<h3>Product Specifications</h3>
+<ul>
+<li>1/4"</li>
+<li>Red</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4711556939878</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.59</s:price>
+      <s:sku>10-012-B12</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4711543570534</id>
+    <published>2020-04-03T16:44:30-04:00</published>
+    <updated>2020-04-03T16:44:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-converter-barb-1-8-to-1-4-green-bag-of-12-10-013-b12"/>
+    <title>DIG - T.O.P Converter Barb 1/8&quot; to 1/4&quot; Green (Bag of 12) - 10-013-B12</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/10-013-b12.jpg?v=1592940343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1/4" converter barb is only necessary if 1/4" micro tubing is used. The converter has a compression side to be inserted into the drip head body. The other side is a 1/4" barb to 1/4" micro tubing. Converter barbs are color-coded to signify which emitter is installed.</p>
+<h3>Product Specifications</h3>
+<ul>
+<li>1/4"</li>
+<li>Green</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4711543570534</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>10-013-B12</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4711543308390</id>
+    <published>2020-04-03T16:44:29-04:00</published>
+    <updated>2020-04-03T16:44:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-converter-barb-1-8-to-1-4-black-bag-of-12-10-017-b12"/>
+    <title>DIG - T.O.P Converter Barb 1/8&quot; to 1/4&quot; Black (Bag of 12) - 10-017-B12</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/10-017-b12.jpg?v=1592939261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1/4" converter barb is only necessary if 1/4" micro tubing is used. The converter has a compression side to be inserted into the drip head body. The other side is a 1/4" barb to 1/4" micro tubing. Converter barbs are color-coded to signify which emitter is installed.</p>
+<p>Used with DIG's TOP Multi Outlet Emitter devices if 1/4'' tubing needs to be used in place of 1/8'' tubing.</p>
+<h3>Product Specifications</h3>
+<ul>
+<li>1/4"</li>
+<li>Black</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4711543308390</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>10-017-B12</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4711557038182</id>
+    <published>2020-04-03T16:41:56-04:00</published>
+    <updated>2020-04-03T16:41:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-0-20-gph-button-drip-emitter-1-4-06-620"/>
+    <title>DIG - 6-Outlet Adjustable Drip Manifold (0-20 GPH) - 06-620</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/06--620.jpg?v=1592938525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            4.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 6-outlet head can be used to convert an existing 1/2" sprinkler riser to a 6-outlet drip zone.</p>
+<p>Each outlet may be adjusted by turning the knob under the drip head to increase or decrease the flow. Extend 1/4" micro tubing from the drip head to plants and secure the micro tubing with a 1/4" stake. It may be used with other drippers or with 1/4" laser drilled soaker hose.</p>
+<ul>
+<li>Swivel barb outlets allows installation flexibility and protection of the flow control</li>
+<li>Rugged materials to withstand adverse conditions</li>
+<li>Can be installed above or below grade in a 6" emitter box</li>
+<li>Flow rate is adjustable between 0-20 GPH per each outlet</li>
+<li>Operating Pressure: Up to 50PSI</li>
+<li>Used with 4mm distribution tubing</li>
+<li>Inlet side: 1/2" female thread</li>
+<li>Filter requirement: 80 mesh</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4711557038182</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.85</s:price>
+      <s:sku>06-620</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452674412644</id>
+    <published>2019-01-19T00:46:16-05:00</published>
+    <updated>2019-01-19T00:46:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-emt6xeri-6-outlet-manifold"/>
+    <title>Rain Bird - EMT6XERI - 6-Outlet Manifold</title>
+    <s:type>Drip Manifolds</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12264__49056.1516141907.1280.1280_4e74d761-02f5-4876-a04c-f73f3812ea09.jpg?v=1571715650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Drip Manifolds<br>
+        <strong>Price: </strong>
+            4.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1/2 in. (15/21) FPT inlet threads onto 1/2 in. riser and provides a manifold with six free-flowing 1/4 in. barb outlets</p>
+<ul>
+<li>Each barb outlet is sealed with a durable plastic cap</li>
+<li>Plastic caps remove easily, allowing for a drip area that can be customized with up to six different emission devices</li>
+<li>Attach 1/4 in. Drip Distribution Tubing (XQ) onto each outlet for use with Xeri- Bugs, PC Modules, Xeri-Pops, Xeri-Sprays, and Xeri-Bubbler</li>
+<li><span>Pressure: 15 to 50 psi (1,0 to 3,5 bars)</span></li>
+</ul>
+<div class="sku"> </div>
+<div class="sku"> </div>
+<div class="sku">Product ID: <span>x57000</span>
+</div>
+<div class="sku">Product Model: <span>EMT6XERI</span>
+</div>
+<div class="clearer"> </div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452674412644</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.35</s:price>
+      <s:sku>EMT6XERI</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

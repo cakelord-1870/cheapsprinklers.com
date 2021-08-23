@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/valve-boxes.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2020-08-11T14:38:16-04:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452573225060</id>
+    <published>2020-08-11T14:38:16-04:00</published>
+    <updated>2020-08-11T14:38:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/nds-124bcb-17-in-x-30-in-x-15-in-valve-box"/>
+    <title>NDS - 124BCB - 17 in. x 30 in. x 15 in. VALVE BOX</title>
+    <s:type>Valve Boxes</s:type>
+    <s:vendor>NDS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-163-1__71262.1517256927.1280.1280_f924fa5a-6274-4da2-ba85-d5950a63d272.jpg?v=1571715646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NDS<br>
+        <strong>Type: </strong>Valve Boxes<br>
+        <strong>Price: </strong>
+            495.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<ul>
+<li>Box, w/ Overlapping Bolt-Down Cover - ICV</li>
+<li>Size: 17" x 30" x 15"</li>
+<li>Colors: Black/Green</li>
+<li>Designed for professional contractor and heavy-duty use</li>
+<li>Offers superior strength for non-residential and utility applications</li>
+</ul>
+<p>The NDS Pro Series Plus line is the next generation of valve boxes, ideal for the specification market. These boxes are engineered with unique corrugated sidewalls that provide added strength to the boxes while reducing material and weight, allowing us to price the Pro Series Plus line to be less overall than our Pro Series line. The Pro Series Plus boxes are the strongest in the NDS offering, and they also come with reinforced lids.</p>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_NDS</s:tag>
+    <s:tag>CATEGORY_Valve boxes</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452573225060</id>
+      <title>Default Title</title>
+      <s:price currency="USD">495.92</s:price>
+      <s:sku>124BCB</s:sku>
+      <s:grams>12701</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452567982180</id>
+    <published>2019-11-26T10:17:04-05:00</published>
+    <updated>2019-11-26T10:17:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/nds-117bc-std-13x20x12-box-and-overlapping-lid-green-lid-black-body"/>
+    <title>NDS - 117BC - STD 13&quot;x20&quot;x12&quot; Box and Overlapping Lid, Green Lid/Black Body</title>
+    <s:type>Valve Boxes</s:type>
+    <s:vendor>NDS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-162__29879.1517257071.1280.1280_8990a3c9-722a-4206-b059-d061dedeb56d.jpg?v=1571715646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NDS<br>
+        <strong>Type: </strong>Valve Boxes<br>
+        <strong>Price: </strong>
+            63.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; box-sizing: border-box; color: #000000; font-family: arial,verdana,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; margin-bottom: 7.5px; margin-top: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<li style="box-sizing: border-box;">Standard Series Valve Box</li>
+<li style="box-sizing: border-box;">13" x 20" x 12" Square</li>
+<li style="box-sizing: border-box;">Overlapping Lid</li>
+<li style="box-sizing: border-box;">Black Body</li>
+<li style="box-sizing: border-box;">Green Lid</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_NDS</s:tag>
+    <s:tag>CATEGORY_Valve Boxes</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452567982180</id>
+      <title>Default Title</title>
+      <s:price currency="USD">63.64</s:price>
+      <s:sku>117BC</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452705509476</id>
+    <published>2019-01-19T00:48:19-05:00</published>
+    <updated>2019-01-19T00:48:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-pvb6rnd-6-in-round-pvb-valve-box-black-body-overlapping-green-lid"/>
+    <title>Rain Bird - PVB6RND - 6&apos;&apos; Round PVB Valve Box</title>
+    <s:type>Valve Boxes</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12288__83269.1516141909.1280.1280.jpg?v=1571715652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Valve Boxes<br>
+        <strong>Price: </strong>
+            3.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p>Reputations are built on hard work, not shortcuts. Just like PVB Professional series valve boxes. Made-in-America tough, these boxes are loaded with the features you need to get the job done right, without cutting corners. Even standard installations deserve professional performance.</p>
+<p>From reinforced sidewalls and bottom flanges to skid-resistant lids, the PVB Professional series is manufactured to our own exacting standards, using quality materials and rigorously tested for durability.</p>
+</div>
+<ul>
+<li>Snap-in overlapping lid</li>
+<li>Skid-resistant texture</li>
+<li>Body built with three ridges for additional sidewall support</li>
+<li>Made in the USA</li>
+</ul>
+<h4>
+<span>*If out of stock, you can purchase the </span><a href="https://cheapsprinklers.com/products/nds-d109-g-std-6-rnd-box-and-lid-green-lid-black-body?_pos=1&amp;_sid=2cf184c62&amp;_ss=r">NDS D109-G</a><span> as a direct replacement for cheaper.</span>
+</h4>
+<div class="sku"></div>
+<div class="sku">
+<p> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Valve Boxes</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452705509476</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.81</s:price>
+      <s:sku>PVB6RND</s:sku>
+      <s:grams>612</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452704755812</id>
+    <published>2019-01-19T00:48:16-05:00</published>
+    <updated>2019-01-19T00:48:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-pvb10rnd-10-in-round-pvb-valve-box-black-body-overlapping-green-lid"/>
+    <title>Rain Bird - PVB10RND - 10&apos;&apos; Round PVB Valve Box</title>
+    <s:type>Valve Boxes</s:type>
+    <s:vendor>Rain Bird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12287__47863.1516141909.1280.1280.jpg?v=1571715652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rain Bird<br>
+        <strong>Type: </strong>Valve Boxes<br>
+        <strong>Price: </strong>
+            11.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p>Reputations are built on hard work, not shortcuts. Just like PVB Professional series valve boxes. Made-in-America tough, these boxes are loaded with the features you need to get the job done right, without cutting corners. Even standard installations deserve professional performance.</p>
+<p>From reinforced sidewalls and bottom flanges to skid-resistant lids, the PVB Professional series is manufactured to our own exacting standards, using quality materials and rigorously tested for durability.</p>
+</div>
+<ul>
+<li>Overlapping lockable lid</li>
+<li>Skid-resistant lid texture</li>
+<li>Made in the USA</li>
+<li>Body built with double ridges for <br>additional sidewall support</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Rain Bird</s:tag>
+    <s:tag>CATEGORY_Valve Boxes</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452704755812</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.98</s:price>
+      <s:sku>PVB10RND</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452606419044</id>
+    <published>2019-01-19T00:41:46-05:00</published>
+    <updated>2019-01-19T00:41:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/nds-d109-g-std-6-rnd-box-and-lid-green-lid-black-body"/>
+    <title>NDS - D109-G - STD 6&quot; Rnd Box and Lid, Green Lid/Black Body</title>
+    <s:type>Valve Boxes</s:type>
+    <s:vendor>NDS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-177-2__59992.1517256371.1280.1280_30ee46ef-7fbb-419d-8255-a68404ad6ef6.jpg?v=1571715647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NDS<br>
+        <strong>Type: </strong>Valve Boxes<br>
+        <strong>Price: </strong>
+            4.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>NDS Valve Box</li>
+<li>6" Round</li>
+<li>ICV</li>
+<li>Black Body</li>
+<li>Green Lid</li>
+</ul>
+<p>NDS valve, meter, and access boxes are offered in a wide range of sizes from the 6-inch round valve box to the 17" x 30" rectangular box. They are available with black, green, purple, gray and sand covers with designations including irrigation control valve, water, sewer, electric, reclaimed water, cable TV, telephone and others.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_NDS</s:tag>
+    <s:tag>CATEGORY_Valve Boxes</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452606419044</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.23</s:price>
+      <s:sku>D109-G</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452567097444</id>
+    <published>2019-01-19T00:39:22-05:00</published>
+    <updated>2019-01-19T00:39:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/nds-113bc-std-14x19x12-box-and-overlapping-lid-green-lid-black-body"/>
+    <title>NDS - 113BC - Standard 14&quot;x19&quot;x12&quot; Box and Overlapping Lid, Green Lid/ Black Body</title>
+    <s:type>Valve Boxes</s:type>
+    <s:vendor>NDS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-161__34974.1517257154.1280.1280_7206eb3e-1714-4c62-b9b3-2921563ab454.jpg?v=1571715645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NDS<br>
+        <strong>Type: </strong>Valve Boxes<br>
+        <strong>Price: </strong>
+            23.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="background-color: transparent; color: #000000; font-family: arial,verdana,sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; margin-bottom: 16px; margin-top: 0px; text-align: left; text-decoration: none; text-indent: 0px;">
+<li>Standard Series Valve Box</li>
+<li>14 in. x 19 in. x 12 in. Square</li>
+<li>Overlapping Lid</li>
+<li>Black Body</li>
+<li>Green Lid</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_NDS</s:tag>
+    <s:tag>CATEGORY_Valve Boxes</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452567097444</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.55</s:price>
+      <s:sku>113BC</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452566245476</id>
+    <published>2019-01-19T00:39:19-05:00</published>
+    <updated>2019-01-19T00:39:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/nds-111bc-std-10-rnd-box-and-overlapping-lid-green-lid-black-body"/>
+    <title>NDS - 111BC - STD 10&quot; Rnd Box and Overlapping Lid, Green Lid/Black Body</title>
+    <s:type>Valve Boxes</s:type>
+    <s:vendor>NDS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-160__60197.1517257248.1280.1280_8950dce0-6359-49f2-8b16-c0efb01af6a3.jpg?v=1571715645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NDS<br>
+        <strong>Type: </strong>Valve Boxes<br>
+        <strong>Price: </strong>
+            11.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span style="color: #000000; font-family: arial, verdana, sans-serif; font-size: 16px;">Standard Series Valve Box</span></li>
+<li><span style="color: #000000; font-family: arial, verdana, sans-serif; font-size: 16px;">10 in. Round</span></li>
+<li><span style="color: #000000; font-family: arial, verdana, sans-serif; font-size: 16px;">Overlapping Lid</span></li>
+<li><span style="color: #000000; font-family: arial, verdana, sans-serif; font-size: 16px;">Black Body</span></li>
+<li><span style="color: #000000; font-family: arial, verdana, sans-serif; font-size: 16px;">Green Lid</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_NDS</s:tag>
+    <s:tag>CATEGORY_Valve Boxes</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452566245476</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.50</s:price>
+      <s:sku>111BC</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/drip-fittings.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2021-08-13T11:08:32-04:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/6621828284518</id>
+    <published>2021-08-13T11:08:32-04:00</published>
+    <updated>2021-08-13T11:08:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-adapter-3-4-fht-x-700-compression-15-005"/>
+    <title>DIG - Adapter 3/4&quot; FHT x .700&quot; Compression - 15-005</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/24-029_72c7d7f5-d69e-40dd-8e17-34b7ad9a60e4.jpg?v=1628867315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            1.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Features and Benefits</strong><span></span>
+<ul>
+<li>UV-resistant</li>
+<li>Color coded</li>
+<li>High impact plastic</li>
+<li>Secure and easy installation without glue or clamps</li>
+<li>Fits tubing with .700 OD</li>
+<li>3/4" FHT (Female Hose Thread) Compression Swivel Adapter</li>
+<li>15-005: .700 OD x 3/4 in. FHT</li>
+</ul>
+<strong>Specifications</strong><span></span>
+<ul>
+<li>Operating Pressure: Up to 60 PSI (5.5 BAR)</li>
+</ul>
+<strong>Materials</strong><span></span>
+<ul>
+<li>Body: ABS</li>
+<li>Inserts: Polycarbonate</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/6621828284518</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.24</s:price>
+      <s:sku>15-005</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/6576232104038</id>
+    <published>2021-05-13T14:22:37-04:00</published>
+    <updated>2021-05-13T14:22:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-3-4-mpt-male-adapter-x-17mm-barb-15-049"/>
+    <title>DIG - 3/4&apos;&apos; MPT Male Adapter x 17mm Barb - 15-049</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><span style="font-size: 1.4em;">Connects / Adapts 17mm drip tubing to 3/4" FNPT Thread Pipe</span></h5>
+<p>DIG's one-piece barbed fittings are constructed of corrosion-resistant, UV-protected poly acetal and can withstand the harsh environment, direct sun and the use of common chemicals in commercial landscape installations. Available in a wide range of configurations, the barbed fittings offer an economical approach to connecting Excel PC 16 and 17 mm dripline without tools, clamps or glues.</p>
+<h3>Features</h3>
+<ul>
+<li>High-impact plastic<br>
+</li>
+<li>Extra sharp barbed design for secure and easy installation of 16 mm and 17 mm drip tubing, emitter tubing and brown PC drip line</li>
+<li>Fits 16 mm and 17 mm dripline and 1/2" polyethylene drip tubing</li>
+<li>Available with a wide range of connections</li>
+<li>Made of high impact, high strength, durable and UV resistant plastic for long-life operation even in harsh conditions</li>
+<li>One-piece construction</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/6576232104038</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.42</s:price>
+      <s:sku>15-049</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4716046418022</id>
+    <published>2021-03-23T17:45:40-04:00</published>
+    <updated>2021-03-23T17:45:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-low-pressure-anti-leak-52-530-05"/>
+    <title>DIG - Low Pressure Anti-leak Device - 52-530-05</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/52-530-anti-leak-device-630px_af919b05-3b9c-4911-9b1c-cd0af3162a90.jpg?v=1614368583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            1.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's anti-leak device is a water pressure valve which opens and closes instantly when<br>pressure builds up. This action prevents the micro sprinklers or misters from dripping as a<br>result of the gradual increase or decrease in water pressure when opening and closing the<br>system. The anti-leak device can be used with all DIG products.</p>
+<p><strong>Applications</strong><br>"¢ Greenhouse irrigation and<br>misting systems<br>"¢ Seedling and rooting systems<br>"¢ Pulse irrigation to avoid air formation<br>in the pipe and the time required for<br>pressure to rise after each pulse<br>"¢ Slope irrigation to prevent the overflow of<br>water emptying the line when the water<br>is shut off</p>
+<p><br><strong>Features</strong><br>"¢ Designed with a stainless steel spring for<br>long-lasting, uniform operation<br>"¢ Can be connected to micro sprinkler,<br>mister or fogger from either side<br>"¢ Wide water passage for low maintenance<br>"¢ Prevents damage to sensitive plants<br>caused by dripping at the beginning and<br>end of each irrigation cycle<br>"¢ Pulse irrigation system to avoid air<br>formation in the pipe and in each pressure<br>rise in the system<br>"¢ Prevents overflow drain from the lateral<br>when water is shut off</p>
+<p><strong>Performance and </strong><strong>Technical Data</strong><br>"¢ Material: polyacetal body, silicon<br>diaphragm and stainless steel spring<br>"¢ Operating pressure: up to 65 PSI (4.5 BAR)<br>"¢ Local head loss against arrow direction:<br>18 GPH, 0.7 PSI (70 l/h, 0.05 BAR)<br>"¢ Local head loss against arrow direction:<br>28 GPH, 1.4 PSI (105 l/h, 0.10 BAR)<br>"¢ Press fit connection from male or<br>female side</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4716046418022</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.45</s:price>
+      <s:sku>52-530-05</s:sku>
+      <s:grams>430</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4716044976230</id>
+    <published>2021-03-23T17:40:36-04:00</published>
+    <updated>2021-03-23T17:40:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-high-pressure-anti-leak-52-530-10"/>
+    <title>DIG - High Pressure Anti-leak Device - 52-530-10</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/52-530-anti-leak-device-630px.jpg?v=1614368571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            1.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's anti-leak device is a water pressure valve which opens and closes instantly when<br>pressure builds up. This action prevents the micro sprinklers or misters from dripping as a<br>result of the gradual increase or decrease in water pressure when opening and closing the<br>system. The anti-leak device can be used with all DIG products.</p>
+<p><strong>Applications</strong><br>"¢ Greenhouse irrigation and<br>misting systems<br>"¢ Seedling and rooting systems<br>"¢ Pulse irrigation to avoid air formation<br>in the pipe and the time required for<br>pressure to rise after each pulse<br>"¢ Slope irrigation to prevent the overflow of<br>water emptying the line when the water<br>is shut off</p>
+<p><br><strong>Features</strong><br>"¢ Designed with a stainless steel spring for<br>long-lasting, uniform operation<br>"¢ Can be connected to micro sprinkler,<br>mister or fogger from either side<br>"¢ Wide water passage for low maintenance<br>"¢ Prevents damage to sensitive plants<br>caused by dripping at the beginning and<br>end of each irrigation cycle<br>"¢ Pulse irrigation system to avoid air<br>formation in the pipe and in each pressure<br>rise in the system<br>"¢ Prevents overflow drain from the lateral<br>when water is shut off</p>
+<p><strong>Performance and </strong><strong>Technical Data</strong><br>"¢ Material: polyacetal body, silicon<br>diaphragm and stainless steel spring<br>"¢ Operating pressure: up to 65 PSI (4.5 BAR)<br>"¢ Local head loss against arrow direction:<br>18 GPH, 0.7 PSI (70 l/h, 0.05 BAR)<br>"¢ Local head loss against arrow direction:<br>28 GPH, 1.4 PSI (105 l/h, 0.10 BAR)<br>"¢ Press fit connection from male or<br>female side</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Emitters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4716044976230</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.45</s:price>
+      <s:sku>52-530-10</s:sku>
+      <s:grams>430</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5027955703910</id>
+    <published>2021-02-19T15:18:19-05:00</published>
+    <updated>2021-02-19T15:18:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-shut-off-valve-with-3-4-barb-20-mm-28-015"/>
+    <title>DIG - Shut Off Valve w/ 3/4&quot; Barb (20mm) - 28-015</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/DIG-D32B-Shut-Off-Valve_c3905d6e-2d9b-469f-a95e-1ff671a99d70.jpg?v=1613765901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            2.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's range of 1/4", 1/2" and 3/4" barbed and threaded shut-off valves are used for manual control of individual drip-line laterals, drip tubing or micro tubing, and for screen filters as a flush valve.</p>
+<h3>1/2" 16 mm and 17 mm Shut-Off Valve Features</h3>
+<ul>
+<li>Watertight seal with inlet/outlet O-rings<br>
+</li>
+<li>Large handle for easy manual control<br>
+</li>
+<li>Rapid 1/4" turn on and off<br>
+</li>
+<li>Constructed of UV-resistant, durable plastic material</li>
+</ul>
+<ul></ul>
+<h3>Shut-Off Valve Specifications</h3>
+<ul>
+<li>Operating pressure: up to 60 PSI (4.2 BAR)</li>
+<li>Recommended operating pressure: 15 to 30 PSI (1 to 2.1 BAR)</li>
+<li>Temperature range: up to 130°F (54°C)<br>*Available inlet and outlet configurations:
+<ul>
+<li>3/4" FPT x 3/4" MPT (model 28-004)</li>
+<li>3/4" FPT x 1/2" (17 mm) barb (model 28-006); fits drip tubing or drip line with .570" to .600" ID</li>
+<li>1/2" (17 mm) barb (model 28-007) fits drip tubing or drip line with .570" to .600" ID</li>
+<li>3/4" FPT x 1/2" (16 mm) barb (model 28-012); fits drip tubing or drip line with .500" to .540" ID</li>
+<li>1/2" (16 mm) barb (model 28-013); fits drip tubing or drip line with .500" to .540" ID</li>
+<li>3/4" FHT x MHT (model 28-018); use as a filter flush valve</li>
+</ul>
+</li>
+<li>Materials: high-impact plastic</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5027955703910</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.40</s:price>
+      <s:sku>28-015</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5027953410150</id>
+    <published>2021-02-19T15:08:30-05:00</published>
+    <updated>2021-02-19T15:08:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-adapter-1-2-x-700-mpt-x-compression-24-034"/>
+    <title>DIG - Adapter 1/2&quot; MPT x .700&quot; Compression - 24-034</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/rkcmpt18.jpg?v=1613765522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>24-034 - .700 OD 1/2" MPT Adapter</li>
+<li>High impact plastic</li>
+<li>Color coded</li>
+<li>UV resistant</li>
+<li>Secure and easy installation without glues or clamps</li>
+<li>Fits all 16 and 17mm dripline and 1/2" poly tubing.</li>
+<li>Operating Pressure: up to 60 PSI</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5027953410150</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.55</s:price>
+      <s:sku>24-034</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5027952230502</id>
+    <published>2021-02-19T15:03:58-05:00</published>
+    <updated>2021-02-19T15:03:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-adapter-3-4-x-700-mpt-x-compression-24-026"/>
+    <title>DIG - Adapter 3/4&quot; MPT x .700&quot; Compression - 24-026</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/24-026.jpg?v=1613765055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>24-026 - .700 OD 3/4" MPT Adapter</li>
+<li>High impact plastic</li>
+<li>Color coded</li>
+<li>UV resistant</li>
+<li>Secure and easy installation without glues or clamps</li>
+<li>Fits all 16 and 17mm dripline and 1/2" poly tubing.</li>
+<li>Operating Pressure: up to 60 PSI</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5027952230502</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.60</s:price>
+      <s:sku>24-026</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5022066737254</id>
+    <published>2021-02-09T15:20:30-05:00</published>
+    <updated>2021-02-09T15:20:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/toro-ftv5-250b-mini-valve-5-8-tape-x-250-barb"/>
+    <title>Toro - FTV5-250B - Mini Valve 5/8&apos;&apos; Tape x 250 Barb</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>Toro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/1445_9021cf19-fb77-46dc-8a59-ee581120abce.jpg?v=1612901916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toro<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            1.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Toro Mini-Valve 5/8" Tape x 250 Barb </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5022066737254</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.44</s:price>
+      <s:sku>FTV5-250B</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5007102509158</id>
+    <published>2021-01-19T16:54:16-05:00</published>
+    <updated>2021-01-19T16:54:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-1-4-in-barbed-connector-25-004"/>
+    <title>DIG - 1/4&apos;&apos; Barbed Connector - 25-004</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/H80_115_9071f3d0-9bf6-4421-8c85-eadb5d39e4dc.png?v=1611093204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's 1/4" Barbed Drip Fittings are used in the installation of all brands of 1/4" micro tubing, 1/4" drip line and 1/4" soaker hose (.140 ID to .170 ID). The fittings are pushed into the inside of the tubing for a very tight-fit connection. They can be used for a two-way layout or for a three-way layout of the different tubing. The fittings can also be used to attach the micro tubing to 1/2" or 3/4" drip tubing. They are made of high-impact plastic and have the largest inside diameter in the industry with a higher flow rate capability and lower head loss.</p>
+<h3>Features</h3>
+<ul>
+<li>Sharp-barb design for secure and tight-fit installation without glue or clamps</li>
+<li>Fits all brands of 1/4" micro tubing , 1/4" drip line and 1/4" soaker hose with .140 ID to .170 ID</li>
+<li>One-piece construction</li>
+<li>Made of high-impact, high-strength, UV-resistant plastic for durability and long life</li>
+<li>Large inside diameter for maximum flow</li>
+</ul>
+<ul>
+<li>Operating pressure: up to 30 PSI</li>
+<li>Color: black</li>
+<li>Use with 1/4" micro tubing, 1/4" drip line and 1/4" soaker hose (.140 ID to .170 ID)</li>
+<li>Material: Acetal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5007102509158</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.09</s:price>
+      <s:sku>25-004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5007097856102</id>
+    <published>2021-01-19T16:52:07-05:00</published>
+    <updated>2021-01-19T16:52:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-1-4-in-barbed-tee-25-002"/>
+    <title>DIG - 1/4&apos;&apos; Barbed Tee - 25-002</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/25-002.jpg?v=1611092864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's 1/4" Barbed Drip Fittings are used in the installation of all brands of 1/4" micro tubing, 1/4" drip line and 1/4" soaker hose (.140 ID to .170 ID). The fittings are pushed into the inside of the tubing for a very tight-fit connection. They can be used for a two-way layout or for a three-way layout of the different tubing. The fittings can also be used to attach the micro tubing to 1/2" or 3/4" drip tubing. They are made of high-impact plastic and have the largest inside diameter in the industry with a higher flow rate capability and lower head loss.</p>
+<h3>Features</h3>
+<ul>
+<li>Sharp-barb design for secure and tight-fit installation without glue or clamps</li>
+<li>Fits all brands of 1/4" micro tubing , 1/4" drip line and 1/4" soaker hose with .140 ID to .170 ID</li>
+<li>One-piece construction</li>
+<li>Made of high-impact, high-strength, UV-resistant plastic for durability and long life</li>
+<li>Large inside diameter for maximum flow</li>
+</ul>
+<ul>
+<li>Operating pressure: up to 30 PSI</li>
+<li>Color: black</li>
+<li>Use with 1/4" micro tubing, 1/4" drip line and 1/4" soaker hose (.140 ID to .170 ID)</li>
+<li>Material: Acetal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5007097856102</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.10</s:price>
+      <s:sku>25-002</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5007101100134</id>
+    <published>2021-01-19T16:51:56-05:00</published>
+    <updated>2021-01-19T16:51:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-1-4-in-barbed-elbow-25-003"/>
+    <title>DIG - 1/4&apos;&apos; Barbed Elbow - 25-003</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/H84_115_d9f7a4b8-886d-4ae5-873a-543b610a2d5d.png?v=1611093083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's 1/4" Barbed Drip Fittings are used in the installation of all brands of 1/4" micro tubing, 1/4" drip line and 1/4" soaker hose (.140 ID to .170 ID). The fittings are pushed into the inside of the tubing for a very tight-fit connection. They can be used for a two-way layout or for a three-way layout of the different tubing. The fittings can also be used to attach the micro tubing to 1/2" or 3/4" drip tubing. They are made of high-impact plastic and have the largest inside diameter in the industry with a higher flow rate capability and lower head loss.</p>
+<h3>Features</h3>
+<ul>
+<li>Sharp-barb design for secure and tight-fit installation without glue or clamps</li>
+<li>Fits all brands of 1/4" micro tubing , 1/4" drip line and 1/4" soaker hose with .140 ID to .170 ID</li>
+<li>One-piece construction</li>
+<li>Made of high-impact, high-strength, UV-resistant plastic for durability and long life</li>
+<li>Large inside diameter for maximum flow</li>
+</ul>
+<ul>
+<li>Operating pressure: up to 30 PSI</li>
+<li>Color: black</li>
+<li>Use with 1/4" micro tubing, 1/4" drip line and 1/4" soaker hose (.140 ID to .170 ID)</li>
+<li>Material: Acetal</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5007101100134</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.10</s:price>
+      <s:sku>25-003</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5007085666406</id>
+    <published>2021-01-19T16:30:23-05:00</published>
+    <updated>2021-01-19T16:30:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-1-2-mpt-male-adapter-x-17mm-barbed-elbow-15-047"/>
+    <title>DIG - 1/2&apos;&apos; MPT Male Adapter x 17mm Barbed Elbow - 15-047</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/15-047.jpg?v=1611091789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><span style="font-size: 1.4em;">Connects / Adapts 17mm drip tubing to 1/2" FNPT Thread Pipe</span></h5>
+<p>DIG's one-piece barbed fittings are constructed of corrosion-resistant, UV-protected poly acetal and can withstand the harsh environment, direct sun and the use of common chemicals in commercial landscape installations. Available in a wide range of configurations, the barbed fittings offer an economical approach to connecting Excel PC 16 and 17 mm dripline without tools, clamps or glues.</p>
+<h3>Features</h3>
+<ul>
+<li>High-impact plastic<br>
+</li>
+<li>Extra sharp barbed design for secure and easy installation of 16 mm and 17 mm drip tubing, emitter tubing and brown PC drip line</li>
+<li>Fits 16 mm and 17 mm dripline and 1/2" polyethylene drip tubing</li>
+<li>Available with a wide range of connections</li>
+<li>Made of high impact, high strength, durable and UV resistant plastic for long-life operation even in harsh conditions</li>
+<li>One-piece construction</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5007085666406</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.40</s:price>
+      <s:sku>15-047</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5007082782822</id>
+    <published>2021-01-19T16:28:04-05:00</published>
+    <updated>2021-01-19T16:28:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-1-2-mpt-male-adapter-x-17mm-barb-15-046"/>
+    <title>DIG - 1/2&apos;&apos; MPT Male Adapter x 17mm Barb - 15-046</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/15-046.png?v=1611091594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><span style="font-size: 1.4em;">Connects / Adapts 17mm drip tubing to 1/2" FNPT Thread Pipe</span></h5>
+<p>DIG's one-piece barbed fittings are constructed of corrosion-resistant, UV-protected poly acetal and can withstand the harsh environment, direct sun and the use of common chemicals in commercial landscape installations. Available in a wide range of configurations, the barbed fittings offer an economical approach to connecting Excel PC 16 and 17 mm dripline without tools, clamps or glues.</p>
+<h3>Features</h3>
+<ul>
+<li>High-impact plastic<br>
+</li>
+<li>Extra sharp barbed design for secure and easy installation of 16 mm and 17 mm drip tubing, emitter tubing and brown PC drip line</li>
+<li>Fits 16 mm and 17 mm dripline and 1/2" polyethylene drip tubing</li>
+<li>Available with a wide range of connections</li>
+<li>Made of high impact, high strength, durable and UV resistant plastic for long-life operation even in harsh conditions</li>
+<li>One-piece construction</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5007082782822</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.42</s:price>
+      <s:sku>15-046</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5007080357990</id>
+    <published>2021-01-19T16:23:30-05:00</published>
+    <updated>2021-01-19T16:23:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-3-4-fpt-x-17mm-barbed-tee-15-045"/>
+    <title>DIG - 3/4&apos;&apos; FPT x 17mm Barbed Tee - 15-045</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/15-045.jpg?v=1611091337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            1.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><span style="font-size: 1.4em;">Connects / Adapts 17mm drip tubing to 3/4" FIPT Thread Pipe</span></h5>
+<p>DIG's one-piece barbed fittings are constructed of corrosion-resistant, UV-protected poly acetal and can withstand the harsh environment, direct sun and the use of common chemicals in commercial landscape installations. Available in a wide range of configurations, the barbed fittings offer an economical approach to connecting Excel PC 16 and 17 mm dripline without tools, clamps or glues.</p>
+<h3>Features</h3>
+<ul>
+<li>High-impact plastic<br>
+</li>
+<li>Extra sharp barbed design for secure and easy installation of 16 mm and 17 mm drip tubing, emitter tubing and brown PC drip line</li>
+<li>Fits 16 mm and 17 mm dripline and 1/2" polyethylene drip tubing</li>
+<li>Available with a wide range of connections</li>
+<li>Made of high impact, high strength, durable and UV resistant plastic for long-life operation even in harsh conditions</li>
+<li>One-piece construction</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5007080357990</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.40</s:price>
+      <s:sku>15-045</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5007073869926</id>
+    <published>2021-01-19T16:14:48-05:00</published>
+    <updated>2021-01-19T16:14:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-3-4-mpt-x-17mm-barbed-tee-15-044"/>
+    <title>DIG - 3/4&apos;&apos; MPT x 17mm Barbed Tee - 15-044</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/15-043_db95aa41-082f-48f9-9c53-ca876bc4f271.jpg?v=1611090824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><span style="font-size: 1.4em;">Connects / Adapts 17mm drip tubing to 3/4" MNPT Thread Pipe</span></h5>
+<p>DIG's one-piece barbed fittings are constructed of corrosion-resistant, UV-protected poly acetal and can withstand the harsh environment, direct sun and the use of common chemicals in commercial landscape installations. Available in a wide range of configurations, the barbed fittings offer an economical approach to connecting Excel PC 16 and 17 mm dripline without tools, clamps or glues.</p>
+<h3>Features</h3>
+<ul>
+<li>High-impact plastic<br>
+</li>
+<li>Extra sharp barbed design for secure and easy installation of 16 mm and 17 mm drip tubing, emitter tubing and brown PC drip line</li>
+<li>Fits 16 mm and 17 mm dripline and 1/2" polyethylene drip tubing</li>
+<li>Available with a wide range of connections</li>
+<li>Made of high impact, high strength, durable and UV resistant plastic for long-life operation even in harsh conditions</li>
+<li>One-piece construction</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5007073869926</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.41</s:price>
+      <s:sku>15-044</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5007066824806</id>
+    <published>2021-01-19T16:10:57-05:00</published>
+    <updated>2021-01-19T16:10:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-1-2-mpt-x-17mm-barbed-tee-15-043"/>
+    <title>DIG - 1/2&apos;&apos; MPT x 17mm Barbed Tee - 15-043</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/15-043.jpg?v=1611090080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><span style="font-size: 1.4em;">Connects / Adapts 17mm drip tubing to 1/2" MNPT Thread Pipe</span></h5>
+<p>DIG's one-piece barbed fittings are constructed of corrosion-resistant, UV-protected poly acetal and can withstand the harsh environment, direct sun and the use of common chemicals in commercial landscape installations. Available in a wide range of configurations, the barbed fittings offer an economical approach to connecting Excel PC 16 and 17 mm dripline without tools, clamps or glues.</p>
+<h3>Features</h3>
+<ul>
+<li>High-impact plastic<br>
+</li>
+<li>Extra sharp barbed design for secure and easy installation of 16 mm and 17 mm drip tubing, emitter tubing and brown PC drip line</li>
+<li>Fits 16 mm and 17 mm dripline and 1/2" polyethylene drip tubing</li>
+<li>Available with a wide range of connections</li>
+<li>Made of high impact, high strength, durable and UV resistant plastic for long-life operation even in harsh conditions</li>
+<li>One-piece construction</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5007066824806</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.42</s:price>
+      <s:sku>15-043</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5007061352550</id>
+    <published>2021-01-19T15:56:36-05:00</published>
+    <updated>2021-01-19T15:56:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-1-2-pvc-x-700-od-compression-insert-15-013"/>
+    <title>DIG - 1/2&apos;&apos; PVC x .700&apos;&apos; OD Compression Insert - 15-013</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/15-013.jpg?v=1611089679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">1/2'' (.700'' OD) Compression PVC Insert - Fits 1/2" .700 OD Drip Irrigation Tubing to 1/2'' PVC Pipe</p>
+<p data-mce-fragment="1">Constructed of molded ultraviolet-resistant, high-impact plastic, DIG's Compression Fittings are able to fit a range of polyethylene drip tubing and drip line sizes from 3/8" to 5/8"; no tools, glues or clamps are required.</p>
+<h3 data-mce-fragment="1">Features</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">High-impact plastic<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Available to fit all sizes of drip irrigation tubing</li>
+<li data-mce-fragment="1">Wide range of configurations including hose-end pipe threads</li>
+<li data-mce-fragment="1">Color coded<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">UV resistant<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Secure and easy installation without glue or clamps<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Fits all 16 and 17 mm drip line, and polyethylene drip tubing sizes with .450" OD, .620" OD, .670" OD, .700" OD and .710 OD"</li>
+</ul>
+<h3>Specifications</h3>
+<ul>
+<li>Operating pressure: 60 PSI (4.2 BAR) *Color inserts:
+<ul>
+<li>.450" OD with red insert fits drip irrigation tubing with .450" OD to .480" OD</li>
+<li>.620" OD with green insert fits drip irrigation tubing and 16 mm drip line with .610" OD to .640" OD</li>
+<li>.670" OD with brown insert fits brown drip irrigation tubing and 17 mm drip line with .660" OD to .670" OD</li>
+<li><strong>.700" OD with black insert fits drip poly tubing with .680" OD, .700" OD and .704" OD</strong></li>
+<li>.710" OD with blue insert fits drip poly tubing with .710" OD to .720" OD</li>
+</ul>
+</li>
+<li>Materials:<br>
+<ul>
+<li>Body: ABS<br>
+</li>
+<li>Inserts: poly-carbonate</li>
+</ul>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5007061352550</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.14</s:price>
+      <s:sku>15-013</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5007057387622</id>
+    <published>2021-01-19T15:51:22-05:00</published>
+    <updated>2021-01-19T15:51:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-3-4fht-compression-end-cap-plug-700-od-15-012"/>
+    <title>DIG - Compression Plug (.700&apos;&apos; OD) w/ 3/4&apos;&apos; FHT End Cap - 15-012</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/15-012.jpg?v=1611089424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">3/4'' (.700'' OD) Compression End Cap Plug - Fits 1/2" .700 OD Drip Irrigation Tubing</p>
+<p data-mce-fragment="1">Constructed of molded ultraviolet-resistant, high-impact plastic, DIG's Compression Fittings are able to fit a range of polyethylene drip tubing and drip line sizes from 3/8" to 5/8"; no tools, glues or clamps are required.</p>
+<h3 data-mce-fragment="1">Features</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">High-impact plastic<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Available to fit all sizes of drip irrigation tubing</li>
+<li data-mce-fragment="1">Wide range of configurations including hose-end pipe threads</li>
+<li data-mce-fragment="1">Color coded<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">UV resistant<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Secure and easy installation without glue or clamps<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Fits all 16 and 17 mm drip line, and polyethylene drip tubing sizes with .450" OD, .620" OD, .670" OD, .700" OD and .710 OD"</li>
+</ul>
+<h3>Specifications</h3>
+<ul>
+<li>Operating pressure: 60 PSI (4.2 BAR) *Color inserts:
+<ul>
+<li>.450" OD with red insert fits drip irrigation tubing with .450" OD to .480" OD</li>
+<li>.620" OD with green insert fits drip irrigation tubing and 16 mm drip line with .610" OD to .640" OD</li>
+<li>.670" OD with brown insert fits brown drip irrigation tubing and 17 mm drip line with .660" OD to .670" OD</li>
+<li><strong>.700" OD with black insert fits drip poly tubing with .680" OD, .700" OD and .704" OD</strong></li>
+<li>.710" OD with blue insert fits drip poly tubing with .710" OD to .720" OD</li>
+</ul>
+</li>
+<li>Materials:<br>
+<ul>
+<li>Body: ABS<br>
+</li>
+<li>Inserts: poly-carbonate</li>
+</ul>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5007057387622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.80</s:price>
+      <s:sku>15-012</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5007056142438</id>
+    <published>2021-01-19T15:46:50-05:00</published>
+    <updated>2021-01-19T15:46:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-3-4fht-compression-swivel-tee-w-screen-700-od-15-007"/>
+    <title>DIG - 3/4&apos;&apos; FHT x Compression Swivel Tee w/ Screen (.700&apos;&apos; OD) - 15-008</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/15-008.jpg?v=1611089118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            1.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">1/2'' (.700'' OD) Compression Swivel Tee 3/4'' FHT w/ Screen</p>
+<p data-mce-fragment="1">Constructed of molded ultraviolet-resistant, high-impact plastic, DIG's Compression Fittings are able to fit a range of polyethylene drip tubing and drip line sizes from 3/8" to 5/8"; no tools, glues or clamps are required.</p>
+<h3 data-mce-fragment="1">Features</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">High-impact plastic<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Available to fit all sizes of drip irrigation tubing</li>
+<li data-mce-fragment="1">Wide range of configurations including hose-end pipe threads</li>
+<li data-mce-fragment="1">Color coded<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">UV resistant<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Secure and easy installation without glue or clamps<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Fits all 16 and 17 mm drip line, and polyethylene drip tubing sizes with .450" OD, .620" OD, .670" OD, .700" OD and .710 OD"</li>
+</ul>
+<h3>Specifications</h3>
+<ul>
+<li>Operating pressure: 60 PSI (4.2 BAR) *Color inserts:
+<ul>
+<li>.450" OD with red insert fits drip irrigation tubing with .450" OD to .480" OD</li>
+<li>.620" OD with green insert fits drip irrigation tubing and 16 mm drip line with .610" OD to .640" OD</li>
+<li>.670" OD with brown insert fits brown drip irrigation tubing and 17 mm drip line with .660" OD to .670" OD</li>
+<li><strong>.700" OD with black insert fits drip poly tubing with .680" OD, .700" OD and .704" OD</strong></li>
+<li>.710" OD with blue insert fits drip poly tubing with .710" OD to .720" OD</li>
+</ul>
+</li>
+<li>Materials:<br>
+<ul>
+<li>Body: ABS<br>
+</li>
+<li>Inserts: poly-carbonate</li>
+</ul>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5007056142438</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.02</s:price>
+      <s:sku>15-008</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5007054798950</id>
+    <published>2021-01-19T15:42:00-05:00</published>
+    <updated>2021-01-19T15:42:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-1-2-compression-elbow-700-od-15-007"/>
+    <title>DIG - 1/2&apos;&apos; Compression Elbow (.700&apos;&apos; OD) - 15-007</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/1-2_in._compression_elbow_500x500_e8224172-463d-4e9a-ac13-6791a243a9eb.jpg?v=1611088855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">1/2'' (.700'' OD) Compression Elbow</p>
+<p data-mce-fragment="1">Constructed of molded ultraviolet-resistant, high-impact plastic, DIG's Compression Fittings are able to fit a range of polyethylene drip tubing and drip line sizes from 3/8" to 5/8"; no tools, glues or clamps are required.</p>
+<h3 data-mce-fragment="1">Features</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">High-impact plastic<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Available to fit all sizes of drip irrigation tubing</li>
+<li data-mce-fragment="1">Wide range of configurations including hose-end pipe threads</li>
+<li data-mce-fragment="1">Color coded<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">UV resistant<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Secure and easy installation without glue or clamps<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Fits all 16 and 17 mm drip line, and polyethylene drip tubing sizes with .450" OD, .620" OD, .670" OD, .700" OD and .710 OD"</li>
+</ul>
+<h3>Specifications</h3>
+<ul>
+<li>Operating pressure: 60 PSI (4.2 BAR) *Color inserts:
+<ul>
+<li>.450" OD with red insert fits drip irrigation tubing with .450" OD to .480" OD</li>
+<li>.620" OD with green insert fits drip irrigation tubing and 16 mm drip line with .610" OD to .640" OD</li>
+<li>.670" OD with brown insert fits brown drip irrigation tubing and 17 mm drip line with .660" OD to .670" OD</li>
+<li><strong>.700" OD with black insert fits drip poly tubing with .680" OD, .700" OD and .704" OD</strong></li>
+<li>.710" OD with blue insert fits drip poly tubing with .710" OD to .720" OD</li>
+</ul>
+</li>
+<li>Materials:<br>
+<ul>
+<li>Body: ABS<br>
+</li>
+<li>Inserts: poly-carbonate</li>
+</ul>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5007054798950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.54</s:price>
+      <s:sku>15-007</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5007053455462</id>
+    <published>2021-01-19T15:39:26-05:00</published>
+    <updated>2021-01-19T15:39:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-1-2-compression-tee-700-od-15-006"/>
+    <title>DIG - 1/2&apos;&apos; Compression Tee (.700&apos;&apos; OD) - 15-006</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/15-006.jpg?v=1611088640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">1/2'' (.700'' OD) Compression Tee</p>
+<p data-mce-fragment="1">Constructed of molded ultraviolet-resistant, high-impact plastic, DIG's Compression Fittings are able to fit a range of polyethylene drip tubing and drip line sizes from 3/8" to 5/8"; no tools, glues or clamps are required.</p>
+<h3 data-mce-fragment="1">Features</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">High-impact plastic<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Available to fit all sizes of drip irrigation tubing</li>
+<li data-mce-fragment="1">Wide range of configurations including hose-end pipe threads</li>
+<li data-mce-fragment="1">Color coded<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">UV resistant<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Secure and easy installation without glue or clamps<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Fits all 16 and 17 mm drip line, and polyethylene drip tubing sizes with .450" OD, .620" OD, .670" OD, .700" OD and .710 OD"</li>
+</ul>
+<h3>Specifications</h3>
+<ul>
+<li>Operating pressure: 60 PSI (4.2 BAR) *Color inserts:
+<ul>
+<li>.450" OD with red insert fits drip irrigation tubing with .450" OD to .480" OD</li>
+<li>.620" OD with green insert fits drip irrigation tubing and 16 mm drip line with .610" OD to .640" OD</li>
+<li>.670" OD with brown insert fits brown drip irrigation tubing and 17 mm drip line with .660" OD to .670" OD</li>
+<li><strong>.700" OD with black insert fits drip poly tubing with .680" OD, .700" OD and .704" OD</strong></li>
+<li>.710" OD with blue insert fits drip poly tubing with .710" OD to .720" OD</li>
+</ul>
+</li>
+<li>Materials:<br>
+<ul>
+<li>Body: ABS<br>
+</li>
+<li>Inserts: poly-carbonate</li>
+</ul>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5007053455462</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.59</s:price>
+      <s:sku>15-006</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5007053226086</id>
+    <published>2021-01-19T15:35:04-05:00</published>
+    <updated>2021-01-19T15:35:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-1-2-compression-coupling-700-od-15-004"/>
+    <title>DIG - 1/2&apos;&apos; Compression Coupling (.700&apos;&apos; OD) - 15-004</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/15-004.jpg?v=1611088497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">1/2'' (.700'' OD) Compression Coupling</p>
+<p data-mce-fragment="1">Constructed of molded ultraviolet-resistant, high-impact plastic, DIG's Compression Fittings are able to fit a range of polyethylene drip tubing and drip line sizes from 3/8" to 5/8"; no tools, glues or clamps are required.</p>
+<h3 data-mce-fragment="1">Features</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">High-impact plastic<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Available to fit all sizes of drip irrigation tubing</li>
+<li data-mce-fragment="1">Wide range of configurations including hose-end pipe threads</li>
+<li data-mce-fragment="1">Color coded<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">UV resistant<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Secure and easy installation without glue or clamps<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Fits all 16 and 17 mm drip line, and polyethylene drip tubing sizes with .450" OD, .620" OD, .670" OD, .700" OD and .710 OD"</li>
+</ul>
+<h3>Specifications</h3>
+<ul>
+<li>Operating pressure: 60 PSI (4.2 BAR) *Color inserts:
+<ul>
+<li>.450" OD with red insert fits drip irrigation tubing with .450" OD to .480" OD</li>
+<li>.620" OD with green insert fits drip irrigation tubing and 16 mm drip line with .610" OD to .640" OD</li>
+<li>.670" OD with brown insert fits brown drip irrigation tubing and 17 mm drip line with .660" OD to .670" OD</li>
+<li><strong>.700" OD with black insert fits drip poly tubing with .680" OD, .700" OD and .704" OD</strong></li>
+<li>.710" OD with blue insert fits drip poly tubing with .710" OD to .720" OD</li>
+</ul>
+</li>
+<li>Materials:<br>
+<ul>
+<li>Body: ABS<br>
+</li>
+<li>Inserts: poly-carbonate</li>
+</ul>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5007053226086</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.39</s:price>
+      <s:sku>15-004</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4928205357158</id>
+    <published>2020-09-18T09:23:36-04:00</published>
+    <updated>2020-09-18T09:23:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-shut-off-valve-with-1-2-in-barb-28-007"/>
+    <title>DIG - Shut Off Valve w/ 1/2&apos;&apos; Barb (17mm) - 28-007</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/28-007.jpg?v=1616104150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            1.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's range of 1/4", 1/2" and 3/4" barbed and threaded shut-off valves are used for manual control of individual drip-line laterals, drip tubing or micro tubing, and for screen filters as a flush valve.</p>
+<h3>1/2" 16 mm and 17 mm Shut-Off Valve Features</h3>
+<ul>
+<li>Watertight seal with inlet/outlet O-rings<br>
+</li>
+<li>Large handle for easy manual control<br>
+</li>
+<li>Rapid 1/4" turn on and off<br>
+</li>
+<li>Constructed of UV-resistant, durable plastic material</li>
+</ul>
+<ul></ul>
+<h3>Shut-Off Valve Specifications</h3>
+<ul>
+<li>Operating pressure: up to 60 PSI (4.2 BAR)</li>
+<li>Recommended operating pressure: 15 to 30 PSI (1 to 2.1 BAR)</li>
+<li>Temperature range: up to 130°F (54°C)<br>*Available inlet and outlet configurations:
+<ul>
+<li>3/4" FPT x 3/4" MPT (model 28-004)</li>
+<li>3/4" FPT x 1/2" (17 mm) barb (model 28-006); fits drip tubing or drip line with .570" to .600" ID</li>
+<li>1/2" (17 mm) barb (model 28-007) fits drip tubing or drip line with .570" to .600" ID</li>
+<li>3/4" FPT x 1/2" (16 mm) barb (model 28-012); fits drip tubing or drip line with .500" to .540" ID</li>
+<li>1/2" (16 mm) barb (model 28-013); fits drip tubing or drip line with .500" to .540" ID</li>
+<li>3/4" FHT x MHT (model 28-018); use as a filter flush valve</li>
+</ul>
+</li>
+<li>Materials: high-impact plastic</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Fittings</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4928205357158</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.74</s:price>
+      <s:sku>28-007</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4754053136486</id>
+    <published>2020-08-11T14:38:47-04:00</published>
+    <updated>2020-08-11T14:38:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-pvc-insert-1-2-to-710-od-15-019"/>
+    <title>DIG - PVC Insert 1/2&quot; to .710 OD - 15-019</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/15-067_277_290ec82b-823b-4d2f-846c-45853af15011.png?v=1592939107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's 1/2" Compression PVC compression inserts are available for .450" OD (red), .630" OD (green). .700" OD to .704" OD (black), .710" OD (blue) and .930" OD (black). Glue the insert into any 1/2" or 3/4" PVC slip coupling or tee to connect it to 1/2" or 3/4" drip tubing.</p>
+<h3>Features</h3>
+<ul>
+<li>Fits polyethylene tubing with .450" OD , .630" OD, .700" OD to .704" OD, .710" OD and .930" OD</li>
+<li>Glues into the slip side of any 1/2" or 3/4" PVC fitting</li>
+<li>Color-coded insert for easy identification</li>
+<li>Use with any PVC glue</li>
+<li>Easy to install</li>
+<li>Made with high-impact, UV-resistant plastic</li>
+</ul>
+<h3>Specifications</h3>
+<ul>
+<li>Operating pressure: Up to 60 PSI</li>
+<li>Recommended operating pressure: up to 30 PSI</li>
+<li>Size: For .700" OD to .704" OD drip tubing and drip line</li>
+<li>Color: Black</li>
+<li>Materials: High-impact plastic</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4754053136486</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.14</s:price>
+      <s:sku>15-019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4754050678886</id>
+    <published>2020-08-11T14:38:46-04:00</published>
+    <updated>2020-08-11T14:38:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-pvc-insert-1-2-to-700-od-15-013"/>
+    <title>DIG - PVC Insert 1/2&quot; to .700 OD - 15-013</title>
+    <s:type>Drip Fittings</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/15-067_277_86299a19-851e-4c11-b39d-e1c1aca1f45c.png?v=1592939133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Fittings<br>
+        <strong>Price: </strong>
+            0.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's 1/2" Compression PVC compression inserts are available for .450" OD (red), .630" OD (green). .700" OD to .704" OD (black), .710" OD (blue) and .930" OD (black). Glue the insert into any 1/2" or 3/4" PVC slip coupling or tee to connect it to 1/2" or 3/4" drip tubing.</p>
+<h3>Features</h3>
+<ul>
+<li>Fits polyethylene tubing with .450" OD , .630" OD, .700" OD to .704" OD, .710" OD and .930" OD</li>
+<li>Glues into the slip side of any 1/2" or 3/4" PVC fitting</li>
+<li>Color-coded insert for easy identification</li>
+<li>Use with any PVC glue</li>
+<li>Easy to install</li>
+<li>Made with high-impact, UV-resistant plastic</li>
+</ul>
+<h3>Specifications</h3>
+<ul>
+<li>Operating pressure: Up to 60 PSI</li>
+<li>Recommended operating pressure: up to 30 PSI</li>
+<li>Size: For .700" OD to .704" OD drip tubing and drip line</li>
+<li>Color: Black</li>
+<li>Materials: High-impact plastic</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4754050678886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.14</s:price>
+      <s:sku>15-013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

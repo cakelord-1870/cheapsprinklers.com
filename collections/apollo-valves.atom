@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/apollo-valves.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2020-12-18T08:29:45-05:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4989851992166</id>
+    <published>2020-12-18T08:29:45-05:00</published>
+    <updated>2020-12-18T08:29:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/apollo-4a-208-a2f-2-rpz-backflow-preventer"/>
+    <title>Apollo - 4A-208-A2F - 2&apos;&apos; RPZ Backflow Preventer</title>
+    <s:type>Backflow Preventers</s:type>
+    <s:vendor>Apollo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-127__01740.1516302922.1280.1280_fde17e98-d22c-44c7-885b-23a3c2cb806e.jpg?v=1608298073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Apollo<br>
+        <strong>Type: </strong>Backflow Preventers<br>
+        <strong>Price: </strong>
+            700.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2'' Non-Lead Free, Standard Y-strainer w/ Ball Valves &amp; SAE Threaded Test Cocks (Standard 1/2'')</p>
+<p>The Apollo® Model RP4A/RPLF4A Series Reduced Pressure Backflow Preventers provide maximum protection against back-siphonage or backpressure from substances that are hazardous to the potable water supply. The top accessed modular check valve cartridges provide captured springs, replaceable seats and reversible silicone seat discs. This Made in America assembly features ball valves with stainless steel handles and trim as standard and carries the five-year Apollo® factory warranty.</p>
+<h4>FEATURES</h4>
+<ul>
+<li>Maximum Protection Against Back-Pressure/Back-Siphonage</li>
+<li>Modular Check Valve Cartridges w/ Easily Replaced Parts</li>
+<li>Reversible/Removable Chloramine-Resistant Silicone Seat Discs</li>
+<li>Low Head Pressure Loss</li>
+<li>Top Mounted Test Cocks</li>
+<li>Threaded Testcock Protectors</li>
+<li>Internal Sensing Passage</li>
+<li>Modular Captured Spring Relief Valve</li>
+<li>Standard with Full Port Ball Valves with Stainless Steel Handles</li>
+<li>Corrosion Resistant</li>
+<li>5 Year Warranty</li>
+</ul>
+<h4>APPROVALS</h4>
+<ul>
+<li>ASSE 1013-2011</li>
+<li>CSA B64.4</li>
+<li>Federal Public Law 111-380</li>
+<li>AWWA C511</li>
+<li>Approved by the Foundation for CrossConnection Control and Hydraulic Research at the University of Southern California</li>
+<li>Horizontal Installation Approvals on 1/2'' - 2''</li>
+</ul>
+<h4>STANDARD MATERIALS LIST</h4>
+<ul>
+<li>
+<strong>BODY, CAPS</strong> - Bronze (C84400/LF C89836)</li>
+<li>
+<strong>BV SHUT-OFFS, TESTCOCKS</strong><span> </span>- Bronze (C84400/LF C87800)</li>
+<li>
+<strong>SPRINGS</strong><span> </span>- 300 Series SS</li>
+<li>
+<strong>SEAT DISCS</strong><span> </span>- Chloramine-Resistant Silicone</li>
+<li>
+<strong>DIAPHRAGM</strong><span> </span>- Nitrile and Nylon</li>
+<li>
+<strong>CHECK MODULES</strong><span> </span>- Glass-Filled PPO</li>
+<li>
+<strong>O-RINGS</strong><span> </span>- Chloramine-Resistant EPDM</li>
+<li>
+<strong>BALL VALVE HANDLES</strong><span> </span>- Stainless Steel</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><a href="http://cdn.conbraco.com/apollovalves/products/documents/RP4A_RPLF4A_SS1381.pdf" target="_blank">Specification Sheet</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Apollo</s:tag>
+    <s:tag>CATEGORY_Backflow Preventers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4989851992166</id>
+      <title>Default Title</title>
+      <s:price currency="USD">700.48</s:price>
+      <s:sku>4A208A2F</s:sku>
+      <s:grams>11907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4620376572006</id>
+    <published>2020-02-21T08:52:23-05:00</published>
+    <updated>2020-02-21T08:52:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/apollo-4alf-3a5-5a-1-dual-check-valve-backflow-preventer"/>
+    <title>Apollo - 4ALF-3A5-5A - 1&apos;&apos; Dual Check Valve Backflow Preventer</title>
+    <s:type>Backflow Preventers</s:type>
+    <s:vendor>Apollo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/HRP_DUCLF4A.jpg?v=1582295216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Apollo<br>
+        <strong>Type: </strong>Backflow Preventers<br>
+        <strong>Price: </strong>
+            50.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 Lead Free FNPT (Female Pipe Thread Connection) Satin Brass Dual Check Valve</p>
+<h4>DESCRIPTION</h4>
+<p>The lead free* Apollo® Model DuCLF4A (4ALF-300) Dual Check Valve prevents backflow by either backpressure or back-siphonage from a cross-connection between potable water lines and substances that are objectionable, but not health hazards.</p>
+<h4>FEATURES</h4>
+<ul>
+<li>Low Head Loss</li>
+<li>Independently-Acting Captured Spring Check Valves</li>
+<li>Compact and Lightweight</li>
+<li>Corrosion Resistant</li>
+<li>Replaceable Check Modules</li>
+<li>Industry Lay Lengths</li>
+<li>Lead-Free (NSF 372)</li>
+<li>5 Year Warranty</li>
+</ul>
+<h4>PERFORMANCE RATING</h4>
+<ul>
+<li>Maximum Working Pressure: 175 psi</li>
+<li>Operating Temperature Range: 33°F - 180°F</li>
+</ul>
+<h4>APPROVALS</h4>
+<ul>
+<li>ASSE 1024</li>
+<li>CSA B64.6</li>
+<li>NSF/ANSI 61-2016</li>
+<li>NSF/ANSI 372 Lead Free</li>
+</ul>
+<h4>STANDARD MATERIALS LIST</h4>
+<ul>
+<li>
+<strong> BODY:</strong> Lead Free* Bronze C87800</li>
+<li>
+<strong>TAILPIECE:</strong> Lead Free* Brass C46500</li>
+<li>
+<strong> UNION NUT:</strong> Brass C36000</li>
+<li>
+<strong> CHECK MODULES:</strong> Acetal (3/4�-1�)</li>
+<li>
+<strong> SPRINGS:</strong> Stainless Steel</li>
+<li>
+<strong>SEAT DISCS:</strong> Buna-N (3/4�-1�)</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li>
+<strong>﻿</strong>﻿<a href="http://cdn.conbraco.com/apollovalves/products/documents/DuCLF4A_SS1400.pdf" target="_blank" rel="noopener noreferrer">Specification Sheet</a><br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Apollo</s:tag>
+    <s:tag>CATEGORY_Backflow Preventers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$40-60</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4620376572006</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.10</s:price>
+      <s:sku>4ALF3A55A</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452212023396</id>
+    <published>2019-01-19T00:18:37-05:00</published>
+    <updated>2019-01-19T00:18:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/apollo-4alf-104-a2f-3-4-4a-series-double-check-valve-assembly"/>
+    <title>Apollo - 4A-104-A2F - 3/4&quot; DCA Backflow Preventer</title>
+    <s:type>Backflow Preventers</s:type>
+    <s:vendor>Apollo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-122__01008.1516302920.1280.1280.jpg?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Apollo<br>
+        <strong>Type: </strong>Backflow Preventers<br>
+        <strong>Price: </strong>
+            131.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3/4'' Non-Lead Free, Standard Y-Strainer w/ Ball Valves (Standard) &amp; SAE Threaded Test Cocks</p>
+<p>The Apollo Model DC4A Double Check Valves prevent contamination of the potable water supply due to back-siphonage or backpressure from substances that are objectionable to the potable water supply, but non-health hazards. The top accessed modular check valve cartridges provide captured springs, replaceable seats and reversible silicone seat discs. This Made in America assembly features Apollo ball valves with stainless steel handles and nuts as standard and carries the five-year Apollo factory warranty.</p>
+<p><strong>Features / Benefits</strong></p>
+<ul>
+<li>Low pressure loss documented by independent approval agencies</li>
+<li>Easily removable modular check valve cartridge</li>
+<li>Captured stainless steel springs</li>
+<li>Apollo ball valves w/ SS handles &amp; nuts standard</li>
+<li>Top-mounted test cocks for easy testing</li>
+<li>No special tools required</li>
+<li>Chloramine-resistant elastomers</li>
+<li><strong>Designed, cast, machined, assembled and tested IN THE USA</strong></li>
+</ul>
+<p><strong>Approvals</strong></p>
+<ul>
+<li>Horizontal and Vertical Up Approvals</li>
+<li>AWWA C510</li>
+<li>Approved by the Foundation for CrossConnection Control and Hydraulic Research at the University of Southern California</li>
+<li>ASSE 1015-2011</li>
+<li>IAPMO</li>
+<li>CSA B.64.5</li>
+</ul>
+<p><strong>Performance Rating</strong></p>
+<ul>
+<li>Maximum Working Pressure: 175 psi</li>
+<li>Temperature Range: 33°F - 180°F</li>
+</ul>
+<p><strong>Material Specifications</strong></p>
+<ul>
+<li>
+<strong>Body, Caps, Ball Valve Shutoffs, Test cocks:<span> </span></strong><em>Bronze C84400</em>
+</li>
+<li>
+<strong>Check Valve Cartridges:<span> </span></strong><em>Glass-Filled PPO</em>
+</li>
+<li>
+<strong>Springs:</strong><span> </span><em>300 Series Stainless Steel</em>
+</li>
+<li>
+<strong>Seat Discs:</strong><span> </span><em>Chloramine-resistant Silicone</em>
+</li>
+<li>
+<strong>O-rings:</strong><span> </span><em>Chloramine-resistant EPDM</em>
+</li>
+</ul>
+<h4><strong>﻿Downloads</strong></h4>
+<ul>
+<li><span style="text-decoration: underline;">﻿<a href="http://cdn.conbraco.com/apollovalves/products/documents/DC4A_DCLF4A_SS1380.pdf" target="_blank">Specification<span> </span>Sheet</a></span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Apollo</s:tag>
+    <s:tag>CATEGORY_Backflow Preventers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452212023396</id>
+      <title>Default Title</title>
+      <s:price currency="USD">131.98</s:price>
+      <s:sku>4A104A2F</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452211728484</id>
+    <published>2019-01-19T00:18:36-05:00</published>
+    <updated>2019-01-19T00:18:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/apollo-4a-207-a2f-1-1-2-in-rpz-backflow-preventer"/>
+    <title>Apollo - 4A-207-A2F - 1 1/2&apos;&apos; RPZ Backflow Preventer</title>
+    <s:type>Backflow Preventers</s:type>
+    <s:vendor>Apollo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-127__01740.1516302922.1280.1280.jpg?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Apollo<br>
+        <strong>Type: </strong>Backflow Preventers<br>
+        <strong>Price: </strong>
+            648.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 1/2'' Non-Lead Free, Standard Y-strainer w/ Ball Valves &amp; SAE Threaded Test Cocks (Standard 1/2'')</p>
+<p>The Apollo® Model RP4A/RPLF4A Series Reduced Pressure Backflow Preventers provide maximum protection against back-siphonage or backpressure from substances that are hazardous to the potable water supply. The top accessed modular check valve cartridges provide captured springs, replaceable seats and reversible silicone seat discs. This Made in America assembly features ball valves with stainless steel handles and trim as standard and carries the five-year Apollo® factory warranty.</p>
+<h4>FEATURES</h4>
+<ul>
+<li>Maximum Protection Against Back-Pressure/Back-Siphonage</li>
+<li>Modular Check Valve Cartridges w/ Easily Replaced Parts</li>
+<li>Reversible/Removable Chloramine-Resistant Silicone Seat Discs</li>
+<li>Low Head Pressure Loss</li>
+<li>Top Mounted Test Cocks</li>
+<li>Threaded Testcock Protectors</li>
+<li>Internal Sensing Passage</li>
+<li>Modular Captured Spring Relief Valve</li>
+<li>Standard with Full Port Ball Valves with Stainless Steel Handles</li>
+<li>Corrosion Resistant</li>
+<li>5 Year Warranty</li>
+</ul>
+<h4>APPROVALS</h4>
+<ul>
+<li>ASSE 1013-2011</li>
+<li>CSA B64.4</li>
+<li>Federal Public Law 111-380</li>
+<li>AWWA C511</li>
+<li>Approved by the Foundation for CrossConnection Control and Hydraulic Research at the University of Southern California</li>
+<li>Horizontal Installation Approvals on 1/2'' - 2''</li>
+</ul>
+<h4>STANDARD MATERIALS LIST</h4>
+<ul>
+<li>
+<strong>BODY, CAPS</strong> - Bronze (C84400/LF C89836)</li>
+<li>
+<strong>BV SHUT-OFFS, TESTCOCKS</strong><span> </span>- Bronze (C84400/LF C87800)</li>
+<li>
+<strong>SPRINGS</strong><span> </span>- 300 Series SS</li>
+<li>
+<strong>SEAT DISCS</strong><span> </span>- Chloramine-Resistant Silicone</li>
+<li>
+<strong>DIAPHRAGM</strong><span> </span>- Nitrile and Nylon</li>
+<li>
+<strong>CHECK MODULES</strong><span> </span>- Glass-Filled PPO</li>
+<li>
+<strong>O-RINGS</strong><span> </span>- Chloramine-Resistant EPDM</li>
+<li>
+<strong>BALL VALVE HANDLES</strong><span> </span>- Stainless Steel</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><a href="http://cdn.conbraco.com/apollovalves/products/documents/RP4A_RPLF4A_SS1381.pdf" target="_blank">Specification Sheet</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Apollo</s:tag>
+    <s:tag>CATEGORY_Backflow Preventers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452211728484</id>
+      <title>Default Title</title>
+      <s:price currency="USD">648.50</s:price>
+      <s:sku>4A207A2F</s:sku>
+      <s:grams>10886</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452211466340</id>
+    <published>2019-01-19T00:18:34-05:00</published>
+    <updated>2019-01-19T00:18:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/apollo-4a-205-a2f-1-in-rpz-backflow-preventer"/>
+    <title>Apollo - 4A-205-A2F - 1&apos;&apos; RPZ Backflow Preventer</title>
+    <s:type>Backflow Preventers</s:type>
+    <s:vendor>Apollo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-126__63101.1516302922.1280.1280.jpg?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Apollo<br>
+        <strong>Type: </strong>Backflow Preventers<br>
+        <strong>Price: </strong>
+            328.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1'' Non-Lead Free, Standard Y-strainer w/ Ball Valves &amp; SAE Threaded Test Cocks (Standard 1/2'')</p>
+<p>The Apollo® Model RP4A/RPLF4A Series Reduced Pressure Backflow Preventers provide maximum protection against back-siphonage or backpressure from substances that are hazardous to the potable water supply. The top accessed modular check valve cartridges provide captured springs, replaceable seats and reversible silicone seat discs. This Made in America assembly features ball valves with stainless steel handles and trim as standard and carries the five-year Apollo® factory warranty.</p>
+<h4>FEATURES</h4>
+<ul>
+<li>Maximum Protection Against Back-Pressure/Back-Siphonage</li>
+<li>Modular Check Valve Cartridges w/ Easily Replaced Parts</li>
+<li>Reversible/Removable Chloramine-Resistant Silicone Seat Discs</li>
+<li>Low Head Pressure Loss</li>
+<li>Top Mounted Test Cocks</li>
+<li>Threaded Testcock Protectors</li>
+<li>Internal Sensing Passage</li>
+<li>Modular Captured Spring Relief Valve</li>
+<li>Standard with Full Port Ball Valves with Stainless Steel Handles</li>
+<li>Corrosion Resistant</li>
+<li>5 Year Warranty</li>
+</ul>
+<h4>APPROVALS</h4>
+<ul>
+<li>ASSE 1013-2011</li>
+<li>CSA B64.4</li>
+<li>Federal Public Law 111-380</li>
+<li>AWWA C511</li>
+<li>Approved by the Foundation for CrossConnection Control and Hydraulic Research at the University of Southern California</li>
+<li>Horizontal Installation Approvals on 1/2'' - 2''</li>
+</ul>
+<h4>STANDARD MATERIALS LIST</h4>
+<ul>
+<li>
+<strong> BODY, CAPS</strong> - Bronze (C84400/LF C89836)</li>
+<li>
+<strong>BV SHUT-OFFS, TESTCOCKS</strong> - Bronze (C84400/LF C87800)</li>
+<li>
+<strong>SPRINGS</strong> - 300 Series SS</li>
+<li>
+<strong>SEAT DISCS</strong> - Chloramine-Resistant Silicone</li>
+<li>
+<strong>DIAPHRAGM</strong> - Nitrile and Nylon</li>
+<li>
+<strong>CHECK MODULES</strong> - Glass-Filled PPO</li>
+<li>
+<strong>O-RINGS</strong> - Chloramine-Resistant EPDM</li>
+<li>
+<strong>BALL VALVE HANDLES</strong> - Stainless Steel</li>
+</ul>
+<p><strong>Downloads</strong></p>
+<ul>
+<li><a href="http://cdn.conbraco.com/apollovalves/products/documents/RP4A_RPLF4A_SS1381.pdf" target="_blank">Specification Sheet</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Apollo</s:tag>
+    <s:tag>CATEGORY_Backflow Preventers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452211466340</id>
+      <title>Default Title</title>
+      <s:price currency="USD">328.53</s:price>
+      <s:sku>4A205A2F</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452211138660</id>
+    <published>2019-01-19T00:18:33-05:00</published>
+    <updated>2019-01-19T00:18:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/apollo-4a-108-a2f-2-in-dca-backflow-preventer"/>
+    <title>Apollo - 4A-108-A2F - 2&apos;&apos; DCA Backflow Preventer</title>
+    <s:type>Backflow Preventers</s:type>
+    <s:vendor>Apollo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-125__50898.1516302921.1280.1280_98cc779c-07d6-4e20-a50c-474415ea9f4c.jpg?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Apollo<br>
+        <strong>Type: </strong>Backflow Preventers<br>
+        <strong>Price: </strong>
+            489.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2'' Non-Lead Free, Standard Y-Strainer w/ Ball Valves (Standard) &amp; SAE Threaded Test Cocks</p>
+<p>The Apollo Model DC4A Double Check Valves prevent contamination of the potable water supply due to back-siphonage or backpressure from substances that are objectionable to the potable water supply, but non-health hazards. The top accessed modular check valve cartridges provide captured springs, replaceable seats and reversible silicone seat discs. This Made in America assembly features Apollo ball valves with stainless steel handles and nuts as standard and carries the five-year Apollo factory warranty.</p>
+<p><strong>Features / Benefits</strong></p>
+<ul>
+<li>Low pressure loss documented by independent approval agencies</li>
+<li>Easily removable modular check valve cartridge</li>
+<li>Captured stainless steel springs</li>
+<li>Apollo ball valves w/ SS handles &amp; nuts standard</li>
+<li>Top-mounted test cocks for easy testing</li>
+<li>No special tools required</li>
+<li>Chloramine-resistant elastomers</li>
+<li><strong>Designed, cast, machined, assembled and tested IN THE USA</strong></li>
+</ul>
+<p><strong>Approvals</strong></p>
+<ul>
+<li>Horizontal and Vertical Up Approvals</li>
+<li>AWWA C510</li>
+<li>Approved by the Foundation for CrossConnection Control and Hydraulic Research at the University of Southern California</li>
+<li>ASSE 1015-2011</li>
+<li>IAPMO</li>
+<li>CSA B.64.5</li>
+</ul>
+<p><strong>Performance Rating</strong></p>
+<ul>
+<li>Maximum Working Pressure: 175 psi</li>
+<li>Temperature Range: 33°F - 180°F</li>
+</ul>
+<p><strong>Material Specifications</strong></p>
+<ul>
+<li>
+<strong>Body, Caps, Ball Valve Shutoffs, Test cocks: </strong><em>Bronze C84400</em>
+</li>
+<li>
+<strong>Check Valve Cartridges: </strong><em>Glass-Filled PPO </em>
+</li>
+<li>
+<strong>Springs:</strong> <em>300 Series Stainless Steel </em>
+</li>
+<li>
+<strong>Seat Discs:</strong> <em>Chloramine-resistant Silicone</em>
+</li>
+<li>
+<strong>O-rings:</strong> <em>Chloramine-resistant EPDM</em>
+</li>
+</ul>
+<h4><strong>﻿Downloads</strong></h4>
+<ul>
+<li><span style="text-decoration: underline;">﻿<a href="http://cdn.conbraco.com/apollovalves/products/documents/DC4A_DCLF4A_SS1380.pdf" target="_blank">Specification<span> </span>Sheet</a></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Apollo</s:tag>
+    <s:tag>CATEGORY_Backflow Preventers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452211138660</id>
+      <title>Default Title</title>
+      <s:price currency="USD">489.60</s:price>
+      <s:sku>4A108A2F</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452210712676</id>
+    <published>2019-01-19T00:18:32-05:00</published>
+    <updated>2019-01-19T00:18:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/apollo-4a-107-a2f-1-1-2-in-dca-backflow-preventer"/>
+    <title>Apollo - 4A-107-A2F - 1 1/2&apos;&apos; DCA Backflow Preventer</title>
+    <s:type>Backflow Preventers</s:type>
+    <s:vendor>Apollo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-124__52366.1516302921.1280.1280.jpg?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Apollo<br>
+        <strong>Type: </strong>Backflow Preventers<br>
+        <strong>Price: </strong>
+            410.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 1/2'' Non-Lead Free, Standard Y-Strainer w/ Ball Valves (Standard) &amp; SAE Threaded Test Cocks</p>
+<p>The Apollo Model DC4A Double Check Valves prevent contamination of the potable water supply due to back-siphonage or backpressure from substances that are objectionable to the potable water supply, but non-health hazards. The top accessed modular check valve cartridges provide captured springs, replaceable seats and reversible silicone seat discs. This Made in America assembly features Apollo ball valves with stainless steel handles and nuts as standard and carries the five-year Apollo factory warranty.</p>
+<p><strong>Features / Benefits</strong></p>
+<ul>
+<li>Low pressure loss documented by independent approval agencies</li>
+<li>Easily removable modular check valve cartridge</li>
+<li>Captured stainless steel springs</li>
+<li>Apollo ball valves w/ SS handles &amp; nuts standard</li>
+<li>Top-mounted test cocks for easy testing</li>
+<li>No special tools required</li>
+<li>Chloramine-resistant elastomers</li>
+<li><strong>Designed, cast, machined, assembled and tested IN THE USA</strong></li>
+</ul>
+<p><strong>Approvals</strong></p>
+<ul>
+<li>Horizontal and Vertical Up Approvals</li>
+<li>AWWA C510</li>
+<li>Approved by the Foundation for CrossConnection Control and Hydraulic Research at the University of Southern California</li>
+<li>ASSE 1015-2011</li>
+<li>IAPMO</li>
+<li>CSA B.64.5</li>
+</ul>
+<p><strong>Performance Rating</strong></p>
+<ul>
+<li>Maximum Working Pressure: 175 psi</li>
+<li>Temperature Range: 33°F - 180°F</li>
+</ul>
+<p><strong>Material Specifications</strong></p>
+<ul>
+<li>
+<strong>Body, Caps, Ball Valve Shutoffs, Test cocks:<span> </span></strong><em>Bronze C84400</em>
+</li>
+<li>
+<strong>Check Valve Cartridges:<span> </span></strong><em>Glass-Filled PPO</em>
+</li>
+<li>
+<strong>Springs:</strong><span> </span><em>300 Series Stainless Steel</em>
+</li>
+<li>
+<strong>Seat Discs:</strong><span> </span><em>Chloramine-resistant Silicone</em>
+</li>
+<li>
+<strong>O-rings:</strong><span> </span><em>Chloramine-resistant EPDM</em>
+</li>
+</ul>
+<h4><strong>﻿Downloads</strong></h4>
+<ul>
+<li><span style="text-decoration: underline;">﻿<a href="http://cdn.conbraco.com/apollovalves/products/documents/DC4A_DCLF4A_SS1380.pdf" target="_blank">Specification<span> </span>Sheet</a></span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Apollo</s:tag>
+    <s:tag>CATEGORY_Backflow Preventers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452210712676</id>
+      <title>Default Title</title>
+      <s:price currency="USD">410.14</s:price>
+      <s:sku>4A107A2F</s:sku>
+      <s:grams>8618</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452210581604</id>
+    <published>2019-01-19T00:18:31-05:00</published>
+    <updated>2019-01-19T00:18:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/apollo-4a-105-a2f-1-in-dca-backflow-preventer"/>
+    <title>Apollo - 4A-105-A2F - 1&apos;&apos; DCA Backflow Preventer</title>
+    <s:type>Backflow Preventers</s:type>
+    <s:vendor>Apollo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-123__27789.1516302920.1280.1280.jpg?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Apollo<br>
+        <strong>Type: </strong>Backflow Preventers<br>
+        <strong>Price: </strong>
+            161.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1'' Non-Lead Free, Standard Y-Strainer w/ Ball Valves (Standard) &amp; SAE Threaded Test Cocks</p>
+<p>The Apollo Model DC4A Double Check Valves prevent contamination of the potable water supply due to back-siphonage or backpressure from substances that are objectionable to the potable water supply, but non-health hazards. The top accessed modular check valve cartridges provide captured springs, replaceable seats and reversible silicone seat discs. This Made in America assembly features Apollo ball valves with stainless steel handles and nuts as standard and carries the five-year Apollo factory warranty.</p>
+<p><strong>Features / Benefits</strong></p>
+<ul>
+<li>Low pressure loss documented by independent approval agencies</li>
+<li>Easily removable modular check valve cartridge</li>
+<li>Captured stainless steel springs</li>
+<li>Apollo ball valves w/ SS handles &amp; nuts standard</li>
+<li>Top-mounted test cocks for easy testing</li>
+<li>No special tools required</li>
+<li>Chloramine-resistant elastomers</li>
+<li><strong>Designed, cast, machined, assembled and tested IN THE USA</strong></li>
+</ul>
+<p><strong>Approvals</strong></p>
+<ul>
+<li>Horizontal and Vertical Up Approvals</li>
+<li>AWWA C510</li>
+<li>Approved by the Foundation for CrossConnection Control and Hydraulic Research at the University of Southern California</li>
+<li>ASSE 1015-2011</li>
+<li>IAPMO</li>
+<li>CSA B.64.5</li>
+</ul>
+<p><strong>Performance Rating</strong></p>
+<ul>
+<li>Maximum Working Pressure: 175 psi</li>
+<li>Temperature Range: 33°F - 180°F</li>
+</ul>
+<p><strong>Material Specifications</strong></p>
+<ul>
+<li>
+<strong>Body, Caps, Ball Valve Shutoffs, Test cocks:<span> </span></strong><em>Bronze C84400</em>
+</li>
+<li>
+<strong>Check Valve Cartridges:<span> </span></strong><em>Glass-Filled PPO</em>
+</li>
+<li>
+<strong>Springs:</strong><span> </span><em>300 Series Stainless Steel</em>
+</li>
+<li>
+<strong>Seat Discs:</strong><span> </span><em>Chloramine-resistant Silicone</em>
+</li>
+<li>
+<strong>O-rings:</strong><span> </span><em>Chloramine-resistant EPDM</em>
+</li>
+</ul>
+<h4><strong>﻿Downloads</strong></h4>
+<ul>
+<li><span style="text-decoration: underline;">﻿<a href="http://cdn.conbraco.com/apollovalves/products/documents/DC4A_DCLF4A_SS1380.pdf" target="_blank">Specification<span> </span>Sheet</a></span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Apollo</s:tag>
+    <s:tag>CATEGORY_Backflow Preventers</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$90+</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452210581604</id>
+      <title>Default Title</title>
+      <s:price currency="USD">161.93</s:price>
+      <s:sku>4A105A2F</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+</feed>

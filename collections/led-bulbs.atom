@@ -1,0 +1,1849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/led-bulbs.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2020-04-01T13:17:27-04:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4709260329062</id>
+    <published>2020-04-01T13:17:27-04:00</published>
+    <updated>2020-04-01T13:17:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-t3-g4-bipin-2700k-lamp-18206"/>
+    <title>Kichler - T3/G4 BIPIN 2700K Lamp - 18206</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/18206.jpg?v=1592938473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This wet location T3/G4 Bi-Pin 12V LED lamp compares up to the 20W Halogen. Featuring a 2700K warm white temperature, this lamp puts forth a 300-degree beam spread angle.</span></p>
+<h4 class="PrDescTitle">Product Description</h4>
+<ul>
+<li>Color Temperature: 2700</li>
+<li>Beam Angle: 300 Degrees</li>
+<li>Lumens: 200</li>
+<li>CRI: 80</li>
+<li>Rated Life: 30000 Hours</li>
+</ul>
+<ul></ul>
+<table class="table product-spec">
+<tbody>
+<tr>
+<th scope="rowgroup" colspan="2">Electrical</th>
+</tr>
+<tr>
+<th scope="row">Operating Voltage Range</th>
+<td>9-15 VAC</td>
+</tr>
+<tr>
+<th scope="row">Voltage</th>
+<td>12V</td>
+</tr>
+<tr>
+<th scope="rowgroup" colspan="2">Photometrics</th>
+</tr>
+<tr>
+<th scope="row">Beam Angle Options</th>
+<td>300 Omni</td>
+</tr>
+<tr>
+<th scope="row">Color Rendering Index</th>
+<td>80</td>
+</tr>
+<tr>
+<th scope="row">Delivered Efficacy (Lumens/Watt)</th>
+<td>93</td>
+</tr>
+<tr>
+<th scope="row">Delivered Lumens</th>
+<td>215</td>
+</tr>
+<tr>
+<th scope="row">Kelvin Temperature</th>
+<td>2700K</td>
+</tr>
+<tr>
+<th scope="rowgroup" colspan="2">Primary Lamping</th>
+</tr>
+<tr>
+<th scope="row">Equivalent Light Source</th>
+<td>Halogen</td>
+</tr>
+<tr>
+<th scope="row">Expected Life Span</th>
+<td>30000</td>
+</tr>
+<tr>
+<th scope="row">Lamp Included</th>
+<td>Integrated</td>
+</tr>
+<tr>
+<th scope="row">Max or Nominal Watt</th>
+<td>2.30</td>
+</tr>
+<tr>
+<th scope="row"># of Bulbs/LED Modules</th>
+<td>1</td>
+</tr>
+<tr>
+<th scope="row">Volt-Amperes (VA)</th>
+<td>3.18</td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<p style="background-color: transparent; color: #4f4f4f; font-family: proxima-nova; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: 1px; margin-bottom: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; word-wrap: break-word;"> </p>
+<p><strong>Downloads:</strong></p>
+<p><a href="https://www.kichler.com/products/spec-sheet?sku=18206" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Spec Sheet</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4709260329062</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.95</s:price>
+      <s:sku>18206</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4264643985510</id>
+    <published>2019-10-16T11:39:33-04:00</published>
+    <updated>2019-10-16T11:39:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/brilliance-beacon-t5-wedge-2700k-lamp"/>
+    <title>Brilliance - Beacon T5 Wedge 2700K Lamp</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Brilliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/Beacon_T5.jpg?v=1571715674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brilliance<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            21.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>BEACON T5 WEDGE</h1>
+<p><strong>DESCRIPTION:</strong></p>
+<p>The Brilliance LED Beacon T5 Wedge is a sub-compact LED that utilizes the Epistar chipset and features Brilliance LEDs multi-directional beam pattern.  This T5 is energy efficient and water resistant, designed specifically for landscape retrofit application, and ideal for pathway lighting fixtures and step lights.  </p>
+<p><strong>FEATURES:<br></strong></p>
+<ul>
+<li>Ceramic technology</li>
+<li>Dimmable with most magnetic transformers</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td> <span>Wattage</span>
+</td>
+<td><strong>2<br></strong></td>
+</tr>
+<tr>
+<td><span>Lumens</span></td>
+<td><strong>200</strong></td>
+</tr>
+<tr>
+<td><span>Beam Spread</span></td>
+<td><strong>Omni-directional<br></strong></td>
+</tr>
+<tr>
+<td><span>Kelvin Temperature</span></td>
+<td><strong>2700</strong></td>
+</tr>
+<tr>
+<td><span>Operating Range</span></td>
+<td><strong>8-25 VAC</strong></td>
+</tr>
+<tr>
+<td><span>Replaces</span></td>
+<td><strong>20W Halogen</strong></td>
+</tr>
+<tr>
+<td><span>CRI</span></td>
+<td><strong>84</strong></td>
+</tr>
+<tr>
+<td><span>IP</span></td>
+<td><strong>65</strong></td>
+</tr>
+<tr>
+<td><span>Chipset</span></td>
+<td><strong>Epistar</strong></td>
+</tr>
+<tr>
+<td><span>Lamp Life (hours)</span></td>
+<td><strong>35,000<br></strong></td>
+</tr>
+<tr>
+<td><span>Warranty (years)</span></td>
+<td><strong>5</strong></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h3>Downloads</h3>
+<ul>
+<li><a href="https://www.brillianceled.com/s/Beacon-T5-2019-Cut-Sheet.pdf" target="_blank"><span style="text-decoration: underline;">Specification Sheet</span></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Brilliance</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4264643985510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.98</s:price>
+      <s:sku>BRI-BEACON-T5-2700</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4165737775206</id>
+    <published>2019-09-27T16:02:34-04:00</published>
+    <updated>2019-09-27T16:02:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/brilliance-beacon-s8-wedge-2700-lamp"/>
+    <title>Brilliance - Beacon S8 Wedge 2700K Lamp</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Brilliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/Beacon_S8.jpg?v=1571715673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brilliance<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            13.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="block-1abbb13e23fe1be73129" data-block-type="2" class="sqs-block html-block sqs-block-html">
+<div class="sqs-block-content">
+<h1>BEACON S8</h1>
+<p><strong>DESCRIPTION:<br><br></strong>The Brilliance LED Beacon S8 is a subcompact LED that utilizes the Epistar chipset and features Brilliance LEDs multi-directional beam pattern.  This S8 is energy efficient and water resistant, designed specifically for landscape retrofit application, and ideal for pathway lighting fixtures and step lights. </p>
+<p><strong>FEATURES:<br></strong></p>
+<ul>
+<li>Ceramic technology</li>
+<li>Dimmable with most magnetic transformers</li>
+</ul>
+</div>
+</div>
+<div class="row sqs-row">
+<div class="col sqs-col-2 span-2">
+<div id="block-yui_3_17_2_1_1545946400320_8949" data-block-type="2" class="sqs-block html-block sqs-block-html">
+<div class="sqs-block-content">
+<p>Wattage                        <strong>2</strong><br>Lumens                        <strong>200</strong><br>Beam Spread              <strong>Omni-directional</strong><br>Kelvin Temperature     <strong>2700K</strong><br>Operating Range        <strong>8-25 VAC</strong><br>Replaces                    <strong>20W Halogen</strong><br>CRI                             <strong>84</strong><br>IP                                <strong>65</strong><br>Chipset                       <strong>Epistar</strong><br>Lamp Life (hours)       <strong>35,000</strong></p>
+<p><strong>Downloads</strong></p>
+<ul>
+<li>﻿<span style="text-decoration: underline;"><a href="https://static1.squarespace.com/static/556f52cae4b0f794a39f7ebf/t/5ca7832dee6eb079ebb45b7e/1554481965186/Beacon+S8+2019+Cut+Sheet.pdf" target="_blank">Spec Sheet</a></span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col sqs-col-4 span-4">
+<div id="block-yui_3_17_2_1_1545946400320_10270" data-block-type="2" class="sqs-block html-block sqs-block-html">
+<div class="sqs-block-content"></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Brilliance</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4165737775206</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.62</s:price>
+      <s:sku>BRI-BEACON-S8-2700</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2982116458596</id>
+    <published>2019-03-06T13:27:46-05:00</published>
+    <updated>2019-03-06T13:27:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-2700k-led-mr16-7w-60-degree-18148"/>
+    <title>Kichler - MR16-7W-2700K-60 - 7 Watt 60 Degree LED Lamp - 18148</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/18148.jpg?v=1592940615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            45.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This high power, damp location MR16 Bi-Pin 12V LED lamp compares to the 50W Halogen. Featuring a 2700K warm white temperature, this lamp puts forth a 60-degree wide flood beam spread angle.</span></p>
+<h4><strong>Features:</strong></h4>
+<ul>
+<li>Constructed of durable aluminum for years of reliable performance</li>
+<li>Pack of 1 bulb</li>
+<li>UL listed for installation and use in damp locations</li>
+</ul>
+<h4><strong>Dimensions:</strong></h4>
+<ul>
+<li>Height: 1.75"</li>
+<li>Width: 2" (measured from furthest point left to furthest point right on fixture)</li>
+<li>Depth: 2"</li>
+<li>Product Weight: 0.15 lbs</li>
+</ul>
+<h4><strong>Electrical Specifications:</strong></h4>
+<ul>
+<li>Voltage: 12</li>
+<li>Color Rendering Index (CRI): 80</li>
+<li>Color Temperature: 2700K</li>
+<li>Average Hours: 30000</li>
+<li>Lumens: 600</li>
+</ul>
+<h4>Documents</h4>
+<p><a href="https://www.kichler.com/products/spec-sheet?sku=18148" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;">Spec Sheet</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2982116458596</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.95</s:price>
+      <s:sku>18148</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2981579948132</id>
+    <published>2019-03-06T11:32:03-05:00</published>
+    <updated>2019-03-06T11:32:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-2700k-led-mr16-5w-40-degree-18138"/>
+    <title>Kichler - MR16-5W-2700K-40 - 5 Watt 40 Degree LED - 18138</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/18138.jpg?v=1592941130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            35.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This high power, damp location MR16 Bi-Pin 12V LED lamp compares to the 35-40W Halogen. Featuring a 2700K warm white temperature, this lamp puts forth a 40-degree flood beam spread angle.</span></p>
+<h4><strong>Features:</strong></h4>
+<ul>
+<li>Epoxy potted electronics protect against moisture and seal critical components from the elements</li>
+<li>Cast aluminum heat sink, anodized black, for increased thermal management</li>
+<li>Generates consistent light output for systems with an operating voltage range from 9V to 15V with no loss in light output because of constant current driver designs</li>
+<li>Designed and listed for outdoor use in enclosed fixtures or wet locations</li>
+<li>Integrated, high output Cree® LEDS tightly binned for high CRI, color uniformity and color quality</li>
+<li>30,000 hour life in an enclosed fixture</li>
+<li>FCC compliance ensures no interference with other electronic devices</li>
+</ul>
+<h4><strong>Specifications:</strong></h4>
+<ul>
+<li>For 12v fixtures only</li>
+<li>LED light source</li>
+<li>Designed for use in Bi-Pin sockets</li>
+<li>5 watts</li>
+<li>30,000 hour average life</li>
+<li>MR16 shape</li>
+<li>40° beam spread</li>
+<li>80 CRI (Color Rendering Index)</li>
+<li>2700K color temperature (Warm White)</li>
+<li>350 lumen output (Similar to a 35W Halogen)</li>
+</ul>
+<h4>Documents</h4>
+<p><a href="https://www.kichler.com/products/spec-sheet?sku=18138" target="_blank"><span style="text-decoration: underline;">Spec Sheet</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2981579948132</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.95</s:price>
+      <s:sku>18138</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452349321316</id>
+    <published>2019-01-19T00:26:27-05:00</published>
+    <updated>2019-01-19T00:26:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-t5-side-mount-led-2700k-120deg-18120"/>
+    <title>Kichler - T5-2W-2700K-120 2 Watt 120 Degree Side Mount LED Lamp - 18120</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-957__30853.1516302929.1280.1280.jpg?v=1571715622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>T5 Wedge side mount 120 degree replacement lamp, 2700K Warm White LED </p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Epoxy potted electronics protect against moisture and seal critical components from the elements</li>
+<li>Cast aluminum heat sink, anodized black, for increased thermal management</li>
+<li>Generates consistent light output for systems with an operating voltage range from 9V to 15V with no loss in light output because of constant current driver designs</li>
+<li>Designed and listed for outdoor use in enclosed fixtures or wet locations</li>
+<li>Integrated, high output Cree® LEDS tightly binned for high CRI, color uniformity and color quality</li>
+<li>30,000 hour life in an enclosed fixture</li>
+<li>FCC compliance ensures no interference with other electronic devices</li>
+</ul>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>For 12v fixtures only</li>
+<li>LED light source</li>
+<li>Designed for use in Wedge sockets</li>
+<li>2 watts</li>
+<li>30,000 hour average life</li>
+<li>T5 shape</li>
+<li>120° beam spread</li>
+<li>80 CRI (Color Rendering Index)</li>
+<li>2700K color temperature (Warm White)</li>
+<li>130 lumen output (Similar to a 16W Xenon)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452349321316</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>18120</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452338507876</id>
+    <published>2019-01-19T00:25:52-05:00</published>
+    <updated>2019-01-19T00:25:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-6w-ansi-par36-60-degree-2700k-bk-18180-black-painted"/>
+    <title>Kichler - PAR36-6W-2700K-60 - 6 Watt 60 Degree LED Lamp - 18180</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12576__09362.1516302933.1280.1280.jpg?v=1571715621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            76.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This wet location PAR36 12V LED lamp compares to the 35W Halogen. Featuring a 2700K warm white temperature, this lamp puts forth a 60-degree wide flood beam spread angle.</span></p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Constructed of durable aluminum for years of reliable performance</li>
+<li>UL listed for installation and use in wet locations</li>
+</ul>
+<p><strong>Dimensions:</strong></p>
+<ul>
+<li>Height: 2.25"</li>
+<li>Width: 4.5" (measured from furthest point left to furthest point right on fixture)</li>
+<li>Depth: 4.5"</li>
+<li>Product Weight: 0.8 lbs</li>
+</ul>
+<p><strong>Electrical Specifications:</strong></p>
+<ul>
+<li>Wattage: 6</li>
+<li>Voltage: 12</li>
+<li>Color Rendering Index (CRI): 80</li>
+<li>Color Temperature: 2700K</li>
+<li>Average Hours: 30000</li>
+<li>Lumens: 400</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$40-60</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452338507876</id>
+      <title>Default Title</title>
+      <s:price currency="USD">76.95</s:price>
+      <s:sku>18180</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452335231076</id>
+    <published>2019-01-19T00:25:40-05:00</published>
+    <updated>2019-01-19T00:25:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-2700k-60-degree-led-mr16-20w-equivalent-18132"/>
+    <title>Kichler - MR16-4W-2700K-60 - 4 Watt 60 Degree LED Lamp - 18132</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1105__43773.1516302930.1280.1280.jpg?v=1571715621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This medium power MR16 Bi-Pin 12 V LED lamp compares to the 20-25 Watt Halogen. Featuring a 2700K Warm White Kelvin Temperature, this lamp puts forth a 60 degree Wide Flood beam spread angle.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Epoxy potted electronics protect against moisture and seal critical components from the elements</li>
+<li>Cast aluminum heat sink, anodized black, for increased thermal management</li>
+<li>Generates consistent light output for systems with an operating voltage range from 9V to 15V with no loss in light output because of constant current driver designs</li>
+<li>Designed and listed for outdoor use in enclosed fixtures or wet locations</li>
+<li>Integrated, high output Cree® LEDS tightly binned for high CRI, color uniformity and color quality</li>
+<li>30,000 hour life in an enclosed fixture</li>
+<li>FCC compliance ensures no interference with other electronic devices</li>
+</ul>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>For 12v fixtures only</li>
+<li>LED light source</li>
+<li>Designed for use in Bi-Pin sockets</li>
+<li>4 watts</li>
+<li>30,000 hour average life</li>
+<li>MR16 shape</li>
+<li>60° beam spread</li>
+<li>80 CRI (Color Rendering Index)</li>
+<li>2700K color temperature (Warm White)</li>
+<li>240 lumen output (Similar to a 20W Halogen)</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452335231076</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>18132</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452334379108</id>
+    <published>2019-01-19T00:25:37-05:00</published>
+    <updated>2019-01-19T00:25:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-2700k-40-degree-led-mr16-20w-equivalent-18130"/>
+    <title>Kichler - MR16-4W-2700K-40 - 4 Watt 40 Degree LED Lamp - 18130</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12582__87154.1516302933.1280.1280.jpg?v=1571715621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This medium power MR16 Bi-Pin 12 V LED lamp compares to the 20-25 Watt Halogen. Featuring a 2700K Warm White Kelvin Temperature, this lamp puts forth a 40 degree Flood beam spread angle.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Epoxy potted electronics protect against moisture and seal critical components from the elements</li>
+<li>Cast aluminum heat sink, anodized black, for increased thermal management</li>
+<li>Generates consistent light output for systems with an operating voltage range from 9V to 15V with no loss in light output because of constant current driver designs</li>
+<li>Designed and listed for outdoor use in enclosed fixtures or wet locations</li>
+<li>Integrated, high output Cree® LEDS tightly binned for high CRI, color uniformity and color quality</li>
+<li>30,000 hour life in an enclosed fixture</li>
+<li>FCC compliance ensures no interference with other electronic devices</li>
+</ul>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>For 12v fixtures only</li>
+<li>LED light source</li>
+<li>Designed for use in Bi-Pin sockets</li>
+<li>4 watts</li>
+<li>30,000 hour average life</li>
+<li>MR16 shape</li>
+<li>40° beam spread</li>
+<li>80 CRI (Color Rendering Index)</li>
+<li>2700K color temperature (Warm White)</li>
+<li>240 lumen output (Similar to a 20W Halogen)</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452334379108</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>18130</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452333232228</id>
+    <published>2019-01-19T00:25:33-05:00</published>
+    <updated>2019-01-19T00:25:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-2700k-25-degree-led-mr16-20w-equivalent"/>
+    <title>Kichler - MR16-4W-2700K-25 - 4 Watt 25 Degree LED Lamp - 18128</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/18128.jpg?v=1592939850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="float: none; background-color: transparent; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 14.4px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; display: inline !important;"> This medium power MR16 Bi-Pin 12 V LED lamp compares to the 20-25 Watt Halogen. Featuring a 2700K Warm White Kelvin Temperature, this lamp puts forth a 25 degree Wide Spot beam spread angle.</span></p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Epoxy potted electronics protect against moisture and seal critical components from the elements</li>
+<li>Cast aluminum heat sink, anodized black, for increased thermal management</li>
+<li>Generates consistent light output for systems with an operating voltage range from 9V to 15V with no loss in light output because of constant current driver designs</li>
+<li>Designed and listed for outdoor use in enclosed fixtures or wet locations</li>
+<li>Integrated, high output Cree® LEDS tightly binned for high CRI, color uniformity and color quality</li>
+<li>30,000 hour life in an enclosed fixture</li>
+<li>FCC compliance ensures no interference with other electronic devices</li>
+</ul>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>For 12v fixtures only</li>
+<li>LED light source</li>
+<li>Designed for use in Bi-Pin sockets</li>
+<li>4 watts</li>
+<li>30,000 hour average life</li>
+<li>MR16 shape</li>
+<li>25° beam spread</li>
+<li>80 CRI (Color Rendering Index)</li>
+<li>2700K color temperature (Warm White)</li>
+<li>240 lumen output (Similar to a 20W Halogen)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452333232228</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>18128</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452332249188</id>
+    <published>2019-01-19T00:25:29-05:00</published>
+    <updated>2019-01-19T00:25:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-2700k-15-degree-led-mr16-20w-equivalent-18126"/>
+    <title>Kichler - MR16-4W-2700K-15 - 4 Watt 15 Degree LED Lamp - 18126</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-958__91870.1516302929.1280.1280.jpg?v=1571715620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This medium power MR16 Bi-Pin 12 V LED lamp compares to the 20-25 Watt Halogen. Featuring a 2700K Warm White Kelvin Temperature, this lamp puts forth a 15 degree Spot beam spread angle.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Epoxy potted electronics protect against moisture and seal critical components from the elements</li>
+<li>Cast aluminum heat sink, anodized black, for increased thermal management</li>
+<li>Generates consistent light output for systems with an operating voltage range from 9V to 15V with no loss in light output because of constant current driver designs</li>
+<li>Designed and listed for outdoor use in enclosed fixtures or wet locations</li>
+<li>Integrated, high output Cree® LEDS tightly binned for high CRI, color uniformity and color quality</li>
+<li>30,000 hour life in an enclosed fixture</li>
+<li>FCC compliance ensures no interference with other electronic devices</li>
+</ul>
+<p><strong>Specifications:</strong></p>
+<ul>
+<li>For 12v fixtures only</li>
+<li>LED light source</li>
+<li>Designed for use in Bi-Pin sockets</li>
+<li>4 watts</li>
+<li>30,000 hour average life</li>
+<li>MR16 shape</li>
+<li>15° beam spread</li>
+<li>80 CRI (Color Rendering Index)</li>
+<li>2700K color temperature (Warm White)</li>
+<li>240 lumen output (Similar to a 20W Halogen)</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452332249188</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>18126</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452321337444</id>
+    <published>2019-01-19T00:24:52-05:00</published>
+    <updated>2019-01-19T00:24:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-10w-ansi-par36-60-degree-3000k-bk-18189-black-painted"/>
+    <title>Kichler - PAR36-10W-3000K-60 - 10 Watt 60 Degree LED Lamp - 18189</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12876__80877.1516302934.1280.1280.jpg?v=1571715619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            88.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This wet location PAR36 12V LED lamp compares to the 50W Halogen. Featuring a 3000K pure white temperature, this lamp puts forth a 60-degree wide flood beam spread angle.</span></p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Constructed of durable aluminum for years of reliable performance</li>
+<li>Pack of 1 bulb</li>
+<li>UL listed for installation and use in wet locations</li>
+</ul>
+<p><strong>Dimensions:</strong></p>
+<ul>
+<li>Height: 2.25"</li>
+<li>Width: 4.5" (measured from furthest point left to furthest point right on fixture)</li>
+<li>Depth: 4.5"</li>
+<li>Product Weight: 0.8 lbs</li>
+</ul>
+<p><strong>Electrical Specifications:</strong></p>
+<ul>
+<li>Wattage: 10</li>
+<li>Voltage: 12</li>
+<li>Color Rendering Index (CRI): 80</li>
+<li>Color Temperature: 2700K</li>
+<li>Average Hours: 30000</li>
+<li>Lumens: 690</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452321337444</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.95</s:price>
+      <s:sku>18189</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452321173604</id>
+    <published>2019-01-19T00:24:51-05:00</published>
+    <updated>2019-01-19T00:24:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/kichler-10w-ansi-par36-60-degree-2700k-bk-18188-black-painted"/>
+    <title>Kichler - PAR36-10W-2700K-60 - 10 Watt 60 Degree LED Lamp - 18188</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Kichler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12577__96086.1516302933.1280.1280.jpg?v=1571715619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kichler<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            88.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This wet location PAR36 12V LED lamp compares to the 50W Halogen. Featuring a 2700K warm white temperature, this lamp puts forth a 60-degree wide flood beam spread angle.</span></p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Constructed of durable aluminum for years of reliable performance</li>
+<li>Pack of 1 bulb</li>
+<li>UL listed for installation and use in wet locations</li>
+</ul>
+<p><strong>Dimensions:</strong></p>
+<ul>
+<li>Height: 2.25"</li>
+<li>Width: 4.5" (measured from furthest point left to furthest point right on fixture)</li>
+<li>Depth: 4.5"</li>
+<li>Product Weight: 0.8 lbs</li>
+</ul>
+<p><strong>Electrical Specifications:</strong></p>
+<ul>
+<li>Wattage: 10</li>
+<li>Voltage: 12</li>
+<li>Color Rendering Index (CRI): 80</li>
+<li>Color Temperature: 2700K</li>
+<li>Average Hours: 30000</li>
+<li>Lumens: 690</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Kichler</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$60-90</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452321173604</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.95</s:price>
+      <s:sku>18188</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452217233508</id>
+    <published>2019-01-19T00:18:58-05:00</published>
+    <updated>2019-01-19T00:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/brilliance-mr16-5w-5700k-120-5-watt-120-degree-led"/>
+    <title>Brilliance - MR16-5W-5700K-120 - 5 Watt 120 Degree LED</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Brilliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/MR16_side_933e393b-e8a9-44eb-968f-9d39424dec4b.png?v=1571715613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brilliance<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="block-d8ba249197ee6653d376" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div class="sqs-block-content">
+<h3>MR-16</h3>
+<p class=""><strong>DESCRIPTION:</strong></p>
+<p class="">The Brilliance LED MR16 LED lamp has been redesigned to better fit into standard, low voltage, MR16 fixtures. These LEDs are thermally engineered to operate in enclosed fixtures and provides added security by automatically cooling down (and reducing lumens output) only when exposed to extreme heat (air temperatures above <span data-mce-fragment="1">125◦F)</span>. In addition, there is no color shift when lumens output is reduced, and the overall lamp life is improved. </p>
+<p class=""><strong>FEATURES:<br>¢ </strong>Gen 5 earth tone colored housing<br><strong>¢ </strong>Dimmable with most magnetic transformers<br><strong>¢ </strong>Enhanced ESD (Electro-Static Discharge) protection (IEC-61000-4-2)<br><strong>¢ </strong>Heat overload protection technology<br><strong>¢ </strong>Fully potted PC board<br><strong>¢ </strong>UL &amp; FCC compliant</p>
+<ul></ul>
+<p><strong>SPECIFICATIONS:</strong></p>
+<ul>
+<li>
+<strong>Wattage</strong>: 5</li>
+<li>
+<strong>Beam Spread</strong>: 120º</li>
+<li>
+<strong>Kelvin Temperature</strong>: 5700K</li>
+<li>
+<strong>Operating Range</strong>: 8-25V AC</li>
+<li>
+<strong>Replaces</strong>: 20/35/50W Halogen</li>
+<li>
+<strong>CRI</strong>: 85</li>
+<li>
+<strong>IP:</strong> 61</li>
+<li>
+<strong>Chipset</strong>: CREE</li>
+<li>
+<strong>Lamp Life (hours)</strong>: 50,000</li>
+<li>
+<strong>Warranty (years)</strong>: 5</li>
+</ul>
+<p><strong>Downloads:</strong></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR16-2019-Cut-Sheet.pdf" target="_blank">Cut Sheet</a></span></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR-16_photometrics.pdf" target="_blank">Candle Power</a></span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Brilliance</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452217233508</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>MR16-5-5700-120</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452216971364</id>
+    <published>2019-01-19T00:18:58-05:00</published>
+    <updated>2019-01-19T00:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/brilliance-mr16-5w-3000k-30-5-watt-30-degree-led"/>
+    <title>Brilliance - MR16-5W-3000K-30 - 5 Watt 30 Degree LED</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Brilliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/MR16-3_062bf6be-2008-4dc5-bd0e-145e1848c698.png?v=1571715613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brilliance<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="block-d8ba249197ee6653d376" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div class="sqs-block-content">
+<h3>MR-16</h3>
+<p class=""><strong>DESCRIPTION:</strong></p>
+<p class="">The Brilliance LED MR16 LED lamp has been redesigned to better fit into standard, low voltage, MR16 fixtures. These LEDs are thermally engineered to operate in enclosed fixtures and provides added security by automatically cooling down (and reducing lumens output) only when exposed to extreme heat (air temperatures above <span data-mce-fragment="1">125◦F)</span>. In addition, there is no color shift when lumens output is reduced, and the overall lamp life is improved. </p>
+<p class=""><strong>FEATURES:<br>¢ </strong>Gen 5 earth tone colored housing<br><strong>¢ </strong>Dimmable with most magnetic transformers<br><strong>¢ </strong>Enhanced ESD (Electro-Static Discharge) protection (IEC-61000-4-2)<br><strong>¢ </strong>Heat overload protection technology<br><strong>¢ </strong>Fully potted PC board<br><strong>¢ </strong>UL &amp; FCC compliant</p>
+<ul></ul>
+<p><strong>SPECIFICATIONS:</strong></p>
+<ul>
+<li>
+<strong>Wattage</strong>: 5</li>
+<li>
+<strong>Beam Spread</strong>: 30º</li>
+<li>
+<strong>Kelvin Temperature</strong>: 3000K</li>
+<li>
+<strong>Operating Range</strong>: 8-25V AC</li>
+<li>
+<strong>Replaces</strong>: 20/35/50W Halogen</li>
+<li>
+<strong>CRI</strong>: 85</li>
+<li>
+<strong>IP:</strong> 61</li>
+<li>
+<strong>Chipset</strong>: CREE</li>
+<li>
+<strong>Lamp Life (hours)</strong>: 50,000</li>
+<li>
+<strong>Warranty (years)</strong>: 5</li>
+</ul>
+<p><strong>Downloads:</strong></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR16-2019-Cut-Sheet.pdf" target="_blank">Cut Sheet</a></span></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR-16_photometrics.pdf" target="_blank">Candle Power</a></span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Brilliance</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452216971364</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>MR16-5-3000-30</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452216840292</id>
+    <published>2019-01-19T00:18:57-05:00</published>
+    <updated>2019-01-19T00:18:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/brilliance-mr16-5w-2700k-60-5-watt-60-degree-led"/>
+    <title>Brilliance - MR16-5W-2700K-60 - 5 Watt 60 Degree LED</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Brilliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/MR16-3_d61d309a-ab52-4f98-aee9-87a9df189a78.png?v=1571715613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brilliance<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            21.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="block-d8ba249197ee6653d376" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div class="sqs-block-content">
+<h3><strong>MR-16</strong></h3>
+<p class=""><strong>DESCRIPTION:</strong></p>
+<p class="">The Brilliance LED MR16 LED lamp has been redesigned to better fit into standard, low voltage, MR16 fixtures. These LEDs are thermally engineered to operate in enclosed fixtures and provides added security by automatically cooling down (and reducing lumens output) only when exposed to extreme heat (air temperatures above <span data-mce-fragment="1">125◦F)</span>. In addition, there is no color shift when lumens output is reduced, and the overall lamp life is improved. </p>
+<p class=""><strong>FEATURES:<br>¢ </strong>Gen 5 earth tone colored housing<br><strong>¢ </strong>Dimmable with most magnetic transformers<br><strong>¢ </strong>Enhanced ESD (Electro-Static Discharge) protection (IEC-61000-4-2)<br><strong>¢ </strong>Heat overload protection technology<br><strong>¢ </strong>Fully potted PC board<br><strong>¢ </strong>UL &amp; FCC compliant</p>
+<ul></ul>
+<h4><strong>SPECIFICATIONS:</strong></h4>
+<ul>
+<li>
+<strong>Wattage</strong>: 5</li>
+<li>
+<strong>Beam Spread</strong>: 60º</li>
+<li>
+<strong>Kelvin Temperature</strong>: 2700K</li>
+<li>
+<strong>Operating Range</strong>: 8-25V AC</li>
+<li>
+<strong>Replaces</strong>: 20/35/50W Halogen</li>
+<li>
+<strong>CRI</strong>: 85</li>
+<li>
+<strong>IP:</strong> 61</li>
+<li>
+<strong>Chipset</strong>: CREE</li>
+<li>
+<strong>Lamp Life (hours)</strong>: 50,000</li>
+<li>
+<strong>Warranty (years)</strong>: 5</li>
+</ul>
+<p><strong>Product Downloads:</strong></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR16-2019-Cut-Sheet.pdf" target="_blank">Cut Sheet</a></span></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR-16_photometrics.pdf" target="_blank">Candle Power</a></span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Brilliance</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452216840292</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.49</s:price>
+      <s:sku>MR16-5-2700-60</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452216610916</id>
+    <published>2019-01-19T00:18:56-05:00</published>
+    <updated>2019-01-19T00:18:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/brilliance-mr16-5w-2700k-30-5-watt-30-degree-led"/>
+    <title>Brilliance - MR16-5W-2700K-30 - 5 Watt 30 Degree LED</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Brilliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/MR16-3_1cb4a2c3-41e0-419e-a4d9-4842a808da6a.png?v=1571715613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brilliance<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="block-d8ba249197ee6653d376" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div class="sqs-block-content">
+<h3>MR-16</h3>
+<p class=""><strong>DESCRIPTION:</strong></p>
+<p class="">The Brilliance LED MR16 LED lamp has been redesigned to better fit into standard, low voltage, MR16 fixtures. These LEDs are thermally engineered to operate in enclosed fixtures and provides added security by automatically cooling down (and reducing lumens output) only when exposed to extreme heat (air temperatures above <span data-mce-fragment="1">125◦F)</span>. In addition, there is no color shift when lumens output is reduced, and the overall lamp life is improved. </p>
+<p class=""><strong>FEATURES:<br>¢ </strong>Gen 5 earth tone colored housing<br><strong>¢ </strong>Dimmable with most magnetic transformers<br><strong>¢ </strong>Enhanced ESD (Electro-Static Discharge) protection (IEC-61000-4-2)<br><strong>¢ </strong>Heat overload protection technology<br><strong>¢ </strong>Fully potted PC board<br><strong>¢ </strong>UL &amp; FCC compliant</p>
+<ul></ul>
+<h4><strong>SPECIFICATIONS:</strong></h4>
+<ul>
+<li>
+<strong>Wattage</strong>: 5</li>
+<li>
+<strong>Beam Spread</strong>: 30º</li>
+<li>
+<strong>Kelvin Temperature</strong>: 2700K</li>
+<li>
+<strong>Operating Range</strong>: 8-25V AC</li>
+<li>
+<strong>Replaces</strong>: 20/35/50W Halogen</li>
+<li>
+<strong>CRI</strong>: 85</li>
+<li>
+<strong>IP</strong>: 61</li>
+<li>
+<strong>Chipset</strong>: CREE</li>
+<li>
+<strong>Lamp Life (hours)</strong>: 50,000</li>
+<li>
+<strong>Warranty (years)</strong>: 5</li>
+</ul>
+<p><strong>Product Downloads:</strong></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR16-2019-Cut-Sheet.pdf" target="_blank">Cut Sheet</a></span></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR-16_photometrics.pdf" target="_blank">Candle Power</a></span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Brilliance</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452216610916</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.95</s:price>
+      <s:sku>MR16-5-2700-30</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452216217700</id>
+    <published>2019-01-19T00:18:55-05:00</published>
+    <updated>2019-01-19T00:18:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/brilliance-mr16-4w-2700k-60-4-watt-60-degree-led"/>
+    <title>Brilliance - MR16-4W-2700K-60 - 4 Watt 60 Degree LED</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Brilliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/MR16-3_879588fe-f3f1-4f45-b7e7-1985f4fbd177.png?v=1571715613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brilliance<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            23.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="block-d8ba249197ee6653d376" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div class="sqs-block-content">
+<h3>MR-16</h3>
+<p class=""><strong>DESCRIPTION:</strong></p>
+<p class="">The Brilliance LED MR16 LED lamp has been redesigned to better fit into standard, low voltage, MR16 fixtures. These LEDs are thermally engineered to operate in enclosed fixtures and provides added security by automatically cooling down (and reducing lumens output) only when exposed to extreme heat (air temperatures above <span data-mce-fragment="1">125◦F)</span>. In addition, there is no color shift when lumens output is reduced, and the overall lamp life is improved. </p>
+<p class=""><strong>FEATURES:<br>¢ </strong>Gen 5 earth tone colored housing<br><strong>¢ </strong>Dimmable with most magnetic transformers<br><strong>¢ </strong>Enhanced ESD (Electro-Static Discharge) protection (IEC-61000-4-2)<br><strong>¢ </strong>Heat overload protection technology<br><strong>¢ </strong>Fully potted PC board<br><strong>¢ </strong>UL &amp; FCC compliant</p>
+<ul></ul>
+<h4><strong>SPECIFICATIONS:</strong></h4>
+<ul>
+<li>
+<strong>Wattage</strong>: 4</li>
+<li>
+<strong>Beam Spread</strong>: 60º</li>
+<li>
+<strong>Kelvin Temperature</strong>: 2700K</li>
+<li>
+<strong>Operating Range</strong>: 8-25V AC</li>
+<li>
+<strong>Replaces</strong>: 20/35/50W Halogen</li>
+<li>
+<strong>CRI</strong>: 85</li>
+<li>
+<strong>IP</strong>: 61</li>
+<li>
+<strong>Chipset</strong>: CREE</li>
+<li>
+<strong>Lamp Life (hours)</strong>: 50,000</li>
+<li>
+<strong>Warranty (years)</strong>: 5</li>
+</ul>
+<p><strong>﻿Product Downloads:</strong></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR16-2019-Cut-Sheet.pdf" target="_blank">Cut Sheet</a></span></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR-16_photometrics.pdf" target="_blank">Candle Power</a></span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Brilliance</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452216217700</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.98</s:price>
+      <s:sku>MR16-4-2700-60</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452216053860</id>
+    <published>2019-01-19T00:18:54-05:00</published>
+    <updated>2019-01-19T00:18:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/brilliance-mr16-4w-2700k-30-4-watt-30-degree-led"/>
+    <title>Brilliance - MR16-4W-2700K-30 - 4 Watt 30 Degree LED</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Brilliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/MR16-3_a8d839bf-e7c9-4e1b-8913-0d4903d9bc4a.png?v=1571715613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brilliance<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            23.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="block-d8ba249197ee6653d376" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div class="sqs-block-content">
+<h3>MR-16</h3>
+<p class=""><strong>DESCRIPTION:</strong></p>
+<p class="">The Brilliance LED MR16 LED lamp has been redesigned to better fit into standard, low voltage, MR16 fixtures. These LEDs are thermally engineered to operate in enclosed fixtures and provides added security by automatically cooling down (and reducing lumens output) only when exposed to extreme heat (air temperatures above <span data-mce-fragment="1">125◦F)</span>. In addition, there is no color shift when lumens output is reduced, and the overall lamp life is improved. </p>
+<p class=""><strong>FEATURES:<br>¢ </strong>Gen 5 earth tone colored housing<br><strong>¢ </strong>Dimmable with most magnetic transformers<br><strong>¢ </strong>Enhanced ESD (Electro-Static Discharge) protection (IEC-61000-4-2)<br><strong>¢ </strong>Heat overload protection technology<br><strong>¢ </strong>Fully potted PC board<br><strong>¢ </strong>UL &amp; FCC compliant</p>
+<ul></ul>
+<h4><strong>SPECIFICATIONS:</strong></h4>
+<ul>
+<li>
+<strong>Wattage</strong>: 4</li>
+<li>
+<strong>Beam Spread</strong>: 30º</li>
+<li>
+<strong>Kelvin Temperature</strong>: 2700K</li>
+<li>
+<strong>Operating Range</strong>: 8-25V AC</li>
+<li>
+<strong>Replaces</strong>: 20/35/50W Halogen</li>
+<li>
+<strong>CRI</strong>: 85</li>
+<li>
+<strong>IP</strong>: 61</li>
+<li>
+<strong>Chipset</strong>: CREE</li>
+<li>
+<strong>Lamp Life (hours)</strong>: 50,000</li>
+<li>
+<strong>Warranty (years)</strong>: 5</li>
+</ul>
+<p><strong>Product Downloads:</strong></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR16-2019-Cut-Sheet.pdf" target="_blank">Cut Sheet</a></span></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR-16_photometrics.pdf" target="_blank">Candle Power</a></span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Brilliance</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452216053860</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.98</s:price>
+      <s:sku>MR16-4-2700-30</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452215988324</id>
+    <published>2019-01-19T00:18:53-05:00</published>
+    <updated>2019-01-19T00:18:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/brilliance-mr16-4w-2700k-120-4-watt-120-degree-led"/>
+    <title>Brilliance - MR16-4W-2700K-120 - 4 Watt 120 Degree LED</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Brilliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/MR16-3.png?v=1571715613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brilliance<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            25.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="block-d8ba249197ee6653d376" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div class="sqs-block-content">
+<h3>MR-16</h3>
+<p class=""><strong>DESCRIPTION:</strong></p>
+<p class="">The Brilliance LED MR16 LED lamp has been redesigned to better fit into standard, low voltage, MR16 fixtures. These LEDs are thermally engineered to operate in enclosed fixtures and provides added security by automatically cooling down (and reducing lumens output) only when exposed to extreme heat (air temperatures above <span data-mce-fragment="1">125◦F)</span>. In addition, there is no color shift when lumens output is reduced, and the overall lamp life is improved. </p>
+<p class=""><strong>FEATURES:<br>¢ </strong>Gen 5 earth tone colored housing<br><strong>¢ </strong>Dimmable with most magnetic transformers<br><strong>¢ </strong>Enhanced ESD (Electro-Static Discharge) protection (IEC-61000-4-2)<br><strong>¢ </strong>Heat overload protection technology<br><strong>¢ </strong>Fully potted PC board<br><strong>¢ </strong>UL &amp; FCC compliant</p>
+<ul></ul>
+<h4><strong>SPECIFICATIONS:</strong></h4>
+<ul>
+<li>
+<strong>Wattage</strong>: 4</li>
+<li>
+<strong>Beam Spread</strong>: 120º</li>
+<li>
+<strong>Kelvin Temperature</strong>: 2700K</li>
+<li>
+<strong>Operating Range</strong>: 8-25V AC</li>
+<li>
+<strong>Replaces</strong>: 20/35/50W Halogen</li>
+<li>
+<strong>CRI</strong>: 85</li>
+<li>
+<strong>IP</strong>: 61</li>
+<li>
+<strong>Chipset</strong>: CREE</li>
+<li>
+<strong>Lamp Life (hours)</strong>: 50,000</li>
+<li>
+<strong>Warranty (years)</strong>: 5</li>
+</ul>
+<p><strong>Product Downloads:</strong></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR16-2019-Cut-Sheet.pdf" target="_blank">Cut Sheet</a></span></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR-16_photometrics.pdf" target="_blank">Candle Power</a></span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Brilliance</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452215988324</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.49</s:price>
+      <s:sku>MR16-4-2700-120</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452215595108</id>
+    <published>2019-01-19T00:18:52-05:00</published>
+    <updated>2019-01-19T00:18:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/brilliance-mr16-4-eco-5700k-30-4-watt-30-degree-ecostar-led"/>
+    <title>Brilliance - MR16-4-ECO-5700K-30 - 4 Watt 30 Degree EcoStar LED</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Brilliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-11738__08420.1516302988.1280.1280.jpg?v=1571715613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brilliance<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            17.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="col sqs-col-6 span-6">
+<div id="block-21fe549a7f8686dab0c1" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div class="sqs-block-content">
+<h3>MR-16 ECOSTAR</h3>
+<h4><strong>DESCRIPTION:</strong></h4>
+<p>The Brilliance LED MR-16 ECOSTAR, 4 watt, LED lamp is designed to fit into standard, low voltage fixtures.  Best suited for budget-conscious landscape lighting projects.</p>
+<h4><strong>FEATURES:</strong></h4>
+<ul>
+<li>Suitable for damp locations</li>
+<li>Suitable for totally enclosed luminaries</li>
+<li>Input electrical current: 330mA AC</li>
+<li>CE, ISO-9001 &amp; ROHS compliant</li>
+<li>Dimmable with most magnetic transformers</li>
+</ul>
+<h4><strong>SPECIFICATIONS:</strong></h4>
+<ul>
+<li>Wattage: 4</li>
+<li>Lumens: 265-300</li>
+<li>Beam Spread: 30º</li>
+<li>Kelvin Temperature: 5700</li>
+<li>Operating Range: 8-25V AC</li>
+<li>Replaces: 20W Halogen</li>
+<li>CRI: 77</li>
+<li>IP: 61</li>
+<li>Chipset: Epistar</li>
+<li>Lamp Life (hours): 30,000</li>
+<li>Warranty (years): 3</li>
+</ul>
+<p><strong>Product Downloads:</strong></p>
+<p><span style="text-decoration: underline;"><a href="http://www.brillianceled.com/s/CS_2017_mr16eco-j7he.pdf" target="_blank">Cut Sheet</a></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Brilliance</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452215595108</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.98</s:price>
+      <s:sku>MR16-4-ECO-5700-30</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452215464036</id>
+    <published>2019-01-19T00:18:51-05:00</published>
+    <updated>2019-01-19T00:18:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/brilliance-mr11-2w-2700k-60-2-watt-60-degree-led"/>
+    <title>Brilliance - MR11-2W-2700K-60 - 2 Watt 60 Degree LED</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Brilliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/MR11_2a709ef0-bd5d-4bff-80aa-00b91630fe50.png?v=1571715613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brilliance<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="col sqs-col-6 span-6">
+<div id="block-ad9db06f59759ed035fc" class="sqs-block html-block sqs-block-html" data-block-type="2">
+<div class="sqs-block-content">
+<h3>MR-11</h3>
+<p><strong>DESCRIPTION:</strong></p>
+<p>The Brilliance LED MR11 LED lamp has been redesigned to better fit into standard, low voltage, MR11 fixtures. These LEDs are thermally engineered to operate in enclosed fixtures and provide added security by automatically cooling down (and reducing lumens output) only when exposed to extreme heat (air temperatures above <span data-mce-fragment="1">125◦F)</span>. In addition, there is no color shift when lumens output is reduced, and the overall lamp life is improved. </p>
+<p><strong>FEATURES:</strong><strong><br>¢ </strong>Gen 5 earth tone colored housing<br><strong>¢ </strong>Max current: 2w, 0.4a<br><strong>¢ </strong>Dimmable with most magnetic transformers<br><strong>¢ </strong>Enhanced ESD (Electro-Static Discharge) protection (IEC-61000-4-2)<br><strong>¢ </strong>Heat overload protection technology<br><strong>¢ </strong>Fully potted PC board<br><strong>¢ </strong>UL &amp; FCC compliant</p>
+<ul></ul>
+<h4><strong>SPECIFICATIONS:</strong></h4>
+<ul>
+<li>
+<strong>Wattage</strong>: 2</li>
+<li>
+<strong>Lumens</strong>: 120</li>
+<li>
+<strong>Bean Spread</strong>: 60º</li>
+<li>
+<strong>Kelvin Temperature</strong>: 2700K</li>
+<li>
+<strong>Operating Range</strong>: 8-25V AC</li>
+<li>
+<strong>Replaces</strong>: 20W Halogen</li>
+<li>
+<strong>CRI</strong>: 85</li>
+<li>
+<strong>IP</strong>: 61</li>
+<li>
+<strong>Chipset</strong>: CREE</li>
+<li>
+<strong>Lamp Life (hours)</strong>: 50,000</li>
+<li>
+<strong>Warranty (years)</strong>: 5</li>
+</ul>
+<p> <strong>Product Downloads:</strong></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR11-2019-Cut-Sheet.pdf" target="_blank">Cut Sheet</a></span></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR-11_photometrics.pdf" target="_blank">Candle Power</a></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Brilliance</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452215464036</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>MR11-2-2700-60</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452215234660</id>
+    <published>2019-01-19T00:18:51-05:00</published>
+    <updated>2019-01-19T00:18:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/brilliance-mr11-2w-2700k-120-2-watt-120-degree-led"/>
+    <title>Brilliance - MR11-2W-2700K-120 - 2 Watt 120 Degree LED</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Brilliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/MR11.png?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brilliance<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="col sqs-col-6 span-6">
+<div data-block-type="2" class="sqs-block html-block sqs-block-html" id="block-ad9db06f59759ed035fc">
+<div class="sqs-block-content">
+<h3>MR-11</h3>
+<div id="block-ad9db06f59759ed035fc" data-block-type="2" class="sqs-block html-block sqs-block-html">
+<div class="sqs-block-content">
+<p><strong>DESCRIPTION:</strong></p>
+<p>The Brilliance LED MR11 LED lamp has been redesigned to better fit into standard, low voltage, MR11 fixtures. These LEDs are thermally engineered to operate in enclosed fixtures and provide added security by automatically cooling down (and reducing lumens output) only when exposed to extreme heat (air temperatures above <span data-mce-fragment="1">125◦F)</span>. In addition, there is no color shift when lumens output is reduced, and the overall lamp life is improved. </p>
+<p><strong>FEATURES:<br>¢ </strong>Gen 5 earth tone colored housing<br><strong>¢ </strong>Max current: 2w, 0.4a<br><strong>¢ </strong>Dimmable with most magnetic transformers<br><strong>¢ </strong>Enhanced ESD (Electro-Static Discharge) protection (IEC-61000-4-2)<br><strong>¢ </strong>Heat overload protection technology<br><strong>¢ </strong>Fully potted PC board<br><strong>¢ </strong>UL &amp; FCC compliant</p>
+</div>
+</div>
+<div class="row sqs-row">
+<div class="col sqs-col-4 span-4">
+<div id="block-yui_3_17_2_1_1545948958483_13463" data-block-type="2" class="sqs-block html-block sqs-block-html">
+<div class="sqs-block-content">
+<ul>
+<li>
+<strong>Wattage</strong>: 2</li>
+<li>
+<strong>Lumens</strong>: 120</li>
+<li><span><strong>Beam Spread</strong>: 120 Degree</span></li>
+<li><span><strong>Kelvin Temperature</strong>: 2700K</span></li>
+<li><span><strong>Operating Range</strong>: 8-25 VAC</span></li>
+<li><span><strong>Replaces</strong>: 20W Halogen</span></li>
+<li><span><strong>CRI</strong>: 85</span></li>
+<li><span><strong>IP</strong>: 61</span></li>
+<li><span><strong>Chipset</strong>: CREE</span></li>
+<li><span><strong>Lamp Life (hours)</strong>: 50,000</span></li>
+<li><span><strong>Warranty (years)</strong>: 5</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<ul></ul>
+<p> <strong>Product Downloads:</strong></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR11-2019-Cut-Sheet.pdf" target="_blank">Cut Sheet</a></span></p>
+<p><span style="text-decoration: underline;"><a href="https://www.brillianceled.com/s/MR-11_photometrics.pdf" target="_blank">Candle Power</a></span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Brilliance</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452215234660</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>MR11-2-2700-120</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452214874212</id>
+    <published>2019-01-19T00:18:50-05:00</published>
+    <updated>2019-01-19T00:18:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/brilliance-beacon-single-contact-bayonet-scb-2700"/>
+    <title>Brilliance - Beacon Single Contact Bayonet (SCB) 2700K Lamp</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Brilliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-11725__77955.1516302949.1280.1280.jpg?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brilliance<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>DESCRIPTION:</h4>
+<p>The Brilliance LED Beacon Single Contact Bayonet (SCB) is a subcompact LED that utilizes the Epistar chipset and also features Brilliance LED's multi-directional beam pattern.  This SCB is energy efficient and water resistant. Designed specifically for landscape retrofit application, ideal for pathway lighting fixtures and step lights.  </p>
+<h4>FEATURES:</h4>
+<ul>
+<li>New ceramic technology</li>
+<li>Dimmable with most magnetic transformers</li>
+</ul>
+<h4>SPECIFICATIONS:</h4>
+<ul>
+<li>Wattage: 2</li>
+<li>Lumens: 200</li>
+<li>Beam Spread: multi-directional</li>
+<li>Kelvin Temperature: 2700, 3000, 5700</li>
+<li>Operating Range: 8-25V AC</li>
+<li>Replace: 20W Halogen</li>
+<li>CRI: 84</li>
+<li>IP: 65</li>
+<li>Chipset: Epistar</li>
+<li>Lamp Life (hours): 35,000</li>
+<li>Warranty (years): 5</li>
+</ul>
+<p style="background-color: transparent; color: #4f4f4f; font-family: proxima-nova; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: 1px; margin-bottom: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; word-wrap: break-word;"> </p>
+<h4><strong>Downloads </strong></h4>
+<p><span style="text-decoration: underline;"><a href="https://static1.squarespace.com/static/556f52cae4b0f794a39f7ebf/t/58f6718320099e9e191506bc/1492545923930/CS_2017_beaconscb.pdf" target="_blank">Spec Sheet</a></span></p>
+<p style="background-color: transparent; color: #666666; font-family: Arial,sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; padding: 0px 10px 0px 10px; margin: 0px 0px 15px 0px;"> </p>
+<p style="background-color: transparent; color: #666666; font-family: Arial,sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; padding: 0px 10px 0px 10px; margin: 0px 0px 15px 0px;"><strong style="font-size: 15px;">Brilliance Bulbs work in a wide variety of fixtures including:</strong></p>
+<ul style="background-color: transparent; color: #666666; font-family: Arial,Helvetica,sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;">
+<li style="color: #666666; font-size: 12px;">MoonRays</li>
+<li style="color: #666666; font-size: 12px;">Best Quality</li>
+<li style="color: #666666; font-size: 12px;">FX Lighting</li>
+<li style="color: #666666; font-size: 12px;">Kichler</li>
+<li style="color: #666666; font-size: 12px;">Hampton Bay</li>
+<li style="color: #666666; font-size: 12px;">Malibu</li>
+<li style="color: #666666; font-size: 12px;">Hubbardton Forge</li>
+<li style="color: #666666; font-size: 12px;">Hinkleys</li>
+<li style="color: #666666; font-size: 12px;">Westing House</li>
+<li style="color: #666666; font-size: 12px;">Progress Lighting</li>
+<li style="color: #666666; font-size: 12px;">Meyda Lighting</li>
+<li style="color: #666666; font-size: 12px;">ET2 Lighting</li>
+<li style="color: #666666; font-size: 12px;">Quoizelt</li>
+<li style="color: #666666; font-size: 12px;">PLC Lighting</li>
+<li style="color: #666666; font-size: 12px;">Any Ray</li>
+<li style="color: #666666; font-size: 12px;">Blackburn</li>
+<li style="color: #666666; font-size: 12px;">Bulbrite</li>
+<li style="color: #666666; font-size: 12px;">Feitelectric</li>
+<li style="color: #666666; font-size: 12px;">GE</li>
+<li style="color: #666666; font-size: 12px;">Hikari</li>
+<li style="color: #666666; font-size: 12px;">NocoPhilios</li>
+<li style="color: #666666; font-size: 12px;">Plusrite</li>
+<li style="color: #666666; font-size: 12px;">Seagull</li>
+<li style="color: #666666; font-size: 12px;">Satco</li>
+<li style="color: #666666; font-size: 12px;">Starlite</li>
+<li style="color: #666666; font-size: 12px;">Tesler</li>
+<li style="color: #666666; font-size: 12px;">Utilitech</li>
+<li style="color: #666666; font-size: 12px;">Ushio</li>
+<li style="color: #666666; font-size: 12px;">Westinghouse</li>
+<li style="color: #666666; font-size: 12px;">12v Monster</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Brilliance</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452214874212</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.90</s:price>
+      <s:sku>BRI-BEACON-SCB-2700</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452214677604</id>
+    <published>2019-01-19T00:18:49-05:00</published>
+    <updated>2019-01-19T00:18:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/brilliance-beacon-ceramic-g4-bipin-2700"/>
+    <title>Brilliance - Beacon G4 BIPIN 2700K Lamp</title>
+    <s:type>Lamps &amp; Bulbs</s:type>
+    <s:vendor>Brilliance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-11723__16234.1516302949.1280.1280.jpg?v=1571715612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brilliance<br>
+        <strong>Type: </strong>Lamps &amp; Bulbs<br>
+        <strong>Price: </strong>
+            13.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>BEACON G-4 BIPIN</h3>
+<h4>DESCRIPTION:</h4>
+<p>The Brilliance LED Beacon G-4 Bipin is a sub-compact LED that utilizes the Epistar chipset and also features Brilliance LED's multi-directional beam pattern.  This bipin is energy efficient and water resistant. Designed specifically for landscape retrofit application, ideal for pathway lighting fixtures and step lights.  </p>
+<h4>FEATURES:</h4>
+<ul>
+<li>New ceramic technology</li>
+<li>Dimmable with most magnetic transformers</li>
+</ul>
+<h4>SPECIFICATIONS:</h4>
+<ul>
+<li>Wattage: 2</li>
+<li>Lumens: 200</li>
+<li>Beam Spread: multi-directional</li>
+<li>Kelvin Temperature: 2700, 3000, 5700</li>
+<li>Operating Range: 8-25V AC</li>
+<li>Replace: 20W Halogen</li>
+<li>CRI: 84</li>
+<li>IP: 65</li>
+<li>Chipset: Epistar</li>
+<li>Lamp Life (hours): 35,000</li>
+<li>Warranty (years): 5</li>
+</ul>
+<p style="background-color: transparent; color: #4f4f4f; font-family: proxima-nova; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: 1px; margin-bottom: 0px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; word-wrap: break-word;"> </p>
+<p><strong>Downloads:</strong></p>
+<p><span style="text-decoration: underline;"><a href="https://static1.squarespace.com/static/556f52cae4b0f794a39f7ebf/t/58f670873e00be20b4865a46/1492545673209/CS_2017_beacong4.pdf" target="_blank">Spec Sheet</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Brilliance</s:tag>
+    <s:tag>CATEGORY_LED Bulbs/Lamps</s:tag>
+    <s:tag>DEPARTMENTLandscape Lighting</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452214677604</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.33</s:price>
+      <s:sku>BRI-BEACON-G4-2700</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>

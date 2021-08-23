@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/check-valves.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2019-01-19T00:40:51-05:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452591083620</id>
+    <published>2019-01-19T00:40:51-05:00</published>
+    <updated>2019-01-19T00:40:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/nds-2-pvc-swing-check-valve-ss-1520-20"/>
+    <title>NDS - 1520-20 - 2&apos;&apos; PVC Swing Check Valve SS</title>
+    <s:type>Check Valves</s:type>
+    <s:vendor>NDS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1607__87387.1517257176.1280.1280_07a1c5da-1c6f-4be2-a01a-b039d1f60ab5.jpg?v=1584809132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NDS<br>
+        <strong>Type: </strong>Check Valves<br>
+        <strong>Price: </strong>
+            23.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>2 Swing Check Valve</span></p>
+<ul>
+<li><span>Material of Construction PVC</span></li>
+<li><span>Size 1-1/2 In.</span></li>
+<li><span>Connection Type Hub</span></li>
+<li><span>Length 6.14 In.</span></li>
+<li><span>Width 4.23 In.</span></li>
+<li><span>Overall Height 3-1/2 In.</span></li>
+<li><span>Max. Water Pressure 150 psi @ 70 Degrees F</span></li>
+<li><span>Cracking Pressure 0.25 psi</span></li>
+<li><span>Max. Temp. 140 Degrees F</span></li>
+<li><span>Mounting Position Vertical or Horizontal</span></li>
+<li><span>Seat Material PVC</span></li>
+<li><span>Seal Material EPDM</span></li>
+<li><span>Flow 54.59 gpm</span></li>
+<li><span>Standards NSF 61</span></li>
+</ul>
+<p><span><strong>Downloads</strong><br></span></p>
+<ul>
+<li>
+<p><a href="http://library.coburns.com/specs/CATALOG_NDS_1520-15.pdf" target="_blank" rel="noopener noreferrer">Spec Sheet</a></p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_NDS</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRODUCT TYPE_Check Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452591083620</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.86</s:price>
+      <s:sku>1520-20</s:sku>
+      <s:grams>431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452585283684</id>
+    <published>2019-01-19T00:40:30-05:00</published>
+    <updated>2019-01-19T00:40:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/nds-1-pvc-swing-check-valve-ss-1520-10"/>
+    <title>NDS - 1520-10 - 1&apos;&apos; PVC Swing Check Valve SS</title>
+    <s:type>Check Valves</s:type>
+    <s:vendor>NDS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1605__82199.1517257228.1280.1280_559d6c73-a97c-4128-b594-3a79ca956500.jpg?v=1584809108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NDS<br>
+        <strong>Type: </strong>Check Valves<br>
+        <strong>Price: </strong>
+            16.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>1 Swing Check Valve</span></p>
+<ul>
+<li><span>Material of Construction PVC</span></li>
+<li><span>Size 1 In.</span></li>
+<li><span>Connection Type Hub</span></li>
+<li><span>Length 5 In.</span></li>
+<li><span>Width 2.34 In.</span></li>
+<li><span>Overall Height 3-1/2 In.</span></li>
+<li><span>Max. Water Pressure 150 psi @ 70 Degrees F</span></li>
+<li><span>Cracking Pressure 0.25 psi</span></li>
+<li><span>Max. Temp. 140 Degrees F</span></li>
+<li><span>Mounting Position Vertical or Horizontal</span></li>
+<li><span>Seat Material PVC</span></li>
+<li><span>Seal Material EPDM</span></li>
+<li><span>Flow 30.59 gpm</span></li>
+<li><span>Standards NSF 61</span></li>
+</ul>
+<p><span><strong>Downloads</strong><br></span></p>
+<ul>
+<li>
+<p><a href="http://library.coburns.com/specs/CATALOG_NDS_1520-15.pdf" target="_blank" rel="noopener noreferrer">Spec Sheet</a></p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_NDS</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRODUCT TYPE_Check Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452585283684</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.26</s:price>
+      <s:sku>1520-10</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452567392356</id>
+    <published>2019-01-19T00:39:23-05:00</published>
+    <updated>2019-01-19T00:39:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/nds-1-1-4-pvc-swing-check-valve-ss-1520-12"/>
+    <title>NDS - 1520-12 - 1-1/4&quot; PVC Swing Check Valve SS</title>
+    <s:type>Check Valves</s:type>
+    <s:vendor>NDS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-11790__04759.1517257856.1280.1280_f5dfb8b8-dc23-4001-9532-85ce1624743e.jpg?v=1571715646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NDS<br>
+        <strong>Type: </strong>Check Valves<br>
+        <strong>Price: </strong>
+            18.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>1 1/4 Swing Check Valve</span></p>
+<ul>
+<li><span>Material of Construction PVC</span></li>
+<li><span>Size 1-1/4 In.</span></li>
+<li><span>Connection Type Hub</span></li>
+<li><span>Length 5.32 In.</span></li>
+<li><span>Width 3.16 In.</span></li>
+<li><span>Overall Height 3-1/2 In.</span></li>
+<li><span>Max. Water Pressure 150 psi @ 70 Degrees F</span></li>
+<li><span>Cracking Pressure 0.25 psi</span></li>
+<li><span>Max. Temp. 140 Degrees F</span></li>
+<li><span>Mounting Position Vertical or Horizontal</span></li>
+<li><span>Seat Material PVC</span></li>
+<li><span>Seal Material EPDM</span></li>
+<li><span>Flow 34.96 gpm</span></li>
+<li><span>Standards NSF 61</span></li>
+</ul>
+<p><span><strong>Downloads</strong><br></span></p>
+<ul>
+<li>
+<p><a href="http://library.coburns.com/specs/CATALOG_NDS_1520-15.pdf" target="_blank" rel="noopener noreferrer">Spec Sheet</a></p>
+</li>
+</ul>
+<h2>
+<span style="font-size: 1.4em;">                                   </span><br>
+</h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_NDS</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:tag>PRODUCT TYPE_Check Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452567392356</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.43</s:price>
+      <s:sku>1520-12</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452566736996</id>
+    <published>2019-01-19T00:39:20-05:00</published>
+    <updated>2019-01-19T00:39:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/nds-1-1-2-pvc-swing-check-valve-1520-15"/>
+    <title>NDS - 1520-15 - 1 1/2&apos;&apos; PVC Swing Check Valve</title>
+    <s:type>Check Valves</s:type>
+    <s:vendor>NDS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-1606__23900.1517257199.1280.1280_e4c74292-c281-429a-900b-f64850ff6d8b.jpg?v=1584809108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NDS<br>
+        <strong>Type: </strong>Check Valves<br>
+        <strong>Price: </strong>
+            17.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>1 1/2 Swing Check Valve</span></p>
+<ul>
+<li><span>Material of Construction PVC</span></li>
+<li><span>Size 1-1/2 In.</span></li>
+<li><span>Connection Type Hub</span></li>
+<li><span>Length 5-3/8 In.</span></li>
+<li><span>Width 3-1/2 In.</span></li>
+<li><span>Overall Height 3-1/2 In.</span></li>
+<li><span>Max. Water Pressure 150 psi @ 70 Degrees F</span></li>
+<li><span>Cracking Pressure 0.25 psi</span></li>
+<li><span>Max. Temp. 140 Degrees F</span></li>
+<li><span>Mounting Position Vertical or Horizontal</span></li>
+<li><span>Seat Material PVC</span></li>
+<li><span>Seal Material EPDM</span></li>
+<li><span>Flow 47.59 gpm</span></li>
+<li><span>Standards NSF 61</span></li>
+</ul>
+<p><span><strong>Downloads</strong><br></span></p>
+<ul>
+<li>
+<p><a href="http://library.coburns.com/specs/CATALOG_NDS_1520-15.pdf" target="_blank" rel="noopener noreferrer">Spec Sheet</a></p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_NDS</s:tag>
+    <s:tag>CATEGORY_PVC Fittings</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$10-20</s:tag>
+    <s:tag>PRODUCT TYPE_Check Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452566736996</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.35</s:price>
+      <s:sku>1520-15</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452299579492</id>
+    <published>2019-01-19T00:23:35-05:00</published>
+    <updated>2019-01-19T00:23:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-hc-75f-75m-3-4-female-inlet-x-3-4-male-outlet-check-valve"/>
+    <title>Hunter - HC-75F-75M - 3/4&apos;&apos; Female Inlet x 3/4&apos;&apos; Male Outlet Check Valve</title>
+    <s:type>Check Valves</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-hcv-75f-75m_dsc_0534_clipped__10994.1516302955.1280.1280.jpg?v=1584808649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Check Valves<br>
+        <strong>Price: </strong>
+            5.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>If you have ever been faced with a job site that features extremes in elevation, then you have first-hand knowledge about low head drainage. Unfortunately, a system that requires ups and downs to fit the landscape will find that the water in its pipes seeks out the low points when the system is at rest. That typically results in messy puddling at the heads located at the lowest elevation and, ultimately, wasted water on walkways. With the Hunter HCV, this will never be a problem again. Easily adjust to the proper check height and insert this remarkable product in between the riser and sprinkler head. If youve ever used an HCV before, you know just how simple this is - its the easiest to adjust drain check valve available and can handle elevation extremes up to 11 m. However, what you probably dont know is that it is now constructed to schedule 80 specifications, making it more durable and long-lasting than ever.</span></p>
+<p><strong>An economical water-saver that eliminates low head drainage for sprinklers located on slopes</strong></p>
+<p>Low head drainage is a fact of life when dealing with variable elevation landscapes. Water will naturally settle to those low points of the system, resulting in unwanted puddles of wasted water. With Hunters new, easy to use HCV you wont have to deal with this problem ever again. Made to last, the HCV is designed and built to schedule 80 specifications, ensuring a solid, long-life and dependable performance.</p>
+<h3><strong>Features / Benefits</strong></h3>
+<ul>
+<li>Adjustment access from top of valve</li>
+<li>Adjusts to compensate for elevational changes up to 32 ft.: Maximum flexibility</li>
+<li>Variety of inlet and outlet options: Reduces need for additional fittings</li>
+<li>Meets schedule 80 specifications: Durable under high pressure</li>
+</ul>
+<h3><strong>HCV Product Installation </strong></h3>
+<ul>
+<li>Flush the system until water from lateral line runs clean.</li>
+<li>Use only Teflon paste or tape on all threaded connections ( note: Do not use Pipe Dope or solvent cement on threaded connections.) Apply the Teflon around the male adapter or nipple threads, then insert it into the HCV. Tighten by hand and then using a wrench, turn the adapter/nipple 1/2 turn to ensure a good seal. Overtighting may break the valve.</li>
+<li>Glue the male adapters to the pipe, or thread the nipple into the PVC fitting.</li>
+<li>Connect either the spray head or rotor to the HCV also using Teflon paste or tape.</li>
+</ul>
+<h3><strong>Adjustment of Check Height</strong></h3>
+<p>Hunter manufactures the HCV with the check valve set to compensate for 12 feet of elevation change. However, the valve is designed to hold back varying amounts of water to accommodate changes of anywhere between 5 and 32 feet. Adjustments for different check heights can easily be made either with the sprinkler in place or before the sprinkler is installed.</p>
+<ul>
+<ul>
+<li>Before Installation: Simply insert a large flat-head screw driver in the outlet side of the check valve and turn the plastic screw. Clockwise turns will increase the check height, counter-clockwise will reduce it.(the photo to the right shows how to adjust without the sprinkler installed.)</li>
+</ul>
+</ul>
+<ul>
+<li>To adjust the check valve when the sprinkler is already in place: unthread the body cap, pull out the sprinklers internal parts, stick the screwdriver straight through body and the inlet, and you will get right to the adjustment on the check valve. If you have a check valve installed below ground, this eliminates the need to unthread the sprinkler should you want to adjust the check height at a later time</li>
+</ul>
+<h3><strong>Downloads</strong></h3>
+<p><span style="text-decoration: underline;"><a href="https://www.hunterindustries.com/sites/default/files/is_hcv_dom.pdf" target="_blank" rel="noopener noreferrer">HCV Installation and Adjustment</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Valves</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Check Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452299579492</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.79</s:price>
+      <s:sku>HC75F75M</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452299186276</id>
+    <published>2019-01-19T00:23:34-05:00</published>
+    <updated>2019-01-19T00:23:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/hunter-hc-50f-50m-1-2-female-inlet-x-1-2-male-outlet-check-valve"/>
+    <title>Hunter - HC-50F-50M - 1/2&apos;&apos; Female inlet x 1/2&apos;&apos; Male Outlet Check Valve</title>
+    <s:type>Check Valves</s:type>
+    <s:vendor>Hunter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-hcv-50f-50f_dsc_0535_clipped__48798.1516302955.1280.1280.jpg?v=1584808648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunter<br>
+        <strong>Type: </strong>Check Valves<br>
+        <strong>Price: </strong>
+            4.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>If you have ever been faced with a job site that features extremes in elevation, then you have first-hand knowledge about low head drainage. Unfortunately, a system that requires ups and downs to fit the landscape will find that the water in its pipes seeks out the low points when the system is at rest. That typically results in messy puddling at the heads located at the lowest elevation and, ultimately, wasted water on walkways. With the Hunter HCV, this will never be a problem again. Easily adjust to the proper check height and insert this remarkable product in between the riser and sprinkler head. If youve ever used an HCV before, you know just how simple this is - its the easiest to adjust drain check valve available and can handle elevation extremes up to 11 m. However, what you probably dont know is that it is now constructed to schedule 80 specifications, making it more durable and long-lasting than ever.</span></p>
+<p><strong>An economical water-saver that eliminates low head drainage for sprinklers located on slopes</strong></p>
+<p>Low head drainage is a fact of life when dealing with variable elevation landscapes. Water will naturally settle to those low points of the system, resulting in unwanted puddles of wasted water. With Hunters new, easy to use HCV you wont have to deal with this problem ever again. Made to last, the HCV is designed and built to schedule 80 specifications, ensuring a solid, long-life and dependable performance.</p>
+<h3><strong>Features / Benefits</strong></h3>
+<ul>
+<li>Adjustment access from top of valve</li>
+<li>Adjusts to compensate for elevational changes up to 32 ft.: Maximum flexibility</li>
+<li>Variety of inlet and outlet options: Reduces need for additional fittings</li>
+<li>Meets schedule 80 specifications: Durable under high pressure</li>
+</ul>
+<h3><strong>HCV Product Installation </strong></h3>
+<ul>
+<li>Flush the system until water from lateral line runs clean.</li>
+<li>Use only Teflon paste or tape on all threaded connections ( note: Do not use Pipe Dope or solvent cement on threaded connections.) Apply the Teflon around the male adapter or nipple threads, then insert it into the HCV. Tighten by hand and then using a wrench, turn the adapter/nipple 1/2 turn to ensure a good seal. Overtighting may break the valve.</li>
+<li>Glue the male adapters to the pipe, or thread the nipple into the PVC fitting.</li>
+<li>Connect either the spray head or rotor to the HCV also using Teflon paste or tape.</li>
+</ul>
+<h3><strong>Adjustment of Check Height</strong></h3>
+<p>Hunter manufactures the HCV with the check valve set to compensate for 12 feet of elevation change. However, the valve is designed to hold back varying amounts of water to accommodate changes of anywhere between 5 and 32 feet. Adjustments for different check heights can easily be made either with the sprinkler in place or before the sprinkler is installed.</p>
+<ul>
+<ul>
+<li>Before Installation: Simply insert a large flat-head screw driver in the outlet side of the check valve and turn the plastic screw. Clockwise turns will increase the check height, counter-clockwise will reduce it.(the photo to the right shows how to adjust without the sprinkler installed.)</li>
+</ul>
+</ul>
+<ul>
+<li>To adjust the check valve when the sprinkler is already in place: unthread the body cap, pull out the sprinklers internal parts, stick the screwdriver straight through body and the inlet, and you will get right to the adjustment on the check valve. If you have a check valve installed below ground, this eliminates the need to unthread the sprinkler should you want to adjust the check height at a later time. HCV</li>
+</ul>
+<h3><strong>Downloads</strong></h3>
+<p><span style="text-decoration: underline;"><a href="https://www.hunterindustries.com/sites/default/files/is_hcv_dom.pdf" target="_blank" rel="noopener noreferrer">HCV Installation and Adjustment</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CATEGORY_Valves</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRODUCT TYPE_Check Valves</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452299186276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.89</s:price>
+      <s:sku>HC50F50M</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/2452217331812</id>
+    <published>2019-01-19T00:18:59-05:00</published>
+    <updated>2019-01-19T00:18:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/champion-dv-050-brass-1-2-drain-valves"/>
+    <title>Champion - DV-050 - Brass 1/2&apos;&apos; Drain Valve</title>
+    <s:type>Check Valves</s:type>
+    <s:vendor>Champion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/products-12417__17308.1516302958.1280.1280.jpg?v=1584808543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Champion<br>
+        <strong>Type: </strong>Check Valves<br>
+        <strong>Price: </strong>
+            5.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="features">
+<h3 class="block-title">Features</h3>
+<ul>
+<li><span style="font-size: 1.4em;">Solid brass construction. Used to drain sprinkler lines and prevent damage from freezing water. Reseals at 3 PSI.</span></li>
+<li><span style="font-size: 1.4em;">Fits 1/2'' FPT</span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_Champion</s:tag>
+    <s:tag>CATEGORY_Valves</s:tag>
+    <s:tag>DEPARTMENTResidential/ Commercial Irrigation</s:tag>
+    <s:tag>PRICE_$0-10</s:tag>
+    <s:tag>PRICE_Clearance</s:tag>
+    <s:tag>PRODUCT TYPE_Sprinkler Accessories</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/2452217331812</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.98</s:price>
+      <s:sku>DV-050</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+</feed>

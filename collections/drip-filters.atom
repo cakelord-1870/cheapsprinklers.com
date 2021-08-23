@@ -1,0 +1,1416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://cheapsprinklers.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://cheapsprinklers.com/collections/drip-filters.atom"/>
+  <title>Cheap Sprinklers</title>
+  <updated>2021-02-19T16:37:43-05:00</updated>
+  <author>
+    <name>Cheap Sprinklers</name>
+  </author>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5028001808486</id>
+    <published>2021-02-19T16:37:43-05:00</published>
+    <updated>2021-02-19T16:37:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-prf-45-075-3-4-mpt-pressure-regulating-filter-45psi"/>
+    <title>DIG - 3/4&apos;&apos; MPT 45PSI Pressure-Regulating Filter - PRF-45-075</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/prf075_e0e44918-72bb-4898-b7b5-2e5e05f1dbc9.jpg?v=1613770665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="showchar" data-mce-fragment="1">DIG's two-in-one, 3/4" Filter/Pressure Regulator combines a 150-mesh stainless steel filter with a 45-PSI pressure regulator, reducing the number of components needed to start a drip irrigation zone. The heavy-duty filter/pressure regulator's compact design fits in smaller sized are</span><span class="morecontent" data-mce-fragment="1"><span data-mce-fragment="1">as allowing several drip zones inside an irrigation box. For best results install it upstream of the control valve for reliable operation and easy maintenance of a drip irrigation zone.</span></span></p>
+<h3 data-mce-fragment="1">Features</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Compact design "“ combines two units in one to allow for faster and easier installation</li>
+<li data-mce-fragment="1">All-purpose screen filter with built-in pressure regulator for use in drip irrigation or micro sprinkler systems</li>
+<li data-mce-fragment="1">One-piece construction that combines a 150-mesh stainless steel screen filter and a pressure regulator</li>
+<li data-mce-fragment="1">Reduces incoming water pressure and protects downstream drip irrigation components</li>
+<li data-mce-fragment="1">Stainless steel screen has excellent resistance to most common chemicals</li>
+<li data-mce-fragment="1">Easy maintenance "“ the screen can be removed from the filter for easy cleaning</li>
+<li data-mce-fragment="1">Heavy duty glass-filled polypropylene body provides reliable operation under a wide range of pressures</li>
+<li data-mce-fragment="1">3/4'' MPT Connections with a 45PSI Pressure Regulator<br>
+</li>
+<li data-mce-fragment="1">3/4" flush cap at the bottom of the filter for easy flushing</li>
+<li data-mce-fragment="1">Provides simple conversion of an AC/DC valve into a drip zone and easily fits in a valve box</li>
+<li data-mce-fragment="1">Constructed of UV-resistant, durable plastic material to withstand the most adverse conditions for years of reliable operation</li>
+</ul>
+<h3 class="active">Specifications</h3>
+<ul>
+<li>Operating pressure: up to 120 PSI (up to 8.3 bar)</li>
+<li>Screen: stainless steel 150 mesh/100 micron</li>
+<li>Preset pressure rating: 45 PSI (1.7 Bar)</li>
+<li>Flow rate: 3/4" up to 6 GPM</li>
+<li>Temperature range: up to 130°F</li>
+<li>Inlet and outlet size: 3/4" MNPT</li>
+<li>Material:
+<ul>
+<li>Body: glass-filled polypropylene</li>
+<li>Screen: stainless steel</li>
+</ul>
+</li>
+</ul>
+<h3 class="active">Dimensions</h3>
+<ul>
+<li>Thread: to thread: 4 1/4" W</li>
+<li>Length: 6" L</li>
+<li>Cover diameter: 1 3/4"</li>
+</ul>
+<br>
+<div class="sku"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5028001808486</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>PRF-45-075</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5027996368998</id>
+    <published>2021-02-19T16:30:44-05:00</published>
+    <updated>2021-02-19T16:30:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-prf-45-100-1-mpt-pressure-regulating-filter-45psi"/>
+    <title>DIG - 1&apos;&apos; MPT 45PSI Pressure-Regulating Filter - PRF-45-100</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/prf075_9589d136-29d3-4914-ae47-f366398c63f3.jpg?v=1613770245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            13.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="showchar" data-mce-fragment="1">DIG's two-in-one, 1" Filter/Pressure Regulator combines a 150-mesh stainless steel filter with a 45-PSI pressure regulator, reducing the number of components needed to start a drip irrigation zone. The heavy-duty filter/pressure regulator's compact design fits in smaller sized are</span><span class="morecontent" data-mce-fragment="1"><span data-mce-fragment="1">as allowing several drip zones inside an irrigation box. For best results install it upstream of the control valve for reliable operation and easy maintenance of a drip irrigation zone.</span></span></p>
+<h3 data-mce-fragment="1">Features</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Compact design "“ combines two units in one to allow for faster and easier installation</li>
+<li data-mce-fragment="1">All-purpose screen filter with built-in pressure regulator for use in drip irrigation or micro sprinkler systems</li>
+<li data-mce-fragment="1">One-piece construction that combines a 150-mesh stainless steel screen filter and a pressure regulator</li>
+<li data-mce-fragment="1">Reduces incoming water pressure and protects downstream drip irrigation components</li>
+<li data-mce-fragment="1">Stainless steel screen has excellent resistance to most common chemicals</li>
+<li data-mce-fragment="1">Easy maintenance "“ the screen can be removed from the filter for easy cleaning</li>
+<li data-mce-fragment="1">Heavy duty glass-filled polypropylene body provides reliable operation under a wide range of pressures</li>
+<li data-mce-fragment="1">1'' MPT Connections with a 45PSI Pressure Regulator<br>
+</li>
+<li data-mce-fragment="1">3/4" flush cap at the bottom of the filter for easy flushing</li>
+<li data-mce-fragment="1">Provides simple conversion of an AC/DC valve into a drip zone and easily fits in a valve box</li>
+<li data-mce-fragment="1">Constructed of UV-resistant, durable plastic material to withstand the most adverse conditions for years of reliable operation</li>
+</ul>
+<h3 class="active">Specifications</h3>
+<ul>
+<li>Operating pressure: up to 120 PSI (up to 8.3 bar)</li>
+<li>Screen: stainless steel 150 mesh/100 micron</li>
+<li>Preset pressure rating: 45 PSI (3 bar)</li>
+<li>Flow rate: 3/4" up to 6 GPM</li>
+<li>Temperature range: up to 130°F</li>
+<li>Inlet and outlet size: 1" MNPT</li>
+<li>Material:
+<ul>
+<li>Body: glass-filled polypropylene</li>
+<li>Screen: stainless steel</li>
+</ul>
+</li>
+</ul>
+<h3 class="active">Dimensions</h3>
+<ul>
+<li>Thread: to thread: 4 1/4" W</li>
+<li>Length: 6" L</li>
+<li>Cover diameter: 1 3/4"</li>
+</ul>
+<br>
+<div class="sku"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5027996368998</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.65</s:price>
+      <s:sku>PRF-45-100</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5027993124966</id>
+    <published>2021-02-19T16:26:57-05:00</published>
+    <updated>2021-02-19T16:26:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-prf-25-100-1-mpt-pressure-regulating-filter-25psi"/>
+    <title>DIG - 1&apos;&apos; MPT 25PSI Pressure-Regulating Filter - PRF-25-100</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/prf075_9fa3bf1f-ab29-447d-8223-a3f64410ead1.jpg?v=1613770060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            13.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="showchar" data-mce-fragment="1">DIG's two-in-one, 1" Filter/Pressure Regulator combines a 150-mesh stainless steel filter with a 25-PSI pressure regulator, reducing the number of components needed to start a drip irrigation zone. The heavy-duty filter/pressure regulator's compact design fits in smaller sized are</span><span class="morecontent" data-mce-fragment="1"><span data-mce-fragment="1">as allowing several drip zones inside an irrigation box. For best results install it upstream of the control valve for reliable operation and easy maintenance of a drip irrigation zone.</span></span></p>
+<h3 data-mce-fragment="1">Features</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Compact design "“ combines two units in one to allow for faster and easier installation</li>
+<li data-mce-fragment="1">All-purpose screen filter with built-in pressure regulator for use in drip irrigation or micro sprinkler systems</li>
+<li data-mce-fragment="1">One-piece construction that combines a 150-mesh stainless steel screen filter and a pressure regulator</li>
+<li data-mce-fragment="1">Reduces incoming water pressure and protects downstream drip irrigation components</li>
+<li data-mce-fragment="1">Stainless steel screen has excellent resistance to most common chemicals</li>
+<li data-mce-fragment="1">Easy maintenance "“ the screen can be removed from the filter for easy cleaning</li>
+<li data-mce-fragment="1">Heavy duty glass-filled polypropylene body provides reliable operation under a wide range of pressures</li>
+<li data-mce-fragment="1">1'' MPT Connections with a 25PSI Pressure Regulator<br>
+</li>
+<li data-mce-fragment="1">3/4" flush cap at the bottom of the filter for easy flushing</li>
+<li data-mce-fragment="1">Provides simple conversion of an AC/DC valve into a drip zone and easily fits in a valve box</li>
+<li data-mce-fragment="1">Constructed of UV-resistant, durable plastic material to withstand the most adverse conditions for years of reliable operation</li>
+</ul>
+<h3 class="active">Specifications</h3>
+<ul>
+<li>Operating pressure: up to 120 PSI (up to 8.3 bar)</li>
+<li>Screen: stainless steel 150 mesh/100 micron</li>
+<li>Preset pressure rating: 25 PSI (1.7 bar)</li>
+<li>Flow rate: 3/4" up to 6 GPM</li>
+<li>Temperature range: up to 130°F</li>
+<li>Inlet and outlet size: 1" MNPT</li>
+<li>Material:
+<ul>
+<li>Body: glass-filled polypropylene</li>
+<li>Screen: stainless steel</li>
+</ul>
+</li>
+</ul>
+<h3 class="active">Dimensions</h3>
+<ul>
+<li>Thread: to thread: 4 1/4" W</li>
+<li>Length: 6" L</li>
+<li>Cover diameter: 1 3/4"</li>
+</ul>
+<br>
+<div class="sku"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5027993124966</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.65</s:price>
+      <s:sku>PRF-25-100</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5027984867430</id>
+    <published>2021-02-19T16:24:04-05:00</published>
+    <updated>2021-02-19T16:24:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/rain-bird-prf075rby-3-4-pressure-regulating-filter-rby"/>
+    <title>DIG - 3/4&apos;&apos; MPT 25PSI Pressure-Regulating Filter - PRF-25-075</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/prf075.jpg?v=1613769722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span class="showchar" data-mce-fragment="1">DIG's two-in-one, 3/4" Filter/Pressure Regulator combines a 150-mesh stainless steel filter with a 25-PSI pressure regulator, reducing the number of components needed to start a drip irrigation zone. The heavy-duty filter/pressure regulator's compact design fits in smaller sized are</span><span class="morecontent" data-mce-fragment="1"><span data-mce-fragment="1">as allowing several drip zones inside an irrigation box. For best results install it upstream of the control valve for reliable operation and easy maintenance of a drip irrigation zone.</span></span></p>
+<h3 data-mce-fragment="1">Features</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Compact design "“ combines two units in one to allow for faster and easier installation</li>
+<li data-mce-fragment="1">All-purpose screen filter with built-in pressure regulator for use in drip irrigation or micro sprinkler systems</li>
+<li data-mce-fragment="1">One-piece construction that combines a 150-mesh stainless steel screen filter and a pressure regulator</li>
+<li data-mce-fragment="1">Reduces incoming water pressure and protects downstream drip irrigation components</li>
+<li data-mce-fragment="1">Stainless steel screen has excellent resistance to most common chemicals</li>
+<li data-mce-fragment="1">Easy maintenance "“ the screen can be removed from the filter for easy cleaning</li>
+<li data-mce-fragment="1">Heavy duty glass-filled polypropylene body provides reliable operation under a wide range of pressures</li>
+<li data-mce-fragment="1">3/4'' MPT Connections with a 25PSI Pressure Regulator<br>
+</li>
+<li data-mce-fragment="1">3/4" flush cap at the bottom of the filter for easy flushing</li>
+<li data-mce-fragment="1">Provides simple conversion of an AC/DC valve into a drip zone and easily fits in a valve box</li>
+<li data-mce-fragment="1">Constructed of UV-resistant, durable plastic material to withstand the most adverse conditions for years of reliable operation</li>
+</ul>
+<h3 class="active">Specifications</h3>
+<ul>
+<li>Operating pressure: up to 120 PSI (up to 8.3 bar)</li>
+<li>Screen: stainless steel 150 mesh/100 micron</li>
+<li>Preset pressure rating: 25 PSI (1.7 Bar)</li>
+<li>Flow rate: 3/4" up to 6 GPM</li>
+<li>Temperature range: up to 130°F</li>
+<li>Inlet and outlet size: 3/4" MNPT</li>
+<li>Material:
+<ul>
+<li>Body: glass-filled polypropylene</li>
+<li>Screen: stainless steel</li>
+</ul>
+</li>
+</ul>
+<h3 class="active">Dimensions</h3>
+<ul>
+<li>Thread: to thread: 4 1/4" W</li>
+<li>Length: 6" L</li>
+<li>Cover diameter: 1 3/4"</li>
+</ul>
+<br>
+<div class="sku"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:tag>PRICE_$20-40</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5027984867430</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>PRF-25-075</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/5027979133030</id>
+    <published>2021-02-19T16:10:03-05:00</published>
+    <updated>2021-02-19T16:10:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-120-mesh-flush-cap-stainless-steel-screen-filter-2-p80-120"/>
+    <title>DIG - 2&apos;&apos; MPT Plastic Filter w/ Stainless Steel Screen (120 Mesh) - P80-120</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/p80-155_f24a868f-4655-4de6-ade3-9d24b07bf6c2.jpg?v=1613769005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            88.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Used for residential, commercial and nursery applications. Simple and easy to operate, the filters provide a quick solution for a wide range of irrigation applications.</p>
+<p><br><strong>Features and Benefits</strong><br>Low friction loss<br>Screens have excellent resistance to most common chemicals<br>Color coded replacement screens<br>Includes flush cap<br>Easy maintenance: screen can be extracted from filter for easy cleaning<br>Non-corrosive materials<br>1-1/2" long and 2" filter screens are interchangeable with a disc cartridge</p>
+<p><br><strong>Specifications</strong><br>Operating Pressure: Up to 120 PSI (8.4 BAR)<br>Temperature Range: Up to 130°F (54°C)<br>2" MNPT x 2" MNPT<br>120 mesh stainless steel screen</p>
+<p><br><strong>Materials</strong><br>Housing: Polypropylene<br>O-ring: EPDM<br>Pressure Testing Port: Polypropylene<br>Pressure Testing Seals: Natural Rubber BR</p>
+<p><br><strong>Chemical Resistance</strong><br><span style="text-decoration: underline;">Acids:</span><br>Very good resistance depending on concentration and temperature.<br>Excellent resistance to most mineral acids<br><span style="text-decoration: underline;">Alkali:</span> Limited resistance depending on concentration and temperature<br>Excellent resistance to low concentrated lyes. Not recommended for use in highly concentrated lyes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/5027979133030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.19</s:price>
+      <s:sku>P80-120</s:sku>
+      <s:grams>1157</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4714488266854</id>
+    <published>2020-04-07T13:16:21-04:00</published>
+    <updated>2020-04-07T13:16:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-heavy-duty-2-mpt-screen-filter-pn2tmpt-155"/>
+    <title>DIG - Heavy Duty 2&quot; MPT T-Style Screen Filter - PN2TMPT-155</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/s-l1600-10_512x704_bfa97155-25a9-4861-88d2-d529d9504cbf.jpg?v=1592940992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            217.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's Heavy Duty 2"³ MPT screen filters with reinforced bodies incorporate an easy-to-remove filter cover and feature robust housing design, including a large filtration area to ensure high performance and long life. The 2" filters accept a wide range of interchangeable, color-coded screens and disc elements to suit any specific application for wells and municipal water supplies. The large filtration area offers nominal head loss and high flow rates. The filters are available in 2" inline or "œT" angle versions for use in agriculture, turf, greenhouse and nursery applications.</p>
+<h3>Features</h3>
+<ul>
+<li>Special locking grip rings design enables easy opening of the filters without the use of tools, even after months under operation.</li>
+<li>A wide range of filtration degrees for various applications</li>
+<li>Large filter area with low friction loss allows long intervals between cleaning</li>
+<li>Greater filtration capacity for effective protection of the irrigation system</li>
+<li>Can operate under pressure of up to 150 PSI</li>
+<li>All-purpose filter with a wide range of stainless-steel screens from 80 to 180 microns to suit a wide range of filtration requirements</li>
+<li>Designed to reduce operating costs and deliver high quality filtrate in a minimum space</li>
+<li>Made of superior strength material for excellent mechanical strength, and corrosion resistance for most common chemicals</li>
+<li>Easy maintenance - the screen can be extracted from the filter for cleaning</li>
+<li>Interchangeable screen elements</li>
+<li>Access point on the inlet and outlet side for pressure measurement test</li>
+<li>Constructed of UV-resistant, durable plastic material to withstand the most adverse conditions</li>
+</ul>
+<h3>Applications</h3>
+<p>Primary, secondary or backup filtration for the protection of irrigation systems against clogging in agriculture, municipalities, greenhouses, nurseries, landscapes and turf.</p>
+<h3>Specifications</h3>
+<ul>
+<li>Flow rates: up to 110 GPM (25 m3/h)</li>
+<li>Screen filtration area: 147 in2 (950 m2)</li>
+<li>Operating pressure: up to 150 PSI (10 BAR)</li>
+<li>Temperature range: up to 140°F (60°C)</li>
+<li>Stainless steel screens from 120 to 200 mesh</li>
+<li>Horizontal, vertical inlet and vertical outlet</li>
+<li>Available with a manual drain valve located at the bottom of the filter and with two pressure testing ports</li>
+<li>Inlet and outlet size: 2" MNPT (50 mm) with 3/4" NPT cap</li>
+<li>Filter weight: 10 lb (4.6 kg)
+<ul>
+<li>Filter dimensions:</li>
+<li>Thread to thread: 11" (28 cm)</li>
+<li>Height of thread to bottom: 17.5" (45 cm)</li>
+<li>T-filter: Height of thread to bottom: 22.8" (58 cm)</li>
+</ul>
+</li>
+<li>Filter Materials:
+<ul>
+<li>Housing and cover: PP and GF</li>
+<li>Locking ring: PA and GF</li>
+<li>O-ring: EPDM</li>
+<li>Screen spine: PP and stainless steel</li>
+<li>Pressure testing port: polypropylene</li>
+<li>Pressure testing seals: natural rubber</li>
+</ul>
+</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/manual_file/file/159/Heavy-Duty-Filter.pdf">Owner's Manual</a></p>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/44/Heavy-Duty-Filter-2.pdf">Specifications</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4714488266854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">217.11</s:price>
+      <s:sku>PN2TMPT-155</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4714488004710</id>
+    <published>2020-04-07T13:16:20-04:00</published>
+    <updated>2020-04-07T13:16:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-heavy-duty-2-mpt-screen-filter-pn2tmpt-200"/>
+    <title>DIG - Heavy Duty 2&quot; MPT T-Style Screen Filter - PN2TMPT-200</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/s-l1600-10_512x704_a17ba195-147d-41a1-b57a-d50866c54080.jpg?v=1592938474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            217.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's Heavy Duty 2"³ MPT screen filters with reinforced bodies incorporate an easy-to-remove filter cover and feature robust housing design, including a large filtration area to ensure high performance and long life. The 2" filters accept a wide range of interchangeable, color-coded screens and disc elements to suit any specific application for wells and municipal water supplies. The large filtration area offers nominal head loss and high flow rates. The filters are available in 2" inline or "œT" angle versions for use in agriculture, turf, greenhouse and nursery applications.</p>
+<h3>Features</h3>
+<ul>
+<li>Special locking grip rings design enables easy opening of the filters without the use of tools, even after months under operation.</li>
+<li>A wide range of filtration degrees for various applications</li>
+<li>Large filter area with low friction loss allows long intervals between cleaning</li>
+<li>Greater filtration capacity for effective protection of the irrigation system</li>
+<li>Can operate under pressure of up to 150 PSI</li>
+<li>All-purpose filter with a wide range of stainless-steel screens from 80 to 180 microns to suit a wide range of filtration requirements</li>
+<li>Designed to reduce operating costs and deliver high quality filtrate in a minimum space</li>
+<li>Made of superior strength material for excellent mechanical strength, and corrosion resistance for most common chemicals</li>
+<li>Easy maintenance - the screen can be extracted from the filter for cleaning</li>
+<li>Interchangeable screen elements</li>
+<li>Access point on the inlet and outlet side for pressure measurement test</li>
+<li>Constructed of UV-resistant, durable plastic material to withstand the most adverse conditions</li>
+</ul>
+<h3>Applications</h3>
+<p>Primary, secondary or backup filtration for the protection of irrigation systems against clogging in agriculture, municipalities, greenhouses, nurseries, landscapes and turf.</p>
+<h3>Specifications</h3>
+<ul>
+<li>Flow rates: up to 110 GPM (25 m3/h)</li>
+<li>Screen filtration area: 147 in2 (950 m2)</li>
+<li>Operating pressure: up to 150 PSI (10 BAR)</li>
+<li>Temperature range: up to 140°F (60°C)</li>
+<li>Stainless steel screens from 120 to 200 mesh</li>
+<li>Horizontal, vertical inlet and vertical outlet</li>
+<li>Available with a manual drain valve located at the bottom of the filter and with two pressure testing ports</li>
+<li>Inlet and outlet size: 2" MNPT (50 mm) with 3/4" NPT cap</li>
+<li>Filter weight: 10 lb (4.6 kg)
+<ul>
+<li>Filter dimensions:</li>
+<li>Thread to thread: 11" (28 cm)</li>
+<li>Height of thread to bottom: 17.5" (45 cm)</li>
+<li>T-filter: Height of thread to bottom: 22.8" (58 cm)</li>
+</ul>
+</li>
+<li>Filter Materials:
+<ul>
+<li>Housing and cover: PP and GF</li>
+<li>Locking ring: PA and GF</li>
+<li>O-ring: EPDM</li>
+<li>Screen spine: PP and stainless steel</li>
+<li>Pressure testing port: polypropylene</li>
+<li>Pressure testing seals: natural rubber</li>
+</ul>
+</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/manual_file/file/159/Heavy-Duty-Filter.pdf">Owner's Manual</a></p>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/44/Heavy-Duty-Filter-2.pdf">Specifications</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4714488004710</id>
+      <title>Default Title</title>
+      <s:price currency="USD">217.11</s:price>
+      <s:sku>PN2TMPT-200</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4714485416038</id>
+    <published>2020-04-07T13:16:19-04:00</published>
+    <updated>2020-04-07T13:16:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-heavy-duty-2-mpt-screen-filter-pn2mpt-155"/>
+    <title>DIG - Heavy Duty 2&quot; MPT In-Line Screen Filter - PN2MPT-155</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/s-l1600-9_480x704_13664226-76ad-40c1-9d0e-aea2b865e788.jpg?v=1592938474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            216.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's Heavy Duty 2"³ MPT screen filters with reinforced bodies incorporate an easy-to-remove filter cover and feature robust housing design, including a large filtration area to ensure high performance and long life. The 2" filters accept a wide range of interchangeable, color-coded screens and disc elements to suit any specific application for wells and municipal water supplies. The large filtration area offers nominal head loss and high flow rates. The filters are available in 2" inline or "œT" angle versions for use in agriculture, turf, greenhouse and nursery applications.</p>
+<h3>Features</h3>
+<ul>
+<li>Special locking grip rings design enables easy opening of the filters without the use of tools, even after months under operation.</li>
+<li>A wide range of filtration degrees for various applications</li>
+<li>Large filter area with low friction loss allows long intervals between cleaning</li>
+<li>Greater filtration capacity for effective protection of the irrigation system</li>
+<li>Can operate under pressure of up to 150 PSI</li>
+<li>All-purpose filter with a wide range of stainless-steel screens from 80 to 180 microns to suit a wide range of filtration requirements</li>
+<li>Designed to reduce operating costs and deliver high quality filtrate in a minimum space</li>
+<li>Made of superior strength material for excellent mechanical strength, and corrosion resistance for most common chemicals</li>
+<li>Easy maintenance - the screen can be extracted from the filter for cleaning</li>
+<li>Interchangeable screen elements</li>
+<li>Access point on the inlet and outlet side for pressure measurement test</li>
+<li>Constructed of UV-resistant, durable plastic material to withstand the most adverse conditions</li>
+</ul>
+<h3>Applications</h3>
+<p>Primary, secondary or backup filtration for the protection of irrigation systems against clogging in agriculture, municipalities, greenhouses, nurseries, landscapes and turf.</p>
+<h3>Specifications</h3>
+<ul>
+<li>Flow rates: up to 110 GPM (25 m3/h)</li>
+<li>Screen filtration area: 147 in2 (950 m2)</li>
+<li>Operating pressure: up to 150 PSI (10 BAR)</li>
+<li>Temperature range: up to 140°F (60°C)</li>
+<li>Stainless steel screens from 120 to 200 mesh</li>
+<li>Horizontal, vertical inlet and vertical outlet</li>
+<li>Available with a manual drain valve located at the bottom of the filter and with two pressure testing ports</li>
+<li>Inlet and outlet size: 2" MNPT (50 mm) with 3/4" NPT cap</li>
+<li>Filter weight: 10 lb (4.6 kg)
+<ul>
+<li>Filter dimensions:</li>
+<li>Thread to thread: 11" (28 cm)</li>
+<li>Height of thread to bottom: 17.5" (45 cm)</li>
+<li>T-filter: Height of thread to bottom: 22.8" (58 cm)</li>
+</ul>
+</li>
+<li>Filter Materials:
+<ul>
+<li>Housing and cover: PP and GF</li>
+<li>Locking ring: PA and GF</li>
+<li>O-ring: EPDM</li>
+<li>Screen spine: PP and stainless steel</li>
+<li>Pressure testing port: polypropylene</li>
+<li>Pressure testing seals: natural rubber</li>
+</ul>
+</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/manual_file/file/159/Heavy-Duty-Filter.pdf">Owner's Manual</a></p>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/44/Heavy-Duty-Filter-2.pdf">Specifications</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4714485416038</id>
+      <title>Default Title</title>
+      <s:price currency="USD">216.43</s:price>
+      <s:sku>PN2MPT-155</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4714433806438</id>
+    <published>2020-04-07T13:16:18-04:00</published>
+    <updated>2020-04-07T13:16:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-heavy-duty-2-mpt-screen-filter"/>
+    <title>DIG - Heavy Duty 2&quot; MPT In-Line Screen Filter - PN2MPT-200</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/s-l1600-9_480x704_4df7b518-23e7-40db-97e0-2f6a7eb81b96.jpg?v=1592938487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            216.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DIG's Heavy Duty 2"³ MPT screen filters with reinforced bodies incorporate an easy-to-remove filter cover and feature robust housing design, including a large filtration area to ensure high performance and long life. The 2" filters accept a wide range of interchangeable, color-coded screens and disc elements to suit any specific application for wells and municipal water supplies. The large filtration area offers nominal head loss and high flow rates. The filters are available in 2" inline or "œT" angle versions for use in agriculture, turf, greenhouse and nursery applications.</p>
+<h3>Features</h3>
+<ul>
+<li>Special locking grip rings design enables easy opening of the filters without the use of tools, even after months under operation.</li>
+<li>A wide range of filtration degrees for various applications</li>
+<li>Large filter area with low friction loss allows long intervals between cleaning</li>
+<li>Greater filtration capacity for effective protection of the irrigation system</li>
+<li>Can operate under pressure of up to 150 PSI</li>
+<li>All-purpose filter with a wide range of stainless-steel screens from 80 to 180 microns to suit a wide range of filtration requirements</li>
+<li>Designed to reduce operating costs and deliver high quality filtrate in a minimum space</li>
+<li>Made of superior strength material for excellent mechanical strength, and corrosion resistance for most common chemicals</li>
+<li>Easy maintenance - the screen can be extracted from the filter for cleaning</li>
+<li>Interchangeable screen elements</li>
+<li>Access point on the inlet and outlet side for pressure measurement test</li>
+<li>Constructed of UV-resistant, durable plastic material to withstand the most adverse conditions</li>
+</ul>
+<h3>Applications</h3>
+<p>Primary, secondary or backup filtration for the protection of irrigation systems against clogging in agriculture, municipalities, greenhouses, nurseries, landscapes and turf.</p>
+<h3>Specifications</h3>
+<ul>
+<li>Flow rates: up to 110 GPM (25 m3/h)</li>
+<li>Screen filtration area: 147 in2 (950 m2)</li>
+<li>Operating pressure: up to 150 PSI (10 BAR)</li>
+<li>Temperature range: up to 140°F (60°C)</li>
+<li>Stainless steel screens from 120 to 200 mesh</li>
+<li>Horizontal, vertical inlet and vertical outlet</li>
+<li>Available with a manual drain valve located at the bottom of the filter and with two pressure testing ports</li>
+<li>Inlet and outlet size: 2" MNPT (50 mm) with 3/4" NPT cap</li>
+<li>Filter weight: 10 lb (4.6 kg)
+<ul>
+<li>Filter dimensions:</li>
+<li>Thread to thread: 11" (28 cm)</li>
+<li>Height of thread to bottom: 17.5" (45 cm)</li>
+<li>T-filter: Height of thread to bottom: 22.8" (58 cm)</li>
+</ul>
+</li>
+<li>Filter Materials:
+<ul>
+<li>Housing and cover: PP and GF</li>
+<li>Locking ring: PA and GF</li>
+<li>O-ring: EPDM</li>
+<li>Screen spine: PP and stainless steel</li>
+<li>Pressure testing port: polypropylene</li>
+<li>Pressure testing seals: natural rubber</li>
+</ul>
+</li>
+</ul>
+<p><a href="https://www.digcorp.com/uploads/manual_file/file/159/Heavy-Duty-Filter.pdf">Owner's Manual</a></p>
+<p><a href="https://www.digcorp.com/uploads/download/file_us/44/Heavy-Duty-Filter-2.pdf">Specifications</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4714433806438</id>
+      <title>Default Title</title>
+      <s:price currency="USD">216.43</s:price>
+      <s:sku>PN2MPT-200</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705347338342</id>
+    <published>2020-04-03T16:43:36-04:00</published>
+    <updated>2020-04-03T16:43:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-40-mesh-polyester-screen-filter-2-p80-040d"/>
+    <title>DIG - 2&apos;&apos; MPT Plastic Filter w/ Disc Elements (40 Mesh) - P80-040D</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/p80-040d.jpg?v=1592938981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            97.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The P80 filters are compact and cost effective disc filters with outstanding performance in a wide variety of situations and irrigation conditions.</p>
+<p><br><strong>Features &amp; Benefits</strong><br><br>Sediments accumulate on the outer face of the stacked discs, allowing clean water through the stacked discs out of the middle of the filter<br>Disc elements provide in-depth filtration to retain organic matter<br>Hydraulic pressure during the filter process causes fastening of the disc and allows for efficient filtering<br>Discs have excellent resistance to most common chemicals<br>Easy maintenance; the discs can be extracted for easy cleaning<br>Interchangeable disc elements provides a wide range of filtration degrees</p>
+<p><strong>Disc Materials</strong></p>
+<p><br>Grooved Discs: Polypropylene<br>Disc Cylinder Assembly: PBT<br>Tightening Spring: Stainless Steel 304<br>Filter Materials<br>Housing: Polypropylene<br>O-ring: EPDM<br>Pressure Testing Ports: Polypropylene<br>Pressure Testing Seats: Natural Rubber BR</p>
+<p><br><strong>Specifications</strong><br><br>Operating Pressure: Up to 120 PSI (8.4 BAR)<br>Temperature Range: Up to 130F (54.4C)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705347338342</id>
+      <title>Default Title</title>
+      <s:price currency="USD">97.65</s:price>
+      <s:sku>P80-040D</s:sku>
+      <s:grams>1520</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705346322534</id>
+    <published>2020-04-03T16:43:34-04:00</published>
+    <updated>2020-04-03T16:43:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-40-mesh-polyester-replacement-filter-2-17-044d"/>
+    <title>DIG - 40 Mesh Polyester Disc Filter for 2&quot; Long Filters - 17-044D</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/17-044d.jpg?v=1592938989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            77.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to be used with the 2" P80-040D filters. The P80 filters are compact and cost effective disc filters with outstanding performance in a wide variety of situations and irrigation conditions.</p>
+<p><br><strong>Features &amp; Benefits</strong><br><br>Sediments accumulate on the outer face of the stacked discs, allowing clean water through the stacked discs out of the middle of the filter<br>Disc elements provide in-depth filtration to retain organic matter<br>Hydraulic pressure during the filter process causes fastening of the disc and allows for efficient filtering<br>Discs have excellent resistance to most common chemicals<br>Easy maintenance; the discs can be extracted for easy cleaning<br>Interchangeable disc elements provides a wide range of filtration degrees</p>
+<p><strong>Material</strong><br>Grooved Discs: Polypropylene<br>Disc Cylinder Assembly: PBT<br>Tightening Spring: Stainless Steel 304</p>
+<p><br><strong>Specifications</strong><br><br>Operating Pressure: Up to 120 PSI (8.4 BAR)<br>Temperature Range: Up to 130F (54.4C)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705346322534</id>
+      <title>Default Title</title>
+      <s:price currency="USD">77.29</s:price>
+      <s:sku>17-044D</s:sku>
+      <s:grams>522</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705345568870</id>
+    <published>2020-04-03T16:43:33-04:00</published>
+    <updated>2020-04-03T16:43:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-80-mesh-polyester-replacement-filter-1-1-2-17-041d"/>
+    <title>DIG - 80 Mesh Polyester Disc Filter for 1-1/2&quot; Long Filters - 17-041D</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/17-041d.jpg?v=1592939036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            59.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to be used with the 1 1/2" P75-080DL filters. The P75 filters provide a reliable, low maintenance solution for the growing demands of any low-volume irrigation application.</p>
+<p><br>DIG - P75 and P80 FILTERS:<br><br>DIG P75-080DL 1 1/2" MNPT FILTER WITH 80 MESH DISC (YELLOW)<br>DIG P75-150DL 1 1/2" MNPT FILTER WITH 150 MESH DISC (BLACK)<br>DIG P80-080D 2" MNPT FILTER WITH 80 MESH DISC (YELLOW)<br>DIG P80-150D 2" MNPT FILTER WITH 150 MESH DISC (BLACK)</p>
+<p><br>DIG - Replacement Mesh Discs:<br><br>DIG 17-041D 80 MESH DISC REPLACEMENT FOR 1 1/2" FILTERS<br>DIG 17-043D 150 MESH DISC REPLACEMENT FOR 1 1/2" FILTERS<br> <br><br>Sediments accumulate on the outer face of the stacked discs, allowing clean water to flow through the stacked discs out of the middle of the filter<br>Disc elements provide in-depth filtration to retain organic matter<br>Hydraulic pressure during the filter process causes fastening of the disc and allows for efficient filtering<br>Discs have excellent resistance to most common chemicals<br>Easy maintenance; the discs can be extracted for easy cleaning<br>Interchangeable disc and stainless steel screen elements provides a wide range of filtration degrees<br>Operating Pressure: up to 120 PSI<br>Temperature Range: up to 130 degrees fahrenheit<br>MNPT inlet and outlet</p>
+<p><br>Filter Materials:<br><br>Housing: Polypropylene<br>O Ring: EPDM<br>Pressure Testing Ports: Polypropylene<br>Pressure Testing Seals: Natural Rubber BR</p>
+<p><br>Disc Materials<br><br>Grooved Discs: Polypropylene<br>Disc Cylinder Assembly: PBT<br>Tightening Spring: Stainless Steel 304</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705345568870</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.63</s:price>
+      <s:sku>17-041D</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705329479782</id>
+    <published>2020-04-03T16:43:32-04:00</published>
+    <updated>2020-04-03T16:43:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-80-mesh-polyester-screen-filter-2-p80-080d"/>
+    <title>DIG - 2&apos;&apos; MPT Plastic Filter w/ Disc Elements (80 Mesh) - P80-080D</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/p80-080d.jpg?v=1592940774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            99.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The P80 filters are compact and cost effective disc filters with outstanding performance in a wide variety of situations and irrigation conditions.</p>
+<p><br>DIG - P75 and P80 FILTERS:<br><br>DIG P75-080DL 1 1/2" MNPT FILTER WITH 80 MESH DISC (YELLOW)<br>DIG P75-150DL 1 1/2" MNPT FILTER WITH 150 MESH DISC (BLACK)<br>DIG P80-080D 2" MNPT FILTER WITH 80 MESH DISC (YELLOW)<br>DIG P80-150D 2" MNPT FILTER WITH 150 MESH DISC (BLACK)</p>
+<p><br>DIG - Replacement Mesh Discs:<br><br>DIG 17-041D 80 MESH DISC REPLACEMENT FOR 1 1/2" FILTERS<br>DIG 17-043D 150 MESH DISC REPLACEMENT FOR 1 1/2" FILTERS<br> <br><br>Sediments accumulate on the outer face of the stacked discs, allowing clean water to flow through the stacked discs out of the middle of the filter<br>Disc elements provide in-depth filtration to retain organic matter<br>Hydraulic pressure during the filter process causes fastening of the disc and allows for efficient filtering<br>Discs have excellent resistance to most common chemicals<br>Easy maintenance; the discs can be extracted for easy cleaning<br>Interchangeable disc and stainless steel screen elements provides a wide range of filtration degrees<br>Operating Pressure: up to 120 PSI<br>Temperature Range: up to 130 degrees farenheit<br>MNPT inlet and outlet</p>
+<p><br>Filter Materials:<br><br>Housing: Polypropylene<br>O Ring: EPDM<br>Pressure Testing Ports: Polypropylene<br>Pressure Testing Seals: Natural Rubber BR</p>
+<p><br>Disc Materials<br><br>Grooved Discs: Polypropylene<br>Disc Cylinder Assembly: PBT<br>Tightening Spring: Stainless Steel 304</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705329479782</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.78</s:price>
+      <s:sku>P80-080D</s:sku>
+      <s:grams>1542</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705320861798</id>
+    <published>2020-04-03T16:43:31-04:00</published>
+    <updated>2020-04-03T16:43:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-40-mesh-polyester-replacement-filter-3-4-1-17-401"/>
+    <title>DIG - 40 Mesh Polyester Screen Filter for 3/4&quot; or 1&quot; XL Filters - 17-401</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/17-401.jpg?v=1592940822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Used for residential and commercial applications. For use with 3/4 inch and 1 inch XL filters.<br><br><strong>Screen Element Features</strong><br><br>The screen can retain large amounts of sediment that accumulate on the inside surface of the screen<br>The screen can be easily removed for easy maintenance<br>40 mesh<br>Polyester</p>
+<p><br><strong>Chemical Resistance</strong><br><br>Good resistance to acids depending on concentration and temperature<br>Excellent resistance to most mineral acids<br>Limited resistance to alkali depending on concentration and temperature<br>Excellent resistance to low concentration of lye</p>
+<p><br><strong>Screen Materials</strong><br><br>Cylinder: Polyester<br>Screen: Polyester<br>O-ring: EPDM</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705320861798</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>17-401</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705317552230</id>
+    <published>2020-04-03T16:43:29-04:00</published>
+    <updated>2020-04-03T16:43:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-80-mesh-flush-cap-stainless-steel-screen-filter-1-1-2-p75-080l"/>
+    <title>DIG - 1 1/2&apos;&apos; MPT (long) Plastic Filter w/ Stainless Steel Screen (80 Mesh) - P75-080L</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/p75-080l.jpg?v=1592939025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            67.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Used for residential, commercial and nursery applications. Simple and easy to operate, the filters provide a quick solution for a wide range of irrigation applications.<br><br><strong>Features and Benefits</strong><br>Low friction loss<br>Screens have excellent resistance to most common chemicals<br>Color coded replacement screens<br>Includes flush cap<br>Easy maintenance: screen can be extracted from filter for easy cleaning<br>Non-corrosive materials<br>1-1/2" long and 2" filter screens are interchangeable with a disc cartridge</p>
+<p><br><strong>Specifications</strong><br>Operating Pressure: Up to 120 PSI (8.4 BAR)<br>Temperature Range: Up to 130?F (54?C)<br>1-1/2" MNPT x 1-1/2" MNPT<br>80 mesh stainless steel screen</p>
+<p><br><strong>Materials</strong><br>Housing: Polypropylene<br>O-ring: EPDM<br>Pressure Testing Port: Polypropylene<br>Pressure Testing Seals: Natural Rubber BR</p>
+<p><br><strong>Chemical Resistance</strong><br>Acids:<br>Very good resistance depending on concentration and temperature.<br>Excellent resistance to most mineral acids<br>Alkali: Limited resistance depending on concentration and temperature<br>Excellent resistance to low concentrated lyes. Not recommended for use in highly concentrated lyes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705317552230</id>
+      <title>Default Title</title>
+      <s:price currency="USD">67.60</s:price>
+      <s:sku>P75-080L</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705310572646</id>
+    <published>2020-04-03T16:43:28-04:00</published>
+    <updated>2020-04-03T16:43:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-80-mesh-stainless-steel-replacement-filter-1-1-2-17-080l"/>
+    <title>DIG - 80 Mesh Stainless Steel Screen Filter for 1-1/2&quot; Long Filters - 17-080L</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/17-080l.jpg?v=1592940380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            47.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Use for residential and commercial applications. For use with All-purpose plastic filters with screen elements.<br><br><strong>Screen Features</strong><br><br>The screen can retain large amounts of sediment that accumulate on the inside surface of the screen<br>The screen can be easily removed for easy maintenance<br>80 mesh<br>Stainless steel</p>
+<p><br><strong>Chemical Resistance</strong><br><br>Good resistance to acids depending on concentration and temperature<br>Excellent resistance to most mineral acids<br>Limited resistance to alkali depending on concentration and temperature<br>Excellent resistance to low concentration of lye</p>
+<p><br><strong>Screen Materials</strong><br><br>Cylinder: Polyester<br>Screen: Stainless Steel<br>O-ring: EPDM</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705310572646</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.02</s:price>
+      <s:sku>17-080L</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705305296998</id>
+    <published>2020-04-03T16:43:27-04:00</published>
+    <updated>2020-04-03T16:43:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-80-mesh-stainless-steel-replacement-filter-3-4-1-17-412"/>
+    <title>DIG - 80 Mesh Stainless Steel Screen Filter for 3/4&quot; or 1&quot; XL Filters - 17-412</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/17-412.jpg?v=1592939380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            9.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Use for residential and commercial applications. For use with All-purpose plastic filters with screen elements.<br><br>Model<br><br>17-412<br>80 mesh stainless steel screen<br><br>17-413<br>120 mesh stainless steel screen<br><br>17-414<br>155 mesh stainless steel screen<br><br>17-415<br>200 mesh stainless steel screen<br><br>
+<ul>
+<li>Chemical Resistance to Acids</li>
+<li>Excellent resistance depedning on concentration and temperature.</li>
+<li>Excellent reistance to most mineral acids</li>
+<li>Alkali: Limited resistance depending on concentration and temperature</li>
+<li>Excellent resistance to low concentrated lyes. Not recommended for use in highly concentrated lyes.</li>
+<li>Cylinder: Polyester</li>
+<li>Screen: Stainless Steel 304</li>
+<li>"O" Ring: EPDM</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705305296998</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.97</s:price>
+      <s:sku>17-412</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705281867878</id>
+    <published>2020-04-03T16:43:26-04:00</published>
+    <updated>2020-04-03T16:43:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-80-mesh-polyester-replacement-filter-3-4-1-17-402"/>
+    <title>DIG - 80 Mesh Polyester Screen Filter for 3/4&quot; or 1&quot; XL Filters - 17-402</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/17-402.jpg?v=1592939035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            4.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Used for residential and commercial applications. For use with 3/4 inch and 1 inch XL filters.<br><br><strong>Screen Element Features</strong><br><br>The screen can retain large amounts of sediment that accumulate on the inside surface of the screen<br>The screen can be easily removed for easy maintenance<br>80 mesh<br>Polyester</p>
+<p><br><strong>Chemical Resistance</strong><br><br>Good resistance to acids depending on concentration and temperature<br>Excellent resistance to most mineral acids<br>Limited resistance to alkali depending on concentration and temperature<br>Excellent resistance to low concentration of lye</p>
+<p><br><strong>Screen Materials</strong><br><br>Cylinder: Polyester<br>Screen: Polyester<br>O-ring: EPDM</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705281867878</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.25</s:price>
+      <s:sku>17-402</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705271709798</id>
+    <published>2020-04-03T16:43:25-04:00</published>
+    <updated>2020-04-03T16:43:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-80-mesh-flush-valve-stainless-steel-screen-filter-1-p19-080"/>
+    <title>DIG - 1&apos;&apos; MPT Plastic Filter w/ Stainless Steel Screen (80 Mesh) - P19-080</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/p19-080.jpg?v=1592940410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            14.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Used for residential and commercial applications. Simple and easy to operate, the filters provide reliable, low-maintenance filtration for trouble-free operation.<br><br><strong>Features and Benefits</strong><br>Low friction loss<br>Screens have excellent resistance to most common chemicals<br>Color coded replacement screens<br>Includes flush valve<br>Easy maintenance: screen can be extracted from filter for easy cleaning<br>Non-corrosive materials<br>Interchangeable screen and disc elements with a wide range of filtration degrees</p>
+<p><br><strong>Specifications</strong><br>Operating Pressure: Up to 120 PSI (8.4 BAR)<br>Temperature Range: Up to 130?F (54?C)<br>1" MNPT x 1" MNPT<br>80 mesh stainless steel screen</p>
+<p><br><strong>Materials</strong><br>Housing: Polypropylene<br>O-ring: EPDM</p>
+<p><br><strong>Chemical Resistance</strong><br>Acids:<br>Very good resistance depending on concentration and temperature.<br>Excellent resistance to most mineral acids<br>Alkali: Limited resistance depending on concentration and temperature<br>Excellent resistance to low concentrated lyes. Not recommended for use in highly concentrated lyes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705271709798</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.12</s:price>
+      <s:sku>P19-080</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705268334694</id>
+    <published>2020-04-03T16:43:24-04:00</published>
+    <updated>2020-04-03T16:43:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-80-mesh-flush-valve-stainless-steel-screen-filter-3-4-p13-080"/>
+    <title>DIG - 3/4&quot; MPT Plastic Filter w/ Stainless Steel Screen (80 Mesh) - P13-080</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/p13-080.jpg?v=1592941170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            11.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Used for residential and commercial applications. Simple and easy to operate, the filters provide reliable, low-maintenance filtration for trouble-free operation.<br><br><strong>Features and Benefits</strong><br>Low friction loss<br>Screens have excellent resistance to most common chemicals<br>Color coded replacement screens<br>Includes flush valve<br>Easy maintenance: screen can be extracted from filter for easy cleaning<br>Non-corrosive materials<br>Interchangeable screen and disc elements with a wide range of filtration degrees</p>
+<p><br><strong>Specifications</strong><br>Operating Pressure: Up to 120 PSI (8.4 BAR)<br>Temperature Range: Up to 130?F (54?C)<br>3/4" MNPT x 3/4" MNPT<br>80 mesh stainless steel screen</p>
+<p><br><strong>Materials</strong><br>Housing: Polypropylene<br>O-ring: EPDM</p>
+<p><br><strong>Chemical Resistance</strong><br>Acids:<br>Very good resistance depending on concentration and temperature.<br>Excellent resistance to most mineral acids<br>Alkali: Limited resistance depending on concentration and temperature<br>Excellent resistance to low concentrated lyes. Not recommended for use in highly concentrated lyes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705268334694</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.79</s:price>
+      <s:sku>P13-080</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705334427750</id>
+    <published>2020-04-03T16:42:39-04:00</published>
+    <updated>2020-04-03T16:42:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-120-mesh-polyester-replacement-filter-3-4-1-17-433"/>
+    <title>DIG - 120 Mesh Polyester Disc Filter for 3/4&quot; or 1&quot; Filters - 17-433</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/17-433.jpg?v=1592940434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            9.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to be used with the 3/4" and the 1" MNPT XL Filters Models P30 and P31. Series P30/P31 filters provide a reliable, low maintenance solution for the growing demands of any low-volume irrigation application.</p>
+<p><br>DIG -Mesh Disc Replacements for Filter Models P30 and P31<br><br>Replacement Disc - 80 Mesh (YELLOW)<br>Replacement Disc - 120 Mesh (RED)<br>Replacement Disc - 150 Mesh (BLACK)</p>
+<p><br>DIG 3/4" MNPT XL FILTERS:<br><br>DIG 3/4" MNPT XL FILTER with 80 Mesh Disc (YELLOW)<br>DIG 3/4" MNPT XL FILTERwith 120 Mesh Disc (RED)<br>DIG 3/4" MNPT XL FILTERwith 150 Mesh Disc (BLACK)</p>
+<p><br>DIG - P31 - 1" MNPT XL FILTERS:<br><br>DIG 1" MNPT XL FILTER with 80 Mesh Disc (YELLOW)<br>DIG 1" MNPT XL FILTER with 120 Mesh Disc (RED)<br>DIG 1" MNPT XL FILTER with 150 Mesh Disc (BLACK)<br><br><br>DIG - P17-433 120 Mesh Replacement Disk (red)<br><br></p>
+<ul>
+<li>Sediments accumulate on the outer face of the stacked discs, allowing clean water to flow through the stacked discs out of the middle of the filter</li>
+<li>Disc elements provide in-depth filtration to retain organic matter</li>
+<li>Discs have excellent resistance to most common chemicals</li>
+<li>Easy maintenance; the discs can be extracted for easy cleaning</li>
+<li>Interchangeable disc and stainless steel screen elements provides a wide range of filtration degrees</li>
+<li>Filter inlet position changes with disc or screen</li>
+<li>Operating Pressure: up to 120 PSI</li>
+<li>Temperature Range: up to 130 degrees farenheit</li>
+<li>3/4" and 1" MNPT inlet and outlet</li>
+</ul>
+<p><br>Filter Materials:<br><br>Housing: Polypropylene<br>O Ring: EPDM</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705334427750</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.48</s:price>
+      <s:sku>17-433</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705331871846</id>
+    <published>2020-04-03T16:42:38-04:00</published>
+    <updated>2020-04-03T16:42:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-200-mesh-stainless-steel-replacement-filter-2-17-205"/>
+    <title>DIG - 200 Mesh Stainless Steel Screen Filter for 2&quot; Filters - 17-205</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/17-205.jpg?v=1592939038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            52.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Use for residential and commercial applications. For use with All-purpose plastic filters with screen elements.<br><br><strong>Screen Features</strong></p>
+<p>The screen can retain large amounts of sediment that accumulate on the inside surface of the screen<br>The screen can be easily removed for easy maintenance<br>200 mesh<br>Stainless steel</p>
+<p><strong>Chemical Resistance</strong><br><br>Good resistance to acids depending on concentration and temperature<br>Excellent resistance to most mineral acids<br>Limited resistance to alkali depending on concentration and temperature<br>Excellent resistance to low concentration of lye</p>
+<p><strong>Screen Materials</strong><br><br>Cylinder: Polyester<br>Screen: Stainless Steel<br>O-ring: EPDM</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705331871846</id>
+      <title>Default Title</title>
+      <s:price currency="USD">52.25</s:price>
+      <s:sku>17-205</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705331249254</id>
+    <published>2020-04-03T16:42:36-04:00</published>
+    <updated>2020-04-03T16:42:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-150-mesh-polyester-replacement-filter-1-1-2-17-043d"/>
+    <title>DIG - 150 Mesh Polyester Disc Filter for 1-1/2&quot; Long Filters - 17-043D</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/17-043d.jpg?v=1592941032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            58.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed to be used with the 1 1/2" P75-150DL filters. The P75 filters provide a reliable, low maintenance solution for the growing demands of any low-volume irrigation application.</p>
+<p><br>DIG - P75 and P80 FILTERS:<br><br>DIG P75-080DL 1 1/2" MNPT FILTER WITH 80 MESH DISC (YELLOW)<br>DIG P75-150DL 1 1/2" MNPT FILTER WITH 150 MESH DISC (BLACK)<br>DIG P80-080D 2" MNPT FILTER WITH 80 MESH DISC (YELLOW)<br>DIG P80-150D 2" MNPT FILTER WITH 150 MESH DISC (BLACK)</p>
+<p><br>DIG - Replacement Mesh Discs:<br><br>DIG 17-041D 80 MESH DISC REPLACEMENT FOR 1 1/2" FILTERS<br>DIG 17-043D 150 MESH DISC REPLACEMENT FOR 1 1/2" FILTERS<br><br><br></p>
+<ul>
+<li>Sediments accumulate on the outer face of the stacked discs, allowing clean water to flow through the stacked discs out of the middle of the filter</li>
+<li>Disc elements provide in-depth filtration to retain organic matter</li>
+<li>Hydraulic pressure during the filter process causes fastening of the disc and allows for efficient filtering</li>
+<li>Discs have excellent resistance to most common chemicals</li>
+<li>Easy maintenance; the discs can be extracted for easy cleaning</li>
+<li>Interchangeable disc and stainless steel screen elements provides a wide range of filtration degrees</li>
+<li>Operating Pressure: up to 120 PSI</li>
+<li>Temperature Range: up to 130 degrees farenheit</li>
+<li>MNPT inlet and outlet</li>
+</ul>
+<p><br>Filter Materials:<br><br>Housing: Polypropylene<br>O Ring: EPDM<br>Pressure Testing Ports: Polypropylene<br>Pressure Testing Seals: Natural Rubber BR<br>Disc Materials<br><br>Grooved Discs: Polypropylene<br>Disc Cylinder Assembly: PBT<br>Tightening Spring: Stainless Steel 304</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705331249254</id>
+      <title>Default Title</title>
+      <s:price currency="USD">58.29</s:price>
+      <s:sku>17-043D</s:sku>
+      <s:grams>431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705330364518</id>
+    <published>2020-04-03T16:42:35-04:00</published>
+    <updated>2020-04-03T16:42:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-155-mesh-stainless-steel-replacement-filter-2-17-160"/>
+    <title>DIG - 155 Mesh Stainless Steel Screen Filter for 2&quot; Filters - 17-160</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/17-160.jpg?v=1592938932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            52.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Use for residential and commercial applications. For use with All-purpose plastic filters with screen elements.<br><br><strong>Screen Features</strong><br><br>The screen can retain large amounts of sediment that accumulate on the inside surface of the screen<br>The screen can be easily removed for easy maintenance<br>155 mesh<br>Stainless Steel</p>
+<p><br><strong>Chemical Resistance</strong><br><br>Good resistance to acids depending on concentration and temperature<br>Excellent resistance to most mineral acids<br>Limited resistance to alkali depending on concentration and temperature<br>Excellent resistance to low concentration of lye</p>
+<p><br><strong>Screen Materials</strong><br><br>Cylinder: Polyester<br>Screen: Stainless Steel<br>O-ring: EPDM</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705330364518</id>
+      <title>Default Title</title>
+      <s:price currency="USD">52.18</s:price>
+      <s:sku>17-160</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://cheapsprinklers.com/products/4705318273126</id>
+    <published>2020-04-03T16:42:34-04:00</published>
+    <updated>2020-04-03T16:42:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://cheapsprinklers.com/products/dig-155-mesh-flush-cap-stainless-steel-screen-filter-2-p80-155"/>
+    <title>DIG - 2&apos;&apos; MPT Plastic Filter w/ Disc Elements (155 Mesh) - P80-155</title>
+    <s:type>Drip Filters</s:type>
+    <s:vendor>DIG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/3543/6900/products/p80-155.jpg?v=1592938658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIG<br>
+        <strong>Type: </strong>Drip Filters<br>
+        <strong>Price: </strong>
+            88.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Used for residential, commercial and nursery applications. Simple and easy to operate, the filters provide a quick solution for a wide range of irrigation applications.</p>
+<p><br><strong>Features and Benefits</strong><br>Low friction loss<br>Screens have excellent resistance to most common chemicals<br>Color coded replacement screens<br>Includes flush cap<br>Easy maintenance: screen can be extracted from filter for easy cleaning<br>Non-corrosive materials<br>1-1/2" long and 2" filter screens are interchangeable with a disc cartridge</p>
+<p><br><strong>Specifications</strong><br>Operating Pressure: Up to 120 PSI (8.4 BAR)<br>Temperature Range: Up to 130?F (54?C)<br>2" MNPT x 2" MNPT<br>155 mesh stainless steel screen</p>
+<p><br><strong>Materials</strong><br>Housing: Polypropylene<br>O-ring: EPDM<br>Pressure Testing Port: Polypropylene<br>Pressure Testing Seals: Natural Rubber BR</p>
+<p><br><strong>Chemical Resistance</strong><br><span style="text-decoration: underline;">Acids:</span><br>Very good resistance depending on concentration and temperature.<br>Excellent resistance to most mineral acids<br><span style="text-decoration: underline;">Alkali:</span> Limited resistance depending on concentration and temperature<br>Excellent resistance to low concentrated lyes. Not recommended for use in highly concentrated lyes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BRANDS_DIG</s:tag>
+    <s:tag>CATEGORY_Drip Filters</s:tag>
+    <s:tag>DEPARTMENTDrip Irrigation</s:tag>
+    <s:variant>
+      <id>https://cheapsprinklers.com/products/4705318273126</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.19</s:price>
+      <s:sku>P80-155</s:sku>
+      <s:grams>1157</s:grams>
+    </s:variant>
+  </entry>
+</feed>
